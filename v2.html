@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Word Practice</title>
+    <style>
+        /* Add your CSS here */
+    </style>
+</head>
+<body>
+    <select id="mode">
+        <option value="en2cn">英译汉</option>
+        <option value="cn2en">汉译英</option>
+    </select>
+    <select id="content">
+        <option value="all">全部</option>
+        <option value="commonlyWrong">常错</option>
+    </select>
+    <div id="wordDisplay"></div>
+    <button id="prev" disabled>上一个</button>
+    <button id="next" disabled>下一个</button>
+    <button id="right">答对了</button>
+    <button id="wrong">答错了</button>
+    <script>
+        // Your JSON data
+        const data = [
+            {
+                "english": "travel",
+                "chinese": "旅行",
+                "tag": "Apr. 26th. 2024 22/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈtrævəl/"
+            },
+            {
+                "english": "traffic jam",
+                "chinese": "交通堵塞",
+                "tag": "Apr. 26th. 2024 22/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": ""
+            },
+            {
+                "english": "tractor",
+                "chinese": "拖拉机",
+                "tag": "Apr. 26th. 2024 22/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈtræktər/"
+            }
+        ];
+
+        let currentIndex = 0;
+        let words = [];
+
+        function filterWords() {
+            const mode = document.getElementById('mode').value;
+            const content = document.getElementById('content').value;
+
+            words = data.filter(word => {
+                if (content === 'commonlyWrong' && word.right >= word.wrong) {
+                    return false;
+                }
+                return true;
+            });
+
+            if (mode === 'en2cn') {
+                words = words.map(word => ({...word, display: `${word.english} ${word.phonetic} ${word.tag}`}));
+            } else {
+                words = words.map(word => ({...word, display: `${word.chinese} ${word.tag}`}));
+            }
+
+            currentIndex = 0;
+            displayWord();
+        }
+
+        function displayWord() {
+            document.getElementById('wordDisplay').innerText = words[currentIndex].display;
+            document.getElementById('prev').disabled = currentIndex === 0;
+            document.getElementById('next').disabled = currentIndex === words.length - 1;
+        }
+
+        function prevWord() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                displayWord();
+            }
+        }
+
+        function nextWord() {
+            if (currentIndex < words.length - 1) {
+                currentIndex++;
+                displayWord();
+            }
+        }
+
+        function markRight() {
+            words[currentIndex].right++;
+        }
+
+        function markWrong() {
+            words[currentIndex].wrong++;
+        }
+
+        document.getElementById('mode').addEventListener('change', filterWords);
+        document.getElementById('content').addEventListener('change', filterWords);
+        document.getElementById('prev').addEventListener('click', prevWord);
+        document.getElementById('next').addEventListener('click', nextWord);
+        document.getElementById('right').addEventListener('click', markRight);
+        document.getElementById('wrong').addEventListener('click', markWrong);
+
+        filterWords();
+    </script>
+</body>
+</html>

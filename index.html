@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Word Practice</title>
+    <style>
+        /* Add your CSS here */
+        .large {
+            font-size: 2em; /* Adjust as needed */
+        }
+
+        .small {
+            font-size: 0.8em; /* Adjust as needed */
+        }
+    </style>
+</head>
+<body>
+    <form id="options">
+        <label>
+            Practice Mode:
+            <select id="mode">
+                <option value="en2cn">English to Chinese</option>
+                <option value="cn2en">Chinese to English</option>
+            </select>
+        </label>
+        <label>
+            Practice Content:
+            <select id="content">
+                <option value="all">All</option>
+                <option value="commonlyWrong">Commonly Wrong</option>
+            </select>
+        </label>
+        <button type="button" id="start">Start</button>
+    </form>
+    <div id="practiceArea"></div>
+    <button type="button" id="prev" disabled>Previous</button>
+    <button type="button" id="next" disabled>Next</button>
+    <button type="button" id="right" disabled>Correct</button>
+    <button type="button" id="wrong" disabled>Incorrect</button>
+    <button type="button" id="save" disabled>Save</button>
+
+    <script>
+        var words = [
+            {
+                "english": "street",
+                "chinese": "街道",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/striːt/"
+            },
+            {
+                "english": "path",
+                "chinese": "路径",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/pɑːθ/"
+            },
+            {
+                "english": "river",
+                "chinese": "河流",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈrɪvər/"
+            },
+            {
+                "english": "go along",
+                "chinese": "沿着走",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": ""
+            },
+            {
+                "english": "go across",
+                "chinese": "穿过",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": ""
+            },
+            {
+                "english": "turn left",
+                "chinese": "左转",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": ""
+            },
+            {
+                "english": "turn right",
+                "chinese": "右转",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": ""
+            },
+            {
+                "english": "country",
+                "chinese": "国家",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈkʌntri/"
+            },
+            {
+                "english": "town",
+                "chinese": "城镇",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/taʊn/"
+            },
+            {
+                "english": "bridge",
+                "chinese": "桥",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/brɪdʒ/"
+            },
+            {
+                "english": "direction",
+                "chinese": "方向",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/dɪˈrɛkʃən/"
+            },
+            {
+                "english": "Can you tell me how to go to the Hun River?",
+                "chinese": "你能告诉我怎么去浑河吗？",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": ""
+            },
+            {
+                "english": "Can you tell me where is the hospital?",
+                "chinese": "你能告诉我医院在哪里吗？",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": ""
+            },
+            {
+                "english": "Can you tell me the way to the school?",
+                "chinese": "你能告诉我去学校的路吗？",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": ""
+            },
+            {
+                "english": "scenery",
+                "chinese": "风景",
+                "tag": "Apr. 27th. 2024 18/22",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈsiːnəri/"
+            },
+            {
+                "english": "temple",
+                "chinese": "寺庙",
+                "tag": "Apr. 27th. 2024 18/22",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈtɛmpl/"
+            },
+            {
+                "english": "statue",
+                "chinese": "雕像",
+                "tag": "Apr. 27th. 2024 18/22",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈstætʃuː/"
+            },
+            {
+                "english": "No, they aren't",
+                "chinese": "不，他们不是",
+                "tag": "Apr. 27th. 2024 18/22",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": ""
+            },
+            {
+                "english": "travel",
+                "chinese": "旅行",
+                "tag": "Apr. 26th. 2024 22/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈtrævəl/"
+            },
+            {
+                "english": "traffic jam",
+                "chinese": "交通堵塞",
+                "tag": "Apr. 26th. 2024 22/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": ""
+            },
+            {
+                "english": "tractor",
+                "chinese": "拖拉机",
+                "tag": "Apr. 26th. 2024 22/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈtræktər/"
+            },
+            {
+                "english": "caravan",
+                "chinese": "旅行车",
+                "tag": "Apr. 26th. 2024 22/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈkærəvæn/"
+            },
+            {
+                "english": "ambulance",
+                "chinese": "救护车",
+                "tag": "Apr. 26th. 2024 22/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈæmbjuləns/"
+            },
+            {
+                "english": "snowmobile",
+                "chinese": "雪地摩托",
+                "tag": "Apr. 26th. 2024 22/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈsnoʊmoʊbiːl/"
+            },
+            {
+                "english": "ferry",
+                "chinese": "渡船",
+                "tag": "Apr. 26th. 2024 22/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈfɛri/"
+            },
+            {
+                "english": "bicycle",
+                "chinese": "自行车",
+                "tag": "Apr. 26th. 2024 22/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈbaɪsɪkl/"
+            },
+            {
+                "english": "scissors",
+                "chinese": "剪刀",
+                "tag": "Apr. 20th. 2024 21/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈsɪzərz/"
+            },
+            {
+                "english": "truck",
+                "chinese": "卡车",
+                "tag": "Apr. 20th. 2024 21/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/trʌk/"
+            },
+            {
+                "english": "scooter",
+                "chinese": "滑板车",
+                "tag": "Apr. 20th. 2024 21/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈskuːtər/"
+            },
+            {
+                "english": "transportation",
+                "chinese": "交通工具",
+                "tag": "Apr. 20th. 2024 21/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˌtrænspərˈteɪʃn/"
+            },
+            {
+                "english": "laptop",
+                "chinese": "笔记本电脑",
+                "tag": "Apr. 19th. 2024 23/25",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈlæpˌtɑːp/"
+            },
+            {
+                "english": "website",
+                "chinese": "网站",
+                "tag": "Apr. 19th. 2024 23/25",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈwɛbˌsaɪt/"
+            },
+            {
+                "english": "famous",
+                "chinese": "著名的",
+                "tag": "Apr. 13th. 2024 20/25",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈfeɪməs/"
+            },
+            {
+                "english": "canal",
+                "chinese": "运河",
+                "tag": "Apr. 13th. 2024 20/25",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/kəˈnæl/"
+            },
+            {
+                "english": "floating market",
+                "chinese": "水上市场",
+                "tag": "Apr. 13th. 2024 20/25",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": ""
+            },
+            {
+                "english": "fantastic",
+                "chinese": "极好的",
+                "tag": "Apr. 12th. 2024 26/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/fænˈtæstɪk/"
+            },
+            {
+                "english": "radio",
+                "chinese": "收音机",
+                "tag": "Apr. 12th. 2024 26/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈreɪdioʊ/"
+            },
+            {
+                "english": "French fries",
+                "chinese": "炸薯条",
+                "tag": "Apr. 12th. 2024 26/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": ""
+            },
+            {
+                "english": "cheese",
+                "chinese": "奶酪",
+                "tag": "Apr. 12th. 2024 26/30",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/tʃiːz/"
+            },
+            {
+                "english": "dairy",
+                "chinese": "乳制品",
+                "tag": "Apr. 6th. 2024 22/26",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈdɛri/"
+            },
+            {
+                "english": "Thursday",
+                "chinese": "星期四",
+                "tag": "Apr. 6th. 2024 22/26",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈθɝːzdeɪ/"
+            },
+            {
+                "english": "routine",
+                "chinese": "常规",
+                "tag": "Apr. 6th. 2024 22/26",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ruːˈtiːn/"
+            },
+            {
+                "english": "She does her work",
+                "chinese": "她做她的工作",
+                "tag": "Apr. 5th. 2024 20/22",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": ""
+            },
+            {
+                "english": "earlier",
+                "chinese": "更早",
+                "tag": "Apr. 5th. 2024 20/22",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈɝːliər/"
+            }
+        ];
+        var practiceWords = [];
+        var currentIndex = -1;
+
+        document.getElementById('start').addEventListener('click', function() {
+            var mode = document.getElementById('mode').value;
+            var content = document.getElementById('content').value;
+
+            practiceWords = words.filter(function(word) {
+                if (content === 'commonlyWrong') {
+                    return word.wrong > word.right;
+                }
+                return true;
+            });
+
+            practiceWords.sort(function() {
+                return 0.5 - Math.random();
+            });
+
+            currentIndex = -1;
+            nextWord();
+        });
+
+        document.getElementById('prev').addEventListener('click', function() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                showWord(practiceWords[currentIndex]);
+            }
+        });
+
+        document.getElementById('next').addEventListener('click', nextWord);
+
+        document.getElementById('right').addEventListener('click', function() {
+            practiceWords[currentIndex].right++;
+            showWord(practiceWords[currentIndex]);
+        });
+
+        document.getElementById('wrong').addEventListener('click', function() {
+            practiceWords[currentIndex].wrong++;
+            showWord(practiceWords[currentIndex]);
+        });
+
+        document.getElementById('save').addEventListener('click', function() {
+            console.log(JSON.stringify(words, null, 2));
+        });
+
+        function nextWord() {
+            if (currentIndex < practiceWords.length - 1) {
+                currentIndex++;
+                showWord(practiceWords[currentIndex]);
+            }
+        }
+
+        function showWord(word) {
+            var mode = document.getElementById('mode').value;
+            var content = document.getElementById('content').value;
+            var practiceArea = document.getElementById('practiceArea');
+
+            if (mode === 'en2cn') {
+                practiceArea.innerHTML = `<span class="large">${word.english}</span> <br> 
+                                          <span class="large">${word.phonetic}</span> <br> 
+                                          <span class="small">${word.tag}</span>`;
+            } else {
+                practiceArea.innerHTML = `<span class="large">${word.chinese}</span> <br> 
+                                          <span class="large">${word.phonetic}</span> <br> 
+                                          <span class="small">${word.tag}</span>`;
+            }
+
+            if (content === 'commonlyWrong') {
+                practiceArea.innerHTML += `<br> <span class="small">${word.right}</span> 
+                                           <br> <span class="small">${word.wrong}</span>`;
+            }
+
+            document.getElementById('prev').disabled = currentIndex === 0;
+            document.getElementById('next').disabled = currentIndex === practiceWords.length - 1;
+            document.getElementById('right').disabled = false;
+            document.getElementById('wrong').disabled = false;
+            document.getElementById('save').disabled = false;
+        }
+    </script>
+</body>
+</html>

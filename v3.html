@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Word Practice</title>
+    <style>
+        /* Add your CSS here */
+    </style>
+</head>
+<body>
+    <select id="mode">
+        <option value="en2cn">英译汉</option>
+        <option value="cn2en">汉译英</option>
+    </select>
+    <select id="content">
+        <option value="all">全部</option>
+        <option value="commonlyWrong">常错</option>
+    </select>
+    <div id="wordDisplay"></div>
+    <button id="prev" disabled>上一个</button>
+    <button id="next" disabled>下一个</button>
+    <button id="right" disabled>答对了</button>
+    <button id="wrong" disabled>答错了</button>
+    <script>
+        var words = [
+            {
+                "english": "turn right",
+                "chinese": "右转",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": ""
+            },
+            {
+                "english": "country",
+                "chinese": "国家",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/ˈkʌntri/"
+            },
+            {
+                "english": "town",
+                "chinese": "城镇",
+                "tag": "Apr. 27th. 2024",
+                "right": 0,
+                "wrong": 0,
+                "phonetic": "/taʊn/"
+            }
+        ];
+        var currentIndex = 0;
+        var mode = document.getElementById('mode');
+        var content = document.getElementById('content');
+        var wordDisplay = document.getElementById('wordDisplay');
+        var prev = document.getElementById('prev');
+        var next = document.getElementById('next');
+        var right = document.getElementById('right');
+        var wrong = document.getElementById('wrong');
+
+        function updateDisplay() {
+            var word = words[currentIndex];
+            if (mode.value === 'en2cn') {
+                wordDisplay.textContent = word.english + ', ' + word.phonetic + ', ' + word.tag;
+            } else {
+                wordDisplay.textContent = word.chinese + ', ' + word.tag;
+            }
+            if (content.value === 'commonlyWrong') {
+                wordDisplay.textContent += ', ' + word.right + ', ' + word.wrong;
+            }
+            prev.disabled = currentIndex === 0;
+            next.disabled = currentIndex === words.length - 1;
+            right.disabled = false;
+            wrong.disabled = false;
+        }
+
+        mode.addEventListener('change', updateDisplay);
+        content.addEventListener('change', updateDisplay);
+        prev.addEventListener('click', function() {
+            currentIndex--;
+            updateDisplay();
+        });
+        next.addEventListener('click', function() {
+            currentIndex++;
+            updateDisplay();
+        });
+        right.addEventListener('click', function() {
+            words[currentIndex].right++;
+            updateDisplay();
+        });
+        wrong.addEventListener('click', function() {
+            words[currentIndex].wrong++;
+            updateDisplay();
+        });
+
+        updateDisplay();
+    </script>
+</body>
+</html>
