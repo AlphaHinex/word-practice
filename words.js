@@ -2,7 +2,8 @@ var words = [
     {
         "english": "street",
         "chinese": "街道",
-        "tag": "Apr. 27th. 2024",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": "/striːt/"
@@ -10,7 +11,8 @@ var words = [
     {
         "english": "path",
         "chinese": "路径",
-        "tag": "Apr. 27th. 2024",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": "/pɑːθ/"
@@ -18,7 +20,8 @@ var words = [
     {
         "english": "river",
         "chinese": "河流",
-        "tag": "Apr. 27th. 2024",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈrɪvər/"
@@ -26,7 +29,8 @@ var words = [
     {
         "english": "go along",
         "chinese": "沿着走",
-        "tag": "Apr. 27th. 2024",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -34,7 +38,8 @@ var words = [
     {
         "english": "go across",
         "chinese": "穿过",
-        "tag": "Apr. 27th. 2024",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -42,7 +47,8 @@ var words = [
     {
         "english": "turn left",
         "chinese": "左转",
-        "tag": "Apr. 27th. 2024",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -50,7 +56,8 @@ var words = [
     {
         "english": "turn right",
         "chinese": "右转",
-        "tag": "Apr. 27th. 2024",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -58,7 +65,8 @@ var words = [
     {
         "english": "country",
         "chinese": "国家",
-        "tag": "Apr. 27th. 2024",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈkʌntri/"
@@ -66,7 +74,8 @@ var words = [
     {
         "english": "town",
         "chinese": "城镇",
-        "tag": "Apr. 27th. 2024",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": "/taʊn/"
@@ -74,7 +83,8 @@ var words = [
     {
         "english": "bridge",
         "chinese": "桥",
-        "tag": "Apr. 27th. 2024",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": "/brɪdʒ/"
@@ -82,7 +92,8 @@ var words = [
     {
         "english": "direction",
         "chinese": "方向",
-        "tag": "Apr. 27th. 2024",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": "/dɪˈrɛkʃən/"
@@ -90,7 +101,8 @@ var words = [
     {
         "english": "Can you tell me how to go to the Hun River?",
         "chinese": "你能告诉我怎么去浑河吗？",
-        "tag": "Apr. 27th. 2024",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -98,7 +110,8 @@ var words = [
     {
         "english": "Can you tell me where is the hospital?",
         "chinese": "你能告诉我医院在哪里吗？",
-        "tag": "Apr. 27th. 2024",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -106,7 +119,8 @@ var words = [
     {
         "english": "Can you tell me the way to the school?",
         "chinese": "你能告诉我去学校的路吗？",
-        "tag": "Apr. 27th. 2024",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -114,7 +128,8 @@ var words = [
     {
         "english": "scenery",
         "chinese": "风景",
-        "tag": "Apr. 27th. 2024 18/22",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024 18/22",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈsiːnəri/"
@@ -122,7 +137,8 @@ var words = [
     {
         "english": "temple",
         "chinese": "寺庙",
-        "tag": "Apr. 27th. 2024 18/22",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024 18/22",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈtɛmpl/"
@@ -130,7 +146,8 @@ var words = [
     {
         "english": "statue",
         "chinese": "雕像",
-        "tag": "Apr. 27th. 2024 18/22",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024 18/22",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈstætʃuː/"
@@ -138,7 +155,8 @@ var words = [
     {
         "english": "No, they aren't",
         "chinese": "不，他们不是",
-        "tag": "Apr. 27th. 2024 18/22",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024 18/22",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -146,7 +164,8 @@ var words = [
     {
         "english": "travel",
         "chinese": "旅行",
-        "tag": "Apr. 26th. 2024 22/30",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈtrævəl/"
@@ -154,7 +173,8 @@ var words = [
     {
         "english": "traffic jam",
         "chinese": "交通堵塞",
-        "tag": "Apr. 26th. 2024 22/30",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -162,7 +182,8 @@ var words = [
     {
         "english": "tractor",
         "chinese": "拖拉机",
-        "tag": "Apr. 26th. 2024 22/30",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈtræktər/"
@@ -170,7 +191,8 @@ var words = [
     {
         "english": "caravan",
         "chinese": "大篷车",
-        "tag": "Apr. 26th. 2024 22/30",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈkærəvæn/"
@@ -178,7 +200,8 @@ var words = [
     {
         "english": "ambulance",
         "chinese": "救护车",
-        "tag": "Apr. 26th. 2024 22/30",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈæmbjuləns/"
@@ -186,7 +209,8 @@ var words = [
     {
         "english": "snowmobile",
         "chinese": "雪地摩托",
-        "tag": "Apr. 26th. 2024 22/30",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈsnoʊmoʊbiːl/"
@@ -194,7 +218,8 @@ var words = [
     {
         "english": "ferry",
         "chinese": "渡船",
-        "tag": "Apr. 26th. 2024 22/30",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈfɛri/"
@@ -202,7 +227,8 @@ var words = [
     {
         "english": "bicycle",
         "chinese": "自行车",
-        "tag": "Apr. 26th. 2024 22/30",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈbaɪsɪkl/"
@@ -210,7 +236,8 @@ var words = [
     {
         "english": "scissors",
         "chinese": "剪刀",
-        "tag": "Apr. 20th. 2024 21/30",
+        "tag": "Yeki",
+        "desc": "Apr. 20th. 2024 21/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈsɪzərz/"
@@ -218,7 +245,8 @@ var words = [
     {
         "english": "truck",
         "chinese": "卡车",
-        "tag": "Apr. 20th. 2024 21/30",
+        "tag": "Yeki",
+        "desc": "Apr. 20th. 2024 21/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/trʌk/"
@@ -226,7 +254,8 @@ var words = [
     {
         "english": "scooter",
         "chinese": "滑板车",
-        "tag": "Apr. 20th. 2024 21/30",
+        "tag": "Yeki",
+        "desc": "Apr. 20th. 2024 21/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈskuːtər/"
@@ -234,7 +263,8 @@ var words = [
     {
         "english": "transportation",
         "chinese": "交通工具",
-        "tag": "Apr. 20th. 2024 21/30",
+        "tag": "Yeki",
+        "desc": "Apr. 20th. 2024 21/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˌtrænspərˈteɪʃn/"
@@ -242,7 +272,8 @@ var words = [
     {
         "english": "laptop",
         "chinese": "笔记本电脑",
-        "tag": "Apr. 19th. 2024 23/25",
+        "tag": "Yeki",
+        "desc": "Apr. 19th. 2024 23/25",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈlæpˌtɑːp/"
@@ -250,7 +281,8 @@ var words = [
     {
         "english": "website",
         "chinese": "网站",
-        "tag": "Apr. 19th. 2024 23/25",
+        "tag": "Yeki",
+        "desc": "Apr. 19th. 2024 23/25",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈwɛbˌsaɪt/"
@@ -258,7 +290,8 @@ var words = [
     {
         "english": "famous",
         "chinese": "著名的",
-        "tag": "Apr. 13th. 2024 20/25",
+        "tag": "Yeki",
+        "desc": "Apr. 13th. 2024 20/25",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈfeɪməs/"
@@ -266,7 +299,8 @@ var words = [
     {
         "english": "canal",
         "chinese": "运河",
-        "tag": "Apr. 13th. 2024 20/25",
+        "tag": "Yeki",
+        "desc": "Apr. 13th. 2024 20/25",
         "right": 0,
         "wrong": 0,
         "phonetic": "/kəˈnæl/"
@@ -274,7 +308,8 @@ var words = [
     {
         "english": "floating market",
         "chinese": "水上市场",
-        "tag": "Apr. 13th. 2024 20/25",
+        "tag": "Yeki",
+        "desc": "Apr. 13th. 2024 20/25",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -282,7 +317,8 @@ var words = [
     {
         "english": "fantastic",
         "chinese": "极好的",
-        "tag": "Apr. 12th. 2024 26/30",
+        "tag": "Yeki",
+        "desc": "Apr. 12th. 2024 26/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/fænˈtæstɪk/"
@@ -290,7 +326,8 @@ var words = [
     {
         "english": "radio",
         "chinese": "收音机",
-        "tag": "Apr. 12th. 2024 26/30",
+        "tag": "Yeki",
+        "desc": "Apr. 12th. 2024 26/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈreɪdioʊ/"
@@ -298,7 +335,8 @@ var words = [
     {
         "english": "French fries",
         "chinese": "炸薯条",
-        "tag": "Apr. 12th. 2024 26/30",
+        "tag": "Yeki",
+        "desc": "Apr. 12th. 2024 26/30",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -306,7 +344,8 @@ var words = [
     {
         "english": "cheese",
         "chinese": "奶酪",
-        "tag": "Apr. 12th. 2024 26/30",
+        "tag": "Yeki",
+        "desc": "Apr. 12th. 2024 26/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/tʃiːz/"
@@ -314,7 +353,8 @@ var words = [
     {
         "english": "dairy",
         "chinese": "乳制品",
-        "tag": "Apr. 6th. 2024 22/26",
+        "tag": "Yeki",
+        "desc": "Apr. 6th. 2024 22/26",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈdɛri/"
@@ -322,7 +362,8 @@ var words = [
     {
         "english": "Thursday",
         "chinese": "星期四",
-        "tag": "Apr. 6th. 2024 22/26",
+        "tag": "Yeki",
+        "desc": "Apr. 6th. 2024 22/26",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈθɝːzdeɪ/"
@@ -330,7 +371,8 @@ var words = [
     {
         "english": "routine",
         "chinese": "常规",
-        "tag": "Apr. 6th. 2024 22/26",
+        "tag": "Yeki",
+        "desc": "Apr. 6th. 2024 22/26",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ruːˈtiːn/"
@@ -338,7 +380,8 @@ var words = [
     {
         "english": "She does her work",
         "chinese": "她做她的工作",
-        "tag": "Apr. 5th. 2024 20/22",
+        "tag": "Yeki",
+        "desc": "Apr. 5th. 2024 20/22",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -346,7 +389,8 @@ var words = [
     {
         "english": "earlier",
         "chinese": "更早",
-        "tag": "Apr. 5th. 2024 20/22",
+        "tag": "Yeki",
+        "desc": "Apr. 5th. 2024 20/22",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈɝːliər/"
@@ -354,7 +398,8 @@ var words = [
     {
         "english": "April",
         "chinese": "四月",
-        "tag": "Mar. 31th. 2024 18/20",
+        "tag": "Yeki",
+        "desc": "Mar. 31th. 2024 18/20",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈeɪprəl/"
@@ -362,14 +407,16 @@ var words = [
     {
         "english": "daily",
         "chinese": "每日的",
-        "tag": "Mar. 30th. 2024 20/22",
+        "tag": "Yeki",
+        "desc": "Mar. 30th. 2024 20/22",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈdeɪli/"
     },{
         "english": "draw a picture",
         "chinese": "画一幅画",
-        "tag": "Mar. 29th. 2024",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -377,7 +424,8 @@ var words = [
     {
         "english": "Tuesday",
         "chinese": "星期二",
-        "tag": "Mar. 29th. 2024",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈtjuːzdeɪ/"
@@ -385,7 +433,8 @@ var words = [
     {
         "english": "Wednesday",
         "chinese": "星期三",
-        "tag": "Mar. 29th. 2024",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈwɛnzdeɪ/"
@@ -393,7 +442,8 @@ var words = [
     {
         "english": "Friday",
         "chinese": "星期五",
-        "tag": "Mar. 29th. 2024",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈfraɪdeɪ/"
@@ -401,7 +451,8 @@ var words = [
     {
         "english": "Saturday",
         "chinese": "星期六",
-        "tag": "Mar. 29th. 2024",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈsætərdeɪ/"
@@ -409,7 +460,8 @@ var words = [
     {
         "english": "key",
         "chinese": "钥匙",
-        "tag": "Mar. 29th. 2024",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": "/kiː/"
@@ -417,7 +469,8 @@ var words = [
     {
         "english": "seat",
         "chinese": "座位",
-        "tag": "Mar. 29th. 2024",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": "/siːt/"
@@ -425,7 +478,8 @@ var words = [
     {
         "english": "feed the fish",
         "chinese": "喂鱼",
-        "tag": "Mar. 22nd. 2024 23/25",
+        "tag": "Yeki",
+        "desc": "Mar. 22nd. 2024 23/25",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -433,7 +487,8 @@ var words = [
     {
         "english": "nutrient",
         "chinese": "营养物",
-        "tag": "Mar. 22nd. 2024 23/25",
+        "tag": "Yeki",
+        "desc": "Mar. 22nd. 2024 23/25",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈnuːtriənt/"
@@ -441,7 +496,8 @@ var words = [
     {
         "english": "sugar",
         "chinese": "糖",
-        "tag": "Mar. 16th. 2024 18/20",
+        "tag": "Yeki",
+        "desc": "Mar. 16th. 2024 18/20",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈʃʊɡər/"
@@ -449,7 +505,8 @@ var words = [
     {
         "english": "strawberry",
         "chinese": "草莓",
-        "tag": "Mar. 16th. 2024 18/20",
+        "tag": "Yeki",
+        "desc": "Mar. 16th. 2024 18/20",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈstrɔːbəri/"
@@ -457,7 +514,8 @@ var words = [
     {
         "english": "What do you have for breakfast?",
         "chinese": "你早餐吃什么？",
-        "tag": "Mar. 15th. 2024 16/24",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -465,7 +523,8 @@ var words = [
     {
         "english": "I have toast for breakfast.",
         "chinese": "我早餐吃吐司。",
-        "tag": "Mar. 15th. 2024 16/24",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -473,7 +532,8 @@ var words = [
     {
         "english": "calcium",
         "chinese": "钙",
-        "tag": "Mar. 15th. 2024 16/24",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈkælsiəm/"
@@ -481,7 +541,8 @@ var words = [
     {
         "english": "group",
         "chinese": "组",
-        "tag": "Mar. 15th. 2024 16/24",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ɡruːp/"
@@ -489,7 +550,8 @@ var words = [
     {
         "english": "activity",
         "chinese": "活动",
-        "tag": "Mar. 15th. 2024 16/24",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ækˈtɪvɪti/"
@@ -497,7 +559,8 @@ var words = [
     {
         "english": "No, thank you.",
         "chinese": "不，谢谢。",
-        "tag": "Mar. 15th. 2024 16/24",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -505,7 +568,8 @@ var words = [
     {
         "english": "balanced",
         "chinese": "平衡的",
-        "tag": "Mar. 9th. 2024 21/30",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈbælənst/"
@@ -513,7 +577,8 @@ var words = [
     {
         "english": "vitamins",
         "chinese": "维生素",
-        "tag": "Mar. 9th. 2024 21/30",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈvaɪtəmɪnz/"
@@ -521,7 +586,8 @@ var words = [
     {
         "english": "protein",
         "chinese": "蛋白质",
-        "tag": "Mar. 9th. 2024 21/30",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈproʊtiːn/"
@@ -529,7 +595,8 @@ var words = [
     {
         "english": "healthy",
         "chinese": "健康的",
-        "tag": "Mar. 9th. 2024 21/30",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈhɛlθi/"
@@ -537,7 +604,8 @@ var words = [
     {
         "english": "please",
         "chinese": "请",
-        "tag": "Mar. 9th. 2024 21/30",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/pliːz/"
@@ -545,7 +613,8 @@ var words = [
     {
         "english": "evening",
         "chinese": "晚上",
-        "tag": "Mar. 8th. 2024 26/30",
+        "tag": "Yeki",
+        "desc": "Mar. 8th. 2024 26/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈiːvənɪŋ/"
@@ -553,7 +622,8 @@ var words = [
     {
         "english": "action",
         "chinese": "行动",
-        "tag": "Mar. 8th. 2024 26/30",
+        "tag": "Yeki",
+        "desc": "Mar. 8th. 2024 26/30",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈækʃən/"
@@ -561,7 +631,8 @@ var words = [
     {
         "english": "o'clock",
         "chinese": "点钟",
-        "tag": "Mar. 2nd. 2024 24/25",
+        "tag": "Yeki",
+        "desc": "Mar. 2nd. 2024 24/25",
         "right": 0,
         "wrong": 0,
         "phonetic": "/əˈklɑːk/"
@@ -570,6 +641,7 @@ var words = [
         "english": "future",
         "chinese": "将来；未来",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈfjuːtʃər/"
@@ -578,6 +650,7 @@ var words = [
         "english": "stand",
         "chinese": "站；站住",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/stænd/"
@@ -586,6 +659,7 @@ var words = [
         "english": "machine",
         "chinese": "机器",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/məˈʃiːn/"
@@ -594,6 +668,7 @@ var words = [
         "english": "will",
         "chinese": "将；将会",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/wɪl/"
@@ -602,6 +677,7 @@ var words = [
         "english": "exercise",
         "chinese": "运动；锻炼；活动",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈɛksərsaɪz/"
@@ -610,6 +686,7 @@ var words = [
         "english": "early",
         "chinese": "早；提早",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈɜːrli/"
@@ -618,6 +695,7 @@ var words = [
         "english": "easily",
         "chinese": "容易地",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈiːzɪli/"
@@ -626,6 +704,7 @@ var words = [
         "english": "hard",
         "chinese": "努力地",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/hɑːrd/"
@@ -634,6 +713,7 @@ var words = [
         "english": "more",
         "chinese": "更多的",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/mɔːr/"
@@ -642,6 +722,7 @@ var words = [
         "english": "teacher",
         "chinese": "老师",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈtiːtʃər/"
@@ -650,6 +731,7 @@ var words = [
         "english": "magic",
         "chinese": "神奇的",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈmædʒɪk/"
@@ -658,6 +740,7 @@ var words = [
         "english": "beautiful",
         "chinese": "漂亮的",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈbjuːtɪfəl/"
@@ -666,6 +749,7 @@ var words = [
         "english": "job",
         "chinese": "工作；专业",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/dʒɒb/"
@@ -674,6 +758,7 @@ var words = [
         "english": "word",
         "chinese": "单词",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/wɜːrd/"
@@ -682,6 +767,7 @@ var words = [
         "english": "won't",
         "chinese": "将不",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/woʊnt/"
@@ -690,6 +776,7 @@ var words = [
         "english": "breakfast",
         "chinese": "早餐",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈbrɛkfəst/"
@@ -698,6 +785,7 @@ var words = [
         "english": "late",
         "chinese": "迟的",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/leɪt/"
@@ -706,6 +794,7 @@ var words = [
         "english": "tired",
         "chinese": "累的；疲倦的",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈtaɪərd/"
@@ -714,6 +803,7 @@ var words = [
         "english": "strong",
         "chinese": "强壮的",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/strɒŋ/"
@@ -722,6 +812,7 @@ var words = [
         "english": "pilot",
         "chinese": "飞行员",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈpaɪlət/"
@@ -730,6 +821,7 @@ var words = [
         "english": "doctor",
         "chinese": "医生",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈdɒktər/"
@@ -738,6 +830,7 @@ var words = [
         "english": "cook",
         "chinese": "厨师",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/kʊk/"
@@ -746,6 +839,7 @@ var words = [
         "english": "deer",
         "chinese": "鹿",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/dɪər/"
@@ -754,6 +848,7 @@ var words = [
         "english": "tear",
         "chinese": "眼泪",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/tɪər/"
@@ -762,6 +857,7 @@ var words = [
         "english": "bee",
         "chinese": "蜜蜂",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/biː/"
@@ -770,6 +866,7 @@ var words = [
         "english": "suddenly",
         "chinese": "突然",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈsʌdənli/"
@@ -778,6 +875,7 @@ var words = [
         "english": "in the future",
         "chinese": "将来",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -786,6 +884,7 @@ var words = [
         "english": "in front of",
         "chinese": "在...前面",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -794,6 +893,7 @@ var words = [
         "english": "take a photo",
         "chinese": "拍照",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -802,6 +902,7 @@ var words = [
         "english": "wear glasses",
         "chinese": "戴眼镜",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -810,6 +911,7 @@ var words = [
         "english": "do exercise",
         "chinese": "做运动",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -818,6 +920,7 @@ var words = [
         "english": "(be) weak in",
         "chinese": "不擅长",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -826,6 +929,7 @@ var words = [
         "english": "not ... any more",
         "chinese": "不再",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -834,6 +938,7 @@ var words = [
         "english": "know about",
         "chinese": "知道；了解",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -842,6 +947,7 @@ var words = [
         "english": "(be) good at",
         "chinese": "擅长",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -850,6 +956,7 @@ var words = [
         "english": "get up",
         "chinese": "起床",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -858,6 +965,7 @@ var words = [
         "english": "watch TV",
         "chinese": "看电视",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -866,6 +974,7 @@ var words = [
         "english": "study hard",
         "chinese": "努力学习",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -874,6 +983,7 @@ var words = [
         "english": "English book",
         "chinese": "英语书",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -882,6 +992,7 @@ var words = [
         "english": "I'll be a teacher.",
         "chinese": "我将成为一个老师。",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -890,6 +1001,7 @@ var words = [
         "english": "I won't wear glasses.",
         "chinese": "我将不戴眼镜。",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -898,6 +1010,7 @@ var words = [
         "english": "Kitty wants to know about her future.",
         "chinese": "基蒂想知道她的未来。",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -906,6 +1019,7 @@ var words = [
         "english": "There are some words on the back.",
         "chinese": "在背面有一些字。",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -914,6 +1028,7 @@ var words = [
         "english": "I'll have big and beautiful eyes.",
         "chinese": "我将有又大又美丽的眼睛。",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -922,6 +1037,7 @@ var words = [
         "english": "I am good at Maths, but I am weak in English.",
         "chinese": "我擅长数学，但我不擅长英语。",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -930,6 +1046,7 @@ var words = [
         "english": "I do not like sport and I get tired easily.",
         "chinese": "我不喜欢运动并且容易累。",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -938,6 +1055,7 @@ var words = [
         "english": "I will not be late for school any more.",
         "chinese": "我将不再上学迟到。",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -946,6 +1064,7 @@ var words = [
         "english": "I will try to get up early and have breakfast.",
         "chinese": "我将尽力早起并且吃早饭。",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -954,6 +1073,7 @@ var words = [
         "english": "I will not watch too much TV.",
         "chinese": "我将不看太多电视。",
         "tag": "Grade5 Unit3",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -962,6 +1082,7 @@ var words = [
         "english": "storybook",
         "chinese": "故事书",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈstɔːriˌbʊk/"
@@ -970,6 +1091,7 @@ var words = [
         "english": "buy",
         "chinese": "买",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/baɪ/"
@@ -978,6 +1100,7 @@ var words = [
         "english": "story",
         "chinese": "故事",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈstɔːri/"
@@ -986,6 +1109,7 @@ var words = [
         "english": "dictionary",
         "chinese": "字典；词典",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈdɪkʃəˌneri/"
@@ -994,6 +1118,7 @@ var words = [
         "english": "magazine",
         "chinese": "杂志",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˌmægəˈziːn/"
@@ -1002,6 +1127,7 @@ var words = [
         "english": "newspaper",
         "chinese": "报纸",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈnjuːzˌpeɪpər/"
@@ -1010,6 +1136,7 @@ var words = [
         "english": "week",
         "chinese": "周；星期",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/wiːk/"
@@ -1018,6 +1145,7 @@ var words = [
         "english": "student",
         "chinese": "学生",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈstuːdənt/"
@@ -1026,6 +1154,7 @@ var words = [
         "english": "poster",
         "chinese": "海报",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈpoʊstər/"
@@ -1034,6 +1163,7 @@ var words = [
         "english": "best",
         "chinese": "最好的",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/bɛst/"
@@ -1042,6 +1172,7 @@ var words = [
         "english": "writer",
         "chinese": "作家",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈraɪtər/"
@@ -1050,6 +1181,7 @@ var words = [
         "english": "fun",
         "chinese": "有趣的；乐趣",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/fʌn/"
@@ -1058,6 +1190,7 @@ var words = [
         "english": "beautiful",
         "chinese": "漂亮的",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈbjuːtɪfəl/"
@@ -1066,6 +1199,7 @@ var words = [
         "english": "about",
         "chinese": "关于",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/əˈbaʊt/"
@@ -1074,6 +1208,7 @@ var words = [
         "english": "different",
         "chinese": "不同的",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈdɪfərənt/"
@@ -1082,6 +1217,7 @@ var words = [
         "english": "place",
         "chinese": "地方；地点",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/pleɪs/"
@@ -1090,6 +1226,7 @@ var words = [
         "english": "visit",
         "chinese": "参观；拜访",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈvɪzɪt/"
@@ -1098,6 +1235,7 @@ var words = [
         "english": "favourite",
         "chinese": "最喜欢的",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈfeɪvərɪt/"
@@ -1106,6 +1244,7 @@ var words = [
         "english": "line",
         "chinese": "直线",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/laɪn/"
@@ -1114,6 +1253,7 @@ var words = [
         "english": "smile",
         "chinese": "微笑；笑",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/smaɪl/"
@@ -1122,6 +1262,7 @@ var words = [
         "english": "bookshop",
         "chinese": "书店",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈbʊkʃɒp/"
@@ -1130,6 +1271,7 @@ var words = [
         "english": "library",
         "chinese": "图书馆",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈlaɪbreri/"
@@ -1138,6 +1280,7 @@ var words = [
         "english": "correct",
         "chinese": "正确的",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/kəˈrɛkt/"
@@ -1146,6 +1289,7 @@ var words = [
         "english": "answer",
         "chinese": "回答",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈænsər/"
@@ -1154,6 +1298,7 @@ var words = [
         "english": "children",
         "chinese": "孩子们",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈtʃɪldrən/"
@@ -1162,6 +1307,7 @@ var words = [
         "english": "these",
         "chinese": "这些",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ðiːz/"
@@ -1170,6 +1316,7 @@ var words = [
         "english": "interesting",
         "chinese": "有趣的",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈɪntrəstɪŋ/"
@@ -1178,6 +1325,7 @@ var words = [
         "english": "boring",
         "chinese": "无聊的",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈbɔːrɪŋ/"
@@ -1186,6 +1334,7 @@ var words = [
         "english": "over there",
         "chinese": "在那边",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1194,6 +1343,7 @@ var words = [
         "english": "do a survey",
         "chinese": "做调查",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1202,6 +1352,7 @@ var words = [
         "english": "act ... out",
         "chinese": "表演",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1210,6 +1361,7 @@ var words = [
         "english": "in the future",
         "chinese": "在未来",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1218,6 +1370,7 @@ var words = [
         "english": "picture book",
         "chinese": "图画书",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈpɪktʃər buːk/"
@@ -1226,6 +1379,7 @@ var words = [
         "english": "every day",
         "chinese": "每天",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈɛvriː deɪ/"
@@ -1234,6 +1388,7 @@ var words = [
         "english": "apple pie",
         "chinese": "苹果派",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈæpəl paɪ/"
@@ -1242,6 +1397,7 @@ var words = [
         "english": "French fries",
         "chinese": "薯条",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/frɛntʃ fraɪz/"
@@ -1250,6 +1406,7 @@ var words = [
         "english": "art book",
         "chinese": "美术书",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ɑːrt buːk/"
@@ -1258,6 +1415,7 @@ var words = [
         "english": "the ground floor",
         "chinese": "一楼（英）",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ðə graʊnd flɔːr/"
@@ -1266,6 +1424,7 @@ var words = [
         "english": "the first floor",
         "chinese": "一楼（美）",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ðə fɜːrst flɔːr/"
@@ -1274,6 +1433,7 @@ var words = [
         "english": "be going to",
         "chinese": "打算；将要",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/biː ˈgoʊɪŋ tuː/"
@@ -1282,6 +1442,7 @@ var words = [
         "english": "I'm going to read a story every day.",
         "chinese": "我打算每天看故事书。",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1290,6 +1451,7 @@ var words = [
         "english": "I'm going to look at the picture books over there.",
         "chinese": "我打算看看那边的图画书。",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1298,6 +1460,7 @@ var words = [
         "english": "They're pictures of different places in China.",
         "chinese": "它们是中国不同地方的图片。",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1306,6 +1469,7 @@ var words = [
         "english": "I'm going to visit these places in the future.",
         "chinese": "我打算在未来参观这些地方。",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1314,6 +1478,7 @@ var words = [
         "english": "Book Week is coming.",
         "chinese": "读书周就要到了。",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1322,6 +1487,7 @@ var words = [
         "english": "They are going to write about the writers and the stories.",
         "chinese": "他们打算写有关作者和故事的事情。",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1330,6 +1496,7 @@ var words = [
         "english": "They are going to take some photos of the books too.",
         "chinese": "他们也打算拍一些这些书的照片。",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1338,6 +1505,7 @@ var words = [
         "english": "The boys are going to do a survey about children's favourite books.",
         "chinese": "男孩们打算做一个关于孩子们最喜欢的书的调查。",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1346,6 +1514,7 @@ var words = [
         "english": "What is your favourite book?",
         "chinese": "你最喜欢什么书？",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1354,6 +1523,7 @@ var words = [
         "english": "What is the book about?",
         "chinese": "这本书是关于什么的？",
         "tag": "Grade5 Unit4",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1362,6 +1532,7 @@ var words = [
         "english": "weekend",
         "chinese": "周末",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈwiːkˌɛnd/"
@@ -1370,6 +1541,7 @@ var words = [
         "english": "stay",
         "chinese": "待，停留",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/steɪ/"
@@ -1378,6 +1550,7 @@ var words = [
         "english": "boat",
         "chinese": "船，划船",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/boʊt/"
@@ -1386,6 +1559,7 @@ var words = [
         "english": "plan",
         "chinese": "计划",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/plæn/"
@@ -1394,6 +1568,7 @@ var words = [
         "english": "tomorrow",
         "chinese": "明天",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/təˈmɑːroʊ/"
@@ -1402,6 +1577,7 @@ var words = [
         "english": "build",
         "chinese": "建造",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/bɪld/"
@@ -1410,6 +1586,7 @@ var words = [
         "english": "next",
         "chinese": "下一个",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/nɛkst/"
@@ -1418,6 +1595,7 @@ var words = [
         "english": "swing",
         "chinese": "秋千",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/swɪŋ/"
@@ -1426,6 +1604,7 @@ var words = [
         "english": "cry",
         "chinese": "哭，大喊",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/kraɪ/"
@@ -1434,6 +1613,7 @@ var words = [
         "english": "until",
         "chinese": "直到",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ʌnˈtɪl/"
@@ -1442,6 +1622,7 @@ var words = [
         "english": "film",
         "chinese": "电影",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/fɪlm/"
@@ -1450,6 +1631,7 @@ var words = [
         "english": "should",
         "chinese": "应该",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ʃʊd/"
@@ -1458,6 +1640,7 @@ var words = [
         "english": "sure",
         "chinese": "当然",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ʃʊr/"
@@ -1466,6 +1649,7 @@ var words = [
         "english": "French fries",
         "chinese": "炸薯条",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/frɛntʃ fraɪz/"
@@ -1474,6 +1658,7 @@ var words = [
         "english": "need",
         "chinese": "需要",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/niːd/"
@@ -1482,6 +1667,7 @@ var words = [
         "english": "again",
         "chinese": "又，再",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/əˈɡɛn/"
@@ -1490,6 +1676,7 @@ var words = [
         "english": "goat",
         "chinese": "山羊",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ɡoʊt/"
@@ -1498,6 +1685,7 @@ var words = [
         "english": "dirty",
         "chinese": "脏的",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈdɜːrti/"
@@ -1506,6 +1694,7 @@ var words = [
         "english": "see a film",
         "chinese": "看电影",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1514,6 +1703,7 @@ var words = [
         "english": "row a boat",
         "chinese": "划船",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1522,6 +1712,7 @@ var words = [
         "english": "at the weekend",
         "chinese": "在周末",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1530,6 +1721,7 @@ var words = [
         "english": "stay at home",
         "chinese": "待在家里",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1538,6 +1730,7 @@ var words = [
         "english": "on Saturday afternoon",
         "chinese": "在星期六的下午",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1546,6 +1739,7 @@ var words = [
         "english": "have plans for the weekend",
         "chinese": "有周末的计划",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1554,6 +1748,7 @@ var words = [
         "english": "the next day",
         "chinese": "第二天",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1562,6 +1757,7 @@ var words = [
         "english": "on the third day",
         "chinese": "在第三天",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1570,6 +1766,7 @@ var words = [
         "english": "build a house",
         "chinese": "建一个房子",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1578,6 +1775,7 @@ var words = [
         "english": "come with me",
         "chinese": "跟我来",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1586,6 +1784,7 @@ var words = [
         "english": "sleep in a tree",
         "chinese": "在树上睡觉",
         "tag": "Grade5 Unit5",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""

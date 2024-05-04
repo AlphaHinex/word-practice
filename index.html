@@ -39,7 +39,7 @@
             Tags:
             <select id="tags" multiple style="height: 120px; width: 100px;">
                 <!-- Add your tags here -->
-                <option value="tag1">Yeki</option>
+                <option value="Yeki">Yeki</option>
                 <option value="Grade5 Unit3">Grade5-Unit3</option>
                 <option value="Grade5 Unit4">Grade5-Unit4</option>
                 <option value="Grade5 Unit5">Grade5-Unit5</option>
@@ -103,12 +103,12 @@
                 practiceArea.innerHTML = `<span class="large">${word.english}</span> <br> 
                                           <span class="large">${word.phonetic}</span> <br> 
                                           <span class="large">${word.chinese}</span> <br> 
-                                          <span class="small">${word.tag}</span>`;
+                                          <span class="small">${word.tag}  ${word.desc}</span>`;
             } else {
                 practiceArea.innerHTML = `<span class="large">${word.chinese}</span> <br> 
                                           <span class="large">${word.english}</span> <br> 
                                           <span class="large">${word.phonetic}</span> <br> 
-                                          <span class="small">${word.tag}</span>`;
+                                          <span class="small">${word.tag}  ${word.desc}</span>`;
             }
         });
 
@@ -141,10 +141,10 @@
             if (mode === 'en2cn') {
                 practiceArea.innerHTML = `<span class="large">${word.english}</span> <br> 
                                           <span class="large">${word.phonetic}</span> <br> 
-                                          <span class="small">${word.tag}</span>`;
+                                          <span class="small">${word.tag} ${word.desc}</span>`;
             } else {
                 practiceArea.innerHTML = `<span class="large">${word.chinese}</span> <br> 
-                                          <span class="small">${word.tag}</span>`;
+                                          <span class="small">${word.tag} ${word.desc}</span>`;
             }
 
             if (content === 'commonlyWrong') {
