@@ -40,6 +40,7 @@
     <div id="practiceArea"></div>
     <button type="button" id="prev" disabled>Previous</button>
     <button type="button" id="next" disabled>Next</button>
+    <button type="button" id="check" disabled>Check</button>
     <button type="button" id="right" disabled>Correct</button>
     <button type="button" id="wrong" disabled>Incorrect</button>
     <button type="button" id="save" disabled>Save</button>
@@ -76,6 +77,23 @@
         });
 
         document.getElementById('next').addEventListener('click', nextWord);
+
+        document.getElementById('check').addEventListener('click', function() {
+            var word = practiceWords[currentIndex];
+            var mode = document.getElementById('mode').value;
+            var practiceArea = document.getElementById('practiceArea');
+            if (mode === 'en2cn') {
+                practiceArea.innerHTML = `<span class="large">${word.english}</span> <br> 
+                                          <span class="large">${word.phonetic}</span> <br> 
+                                          <span class="large">${word.chinese}</span> <br> 
+                                          <span class="small">${word.tag}</span>`;
+            } else {
+                practiceArea.innerHTML = `<span class="large">${word.chinese}</span> <br> 
+                                          <span class="large">${word.english}</span> <br> 
+                                          <span class="large">${word.phonetic}</span> <br> 
+                                          <span class="small">${word.tag}</span>`;
+            }
+        });
 
         document.getElementById('right').addEventListener('click', function() {
             practiceWords[currentIndex].right++;
@@ -119,6 +137,7 @@
 
             document.getElementById('prev').disabled = currentIndex === 0;
             document.getElementById('next').disabled = currentIndex === practiceWords.length - 1;
+            document.getElementById('check').disabled = false;
             document.getElementById('right').disabled = false;
             document.getElementById('wrong').disabled = false;
             document.getElementById('save').disabled = false;
