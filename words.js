@@ -1,4 +1,4 @@
-[
+var words = [
     {
         "english": "street",
         "chinese": "街道",
@@ -1589,5 +1589,5 @@
         "right": 0,
         "wrong": 0,
         "phonetic": ""
-    }
+    },
 ]
