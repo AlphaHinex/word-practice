@@ -1357,5 +1357,237 @@
         "right": 0,
         "wrong": 0,
         "phonetic": ""
+    },
+    {
+        "english": "weekend",
+        "chinese": "周末",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwiːkˌɛnd/"
+    },
+    {
+        "english": "stay",
+        "chinese": "待，停留",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/steɪ/"
+    },
+    {
+        "english": "boat",
+        "chinese": "船，划船",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/boʊt/"
+    },
+    {
+        "english": "plan",
+        "chinese": "计划",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/plæn/"
+    },
+    {
+        "english": "tomorrow",
+        "chinese": "明天",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/təˈmɑːroʊ/"
+    },
+    {
+        "english": "build",
+        "chinese": "建造",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/bɪld/"
+    },
+    {
+        "english": "next",
+        "chinese": "下一个",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/nɛkst/"
+    },
+    {
+        "english": "swing",
+        "chinese": "秋千",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/swɪŋ/"
+    },
+    {
+        "english": "cry",
+        "chinese": "哭，大喊",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kraɪ/"
+    },
+    {
+        "english": "until",
+        "chinese": "直到",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ʌnˈtɪl/"
+    },
+    {
+        "english": "film",
+        "chinese": "电影",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fɪlm/"
+    },
+    {
+        "english": "should",
+        "chinese": "应该",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ʃʊd/"
+    },
+    {
+        "english": "sure",
+        "chinese": "当然",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ʃʊr/"
+    },
+    {
+        "english": "French fries",
+        "chinese": "炸薯条",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/frɛntʃ fraɪz/"
+    },
+    {
+        "english": "need",
+        "chinese": "需要",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/niːd/"
+    },
+    {
+        "english": "again",
+        "chinese": "又，再",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/əˈɡɛn/"
+    },
+    {
+        "english": "goat",
+        "chinese": "山羊",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɡoʊt/"
+    },
+    {
+        "english": "dirty",
+        "chinese": "脏的",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɜːrti/"
+    },
+    {
+        "english": "see a film",
+        "chinese": "看电影",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "row a boat",
+        "chinese": "划船",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "at the weekend",
+        "chinese": "在周末",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "stay at home",
+        "chinese": "待在家里",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "on Saturday afternoon",
+        "chinese": "在星期六的下午",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "have plans for the weekend",
+        "chinese": "有周末的计划",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "the next day",
+        "chinese": "第二天",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "on the third day",
+        "chinese": "在第三天",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "build a house",
+        "chinese": "建一个房子",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "come with me",
+        "chinese": "跟我来",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "sleep in a tree",
+        "chinese": "在树上睡觉",
+        "tag": "Grade5 Unit5",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
     }
 ]
