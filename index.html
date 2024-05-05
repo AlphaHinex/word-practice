@@ -7,8 +7,12 @@
         /* Add your CSS here */
         body {
             font-family: Arial, sans-serif;
-            font-size: large;
+            font-size: 30px;
             padding: 50px;
+        }
+        button {
+            font-size: 30px;
+            margin: 10px;
         }
         .large {
             font-size: 3em; /* Adjust as needed */
@@ -22,10 +26,26 @@
 <body>
     <form id="options">
         <label>
+            Tags:
+            <select id="tags" multiple style="height: 150px; width: 120px;">
+                <!-- Add your tags here -->
+                <option value="Yeki">Yeki</option>
+                <option value="Grade5 Unit1">Grade5-Unit1</option>
+                <option value="Grade5 Unit2">Grade5-Unit2</option>
+                <option value="Grade5 Unit3">Grade5-Unit3</option>
+                <option value="Grade5 Unit4">Grade5-Unit4</option>
+                <option value="Grade5 Unit5">Grade5-Unit5</option>
+                <option value="Grade5 Unit6">Grade5-Unit6</option>
+                <option value="Grade5 Unit7">Grade5-Unit7</option>
+                <!-- ... -->
+            </select>
+        </label>
+        <br>
+        <label>
             Practice Mode:
             <select id="mode">
-                <option value="en2cn">English to Chinese</option>
                 <option value="cn2en">Chinese to English</option>
+                <option value="en2cn">English to Chinese</option>
             </select>
         </label>
         <label>
@@ -33,19 +53,6 @@
             <select id="content">
                 <option value="all">All</option>
                 <option value="commonlyWrong">Commonly Wrong</option>
-            </select>
-        </label>
-        <label>
-            Tags:
-            <select id="tags" multiple style="height: 120px; width: 100px;">
-                <!-- Add your tags here -->
-                <option value="Yeki">Yeki</option>
-                <option value="Grade5 Unit3">Grade5-Unit3</option>
-                <option value="Grade5 Unit4">Grade5-Unit4</option>
-                <option value="Grade5 Unit5">Grade5-Unit5</option>
-                <option value="Grade5 Unit6">Grade5-Unit6</option>
-                <option value="Grade5 Unit7">Grade5-Unit7</option>
-                <!-- ... -->
             </select>
         </label>
         <button type="button" id="start">Start</button>
