@@ -3178,7 +3178,7 @@ var words = [
     {
         "english": "safety",
         "chinese": "安全",
-        "tag": "Yeki",
+        "tag": "Yeki Latest",
         "desc": "May. 5th. 2024",
         "right": 0,
         "wrong": 0,
@@ -3187,7 +3187,7 @@ var words = [
     {
         "english": "sign",
         "chinese": "标志；路标",
-        "tag": "Yeki",
+        "tag": "Yeki Latest",
         "desc": "May. 5th. 2024",
         "right": 0,
         "wrong": 0,
@@ -3196,7 +3196,7 @@ var words = [
     {
         "english": "bell",
         "chinese": "铃铛",
-        "tag": "Yeki",
+        "tag": "Yeki Latest",
         "desc": "May. 5th. 2024",
         "right": 0,
         "wrong": 0,
@@ -3205,7 +3205,7 @@ var words = [
     {
         "english": "backpack",
         "chinese": "背包",
-        "tag": "Yeki",
+        "tag": "Yeki Latest",
         "desc": "May. 5th. 2024",
         "right": 0,
         "wrong": 0,
@@ -3214,7 +3214,7 @@ var words = [
     {
         "english": "bright",
         "chinese": "明亮的",
-        "tag": "Yeki",
+        "tag": "Yeki Latest",
         "desc": "May. 5th. 2024",
         "right": 0,
         "wrong": 0,
@@ -3223,7 +3223,7 @@ var words = [
     {
         "english": "clothes",
         "chinese": "衣服",
-        "tag": "Yeki",
+        "tag": "Yeki Latest",
         "desc": "May. 5th. 2024",
         "right": 0,
         "wrong": 0,
@@ -3232,7 +3232,7 @@ var words = [
     {
         "english": "lane",
         "chinese": "车道",
-        "tag": "Yeki",
+        "tag": "Yeki Latest",
         "desc": "May. 5th. 2024",
         "right": 0,
         "wrong": 0,
@@ -3241,7 +3241,7 @@ var words = [
     {
         "english": "rack",
         "chinese": "架子",
-        "tag": "Yeki",
+        "tag": "Yeki Latest",
         "desc": "May. 5th. 2024",
         "right": 0,
         "wrong": 0,
@@ -3250,16 +3250,16 @@ var words = [
     {
         "english": "bike rack",
         "chinese": "停车的架子；自行车架",
-        "tag": "Yeki",
+        "tag": "Yeki Latest",
         "desc": "May. 5th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "bike lane",
+        "english": "bike lanes",
         "chinese": "自行车道",
-        "tag": "Yeki",
+        "tag": "Yeki Latest",
         "desc": "May. 5th. 2024",
         "right": 0,
         "wrong": 0,
@@ -3268,7 +3268,7 @@ var words = [
     {
         "english": "respect",
         "chinese": "尊重；礼让",
-        "tag": "Yeki",
+        "tag": "Yeki Latest",
         "desc": "May. 5th. 2024",
         "right": 0,
         "wrong": 0,
@@ -3277,7 +3277,7 @@ var words = [
     {
         "english": "equipment",
         "chinese": "设备；装备",
-        "tag": "Yeki",
+        "tag": "Yeki Latest",
         "desc": "May. 5th. 2024",
         "right": 0,
         "wrong": 0,
@@ -3285,11 +3285,128 @@ var words = [
     },
     {
         "english": "bicycle safety",
-        "chinese": "自行车安全",
-        "tag": "Yeki",
+        "chinese": "骑行安全",
+        "tag": "Yeki Latest",
         "desc": "May. 5th. 2024",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
+    },
+    {
+        "english": "rules",
+        "chinese": "规则",
+        "tag": "Yeki Latest",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ruːlz/"
+    },
+    {
+        "english": "bike path",
+        "chinese": "自行车道",
+        "tag": "Yeki Latest",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "close to",
+        "chinese": "靠近",
+        "tag": "Yeki Latest",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "ride",
+        "chinese": "骑",
+        "tag": "Yeki Latest",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/raɪd/"
+    },
+    {
+        "english": "important",
+        "chinese": "重要的",
+        "tag": "Yeki Latest",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɪmˈpɔːrtnənt/"
+    },
+    {
+        "english": "road",
+        "chinese": "道路",
+        "tag": "Yeki Latest",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/roʊd/"
+    },
+    {
+        "english": "carry",
+        "chinese": "携带",
+        "tag": "Yeki Latest",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkæri/"
+    },
+    {
+        "english": "protect",
+        "chinese": "保护",
+        "tag": "Yeki Latest",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/prəˈtɛkt/"
+    },
+    {
+        "english": "park",
+        "chinese": "停车",
+        "tag": "Yeki Latest",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pɑːrk/"
+    },
+    {
+        "english": "stay away",
+        "chinese": "远离",
+        "tag": "Yeki Latest",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "find out",
+        "chinese": "找出",
+        "tag": "Yeki Latest",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "safely",
+        "chinese": "安全地",
+        "tag": "Yeki Latest",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈseɪfli/"
+    },
+    {
+        "english": "wear",
+        "chinese": "穿着",
+        "tag": "Yeki Latest",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɛr/"
     },
 ]
