@@ -1789,4 +1789,76 @@ var words = [
         "wrong": 0,
         "phonetic": ""
     },
+    {
+        "english": "Children, what are you going to do this weekend?",
+        "chinese": "孩子们，这个周末你们打算做什么？",
+        "tag": "Grade5 Unit5",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I'm going to see a film with my parents on Saturday afternoon.",
+        "chinese": "我打算在星期六下午和我的父母去看一场电影。",
+        "tag": "Grade5 Unit5",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I'm going to stay at home and watch TV with my grandparents.",
+        "chinese": "我打算待在家里和我的祖父母看电视。",
+        "tag": "Grade5 Unit5",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I'm going to row a boat and fly a kite in the park on Sunday.",
+        "chinese": "我打算周日在公园里划船和放风筝。",
+        "tag": "Grade5 Unit5",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I don't have any plans for the weekend.",
+        "chinese": "我这个周末没有计划。",
+        "tag": "Grade5 Unit5",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "It's raining, but Little Monkey does not have a house. He sleeps in a tree.",
+        "chinese": "下雨了，但是小猴子没有房子。他睡在一棵树上。",
+        "tag": "Grade5 Unit5",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "\"I need a house,\" he thinks, \"I'm going to build one tomorrow.\"",
+        "chinese": "“我需要一个房子，”他想，“我明天要建一个。”",
+        "tag": "Grade5 Unit5",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Don't wait until tomorrow.",
+        "chinese": "不要等到明日。",
+        "tag": "Grade5 Unit5",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
 ]
