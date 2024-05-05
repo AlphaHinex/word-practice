@@ -3175,4 +3175,121 @@ var words = [
         "wrong": 0,
         "phonetic": ""
     },
+    {
+        "english": "safety",
+        "chinese": "安全",
+        "tag": "Yeki",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈseɪfti/"
+    },
+    {
+        "english": "sign",
+        "chinese": "标志；路标",
+        "tag": "Yeki",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/saɪn/"
+    },
+    {
+        "english": "bell",
+        "chinese": "铃铛",
+        "tag": "Yeki",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/bɛl/"
+    },
+    {
+        "english": "backpack",
+        "chinese": "背包",
+        "tag": "Yeki",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbækˌpæk/"
+    },
+    {
+        "english": "bright",
+        "chinese": "明亮的",
+        "tag": "Yeki",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/braɪt/"
+    },
+    {
+        "english": "clothes",
+        "chinese": "衣服",
+        "tag": "Yeki",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kloʊz/"
+    },
+    {
+        "english": "lane",
+        "chinese": "车道",
+        "tag": "Yeki",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/leɪn/"
+    },
+    {
+        "english": "rack",
+        "chinese": "架子",
+        "tag": "Yeki",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ræk/"
+    },
+    {
+        "english": "bike rack",
+        "chinese": "停车的架子；自行车架",
+        "tag": "Yeki",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "bike lane",
+        "chinese": "自行车道",
+        "tag": "Yeki",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "respect",
+        "chinese": "尊重；礼让",
+        "tag": "Yeki",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/rɪˈspɛkt/"
+    },
+    {
+        "english": "equipment",
+        "chinese": "设备；装备",
+        "tag": "Yeki",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɪˈkwɪpmənt/"
+    },
+    {
+        "english": "bicycle safety",
+        "chinese": "自行车安全",
+        "tag": "Yeki",
+        "desc": "May. 5th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
 ]
