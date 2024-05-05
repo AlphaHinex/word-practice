@@ -1861,4 +1861,553 @@ var words = [
         "wrong": 0,
         "phonetic": ""
     },
+    {
+        "english": "holiday",
+        "chinese": "假日，假期",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhɑːlɪdeɪ/"
+    },
+    {
+        "english": "clear",
+        "chinese": "清澈的",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/klɪər/"
+    },
+    {
+        "english": "seafood",
+        "chinese": "海鲜",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsiːfuːd/"
+    },
+    {
+        "english": "hotel",
+        "chinese": "旅馆",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hoʊˈtel/"
+    },
+    {
+        "english": "island",
+        "chinese": "岛",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈaɪlənd/"
+    },
+    {
+        "english": "butterfly",
+        "chinese": "蝴蝶",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbʌtərflaɪ/"
+    },
+    {
+        "english": "butterflies",
+        "chinese": "蝴蝶（复数）",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbʌtərflaɪz/"
+    },
+    {
+        "english": "noise",
+        "chinese": "噪音",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/nɔɪz/"
+    },
+    {
+        "english": "tortoise",
+        "chinese": "乌龟",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtɔːrtoʊs/"
+    },
+    {
+        "english": "voice",
+        "chinese": "声音",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/voʊɪs/"
+    },
+    {
+        "english": "clear water",
+        "chinese": "清澈的水",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "beautiful beaches",
+        "chinese": "美丽的海滨",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "nice seafood",
+        "chinese": "好吃的海鲜",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "get there",
+        "chinese": "到那儿",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "stay in a hotel",
+        "chinese": "呆在一个宾馆里",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "by the sea",
+        "chinese": "在海边",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "stay there for five days",
+        "chinese": "呆在那儿五天",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "go swimming",
+        "chinese": "去游泳",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "how long",
+        "chinese": "多长时间",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "in the south of China",
+        "chinese": "在中国南方",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "on the island",
+        "chinese": "在岛上",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "all year round",
+        "chinese": "全年，整年",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "visit the Sea World",
+        "chinese": "参观海洋世界",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "sea plants",
+        "chinese": "海洋植物",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "holiday plan",
+        "chinese": "假期计划",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "It's a wonderful place for a holiday.",
+        "chinese": "它是度假圣地。",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Where will we stay? We'll stay in a hotel by the sea.",
+        "chinese": "我们将住在哪里？我们将在海边的一个宾馆里。",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "How long will we stay in Sanya? We'll stay there for five days.",
+        "chinese": "我们将在三亚呆几天？我们将在那儿呆五天。",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "What will we do there?",
+        "chinese": "我们将在那里做什么？",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Sanya has beautiful beaches with clear water.",
+        "chinese": "三亚有美丽的海滩，那里海水清澈。",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Sanya is on Hainan Island. It is in the south of China.",
+        "chinese": "三亚在海南岛上。它在中国的南方。",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "The weather is nice all year round.",
+        "chinese": "全年天气宜人。",
+        "tag": "Grade5 Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "meet",
+        "chinese": "迎接；会见",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/miːt/"
+    },
+    {
+        "english": "hall",
+        "chinese": "礼堂",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hɔːl/"
+    },
+    {
+        "english": "finally",
+        "chinese": "最后",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfaɪnəli/"
+    },
+    {
+        "english": "toilet",
+        "chinese": "卫生间",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtoɪlət/"
+    },
+    {
+        "english": "library",
+        "chinese": "图书馆",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈlaɪbrəri/"
+    },
+    {
+        "english": "welcome",
+        "chinese": "欢迎",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɛlˌkʌm/"
+    },
+    {
+        "english": "homework",
+        "chinese": "家庭作业",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhoʊmˌwɜːrk/"
+    },
+    {
+        "english": "show",
+        "chinese": "给……看",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ʃoʊ/"
+    },
+    {
+        "english": "project",
+        "chinese": "课题",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈprɑːdʒekt/"
+    },
+    {
+        "english": "board",
+        "chinese": "布告牌，木板",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/bɔːrd/"
+    },
+    {
+        "english": "lesson",
+        "chinese": "课；课程",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈlesn/"
+    },
+    {
+        "english": "children",
+        "chinese": "孩子们",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtʃɪldrən/"
+    },
+    {
+        "english": "plan",
+        "chinese": "计划",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/plæn/"
+    },
+    {
+        "english": "parents",
+        "chinese": "父母",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈperənts/"
+    },
+    {
+        "english": "school gate",
+        "chinese": "校门，校门口",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "art room",
+        "chinese": "美术室",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "meeting room",
+        "chinese": "会客室，会议室",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "welcome the parents",
+        "chinese": "欢迎家长",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "take the parents to the classroom",
+        "chinese": "带家长去教室",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "tell about",
+        "chinese": "告诉 …… 关于",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "show sb sth = show sth to sb",
+        "chinese": "给某人展示",
+        "tag": "Grade5 Unit7",
+        "desc": "两种说法",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "sing for sb",
+        "chinese": "为某人唱歌",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "on the board",
+        "chinese": "在布告牌上",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "first -- next -- then -- after that -- finally",
+        "chinese": "首先 -- 接着 -- 然后 -- 之后 -- 最后",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Ms Guo welcomes the parents at the school gate.",
+        "chinese": "郭老师在校门口欢迎家长。",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Ms Guo takes the parents to the classroom.",
+        "chinese": "郭老师把家长带到教室。",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "The children show their parents some beautiful pictures.",
+        "chinese": "孩子们展示给他们的父母一些美丽的图画。",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "They look at the homework and projects on the board.",
+        "chinese": "他们看布告牌上的作业和专题。",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Your parents will come to our school at two o'clock in the afternoon.",
+        "chinese": "你们的父母将在下午两点来到我们学校。",
+        "tag": "Grade5 Unit7",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
 ]
