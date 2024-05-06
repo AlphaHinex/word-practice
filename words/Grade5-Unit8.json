@@ -1,0 +1,398 @@
+[
+    {
+        "english": "which",
+        "chinese": "哪一个，哪一些",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɪtʃ/"
+    },
+    {
+        "english": "laugh",
+        "chinese": "大笑",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/læf/"
+    },
+    {
+        "english": "trousers",
+        "chinese": "裤子",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtraʊzərz/"
+    },
+    {
+        "english": "favourite",
+        "chinese": "最喜爱的",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfeɪvərɪt/"
+    },
+    {
+        "english": "size",
+        "chinese": "尺码",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/saɪz/"
+    },
+    {
+        "english": "emperor",
+        "chinese": "皇帝",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈempərər/"
+    },
+    {
+        "english": "sweater",
+        "chinese": "毛衣",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈswetər/"
+    },
+    {
+        "english": "visit",
+        "chinese": "参观；拜访",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈvɪzɪt/"
+    },
+    {
+        "english": "coat",
+        "chinese": "外套，大衣",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/koʊt/"
+    },
+    {
+        "english": "walk",
+        "chinese": "走路",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɔːk/"
+    },
+    {
+        "english": "shoe",
+        "chinese": "鞋",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ʃuː/"
+    },
+    {
+        "english": "clever",
+        "chinese": "聪明的",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈklevər/"
+    },
+    {
+        "english": "dress",
+        "chinese": "连衣裙",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dres/"
+    },
+    {
+        "english": "people",
+        "chinese": "人，人们",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpiːpl/"
+    },
+    {
+        "english": "clothes",
+        "chinese": "衣服",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kloʊz/"
+    },
+    {
+        "english": "mouse",
+        "chinese": "老鼠",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/maʊs/"
+    },
+    {
+        "english": "shirt",
+        "chinese": "衬衫",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ʃɜːrt/"
+    },
+    {
+        "english": "owl",
+        "chinese": "猫头鹰",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/aʊl/"
+    },
+    {
+        "english": "only",
+        "chinese": "只有，仅",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈoʊnli/"
+    },
+    {
+        "english": "cloud",
+        "chinese": "云",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/klaʊd/"
+    },
+    {
+        "english": "nod",
+        "chinese": "点头",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/nɑːd/"
+    },
+    {
+        "english": "brown",
+        "chinese": "棕色的",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/braʊn/"
+    },
+    {
+        "english": "smile",
+        "chinese": "笑容，微笑",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/smaɪl/"
+    },
+    {
+        "english": "bow",
+        "chinese": "鞠躬",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/baʊ/"
+    },
+    {
+        "english": "money",
+        "chinese": "钱",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmʌni/"
+    },
+    {
+        "english": "cry",
+        "chinese": "哭，叫，喊",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kraɪ/"
+    },
+    {
+        "english": "keep",
+        "chinese": "保持",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kiːp/"
+    },
+    {
+        "english": "give",
+        "chinese": "给",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɡɪv/"
+    },
+    {
+        "english": "try...on",
+        "chinese": "试穿（衣物）",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "a pair of trousers",
+        "chinese": "一条裤子",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "put...on",
+        "chinese": "穿；戴",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "walk in the street",
+        "chinese": "走在街上",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "keep quiet",
+        "chinese": "保持安静",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "bow to a cow",
+        "chinese": "向牛鞠躬",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "have a look",
+        "chinese": "看一看",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "catch the mouse",
+        "chinese": "抓老鼠",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Here you are.",
+        "chinese": "给你",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "cry out",
+        "chinese": "喊出来",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Which dress do you like, the blue one or pink one?",
+        "chinese": "你喜欢哪条连衣裙，是蓝色的还是粉色的？",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Pink is my favourite colour.",
+        "chinese": "粉色是我最喜欢的颜色。",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Which pair of trousers does Ben like?",
+        "chinese": "Ben 喜欢哪条裤子？",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Only clever people can see them.",
+        "chinese": "只有聪明的人才能看见他们。",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I also have some magic clothes for you.",
+        "chinese": "我也有一些魔法衣服给你。",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Here are some traditional clothes from China, India and Japan.",
+        "chinese": "这有一些来自中国，印度和日本的传统服饰。",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    }
+]

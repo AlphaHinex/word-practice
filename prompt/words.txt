@@ -1,0 +1,17 @@
+把下列单词按此结构组织。其中：chinese 字段为中文含义，phonetic 为 english 属性对应单词的音标（美式发音），如果 english 属性值为词组或句子，phonetic 字段值可为空；tag 设置为 Mar. 27th. 2024 18/22。
+
+scenery
+temple
+statue
+No, they aren't
+
+以下是一个示例：
+{
+    "english": "dirty",
+    "chinese": "脏的",
+    "tag": "Grade5 Unit5",
+    "desc": "",
+    "right": 0,
+    "wrong": 0,
+    "phonetic": "/ˈdɜːrti/"
+},
