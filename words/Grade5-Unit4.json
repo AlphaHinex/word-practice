@@ -1,0 +1,452 @@
+[
+    {
+        "english": "storybook",
+        "chinese": "故事书",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈstɔːriˌbʊk/"
+    },
+    {
+        "english": "buy",
+        "chinese": "买",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/baɪ/"
+    },
+    {
+        "english": "story",
+        "chinese": "故事",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈstɔːri/"
+    },
+    {
+        "english": "dictionary",
+        "chinese": "字典；词典",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɪkʃəˌneri/"
+    },
+    {
+        "english": "magazine",
+        "chinese": "杂志",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌmægəˈziːn/"
+    },
+    {
+        "english": "newspaper",
+        "chinese": "报纸",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈnjuːzˌpeɪpər/"
+    },
+    {
+        "english": "week",
+        "chinese": "周；星期",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wiːk/"
+    },
+    {
+        "english": "student",
+        "chinese": "学生",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈstuːdənt/"
+    },
+    {
+        "english": "poster",
+        "chinese": "海报",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpoʊstər/"
+    },
+    {
+        "english": "best",
+        "chinese": "最好的",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/bɛst/"
+    },
+    {
+        "english": "writer",
+        "chinese": "作家",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈraɪtər/"
+    },
+    {
+        "english": "fun",
+        "chinese": "有趣的；乐趣",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fʌn/"
+    },
+    {
+        "english": "beautiful",
+        "chinese": "漂亮的",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbjuːtɪfəl/"
+    },
+    {
+        "english": "about",
+        "chinese": "关于",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/əˈbaʊt/"
+    },
+    {
+        "english": "different",
+        "chinese": "不同的",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɪfərənt/"
+    },
+    {
+        "english": "place",
+        "chinese": "地方；地点",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pleɪs/"
+    },
+    {
+        "english": "visit",
+        "chinese": "参观；拜访",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈvɪzɪt/"
+    },
+    {
+        "english": "favourite",
+        "chinese": "最喜欢的",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfeɪvərɪt/"
+    },
+    {
+        "english": "line",
+        "chinese": "直线",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/laɪn/"
+    },
+    {
+        "english": "smile",
+        "chinese": "微笑；笑",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/smaɪl/"
+    },
+    {
+        "english": "bookshop",
+        "chinese": "书店",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbʊkʃɒp/"
+    },
+    {
+        "english": "library",
+        "chinese": "图书馆",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈlaɪbreri/"
+    },
+    {
+        "english": "correct",
+        "chinese": "正确的",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kəˈrɛkt/"
+    },
+    {
+        "english": "answer",
+        "chinese": "回答",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈænsər/"
+    },
+    {
+        "english": "children",
+        "chinese": "孩子们",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtʃɪldrən/"
+    },
+    {
+        "english": "these",
+        "chinese": "这些",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ðiːz/"
+    },
+    {
+        "english": "interesting",
+        "chinese": "有趣的",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɪntrəstɪŋ/"
+    },
+    {
+        "english": "boring",
+        "chinese": "无聊的",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbɔːrɪŋ/"
+    },
+    {
+        "english": "over there",
+        "chinese": "在那边",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "do a survey",
+        "chinese": "做调查",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "act ... out",
+        "chinese": "表演",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "in the future",
+        "chinese": "在未来",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "picture book",
+        "chinese": "图画书",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpɪktʃər buːk/"
+    },
+    {
+        "english": "every day",
+        "chinese": "每天",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɛvriː deɪ/"
+    },
+    {
+        "english": "apple pie",
+        "chinese": "苹果派",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈæpəl paɪ/"
+    },
+    {
+        "english": "French fries",
+        "chinese": "薯条",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/frɛntʃ fraɪz/"
+    },
+    {
+        "english": "art book",
+        "chinese": "美术书",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɑːrt buːk/"
+    },
+    {
+        "english": "the ground floor",
+        "chinese": "一楼（英）",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ðə graʊnd flɔːr/"
+    },
+    {
+        "english": "the first floor",
+        "chinese": "一楼（美）",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ðə fɜːrst flɔːr/"
+    },
+    {
+        "english": "be going to",
+        "chinese": "打算；将要",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/biː ˈgoʊɪŋ tuː/"
+    },
+    {
+        "english": "I'm going to read a story every day.",
+        "chinese": "我打算每天看故事书。",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I'm going to look at the picture books over there.",
+        "chinese": "我打算看看那边的图画书。",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "They're pictures of different places in China.",
+        "chinese": "它们是中国不同地方的图片。",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I'm going to visit these places in the future.",
+        "chinese": "我打算在未来参观这些地方。",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Book Week is coming.",
+        "chinese": "读书周就要到了。",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "They are going to write about the writers and the stories.",
+        "chinese": "他们打算写有关作者和故事的事情。",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "They are going to take some photos of the books too.",
+        "chinese": "他们也打算拍一些这些书的照片。",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "The boys are going to do a survey about children's favourite books.",
+        "chinese": "男孩们打算做一个关于孩子们最喜欢的书的调查。",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "What is your favourite book?",
+        "chinese": "你最喜欢什么书？",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "What is the book about?",
+        "chinese": "这本书是关于什么的？",
+        "tag": "Grade5-Unit4",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    }
+]

@@ -1,0 +1,371 @@
+[
+    {
+        "english": "tidy",
+        "chinese": "整理；整洁的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtɪdi/"
+    },
+    {
+        "english": "mess",
+        "chinese": "脏乱；不整洁",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mɛs/"
+    },
+    {
+        "english": "let",
+        "chinese": "让",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/lɛt/"
+    },
+    {
+        "english": "sock",
+        "chinese": "短袜",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/sɑːk/"
+    },
+    {
+        "english": "yours",
+        "chinese": "你的；你们的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/jɔːrz/"
+    },
+    {
+        "english": "cap",
+        "chinese": "帽子",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kæp/"
+    },
+    {
+        "english": "mine",
+        "chinese": "我的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/maɪn/"
+    },
+    {
+        "english": "crayon",
+        "chinese": "彩色蜡笔",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkreɪən/"
+    },
+    {
+        "english": "umbrella",
+        "chinese": "伞",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ʌmˈbrɛlə/"
+    },
+    {
+        "english": "nail",
+        "chinese": "钉子",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/neɪl/"
+    },
+    {
+        "english": "drop",
+        "chinese": "使落下；掉落",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/drɑːp/"
+    },
+    {
+        "english": "stick",
+        "chinese": "粘贴；粘住",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/stɪk/"
+    },
+    {
+        "english": "second",
+        "chinese": "秒（时间单位）",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsekənd/"
+    },
+    {
+        "english": "hers",
+        "chinese": "她的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hɜːrz/"
+    },
+    {
+        "english": "theirs",
+        "chinese": "他（她，它）们的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ðɛrz/"
+    },
+    {
+        "english": "bedroom",
+        "chinese": "卧室",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbɛdruːm/"
+    },
+    {
+        "english": "whose",
+        "chinese": "谁的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/huːz/"
+    },
+    {
+        "english": "magic",
+        "chinese": "神奇的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmædʒɪk/"
+    },
+    {
+        "english": "stone",
+        "chinese": "石头",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/stoʊn/"
+    },
+    {
+        "english": "floor",
+        "chinese": "地板",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/flɔːr/"
+    },
+    {
+        "english": "happily",
+        "chinese": "快乐地",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhæpəli/"
+    },
+    {
+        "english": "give",
+        "chinese": "给",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɡɪv/"
+    },
+    {
+        "english": "help",
+        "chinese": "帮助",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hɛlp/"
+    },
+    {
+        "english": "never",
+        "chinese": "从不；永不",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈnɛvər/"
+    },
+    {
+        "english": "try",
+        "chinese": "尝试",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/traɪ/"
+    },
+    {
+        "english": "afternoon",
+        "chinese": "下午",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈæftərˌnuːn/"
+    },
+    {
+        "english": "sunny",
+        "chinese": "晴朗的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsʌni/"
+    },
+    {
+        "english": "tidy up",
+        "chinese": "把……整理好",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "(be) full of",
+        "chinese": "装满……；充满",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "a few",
+        "chinese": "几个，一些",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ə ˈfjuː/"
+    },
+    {
+        "english": "put ... on",
+        "chinese": "把……放在……上",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "What a mess!",
+        "chinese": "真是一团糟。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Whose socks are those?",
+        "chinese": "那些袜子是谁的？",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "All the nails fall on the floor.",
+        "chinese": "所有的钉子掉在了地板上。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Can you put them on his bed?",
+        "chinese": "你能把它们放在他的床上吗？",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Are they yours? Not, they aren't.",
+        "chinese": "他们是你的吗？不，他们不是。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "The room is now clean and tidy.",
+        "chinese": "房间现在又干净又整洁。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Let's tidy it up.",
+        "chinese": "让我们把它整理好。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "It's full of nails.",
+        "chinese": "它装满了钉子。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Thank you for your help.",
+        "chinese": "谢谢你的帮助。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "In a few seconds, the floor is clean again.",
+        "chinese": "几秒钟之内，地板又干净了。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    }
+]

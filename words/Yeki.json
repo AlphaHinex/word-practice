@@ -1,0 +1,640 @@
+[
+    {
+        "english": "street",
+        "chinese": "街道",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/striːt/"
+    },
+    {
+        "english": "path",
+        "chinese": "路径",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pɑːθ/"
+    },
+    {
+        "english": "river",
+        "chinese": "河流",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈrɪvər/"
+    },
+    {
+        "english": "go along",
+        "chinese": "沿着走",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "go across",
+        "chinese": "穿过",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "turn left",
+        "chinese": "左转",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "turn right",
+        "chinese": "右转",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "country",
+        "chinese": "国家",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkʌntri/"
+    },
+    {
+        "english": "town",
+        "chinese": "城镇",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/taʊn/"
+    },
+    {
+        "english": "bridge",
+        "chinese": "桥",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/brɪdʒ/"
+    },
+    {
+        "english": "direction",
+        "chinese": "方向",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dɪˈrɛkʃən/"
+    },
+    {
+        "english": "Can you tell me how to go to the Hun River?",
+        "chinese": "你能告诉我怎么去浑河吗？",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Can you tell me where is the hospital?",
+        "chinese": "你能告诉我医院在哪里吗？",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Can you tell me the way to the school?",
+        "chinese": "你能告诉我去学校的路吗？",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "scenery",
+        "chinese": "风景",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024 18/22",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsiːnəri/"
+    },
+    {
+        "english": "temple",
+        "chinese": "寺庙",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024 18/22",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtɛmpl/"
+    },
+    {
+        "english": "statue",
+        "chinese": "雕像",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024 18/22",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈstætʃuː/"
+    },
+    {
+        "english": "No, they aren't",
+        "chinese": "不，他们不是",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024 18/22",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "travel",
+        "chinese": "旅行",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtrævəl/"
+    },
+    {
+        "english": "traffic jam",
+        "chinese": "交通堵塞",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "tractor",
+        "chinese": "拖拉机",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtræktər/"
+    },
+    {
+        "english": "caravan",
+        "chinese": "大篷车",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkærəvæn/"
+    },
+    {
+        "english": "ambulance",
+        "chinese": "救护车",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈæmbjuləns/"
+    },
+    {
+        "english": "snowmobile",
+        "chinese": "雪地摩托",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsnoʊmoʊbiːl/"
+    },
+    {
+        "english": "ferry",
+        "chinese": "渡船",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfɛri/"
+    },
+    {
+        "english": "bicycle",
+        "chinese": "自行车",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbaɪsɪkl/"
+    },
+    {
+        "english": "scissors",
+        "chinese": "剪刀",
+        "tag": "Yeki",
+        "desc": "Apr. 20th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsɪzərz/"
+    },
+    {
+        "english": "truck",
+        "chinese": "卡车",
+        "tag": "Yeki",
+        "desc": "Apr. 20th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/trʌk/"
+    },
+    {
+        "english": "scooter",
+        "chinese": "滑板车",
+        "tag": "Yeki",
+        "desc": "Apr. 20th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈskuːtər/"
+    },
+    {
+        "english": "transportation",
+        "chinese": "交通工具",
+        "tag": "Yeki",
+        "desc": "Apr. 20th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌtrænspərˈteɪʃn/"
+    },
+    {
+        "english": "laptop",
+        "chinese": "笔记本电脑",
+        "tag": "Yeki",
+        "desc": "Apr. 19th. 2024 23/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈlæpˌtɑːp/"
+    },
+    {
+        "english": "website",
+        "chinese": "网站",
+        "tag": "Yeki",
+        "desc": "Apr. 19th. 2024 23/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɛbˌsaɪt/"
+    },
+    {
+        "english": "famous",
+        "chinese": "著名的",
+        "tag": "Yeki",
+        "desc": "Apr. 13th. 2024 20/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfeɪməs/"
+    },
+    {
+        "english": "canal",
+        "chinese": "运河",
+        "tag": "Yeki",
+        "desc": "Apr. 13th. 2024 20/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kəˈnæl/"
+    },
+    {
+        "english": "floating market",
+        "chinese": "水上市场",
+        "tag": "Yeki",
+        "desc": "Apr. 13th. 2024 20/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "fantastic",
+        "chinese": "极好的",
+        "tag": "Yeki",
+        "desc": "Apr. 12th. 2024 26/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fænˈtæstɪk/"
+    },
+    {
+        "english": "radio",
+        "chinese": "收音机",
+        "tag": "Yeki",
+        "desc": "Apr. 12th. 2024 26/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈreɪdioʊ/"
+    },
+    {
+        "english": "French fries",
+        "chinese": "炸薯条",
+        "tag": "Yeki",
+        "desc": "Apr. 12th. 2024 26/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "cheese",
+        "chinese": "奶酪",
+        "tag": "Yeki",
+        "desc": "Apr. 12th. 2024 26/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/tʃiːz/"
+    },
+    {
+        "english": "dairy",
+        "chinese": "乳制品",
+        "tag": "Yeki",
+        "desc": "Apr. 6th. 2024 22/26",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɛri/"
+    },
+    {
+        "english": "Thursday",
+        "chinese": "星期四",
+        "tag": "Yeki",
+        "desc": "Apr. 6th. 2024 22/26",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈθɝːzdeɪ/"
+    },
+    {
+        "english": "routine",
+        "chinese": "常规",
+        "tag": "Yeki",
+        "desc": "Apr. 6th. 2024 22/26",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ruːˈtiːn/"
+    },
+    {
+        "english": "She does her work",
+        "chinese": "她做她的工作",
+        "tag": "Yeki",
+        "desc": "Apr. 5th. 2024 20/22",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "earlier",
+        "chinese": "更早",
+        "tag": "Yeki",
+        "desc": "Apr. 5th. 2024 20/22",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɝːliər/"
+    },
+    {
+        "english": "April",
+        "chinese": "四月",
+        "tag": "Yeki",
+        "desc": "Mar. 31th. 2024 18/20",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈeɪprəl/"
+    },
+    {
+        "english": "daily",
+        "chinese": "每日的",
+        "tag": "Yeki",
+        "desc": "Mar. 30th. 2024 20/22",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdeɪli/"
+    },{
+        "english": "draw a picture",
+        "chinese": "画一幅画",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Tuesday",
+        "chinese": "星期二",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtjuːzdeɪ/"
+    },
+    {
+        "english": "Wednesday",
+        "chinese": "星期三",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɛnzdeɪ/"
+    },
+    {
+        "english": "Friday",
+        "chinese": "星期五",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfraɪdeɪ/"
+    },
+    {
+        "english": "Saturday",
+        "chinese": "星期六",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsætərdeɪ/"
+    },
+    {
+        "english": "key",
+        "chinese": "钥匙",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kiː/"
+    },
+    {
+        "english": "seat",
+        "chinese": "座位",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/siːt/"
+    },
+    {
+        "english": "feed the fish",
+        "chinese": "喂鱼",
+        "tag": "Yeki",
+        "desc": "Mar. 22nd. 2024 23/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "nutrient",
+        "chinese": "营养物",
+        "tag": "Yeki",
+        "desc": "Mar. 22nd. 2024 23/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈnuːtriənt/"
+    },
+    {
+        "english": "sugar",
+        "chinese": "糖",
+        "tag": "Yeki",
+        "desc": "Mar. 16th. 2024 18/20",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈʃʊɡər/"
+    },
+    {
+        "english": "strawberry",
+        "chinese": "草莓",
+        "tag": "Yeki",
+        "desc": "Mar. 16th. 2024 18/20",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈstrɔːbəri/"
+    },
+    {
+        "english": "What do you have for breakfast?",
+        "chinese": "你早餐吃什么？",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I have toast for breakfast.",
+        "chinese": "我早餐吃吐司。",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "calcium",
+        "chinese": "钙",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkælsiəm/"
+    },
+    {
+        "english": "group",
+        "chinese": "组",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɡruːp/"
+    },
+    {
+        "english": "activity",
+        "chinese": "活动",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ækˈtɪvɪti/"
+    },
+    {
+        "english": "No, thank you.",
+        "chinese": "不，谢谢。",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "balanced",
+        "chinese": "平衡的",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbælənst/"
+    },
+    {
+        "english": "vitamins",
+        "chinese": "维生素",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈvaɪtəmɪnz/"
+    },
+    {
+        "english": "protein",
+        "chinese": "蛋白质",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈproʊtiːn/"
+    },
+    {
+        "english": "healthy",
+        "chinese": "健康的",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhɛlθi/"
+    },
+    {
+        "english": "please",
+        "chinese": "请",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pliːz/"
+    },
+    {
+        "english": "evening",
+        "chinese": "晚上",
+        "tag": "Yeki",
+        "desc": "Mar. 8th. 2024 26/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈiːvənɪŋ/"
+    },
+    {
+        "english": "action",
+        "chinese": "行动",
+        "tag": "Yeki",
+        "desc": "Mar. 8th. 2024 26/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈækʃən/"
+    },
+    {
+        "english": "o'clock",
+        "chinese": "点钟",
+        "tag": "Yeki",
+        "desc": "Mar. 2nd. 2024 24/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/əˈklɑːk/"
+    }
+]

@@ -1,5 +1,374 @@
 var words = [
     {
+        "english": "tidy",
+        "chinese": "整理；整洁的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtɪdi/"
+    },
+    {
+        "english": "mess",
+        "chinese": "脏乱；不整洁",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mɛs/"
+    },
+    {
+        "english": "let",
+        "chinese": "让",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/lɛt/"
+    },
+    {
+        "english": "sock",
+        "chinese": "短袜",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/sɑːk/"
+    },
+    {
+        "english": "yours",
+        "chinese": "你的；你们的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/jɔːrz/"
+    },
+    {
+        "english": "cap",
+        "chinese": "帽子",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kæp/"
+    },
+    {
+        "english": "mine",
+        "chinese": "我的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/maɪn/"
+    },
+    {
+        "english": "crayon",
+        "chinese": "彩色蜡笔",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkreɪən/"
+    },
+    {
+        "english": "umbrella",
+        "chinese": "伞",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ʌmˈbrɛlə/"
+    },
+    {
+        "english": "nail",
+        "chinese": "钉子",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/neɪl/"
+    },
+    {
+        "english": "drop",
+        "chinese": "使落下；掉落",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/drɑːp/"
+    },
+    {
+        "english": "stick",
+        "chinese": "粘贴；粘住",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/stɪk/"
+    },
+    {
+        "english": "second",
+        "chinese": "秒（时间单位）",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsekənd/"
+    },
+    {
+        "english": "hers",
+        "chinese": "她的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hɜːrz/"
+    },
+    {
+        "english": "theirs",
+        "chinese": "他（她，它）们的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ðɛrz/"
+    },
+    {
+        "english": "bedroom",
+        "chinese": "卧室",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbɛdruːm/"
+    },
+    {
+        "english": "whose",
+        "chinese": "谁的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/huːz/"
+    },
+    {
+        "english": "magic",
+        "chinese": "神奇的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmædʒɪk/"
+    },
+    {
+        "english": "stone",
+        "chinese": "石头",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/stoʊn/"
+    },
+    {
+        "english": "floor",
+        "chinese": "地板",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/flɔːr/"
+    },
+    {
+        "english": "happily",
+        "chinese": "快乐地",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhæpəli/"
+    },
+    {
+        "english": "give",
+        "chinese": "给",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɡɪv/"
+    },
+    {
+        "english": "help",
+        "chinese": "帮助",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hɛlp/"
+    },
+    {
+        "english": "never",
+        "chinese": "从不；永不",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈnɛvər/"
+    },
+    {
+        "english": "try",
+        "chinese": "尝试",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/traɪ/"
+    },
+    {
+        "english": "afternoon",
+        "chinese": "下午",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈæftərˌnuːn/"
+    },
+    {
+        "english": "sunny",
+        "chinese": "晴朗的",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsʌni/"
+    },
+    {
+        "english": "tidy up",
+        "chinese": "把……整理好",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "(be) full of",
+        "chinese": "装满……；充满",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "a few",
+        "chinese": "几个，一些",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ə ˈfjuː/"
+    },
+    {
+        "english": "put ... on",
+        "chinese": "把……放在……上",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "What a mess!",
+        "chinese": "真是一团糟。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Whose socks are those?",
+        "chinese": "那些袜子是谁的？",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "All the nails fall on the floor.",
+        "chinese": "所有的钉子掉在了地板上。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Can you put them on his bed?",
+        "chinese": "你能把它们放在他的床上吗？",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Are they yours? Not, they aren't.",
+        "chinese": "他们是你的吗？不，他们不是。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "The room is now clean and tidy.",
+        "chinese": "房间现在又干净又整洁。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Let's tidy it up.",
+        "chinese": "让我们把它整理好。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "It's full of nails.",
+        "chinese": "它装满了钉子。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Thank you for your help.",
+        "chinese": "谢谢你的帮助。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "In a few seconds, the floor is clean again.",
+        "chinese": "几秒钟之内，地板又干净了。",
+        "tag": "Grade5-Unit1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
         "english": "safety",
         "chinese": "安全",
         "tag": "Yeki-Latest",
@@ -495,396 +864,288 @@ var words = [
         "phonetic": ""
     },
     {
-        "english": "which",
-        "chinese": "哪一个，哪一些",
-        "tag": "Grade5-Unit8",
+        "english": "holiday",
+        "chinese": "假日，假期",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/wɪtʃ/"
+        "phonetic": "/ˈhɑːlɪdeɪ/"
     },
     {
-        "english": "laugh",
-        "chinese": "大笑",
-        "tag": "Grade5-Unit8",
+        "english": "clear",
+        "chinese": "清澈的",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/læf/"
+        "phonetic": "/klɪər/"
     },
     {
-        "english": "trousers",
-        "chinese": "裤子",
-        "tag": "Grade5-Unit8",
+        "english": "seafood",
+        "chinese": "海鲜",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈtraʊzərz/"
+        "phonetic": "/ˈsiːfuːd/"
     },
     {
-        "english": "favourite",
-        "chinese": "最喜爱的",
-        "tag": "Grade5-Unit8",
+        "english": "hotel",
+        "chinese": "旅馆",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈfeɪvərɪt/"
+        "phonetic": "/hoʊˈtel/"
     },
     {
-        "english": "size",
-        "chinese": "尺码",
-        "tag": "Grade5-Unit8",
+        "english": "island",
+        "chinese": "岛",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/saɪz/"
+        "phonetic": "/ˈaɪlənd/"
     },
     {
-        "english": "emperor",
-        "chinese": "皇帝",
-        "tag": "Grade5-Unit8",
+        "english": "butterfly",
+        "chinese": "蝴蝶",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈempərər/"
+        "phonetic": "/ˈbʌtərflaɪ/"
     },
     {
-        "english": "sweater",
-        "chinese": "毛衣",
-        "tag": "Grade5-Unit8",
+        "english": "butterflies",
+        "chinese": "蝴蝶（复数）",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈswetər/"
+        "phonetic": "/ˈbʌtərflaɪz/"
     },
     {
-        "english": "visit",
-        "chinese": "参观；拜访",
-        "tag": "Grade5-Unit8",
+        "english": "noise",
+        "chinese": "噪音",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈvɪzɪt/"
+        "phonetic": "/nɔɪz/"
     },
     {
-        "english": "coat",
-        "chinese": "外套，大衣",
-        "tag": "Grade5-Unit8",
+        "english": "tortoise",
+        "chinese": "乌龟",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/koʊt/"
+        "phonetic": "/ˈtɔːrtoʊs/"
     },
     {
-        "english": "walk",
-        "chinese": "走路",
-        "tag": "Grade5-Unit8",
+        "english": "voice",
+        "chinese": "声音",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/wɔːk/"
+        "phonetic": "/voʊɪs/"
     },
     {
-        "english": "shoe",
-        "chinese": "鞋",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ʃuː/"
-    },
-    {
-        "english": "clever",
-        "chinese": "聪明的",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈklevər/"
-    },
-    {
-        "english": "dress",
-        "chinese": "连衣裙",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/dres/"
-    },
-    {
-        "english": "people",
-        "chinese": "人，人们",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈpiːpl/"
-    },
-    {
-        "english": "clothes",
-        "chinese": "衣服",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/kloʊz/"
-    },
-    {
-        "english": "mouse",
-        "chinese": "老鼠",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/maʊs/"
-    },
-    {
-        "english": "shirt",
-        "chinese": "衬衫",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ʃɜːrt/"
-    },
-    {
-        "english": "owl",
-        "chinese": "猫头鹰",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/aʊl/"
-    },
-    {
-        "english": "only",
-        "chinese": "只有，仅",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈoʊnli/"
-    },
-    {
-        "english": "cloud",
-        "chinese": "云",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/klaʊd/"
-    },
-    {
-        "english": "nod",
-        "chinese": "点头",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/nɑːd/"
-    },
-    {
-        "english": "brown",
-        "chinese": "棕色的",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/braʊn/"
-    },
-    {
-        "english": "smile",
-        "chinese": "笑容，微笑",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/smaɪl/"
-    },
-    {
-        "english": "bow",
-        "chinese": "鞠躬",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/baʊ/"
-    },
-    {
-        "english": "money",
-        "chinese": "钱",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈmʌni/"
-    },
-    {
-        "english": "cry",
-        "chinese": "哭，叫，喊",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/kraɪ/"
-    },
-    {
-        "english": "keep",
-        "chinese": "保持",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/kiːp/"
-    },
-    {
-        "english": "give",
-        "chinese": "给",
-        "tag": "Grade5-Unit8",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ɡɪv/"
-    },
-    {
-        "english": "try...on",
-        "chinese": "试穿（衣物）",
-        "tag": "Grade5-Unit8",
+        "english": "clear water",
+        "chinese": "清澈的水",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "a pair of trousers",
-        "chinese": "一条裤子",
-        "tag": "Grade5-Unit8",
+        "english": "beautiful beaches",
+        "chinese": "美丽的海滨",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "put...on",
-        "chinese": "穿；戴",
-        "tag": "Grade5-Unit8",
+        "english": "nice seafood",
+        "chinese": "好吃的海鲜",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "walk in the street",
-        "chinese": "走在街上",
-        "tag": "Grade5-Unit8",
+        "english": "get there",
+        "chinese": "到那儿",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "keep quiet",
-        "chinese": "保持安静",
-        "tag": "Grade5-Unit8",
+        "english": "stay in a hotel",
+        "chinese": "呆在一个宾馆里",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "bow to a cow",
-        "chinese": "向牛鞠躬",
-        "tag": "Grade5-Unit8",
+        "english": "by the sea",
+        "chinese": "在海边",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "have a look",
-        "chinese": "看一看",
-        "tag": "Grade5-Unit8",
+        "english": "stay there for five days",
+        "chinese": "呆在那儿五天",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "catch the mouse",
-        "chinese": "抓老鼠",
-        "tag": "Grade5-Unit8",
+        "english": "go swimming",
+        "chinese": "去游泳",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Here you are.",
-        "chinese": "给你",
-        "tag": "Grade5-Unit8",
+        "english": "how long",
+        "chinese": "多长时间",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "cry out",
-        "chinese": "喊出来",
-        "tag": "Grade5-Unit8",
+        "english": "in the south of China",
+        "chinese": "在中国南方",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Which dress do you like, the blue one or pink one?",
-        "chinese": "你喜欢哪条连衣裙，是蓝色的还是粉色的？",
-        "tag": "Grade5-Unit8",
+        "english": "on the island",
+        "chinese": "在岛上",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Pink is my favourite colour.",
-        "chinese": "粉色是我最喜欢的颜色。",
-        "tag": "Grade5-Unit8",
+        "english": "all year round",
+        "chinese": "全年，整年",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Which pair of trousers does Ben like?",
-        "chinese": "Ben 喜欢哪条裤子？",
-        "tag": "Grade5-Unit8",
+        "english": "visit the Sea World",
+        "chinese": "参观海洋世界",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Only clever people can see them.",
-        "chinese": "只有聪明的人才能看见他们。",
-        "tag": "Grade5-Unit8",
+        "english": "sea plants",
+        "chinese": "海洋植物",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "I also have some magic clothes for you.",
-        "chinese": "我也有一些魔法衣服给你。",
-        "tag": "Grade5-Unit8",
+        "english": "holiday plan",
+        "chinese": "假期计划",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Here are some traditional clothes from China, India and Japan.",
-        "chinese": "这有一些来自中国，印度和日本的传统服饰。",
-        "tag": "Grade5-Unit8",
+        "english": "It's a wonderful place for a holiday.",
+        "chinese": "它是度假圣地。",
+        "tag": "Grade5-Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Where will we stay? We'll stay in a hotel by the sea.",
+        "chinese": "我们将住在哪里？我们将在海边的一个宾馆里。",
+        "tag": "Grade5-Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "How long will we stay in Sanya? We'll stay there for five days.",
+        "chinese": "我们将在三亚呆几天？我们将在那儿呆五天。",
+        "tag": "Grade5-Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "What will we do there?",
+        "chinese": "我们将在那里做什么？",
+        "tag": "Grade5-Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Sanya has beautiful beaches with clear water.",
+        "chinese": "三亚有美丽的海滩，那里海水清澈。",
+        "tag": "Grade5-Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Sanya is on Hainan Island. It is in the south of China.",
+        "chinese": "三亚在海南岛上。它在中国的南方。",
+        "tag": "Grade5-Unit6",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "The weather is nice all year round.",
+        "chinese": "全年天气宜人。",
+        "tag": "Grade5-Unit6",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1530,441 +1791,333 @@ var words = [
         "phonetic": "/əˈklɑːk/"
     },
     {
-        "english": "future",
-        "chinese": "将来；未来",
-        "tag": "Grade5-Unit3",
+        "english": "weekend",
+        "chinese": "周末",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈfjuːtʃər/"
+        "phonetic": "/ˈwiːkˌɛnd/"
     },
     {
-        "english": "stand",
-        "chinese": "站；站住",
-        "tag": "Grade5-Unit3",
+        "english": "stay",
+        "chinese": "待，停留",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/stænd/"
+        "phonetic": "/steɪ/"
     },
     {
-        "english": "machine",
-        "chinese": "机器",
-        "tag": "Grade5-Unit3",
+        "english": "boat",
+        "chinese": "船，划船",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/məˈʃiːn/"
+        "phonetic": "/boʊt/"
     },
     {
-        "english": "will",
-        "chinese": "将；将会",
-        "tag": "Grade5-Unit3",
+        "english": "plan",
+        "chinese": "计划",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/wɪl/"
+        "phonetic": "/plæn/"
     },
     {
-        "english": "exercise",
-        "chinese": "运动；锻炼；活动",
-        "tag": "Grade5-Unit3",
+        "english": "tomorrow",
+        "chinese": "明天",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈɛksərsaɪz/"
+        "phonetic": "/təˈmɑːroʊ/"
     },
     {
-        "english": "early",
-        "chinese": "早；提早",
-        "tag": "Grade5-Unit3",
+        "english": "build",
+        "chinese": "建造",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈɜːrli/"
+        "phonetic": "/bɪld/"
     },
     {
-        "english": "easily",
-        "chinese": "容易地",
-        "tag": "Grade5-Unit3",
+        "english": "next",
+        "chinese": "下一个",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈiːzɪli/"
+        "phonetic": "/nɛkst/"
     },
     {
-        "english": "hard",
-        "chinese": "努力地",
-        "tag": "Grade5-Unit3",
+        "english": "swing",
+        "chinese": "秋千",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/hɑːrd/"
+        "phonetic": "/swɪŋ/"
     },
     {
-        "english": "more",
-        "chinese": "更多的",
-        "tag": "Grade5-Unit3",
+        "english": "cry",
+        "chinese": "哭，大喊",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/mɔːr/"
+        "phonetic": "/kraɪ/"
     },
     {
-        "english": "teacher",
-        "chinese": "老师",
-        "tag": "Grade5-Unit3",
+        "english": "until",
+        "chinese": "直到",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈtiːtʃər/"
+        "phonetic": "/ʌnˈtɪl/"
     },
     {
-        "english": "magic",
-        "chinese": "神奇的",
-        "tag": "Grade5-Unit3",
+        "english": "film",
+        "chinese": "电影",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈmædʒɪk/"
+        "phonetic": "/fɪlm/"
     },
     {
-        "english": "beautiful",
-        "chinese": "漂亮的",
-        "tag": "Grade5-Unit3",
+        "english": "should",
+        "chinese": "应该",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈbjuːtɪfəl/"
+        "phonetic": "/ʃʊd/"
     },
     {
-        "english": "job",
-        "chinese": "工作；职业",
-        "tag": "Grade5-Unit3",
+        "english": "sure",
+        "chinese": "当然",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/dʒɒb/"
+        "phonetic": "/ʃʊr/"
     },
     {
-        "english": "word",
-        "chinese": "单词",
-        "tag": "Grade5-Unit3",
+        "english": "French fries",
+        "chinese": "炸薯条",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/wɜːrd/"
+        "phonetic": "/frɛntʃ fraɪz/"
     },
     {
-        "english": "won't",
-        "chinese": "将不",
-        "tag": "Grade5-Unit3",
+        "english": "need",
+        "chinese": "需要",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/woʊnt/"
+        "phonetic": "/niːd/"
     },
     {
-        "english": "breakfast",
-        "chinese": "早餐",
-        "tag": "Grade5-Unit3",
+        "english": "again",
+        "chinese": "又，再",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈbrɛkfəst/"
+        "phonetic": "/əˈɡɛn/"
     },
     {
-        "english": "late",
-        "chinese": "迟的",
-        "tag": "Grade5-Unit3",
+        "english": "goat",
+        "chinese": "山羊",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/leɪt/"
+        "phonetic": "/ɡoʊt/"
     },
     {
-        "english": "tired",
-        "chinese": "累的；疲倦的",
-        "tag": "Grade5-Unit3",
+        "english": "dirty",
+        "chinese": "脏的",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈtaɪərd/"
+        "phonetic": "/ˈdɜːrti/"
     },
     {
-        "english": "strong",
-        "chinese": "强壮的",
-        "tag": "Grade5-Unit3",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/strɒŋ/"
-    },
-    {
-        "english": "pilot",
-        "chinese": "飞行员",
-        "tag": "Grade5-Unit3",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈpaɪlət/"
-    },
-    {
-        "english": "doctor",
-        "chinese": "医生",
-        "tag": "Grade5-Unit3",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈdɒktər/"
-    },
-    {
-        "english": "cook",
-        "chinese": "厨师",
-        "tag": "Grade5-Unit3",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/kʊk/"
-    },
-    {
-        "english": "deer",
-        "chinese": "鹿",
-        "tag": "Grade5-Unit3",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/dɪər/"
-    },
-    {
-        "english": "tear",
-        "chinese": "眼泪",
-        "tag": "Grade5-Unit3",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/tɪər/"
-    },
-    {
-        "english": "bee",
-        "chinese": "蜜蜂",
-        "tag": "Grade5-Unit3",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/biː/"
-    },
-    {
-        "english": "suddenly",
-        "chinese": "突然",
-        "tag": "Grade5-Unit3",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈsʌdənli/"
-    },
-    {
-        "english": "in the future",
-        "chinese": "将来",
-        "tag": "Grade5-Unit3",
+        "english": "see a film",
+        "chinese": "看电影",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "in front of",
-        "chinese": "在...前面",
-        "tag": "Grade5-Unit3",
+        "english": "row a boat",
+        "chinese": "划船",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "take a photo",
-        "chinese": "拍照",
-        "tag": "Grade5-Unit3",
+        "english": "at the weekend",
+        "chinese": "在周末",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "wear glasses",
-        "chinese": "戴眼镜",
-        "tag": "Grade5-Unit3",
+        "english": "stay at home",
+        "chinese": "待在家里",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "do exercise",
-        "chinese": "做运动",
-        "tag": "Grade5-Unit3",
+        "english": "on Saturday afternoon",
+        "chinese": "在星期六的下午",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "(be) weak in",
-        "chinese": "不擅长",
-        "tag": "Grade5-Unit3",
+        "english": "have plans for the weekend",
+        "chinese": "有周末的计划",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "not ... any more",
-        "chinese": "不再",
-        "tag": "Grade5-Unit3",
+        "english": "the next day",
+        "chinese": "第二天",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "know about",
-        "chinese": "知道；了解",
-        "tag": "Grade5-Unit3",
+        "english": "on the third day",
+        "chinese": "在第三天",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "(be) good at",
-        "chinese": "擅长",
-        "tag": "Grade5-Unit3",
+        "english": "build a house",
+        "chinese": "建一个房子",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "get up",
-        "chinese": "起床",
-        "tag": "Grade5-Unit3",
+        "english": "come with me",
+        "chinese": "跟我来",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "watch TV",
-        "chinese": "看电视",
-        "tag": "Grade5-Unit3",
+        "english": "sleep in a tree",
+        "chinese": "在树上睡觉",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "study hard",
-        "chinese": "努力学习",
-        "tag": "Grade5-Unit3",
+        "english": "Children, what are you going to do this weekend?",
+        "chinese": "孩子们，这个周末你们打算做什么？",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "English book",
-        "chinese": "英语书",
-        "tag": "Grade5-Unit3",
+        "english": "I'm going to see a film with my parents on Saturday afternoon.",
+        "chinese": "我打算在星期六下午和我的父母去看一场电影。",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "I'll be a teacher.",
-        "chinese": "我将成为一个老师。",
-        "tag": "Grade5-Unit3",
+        "english": "I'm going to stay at home and watch TV with my grandparents.",
+        "chinese": "我打算待在家里和我的祖父母看电视。",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "I won't wear glasses.",
-        "chinese": "我将不戴眼镜。",
-        "tag": "Grade5-Unit3",
+        "english": "I'm going to row a boat and fly a kite in the park on Sunday.",
+        "chinese": "我打算周日在公园里划船和放风筝。",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Kitty wants to know about her future.",
-        "chinese": "基蒂想知道她的未来。",
-        "tag": "Grade5-Unit3",
+        "english": "I don't have any plans for the weekend.",
+        "chinese": "我这个周末没有计划。",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "There are some words on the back.",
-        "chinese": "在背面有一些字。",
-        "tag": "Grade5-Unit3",
+        "english": "It's raining, but Little Monkey does not have a house. He sleeps in a tree.",
+        "chinese": "下雨了，但是小猴子没有房子。他睡在一棵树上。",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "I'll have big and beautiful eyes.",
-        "chinese": "我将有又大又美丽的眼睛。",
-        "tag": "Grade5-Unit3",
+        "english": "\"I need a house,\" he thinks, \"I'm going to build one tomorrow.\"",
+        "chinese": "“我需要一个房子，”他想，“我明天要建一个。”",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "I am good at Maths, but I am weak in English.",
-        "chinese": "我擅长数学，但我不擅长英语。",
-        "tag": "Grade5-Unit3",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "I do not like sport and I get tired easily.",
-        "chinese": "我不喜欢运动并且容易累。",
-        "tag": "Grade5-Unit3",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "I will not be late for school any more.",
-        "chinese": "我将不再上学迟到。",
-        "tag": "Grade5-Unit3",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "I will try to get up early and have breakfast.",
-        "chinese": "我将尽力早起并且吃早饭。",
-        "tag": "Grade5-Unit3",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "I will not watch too much TV.",
-        "chinese": "我将不看太多电视。",
-        "tag": "Grade5-Unit3",
+        "english": "Don't wait until tomorrow.",
+        "chinese": "不要等到明日。",
+        "tag": "Grade5-Unit5",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -2421,990 +2574,837 @@ var words = [
         "phonetic": ""
     },
     {
-        "english": "weekend",
-        "chinese": "周末",
-        "tag": "Grade5-Unit5",
+        "english": "which",
+        "chinese": "哪一个，哪一些",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈwiːkˌɛnd/"
+        "phonetic": "/wɪtʃ/"
     },
     {
-        "english": "stay",
-        "chinese": "待，停留",
-        "tag": "Grade5-Unit5",
+        "english": "laugh",
+        "chinese": "大笑",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/steɪ/"
+        "phonetic": "/læf/"
     },
     {
-        "english": "boat",
-        "chinese": "船，划船",
-        "tag": "Grade5-Unit5",
+        "english": "trousers",
+        "chinese": "裤子",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/boʊt/"
+        "phonetic": "/ˈtraʊzərz/"
     },
     {
-        "english": "plan",
-        "chinese": "计划",
-        "tag": "Grade5-Unit5",
+        "english": "favourite",
+        "chinese": "最喜爱的",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/plæn/"
+        "phonetic": "/ˈfeɪvərɪt/"
     },
     {
-        "english": "tomorrow",
-        "chinese": "明天",
-        "tag": "Grade5-Unit5",
+        "english": "size",
+        "chinese": "尺码",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/təˈmɑːroʊ/"
+        "phonetic": "/saɪz/"
     },
     {
-        "english": "build",
-        "chinese": "建造",
-        "tag": "Grade5-Unit5",
+        "english": "emperor",
+        "chinese": "皇帝",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/bɪld/"
+        "phonetic": "/ˈempərər/"
     },
     {
-        "english": "next",
-        "chinese": "下一个",
-        "tag": "Grade5-Unit5",
+        "english": "sweater",
+        "chinese": "毛衣",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/nɛkst/"
+        "phonetic": "/ˈswetər/"
     },
     {
-        "english": "swing",
-        "chinese": "秋千",
-        "tag": "Grade5-Unit5",
+        "english": "visit",
+        "chinese": "参观；拜访",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/swɪŋ/"
+        "phonetic": "/ˈvɪzɪt/"
+    },
+    {
+        "english": "coat",
+        "chinese": "外套，大衣",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/koʊt/"
+    },
+    {
+        "english": "walk",
+        "chinese": "走路",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɔːk/"
+    },
+    {
+        "english": "shoe",
+        "chinese": "鞋",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ʃuː/"
+    },
+    {
+        "english": "clever",
+        "chinese": "聪明的",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈklevər/"
+    },
+    {
+        "english": "dress",
+        "chinese": "连衣裙",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dres/"
+    },
+    {
+        "english": "people",
+        "chinese": "人，人们",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpiːpl/"
+    },
+    {
+        "english": "clothes",
+        "chinese": "衣服",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kloʊz/"
+    },
+    {
+        "english": "mouse",
+        "chinese": "老鼠",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/maʊs/"
+    },
+    {
+        "english": "shirt",
+        "chinese": "衬衫",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ʃɜːrt/"
+    },
+    {
+        "english": "owl",
+        "chinese": "猫头鹰",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/aʊl/"
+    },
+    {
+        "english": "only",
+        "chinese": "只有，仅",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈoʊnli/"
+    },
+    {
+        "english": "cloud",
+        "chinese": "云",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/klaʊd/"
+    },
+    {
+        "english": "nod",
+        "chinese": "点头",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/nɑːd/"
+    },
+    {
+        "english": "brown",
+        "chinese": "棕色的",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/braʊn/"
+    },
+    {
+        "english": "smile",
+        "chinese": "笑容，微笑",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/smaɪl/"
+    },
+    {
+        "english": "bow",
+        "chinese": "鞠躬",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/baʊ/"
+    },
+    {
+        "english": "money",
+        "chinese": "钱",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmʌni/"
     },
     {
         "english": "cry",
-        "chinese": "哭，大喊",
-        "tag": "Grade5-Unit5",
+        "chinese": "哭，叫，喊",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/kraɪ/"
     },
     {
-        "english": "until",
-        "chinese": "直到",
-        "tag": "Grade5-Unit5",
+        "english": "keep",
+        "chinese": "保持",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ʌnˈtɪl/"
-    },
-    {
-        "english": "film",
-        "chinese": "电影",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/fɪlm/"
-    },
-    {
-        "english": "should",
-        "chinese": "应该",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ʃʊd/"
-    },
-    {
-        "english": "sure",
-        "chinese": "当然",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ʃʊr/"
-    },
-    {
-        "english": "French fries",
-        "chinese": "炸薯条",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/frɛntʃ fraɪz/"
-    },
-    {
-        "english": "need",
-        "chinese": "需要",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/niːd/"
-    },
-    {
-        "english": "again",
-        "chinese": "又，再",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/əˈɡɛn/"
-    },
-    {
-        "english": "goat",
-        "chinese": "山羊",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ɡoʊt/"
-    },
-    {
-        "english": "dirty",
-        "chinese": "脏的",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈdɜːrti/"
-    },
-    {
-        "english": "see a film",
-        "chinese": "看电影",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "row a boat",
-        "chinese": "划船",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "at the weekend",
-        "chinese": "在周末",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "stay at home",
-        "chinese": "待在家里",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "on Saturday afternoon",
-        "chinese": "在星期六的下午",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "have plans for the weekend",
-        "chinese": "有周末的计划",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "the next day",
-        "chinese": "第二天",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "on the third day",
-        "chinese": "在第三天",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "build a house",
-        "chinese": "建一个房子",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "come with me",
-        "chinese": "跟我来",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "sleep in a tree",
-        "chinese": "在树上睡觉",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "Children, what are you going to do this weekend?",
-        "chinese": "孩子们，这个周末你们打算做什么？",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "I'm going to see a film with my parents on Saturday afternoon.",
-        "chinese": "我打算在星期六下午和我的父母去看一场电影。",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "I'm going to stay at home and watch TV with my grandparents.",
-        "chinese": "我打算待在家里和我的祖父母看电视。",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "I'm going to row a boat and fly a kite in the park on Sunday.",
-        "chinese": "我打算周日在公园里划船和放风筝。",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "I don't have any plans for the weekend.",
-        "chinese": "我这个周末没有计划。",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "It's raining, but Little Monkey does not have a house. He sleeps in a tree.",
-        "chinese": "下雨了，但是小猴子没有房子。他睡在一棵树上。",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "\"I need a house,\" he thinks, \"I'm going to build one tomorrow.\"",
-        "chinese": "“我需要一个房子，”他想，“我明天要建一个。”",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "Don't wait until tomorrow.",
-        "chinese": "不要等到明日。",
-        "tag": "Grade5-Unit5",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "holiday",
-        "chinese": "假日，假期",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈhɑːlɪdeɪ/"
-    },
-    {
-        "english": "clear",
-        "chinese": "清澈的",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/klɪər/"
-    },
-    {
-        "english": "seafood",
-        "chinese": "海鲜",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈsiːfuːd/"
-    },
-    {
-        "english": "hotel",
-        "chinese": "旅馆",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/hoʊˈtel/"
-    },
-    {
-        "english": "island",
-        "chinese": "岛",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈaɪlənd/"
-    },
-    {
-        "english": "butterfly",
-        "chinese": "蝴蝶",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈbʌtərflaɪ/"
-    },
-    {
-        "english": "butterflies",
-        "chinese": "蝴蝶（复数）",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈbʌtərflaɪz/"
-    },
-    {
-        "english": "noise",
-        "chinese": "噪音",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/nɔɪz/"
-    },
-    {
-        "english": "tortoise",
-        "chinese": "乌龟",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈtɔːrtoʊs/"
-    },
-    {
-        "english": "voice",
-        "chinese": "声音",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/voʊɪs/"
-    },
-    {
-        "english": "clear water",
-        "chinese": "清澈的水",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "beautiful beaches",
-        "chinese": "美丽的海滨",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "nice seafood",
-        "chinese": "好吃的海鲜",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "get there",
-        "chinese": "到那儿",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "stay in a hotel",
-        "chinese": "呆在一个宾馆里",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "by the sea",
-        "chinese": "在海边",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "stay there for five days",
-        "chinese": "呆在那儿五天",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "go swimming",
-        "chinese": "去游泳",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "how long",
-        "chinese": "多长时间",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "in the south of China",
-        "chinese": "在中国南方",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "on the island",
-        "chinese": "在岛上",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "all year round",
-        "chinese": "全年，整年",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "visit the Sea World",
-        "chinese": "参观海洋世界",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "sea plants",
-        "chinese": "海洋植物",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "holiday plan",
-        "chinese": "假期计划",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "It's a wonderful place for a holiday.",
-        "chinese": "它是度假圣地。",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "Where will we stay? We'll stay in a hotel by the sea.",
-        "chinese": "我们将住在哪里？我们将在海边的一个宾馆里。",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "How long will we stay in Sanya? We'll stay there for five days.",
-        "chinese": "我们将在三亚呆几天？我们将在那儿呆五天。",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "What will we do there?",
-        "chinese": "我们将在那里做什么？",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "Sanya has beautiful beaches with clear water.",
-        "chinese": "三亚有美丽的海滩，那里海水清澈。",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "Sanya is on Hainan Island. It is in the south of China.",
-        "chinese": "三亚在海南岛上。它在中国的南方。",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "The weather is nice all year round.",
-        "chinese": "全年天气宜人。",
-        "tag": "Grade5-Unit6",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "tidy",
-        "chinese": "整理；整洁的",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈtɪdi/"
-    },
-    {
-        "english": "mess",
-        "chinese": "脏乱；不整洁",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/mɛs/"
-    },
-    {
-        "english": "let",
-        "chinese": "让",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/lɛt/"
-    },
-    {
-        "english": "sock",
-        "chinese": "短袜",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/sɑːk/"
-    },
-    {
-        "english": "yours",
-        "chinese": "你的；你们的",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/jɔːrz/"
-    },
-    {
-        "english": "cap",
-        "chinese": "帽子",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/kæp/"
-    },
-    {
-        "english": "mine",
-        "chinese": "我的",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/maɪn/"
-    },
-    {
-        "english": "crayon",
-        "chinese": "彩色蜡笔",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈkreɪən/"
-    },
-    {
-        "english": "umbrella",
-        "chinese": "伞",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ʌmˈbrɛlə/"
-    },
-    {
-        "english": "nail",
-        "chinese": "钉子",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/neɪl/"
-    },
-    {
-        "english": "drop",
-        "chinese": "使落下；掉落",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/drɑːp/"
-    },
-    {
-        "english": "stick",
-        "chinese": "粘贴；粘住",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/stɪk/"
-    },
-    {
-        "english": "second",
-        "chinese": "秒（时间单位）",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈsekənd/"
-    },
-    {
-        "english": "hers",
-        "chinese": "她的",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/hɜːrz/"
-    },
-    {
-        "english": "theirs",
-        "chinese": "他（她，它）们的",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ðɛrz/"
-    },
-    {
-        "english": "bedroom",
-        "chinese": "卧室",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈbɛdruːm/"
-    },
-    {
-        "english": "whose",
-        "chinese": "谁的",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/huːz/"
-    },
-    {
-        "english": "magic",
-        "chinese": "神奇的",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈmædʒɪk/"
-    },
-    {
-        "english": "stone",
-        "chinese": "石头",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/stoʊn/"
-    },
-    {
-        "english": "floor",
-        "chinese": "地板",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/flɔːr/"
-    },
-    {
-        "english": "happily",
-        "chinese": "快乐地",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈhæpəli/"
+        "phonetic": "/kiːp/"
     },
     {
         "english": "give",
         "chinese": "给",
-        "tag": "Grade5-Unit1",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ɡɪv/"
     },
     {
-        "english": "help",
-        "chinese": "帮助",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/hɛlp/"
-    },
-    {
-        "english": "never",
-        "chinese": "从不；永不",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈnɛvər/"
-    },
-    {
-        "english": "try",
-        "chinese": "尝试",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/traɪ/"
-    },
-    {
-        "english": "afternoon",
-        "chinese": "下午",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈæftərˌnuːn/"
-    },
-    {
-        "english": "sunny",
-        "chinese": "晴朗的",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈsʌni/"
-    },
-    {
-        "english": "tidy up",
-        "chinese": "把……整理好",
-        "tag": "Grade5-Unit1",
+        "english": "try...on",
+        "chinese": "试穿（衣物）",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "(be) full of",
-        "chinese": "装满……；充满",
-        "tag": "Grade5-Unit1",
+        "english": "a pair of trousers",
+        "chinese": "一条裤子",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "a few",
-        "chinese": "几个，一些",
-        "tag": "Grade5-Unit1",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ə ˈfjuː/"
-    },
-    {
-        "english": "put ... on",
-        "chinese": "把……放在……上",
-        "tag": "Grade5-Unit1",
+        "english": "put...on",
+        "chinese": "穿；戴",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "What a mess!",
-        "chinese": "真是一团糟。",
-        "tag": "Grade5-Unit1",
+        "english": "walk in the street",
+        "chinese": "走在街上",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Whose socks are those?",
-        "chinese": "那些袜子是谁的？",
-        "tag": "Grade5-Unit1",
+        "english": "keep quiet",
+        "chinese": "保持安静",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "All the nails fall on the floor.",
-        "chinese": "所有的钉子掉在了地板上。",
-        "tag": "Grade5-Unit1",
+        "english": "bow to a cow",
+        "chinese": "向牛鞠躬",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Can you put them on his bed?",
-        "chinese": "你能把它们放在他的床上吗？",
-        "tag": "Grade5-Unit1",
+        "english": "have a look",
+        "chinese": "看一看",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Are they yours? Not, they aren't.",
-        "chinese": "他们是你的吗？不，他们不是。",
-        "tag": "Grade5-Unit1",
+        "english": "catch the mouse",
+        "chinese": "抓老鼠",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "The room is now clean and tidy.",
-        "chinese": "房间现在又干净又整洁。",
-        "tag": "Grade5-Unit1",
+        "english": "Here you are.",
+        "chinese": "给你",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Let's tidy it up.",
-        "chinese": "让我们把它整理好。",
-        "tag": "Grade5-Unit1",
+        "english": "cry out",
+        "chinese": "喊出来",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "It's full of nails.",
-        "chinese": "它装满了钉子。",
-        "tag": "Grade5-Unit1",
+        "english": "Which dress do you like, the blue one or pink one?",
+        "chinese": "你喜欢哪条连衣裙，是蓝色的还是粉色的？",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Thank you for your help.",
-        "chinese": "谢谢你的帮助。",
-        "tag": "Grade5-Unit1",
+        "english": "Pink is my favourite colour.",
+        "chinese": "粉色是我最喜欢的颜色。",
+        "tag": "Grade5-Unit8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "In a few seconds, the floor is clean again.",
-        "chinese": "几秒钟之内，地板又干净了。",
-        "tag": "Grade5-Unit1",
+        "english": "Which pair of trousers does Ben like?",
+        "chinese": "Ben 喜欢哪条裤子？",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Only clever people can see them.",
+        "chinese": "只有聪明的人才能看见他们。",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I also have some magic clothes for you.",
+        "chinese": "我也有一些魔法衣服给你。",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Here are some traditional clothes from China, India and Japan.",
+        "chinese": "这有一些来自中国，印度和日本的传统服饰。",
+        "tag": "Grade5-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "future",
+        "chinese": "将来；未来",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfjuːtʃər/"
+    },
+    {
+        "english": "stand",
+        "chinese": "站；站住",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/stænd/"
+    },
+    {
+        "english": "machine",
+        "chinese": "机器",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/məˈʃiːn/"
+    },
+    {
+        "english": "will",
+        "chinese": "将；将会",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɪl/"
+    },
+    {
+        "english": "exercise",
+        "chinese": "运动；锻炼；活动",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɛksərsaɪz/"
+    },
+    {
+        "english": "early",
+        "chinese": "早；提早",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɜːrli/"
+    },
+    {
+        "english": "easily",
+        "chinese": "容易地",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈiːzɪli/"
+    },
+    {
+        "english": "hard",
+        "chinese": "努力地",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hɑːrd/"
+    },
+    {
+        "english": "more",
+        "chinese": "更多的",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mɔːr/"
+    },
+    {
+        "english": "teacher",
+        "chinese": "老师",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtiːtʃər/"
+    },
+    {
+        "english": "magic",
+        "chinese": "神奇的",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmædʒɪk/"
+    },
+    {
+        "english": "beautiful",
+        "chinese": "漂亮的",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbjuːtɪfəl/"
+    },
+    {
+        "english": "job",
+        "chinese": "工作；职业",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dʒɒb/"
+    },
+    {
+        "english": "word",
+        "chinese": "单词",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɜːrd/"
+    },
+    {
+        "english": "won't",
+        "chinese": "将不",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/woʊnt/"
+    },
+    {
+        "english": "breakfast",
+        "chinese": "早餐",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbrɛkfəst/"
+    },
+    {
+        "english": "late",
+        "chinese": "迟的",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/leɪt/"
+    },
+    {
+        "english": "tired",
+        "chinese": "累的；疲倦的",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtaɪərd/"
+    },
+    {
+        "english": "strong",
+        "chinese": "强壮的",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/strɒŋ/"
+    },
+    {
+        "english": "pilot",
+        "chinese": "飞行员",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpaɪlət/"
+    },
+    {
+        "english": "doctor",
+        "chinese": "医生",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɒktər/"
+    },
+    {
+        "english": "cook",
+        "chinese": "厨师",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kʊk/"
+    },
+    {
+        "english": "deer",
+        "chinese": "鹿",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dɪər/"
+    },
+    {
+        "english": "tear",
+        "chinese": "眼泪",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/tɪər/"
+    },
+    {
+        "english": "bee",
+        "chinese": "蜜蜂",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/biː/"
+    },
+    {
+        "english": "suddenly",
+        "chinese": "突然",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsʌdənli/"
+    },
+    {
+        "english": "in the future",
+        "chinese": "将来",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "in front of",
+        "chinese": "在...前面",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "take a photo",
+        "chinese": "拍照",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "wear glasses",
+        "chinese": "戴眼镜",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "do exercise",
+        "chinese": "做运动",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "(be) weak in",
+        "chinese": "不擅长",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "not ... any more",
+        "chinese": "不再",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "know about",
+        "chinese": "知道；了解",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "(be) good at",
+        "chinese": "擅长",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "get up",
+        "chinese": "起床",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "watch TV",
+        "chinese": "看电视",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "study hard",
+        "chinese": "努力学习",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "English book",
+        "chinese": "英语书",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I'll be a teacher.",
+        "chinese": "我将成为一个老师。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I won't wear glasses.",
+        "chinese": "我将不戴眼镜。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Kitty wants to know about her future.",
+        "chinese": "基蒂想知道她的未来。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "There are some words on the back.",
+        "chinese": "在背面有一些字。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I'll have big and beautiful eyes.",
+        "chinese": "我将有又大又美丽的眼睛。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I am good at Maths, but I am weak in English.",
+        "chinese": "我擅长数学，但我不擅长英语。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I do not like sport and I get tired easily.",
+        "chinese": "我不喜欢运动并且容易累。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I will not be late for school any more.",
+        "chinese": "我将不再上学迟到。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I will try to get up early and have breakfast.",
+        "chinese": "我将尽力早起并且吃早饭。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I will not watch too much TV.",
+        "chinese": "我将不看太多电视。",
+        "tag": "Grade5-Unit3",
         "desc": "",
         "right": 0,
         "wrong": 0,

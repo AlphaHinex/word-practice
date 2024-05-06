@@ -1,0 +1,443 @@
+[
+    {
+        "english": "future",
+        "chinese": "将来；未来",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfjuːtʃər/"
+    },
+    {
+        "english": "stand",
+        "chinese": "站；站住",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/stænd/"
+    },
+    {
+        "english": "machine",
+        "chinese": "机器",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/məˈʃiːn/"
+    },
+    {
+        "english": "will",
+        "chinese": "将；将会",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɪl/"
+    },
+    {
+        "english": "exercise",
+        "chinese": "运动；锻炼；活动",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɛksərsaɪz/"
+    },
+    {
+        "english": "early",
+        "chinese": "早；提早",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɜːrli/"
+    },
+    {
+        "english": "easily",
+        "chinese": "容易地",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈiːzɪli/"
+    },
+    {
+        "english": "hard",
+        "chinese": "努力地",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hɑːrd/"
+    },
+    {
+        "english": "more",
+        "chinese": "更多的",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mɔːr/"
+    },
+    {
+        "english": "teacher",
+        "chinese": "老师",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtiːtʃər/"
+    },
+    {
+        "english": "magic",
+        "chinese": "神奇的",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmædʒɪk/"
+    },
+    {
+        "english": "beautiful",
+        "chinese": "漂亮的",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbjuːtɪfəl/"
+    },
+    {
+        "english": "job",
+        "chinese": "工作；职业",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dʒɒb/"
+    },
+    {
+        "english": "word",
+        "chinese": "单词",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɜːrd/"
+    },
+    {
+        "english": "won't",
+        "chinese": "将不",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/woʊnt/"
+    },
+    {
+        "english": "breakfast",
+        "chinese": "早餐",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbrɛkfəst/"
+    },
+    {
+        "english": "late",
+        "chinese": "迟的",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/leɪt/"
+    },
+    {
+        "english": "tired",
+        "chinese": "累的；疲倦的",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtaɪərd/"
+    },
+    {
+        "english": "strong",
+        "chinese": "强壮的",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/strɒŋ/"
+    },
+    {
+        "english": "pilot",
+        "chinese": "飞行员",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpaɪlət/"
+    },
+    {
+        "english": "doctor",
+        "chinese": "医生",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɒktər/"
+    },
+    {
+        "english": "cook",
+        "chinese": "厨师",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kʊk/"
+    },
+    {
+        "english": "deer",
+        "chinese": "鹿",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dɪər/"
+    },
+    {
+        "english": "tear",
+        "chinese": "眼泪",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/tɪər/"
+    },
+    {
+        "english": "bee",
+        "chinese": "蜜蜂",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/biː/"
+    },
+    {
+        "english": "suddenly",
+        "chinese": "突然",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsʌdənli/"
+    },
+    {
+        "english": "in the future",
+        "chinese": "将来",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "in front of",
+        "chinese": "在...前面",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "take a photo",
+        "chinese": "拍照",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "wear glasses",
+        "chinese": "戴眼镜",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "do exercise",
+        "chinese": "做运动",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "(be) weak in",
+        "chinese": "不擅长",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "not ... any more",
+        "chinese": "不再",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "know about",
+        "chinese": "知道；了解",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "(be) good at",
+        "chinese": "擅长",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "get up",
+        "chinese": "起床",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "watch TV",
+        "chinese": "看电视",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "study hard",
+        "chinese": "努力学习",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "English book",
+        "chinese": "英语书",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I'll be a teacher.",
+        "chinese": "我将成为一个老师。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I won't wear glasses.",
+        "chinese": "我将不戴眼镜。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Kitty wants to know about her future.",
+        "chinese": "基蒂想知道她的未来。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "There are some words on the back.",
+        "chinese": "在背面有一些字。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I'll have big and beautiful eyes.",
+        "chinese": "我将有又大又美丽的眼睛。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I am good at Maths, but I am weak in English.",
+        "chinese": "我擅长数学，但我不擅长英语。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I do not like sport and I get tired easily.",
+        "chinese": "我不喜欢运动并且容易累。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I will not be late for school any more.",
+        "chinese": "我将不再上学迟到。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I will try to get up early and have breakfast.",
+        "chinese": "我将尽力早起并且吃早饭。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I will not watch too much TV.",
+        "chinese": "我将不看太多电视。",
+        "tag": "Grade5-Unit3",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    }
+]
