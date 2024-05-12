@@ -1,0 +1,236 @@
+[
+    {
+        "english": "persuasive",
+        "chinese": "有说服力的",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pərˈsuː.as.ɪv/"
+    },
+    {
+        "english": "structure",
+        "chinese": "结构",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈstrʌk.tʃɚ/"
+    },
+    {
+        "english": "opinion",
+        "chinese": "意见",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/əˈpɪnjən/"
+    },
+    {
+        "english": "believe",
+        "chinese": "相信",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/bɪˈliːv/"
+    },
+    {
+        "english": "reason",
+        "chinese": "原因",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈriː.zən/"
+    },
+    {
+        "english": "First",
+        "chinese": "第一",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fɜːrst/"
+    },
+    {
+        "english": "Second",
+        "chinese": "第二",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsek.ənd/"
+    },
+    {
+        "english": "Third",
+        "chinese": "第三",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/θɜːrd/"
+    },
+    {
+        "english": "Finally",
+        "chinese": "最后",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfaɪn.əl.i/"
+    },
+    {
+        "english": "example",
+        "chinese": "例子",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɪgˈzæm.pəl/"
+    },
+    {
+        "english": "details",
+        "chinese": "细节",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdiː.teɪlz/"
+    },
+    {
+        "english": "because",
+        "chinese": "因为",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/bɪˈkɔːz/"
+    },
+    {
+        "english": "one more time",
+        "chinese": "再一次",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "think",
+        "chinese": "认为",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/θɪŋk/"
+    },
+    {
+        "english": "feel",
+        "chinese": "感觉",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fiːl/"
+    },
+    {
+        "english": "trip",
+        "chinese": "旅行",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/trɪp/"
+    },
+    {
+        "english": "choice",
+        "chinese": "选择",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/tʃɔɪs/"
+    },
+    {
+        "english": "activity",
+        "chinese": "活动",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/æk.tɪˈvɪ.ti/"
+    },
+    {
+        "english": "April",
+        "chinese": "四月",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024 32/40",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈeɪ.prɪl/"
+    },
+    {
+        "english": "February",
+        "chinese": "二月",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024 32/40",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfebru.ɛ.ri/"
+    },
+    {
+        "english": "rule",
+        "chinese": "规则",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024 32/40",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ruːl/"
+    },
+    {
+        "english": "sign",
+        "chinese": "标志",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024 32/40",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/saɪn/"
+    },
+    {
+        "english": "quiet",
+        "chinese": "安静的",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024 32/40",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkwaɪ.ət/"
+    },
+    {
+        "english": "taxi",
+        "chinese": "出租车",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024 32/40",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtæks.i/"
+    },
+    {
+        "english": "poster",
+        "chinese": "海报",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024 32/40",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpoʊ.stər/"
+    },
+    {
+        "english": "scenery",
+        "chinese": "风景",
+        "tag": "Yeki-20240510",
+        "desc": "May. 10th. 2024 32/40",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsiː.nə.ri/"
+    }
+]
