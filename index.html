@@ -62,10 +62,9 @@
         <button type="button" id="start">Start</button>
     </form>
     <div id="practiceArea"></div>
-    <button type="button" id="prev" disabled>Previous</button>
-    <button type="button" id="next" disabled>Next</button>
     <button type="button" id="read" disabled>Read</button><br>
-    <button type="button" id="check" style="display: none;">Check</button>
+    <button type="button" id="prev" disabled>Previous</button>
+    <button type="button" id="next" disabled>Next</button><br>
     <button type="button" id="right" disabled>Correct</button>
     <button type="button" id="wrong" disabled>Incorrect</button>
     <button type="button" id="save" disabled>Save</button>
@@ -74,7 +73,6 @@
     <script>
         var practiceWords = [];
         var currentIndex = -1;
-        var readCount = 0;
 
         document.getElementById('start').addEventListener('click', function() {
             var mode = document.getElementById('mode').value;
@@ -112,39 +110,31 @@
             var word = practiceWords[currentIndex];
             var utterance = new SpeechSynthesisUtterance(word.english);
             window.speechSynthesis.speak(utterance);
-
-            readCount++;
-            if (readCount >= 3) {
-                document.getElementById('check').style.display = 'block';
-            }
-        });
-
-        document.getElementById('check').addEventListener('click', function() {
-            var word = practiceWords[currentIndex];
-            var mode = document.getElementById('mode').value;
-            var practiceArea = document.getElementById('practiceArea');
-            if (mode === 'en2cn') {
-                practiceArea.innerHTML = `<span class="large">${word.english}</span> <br> 
-                                          <span class="large">${word.phonetic}</span> <br> 
-                                          <span class="large">${word.chinese}</span> <br> 
-                                          <span class="small">${word.tag}  ${word.desc}</span>`;
-            } else {
-                practiceArea.innerHTML = `<span class="large">${word.chinese}</span> <br> 
-                                          <span class="large">${word.english}</span> <br> 
-                                          <span class="large">${word.phonetic}</span> <br> 
-                                          <span class="small">${word.tag}  ${word.desc}</span>`;
-            }
         });
 
         document.getElementById('right').addEventListener('click', function() {
             practiceWords[currentIndex].right++;
             showWord(practiceWords[currentIndex]);
+            check();
         });
 
         document.getElementById('wrong').addEventListener('click', function() {
             practiceWords[currentIndex].wrong++;
             showWord(practiceWords[currentIndex]);
+            check();
         });
+
+        function check() {
+            var word = practiceWords[currentIndex];
+            var mode = document.getElementById('mode').value;
+            var practiceArea = document.getElementById('practiceArea');
+            if (mode === 'en2cn') {
+                practiceArea.innerHTML += `<br><span class="large">${word.chinese}</span>`;
+            } else {
+                practiceArea.innerHTML += `<br><span class="large">${word.english}</span> <br> 
+                                          <span class="large">${word.phonetic}</span>`;
+            }
+        };
 
         document.getElementById('save').addEventListener('click', function() {
             console.log(JSON.stringify(words, null, 2));
@@ -164,17 +154,17 @@
 
             if (mode === 'en2cn') {
                 practiceArea.innerHTML = `<span class="large">${word.english}</span> <br> 
-                                          <span class="large">${word.phonetic}</span> <br> 
-                                          <span class="small">${word.tag} ${word.desc}</span>`;
+                                          <span class="large">${word.phonetic}</span> <br>`; 
             } else {
-                practiceArea.innerHTML = `<span class="large">${word.chinese}</span> <br> 
-                                          <span class="small">${word.tag} ${word.desc}</span>`;
+                practiceArea.innerHTML = `<span class="large">${word.chinese}</span> <br>`;
             }
 
             if (content === 'commonlyWrong') {
-                practiceArea.innerHTML += `<br> <span class="small">${word.right}</span> 
-                                           <br> <span class="small">${word.wrong}</span>`;
+                practiceArea.innerHTML += `<span class="small">${word.right}</span><br>
+                                           <span class="small">${word.wrong}</span><br>`;
             }
+
+            practiceArea.innerHTML += `<span class="small">(${currentIndex + 1}/${practiceWords.length}) ${word.tag} ${word.desc}</span>`;
 
             document.getElementById('prev').disabled = currentIndex === 0;
             document.getElementById('next').disabled = currentIndex === practiceWords.length - 1;
@@ -182,8 +172,6 @@
             document.getElementById('right').disabled = false;
             document.getElementById('wrong').disabled = false;
             document.getElementById('save').disabled = false;
-            readCount = 0;
-            document.getElementById('check').style.display = 'none';
         }
     </script>
 </body>
