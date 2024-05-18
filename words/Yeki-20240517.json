@@ -1,0 +1,47 @@
+[
+    {
+        "english": "bridge",
+        "chinese": "桥",
+        "tag": "Yeki-20240517",
+        "desc": "May. 17th. 2024 20/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbrɪdʒ/"
+    },
+    {
+        "english": "giraffe",
+        "chinese": "长颈鹿",
+        "tag": "Yeki-20240517",
+        "desc": "May. 17th. 2024 20/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dʒɪˈræf/"
+    },
+    {
+        "english": "crocodile",
+        "chinese": "鳄鱼",
+        "tag": "Yeki-20240517",
+        "desc": "May. 17th. 2024 20/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkrɑːkədaɪl/"
+    },
+    {
+        "english": "astronaut",
+        "chinese": "宇航员",
+        "tag": "Yeki-20240517",
+        "desc": "May. 17th. 2024 20/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈæstrənɔːt/"
+    },
+    {
+        "english": "library",
+        "chinese": "图书馆",
+        "tag": "Yeki-20240517",
+        "desc": "May. 17th. 2024 20/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈlaɪbreri/"
+    }
+]
