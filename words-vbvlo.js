@@ -2547,7 +2547,7 @@ var words = [
         "phonetic": "/ˈtaʊn hɔːl/"
     },
     {
-        "english": "cafe",
+        "english": "café",
         "chinese": "咖啡馆",
         "tag": "Yeki-20240518",
         "desc": "May. 18th. 2024",
@@ -2752,6 +2752,150 @@ var words = [
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈerˌpɔːrt/"
+    },
+    {
+        "english": "medicine",
+        "chinese": "药物",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmɛdɪsɪn/"
+    },
+    {
+        "english": "cream",
+        "chinese": "奶油",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/krim/"
+    },
+    {
+        "english": "save",
+        "chinese": "保存",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/seɪv/"
+    },
+    {
+        "english": "safe",
+        "chinese": "安全的",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/seɪf/"
+    },
+    {
+        "english": "crime",
+        "chinese": "犯罪",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kraɪm/"
+    },
+    {
+        "english": "stretch",
+        "chinese": "伸展",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/strɛtʃ/"
+    },
+    {
+        "english": "bounce",
+        "chinese": "弹跳",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/baʊns/"
+    },
+    {
+        "english": "bull",
+        "chinese": "公牛",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/bʊl/"
+    },
+    {
+        "english": "score",
+        "chinese": "得分",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/skɔːr/"
+    },
+    {
+        "english": "basketball",
+        "chinese": "篮球",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbæskɪtˌbɔːl/"
+    },
+    {
+        "english": "desert",
+        "chinese": "沙漠",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɛzərt/"
+    },
+    {
+        "english": "kangaroo",
+        "chinese": "袋鼠",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌkæŋɡəˈruː/"
+    },
+    {
+        "english": "laundry",
+        "chinese": "洗衣店",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈlɔːndri/"
+    },
+    {
+        "english": "fair",
+        "chinese": "露天游乐场；集市",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fer/"
+    },
+    {
+        "english": "castle",
+        "chinese": "城堡",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkæsl/"
+    },
+    {
+        "english": "fire station",
+        "chinese": "消防站",
+        "tag": "Yeki-20240518",
+        "desc": "May. 18th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
     },
     {
         "english": "weekend",
