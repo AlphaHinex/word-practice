@@ -1,0 +1,56 @@
+[
+    {
+        "english": "grocery store",
+        "chinese": "杂货店",
+        "tag": "Yeki-20240525",
+        "desc": "May. 25th. 2024 19/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "treasure",
+        "chinese": "宝藏",
+        "tag": "Yeki-20240525",
+        "desc": "May. 25th. 2024 19/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtreʒər/"
+    },
+    {
+        "english": "mysterious",
+        "chinese": "神秘的",
+        "tag": "Yeki-20240525",
+        "desc": "May. 25th. 2024 19/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mɪˈstɪəriəs/"
+    },
+    {
+        "english": "difficult",
+        "chinese": "困难的",
+        "tag": "Yeki-20240525",
+        "desc": "May. 25th. 2024 19/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɪfɪkəlt/"
+    },
+    {
+        "english": "pyramid",
+        "chinese": "金字塔",
+        "tag": "Yeki-20240525",
+        "desc": "May. 25th. 2024 19/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpɪrəmɪd/"
+    },
+    {
+        "english": "pharmacy",
+        "chinese": "药房",
+        "tag": "Yeki-20240525",
+        "desc": "May. 25th. 2024 19/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfɑːrməsi/"
+    }
+]
