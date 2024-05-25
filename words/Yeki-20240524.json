@@ -1,0 +1,362 @@
+[
+    {
+        "english": "hospital",
+        "chinese": "医院",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhɑːspɪtl/"
+    },
+    {
+        "english": "library",
+        "chinese": "图书馆",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈlaɪbreri/"
+    },
+    {
+        "english": "fitness center",
+        "chinese": "健身中心",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "grocery store",
+        "chinese": "杂货店",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "movie theater",
+        "chinese": "电影院",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "church",
+        "chinese": "教堂",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/tʃɜːrtʃ/"
+    },
+    {
+        "english": "pharmacy",
+        "chinese": "药房",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfɑːrməsi/"
+    },
+    {
+        "english": "castle",
+        "chinese": "城堡",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkæsl/"
+    },
+    {
+        "english": "crocodile",
+        "chinese": "鳄鱼",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024 16/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkrɑːkədaɪl/"
+    },
+    {
+        "english": "pyramid",
+        "chinese": "金字塔",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpɪrəmɪd/"
+    },
+    {
+        "english": "mysterious",
+        "chinese": "神秘的",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mɪˈstɪəriəs/"
+    },
+    {
+        "english": "title",
+        "chinese": "标题",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtaɪtl/"
+    },
+    {
+        "english": "grandpa",
+        "chinese": "爷爷",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɡrænˌpɑː/"
+    },
+    {
+        "english": "map",
+        "chinese": "地图",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mæp/"
+    },
+    {
+        "english": "genre",
+        "chinese": "类型",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈʒɑːnr/"
+    },
+    {
+        "english": "narrative",
+        "chinese": "叙述",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈnærətɪv/"
+    },
+    {
+        "english": "fiction",
+        "chinese": "小说",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfɪkʃən/"
+    },
+    {
+        "english": "sequence",
+        "chinese": "序列",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsɪkwəns/"
+    },
+    {
+        "english": "event",
+        "chinese": "事件",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɪˈvent/"
+    },
+    {
+        "english": "mystery",
+        "chinese": "谜",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmɪstəri/"
+    },
+    {
+        "english": "character",
+        "chinese": "角色",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkærəktər/"
+    },
+    {
+        "english": "difficult",
+        "chinese": "困难的",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɪfɪkəlt/"
+    },
+    {
+        "english": "setting",
+        "chinese": "设置",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsetɪŋ/"
+    },
+    {
+        "english": "piece",
+        "chinese": "片",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/piːs/"
+    },
+    {
+        "english": "plot",
+        "chinese": "情节",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/plɑːt/"
+    },
+    {
+        "english": "treasure",
+        "chinese": "宝藏",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtreʒər/"
+    },
+    {
+        "english": "hidden",
+        "chinese": "隐藏的",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhɪdn/"
+    },
+    {
+        "english": "statue",
+        "chinese": "雕像",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈstætʃuː/"
+    },
+    {
+        "english": "clue",
+        "chinese": "线索",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kluː/"
+    },
+    {
+        "english": "opera",
+        "chinese": "歌剧",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɑːprə/"
+    },
+    {
+        "english": "Australia",
+        "chinese": "澳大利亚",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɔːˈstreɪliə/"
+    },
+    {
+        "english": "second",
+        "chinese": "第二",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsekənd/"
+    },
+    {
+        "english": "Egypt",
+        "chinese": "埃及",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈiːdʒɪpt/"
+    },
+    {
+        "english": "third",
+        "chinese": "第三",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/θɜːrd/"
+    },
+    {
+        "english": "last",
+        "chinese": "最后的",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/læst/"
+    },
+    {
+        "english": "next",
+        "chinese": "下一个",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈnɛkst/"
+    },
+    {
+        "english": "temple",
+        "chinese": "庙宇",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtɛmpl/"
+    },
+    {
+        "english": "garden",
+        "chinese": "花园",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɡɑːrdn/"
+    },
+    {
+        "english": "Sydney",
+        "chinese": "悉尼",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsɪdni/"
+    },
+    {
+        "english": "Sydney Opera House",
+        "chinese": "悉尼歌剧院",
+        "tag": "Yeki-20240524",
+        "desc": "May. 24th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    }
+]
