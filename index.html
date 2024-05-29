@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Word Practice</title>
+    <link rel="stylesheet" href="css/font-awesome/5.15.4/css/all.min.css">
     <style>
         /* Add your CSS here */
         body {
@@ -71,17 +72,17 @@
                 <option value="commonlyWrong">Commonly Wrong</option>
             </select>
         </label>
-        <button type="button" id="start">Start</button>
+        <button type="button" id="start"><i class="fas fa-play"></i></button>
     </form>
     <div id="workspace" style="display: none;">
         <div id="practiceArea"></div>
-        <button type="button" id="read" disabled>Read</button><br>
-        <button type="button" id="prev" disabled>Previous</button>
-        <button type="button" id="next" disabled>Next</button><br>
-        <button type="button" id="right" disabled>Correct</button>
-        <button type="button" id="wrong" disabled>Incorrect</button>
-        <button type="button" id="save" disabled>Save</button><br>
-        <button type="button" id="reset" onclick="reset()">Reset</button>
+        <button type="button" id="read" disabled><i class="fas fa-volume-up"></i></button><br>
+        <button type="button" id="prev" disabled><i class="fas fa-arrow-left"></i></button>
+        <button type="button" id="next" disabled><i class="fas fa-arrow-right"></i></button><br>
+        <button type="button" id="right" disabled><i class="fas fa-thumbs-up"></i></button>
+        <button type="button" id="wrong" disabled><i class="fas fa-thumbs-down"></i></button><br>
+        <button type="button" id="save" disabled><i class="fas fa-save"></i></button>
+        <button type="button" id="reset" onclick="reset()"><i class="fas fa-redo"></i></button>
     </div>
 
     <script src="words-rwbpr.js"></script>
