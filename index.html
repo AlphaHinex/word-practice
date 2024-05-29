@@ -48,13 +48,16 @@
         </label>
         <button type="button" id="start">Start</button>
     </form>
-    <div id="practiceArea"></div>
-    <button type="button" id="read" disabled>Read</button><br>
-    <button type="button" id="prev" disabled>Previous</button>
-    <button type="button" id="next" disabled>Next</button><br>
-    <button type="button" id="right" disabled>Correct</button>
-    <button type="button" id="wrong" disabled>Incorrect</button>
-    <button type="button" id="save" disabled>Save</button>
+    <div id="workspace" style="display: none;">
+        <div id="practiceArea"></div>
+        <button type="button" id="read" disabled>Read</button><br>
+        <button type="button" id="prev" disabled>Previous</button>
+        <button type="button" id="next" disabled>Next</button><br>
+        <button type="button" id="right" disabled>Correct</button>
+        <button type="button" id="wrong" disabled>Incorrect</button>
+        <button type="button" id="save" disabled>Save</button><br>
+        <button type="button" id="reset" onclick="reset()">Reset</button>
+    </div>
 
     <script src="words-rwbpr.js"></script>
     <script>
@@ -79,6 +82,9 @@
             practiceWords.sort(function() {
                 return 0.5 - Math.random();
             });
+
+            document.getElementById('options').style.display = 'none';
+            document.getElementById('workspace').style.display = 'block';
 
             currentIndex = -1;
             nextWord();
@@ -159,6 +165,11 @@
             document.getElementById('right').disabled = false;
             document.getElementById('wrong').disabled = false;
             document.getElementById('save').disabled = false;
+        }
+
+        function reset() {
+            document.getElementById('options').style.display = 'block';
+            document.getElementById('workspace').style.display = 'none';
         }
     </script>
 </body>
