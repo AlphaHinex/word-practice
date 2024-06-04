@@ -918,6 +918,177 @@ var words = [
         "phonetic": ""
     },
     {
+        "english": "compass",
+        "chinese": "指南针",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkʌmpəs/"
+    },
+    {
+        "english": "map",
+        "chinese": "地图",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mæp/"
+    },
+    {
+        "english": "GPS",
+        "chinese": "全球定位系统",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdʒiːpiːɛs/"
+    },
+    {
+        "english": "global",
+        "chinese": "全球的",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɡloʊbəl/"
+    },
+    {
+        "english": "position",
+        "chinese": "位置",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pəˈzɪʃən/"
+    },
+    {
+        "english": "system",
+        "chinese": "系统",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsɪstəm/"
+    },
+    {
+        "english": "direction",
+        "chinese": "方向",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dəˈrɛkʃən/"
+    },
+    {
+        "english": "navigation",
+        "chinese": "导航",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌnævɪˈɡeɪʃən/"
+    },
+    {
+        "english": "navigate",
+        "chinese": "航行",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈnævɪɡeɪt/"
+    },
+    {
+        "english": "north",
+        "chinese": "北方",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/nɔːrθ/"
+    },
+    {
+        "english": "south",
+        "chinese": "南方",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/saʊθ/"
+    },
+    {
+        "english": "west",
+        "chinese": "西方",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɛst/"
+    },
+    {
+        "english": "east",
+        "chinese": "东方",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/iːst/"
+    },
+    {
+        "english": "northeast",
+        "chinese": "东北方",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌnɔːrθˈiːst/"
+    },
+    {
+        "english": "northwest",
+        "chinese": "西北方",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌnɔːrθˈwɛst/"
+    },
+    {
+        "english": "southeast",
+        "chinese": "东南方",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌsaʊθˈiːst/"
+    },
+    {
+        "english": "southwest",
+        "chinese": "西南方",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌsaʊθˈwɛst/"
+    },
+    {
+        "english": "needle",
+        "chinese": "指针",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈniːdəl/"
+    },
+    {
+        "english": "entrance",
+        "chinese": "入口",
+        "tag": "Yeki-20240601",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɛntrəns/"
+    },
+    {
         "english": "grocery store",
         "chinese": "杂货店",
         "tag": "Yeki-20240525",
