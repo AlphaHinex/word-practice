@@ -918,6 +918,519 @@ var words = [
         "phonetic": ""
     },
     {
+        "english": "move",
+        "chinese": "移动",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/muːv/"
+    },
+    {
+        "english": "direction",
+        "chinese": "方向",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dəˈrɛkʃn/"
+    },
+    {
+        "english": "needle",
+        "chinese": "针",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈniːdl/"
+    },
+    {
+        "english": "mountain",
+        "chinese": "山脉",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmaʊntən/"
+    },
+    {
+        "english": "different",
+        "chinese": "不同的",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɪfərənt/"
+    },
+    {
+        "english": "area",
+        "chinese": "区域",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈeriə/"
+    },
+    {
+        "english": "navigation",
+        "chinese": "导航",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌnævɪˈɡeɪʃn/"
+    },
+    {
+        "english": "satellite",
+        "chinese": "人造卫星",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsætəlaɪt/"
+    },
+    {
+        "english": "without",
+        "chinese": "没有",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɪðˈaʊt/"
+    },
+    {
+        "english": "castle",
+        "chinese": "城堡",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkæsl/"
+    },
+    {
+        "english": "motorcycle",
+        "chinese": "摩托车",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmoʊ.tər.saɪ.kəl/"
+    },
+    {
+        "english": "difficult",
+        "chinese": "困难的",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɪfɪkəlt/"
+    },
+    {
+        "english": "mysterious",
+        "chinese": "神秘的",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mɪˈstɪriəs/"
+    },
+    {
+        "english": "pharmacy",
+        "chinese": "药房",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfɑːrməsi/"
+    },
+    {
+        "english": "treasure",
+        "chinese": "宝藏，财富",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtreʒər/"
+    },
+    {
+        "english": "grocery store",
+        "chinese": "杂货店",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɡroʊsəri stɔːr/"
+    },
+    {
+        "english": "desert",
+        "chinese": "沙漠",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdezərt/"
+    },
+    {
+        "english": "compass",
+        "chinese": "指南针",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkʌmpəs/"
+    },
+    {
+        "english": "entrance",
+        "chinese": "入口",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɛn.trəns/"
+    },
+    {
+        "english": "Geography",
+        "chinese": "地理学",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dʒiˈɒɡrəfi/"
+    },
+    {
+        "english": "piece",
+        "chinese": "一块，片",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/piːs/"
+    },
+    {
+        "english": "month",
+        "chinese": "月",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mʌnθ/"
+    },
+    {
+        "english": "pyramid",
+        "chinese": "金字塔",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpɪrəmɪd/"
+    },
+    {
+        "english": "important",
+        "chinese": "重要的",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɪmˈpɔːrtənt/"
+    },
+    {
+        "english": "window",
+        "chinese": "窗户",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɪndoʊ/"
+    },
+    {
+        "english": "yesterday",
+        "chinese": "昨天",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈjestərdi/"
+    },
+    {
+        "english": "square",
+        "chinese": "正方形",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/skwɛər/"
+    },
+    {
+        "english": "bookstore",
+        "chinese": "书店",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbʊkstɔːr/"
+    },
+    {
+        "english": "opposite",
+        "chinese": "对面的",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɒpəzɪt/"
+    },
+    {
+        "english": "police station",
+        "chinese": "警察局",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pəˈliːs ˈsteɪʃən/"
+    },
+    {
+        "english": "travel",
+        "chinese": "旅行",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtrævəl/"
+    },
+    {
+        "english": "earth",
+        "chinese": "地球",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɜːrθ/"
+    },
+    {
+        "english": "river",
+        "chinese": "河流",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈrɪvər/"
+    },
+    {
+        "english": "town",
+        "chinese": "城镇",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/taʊn/"
+    },
+    {
+        "english": "jungle",
+        "chinese": "丛林，热带雨林",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdʒʌŋɡl/"
+    },
+    {
+        "english": "path",
+        "chinese": "小路",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pæθ/"
+    },
+    {
+        "english": "field",
+        "chinese": "田地",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fiːld/"
+    },
+    {
+        "english": "farmhouse",
+        "chinese": "农舍",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfɑːrmhaʊs/"
+    },
+    {
+        "english": "camp",
+        "chinese": "营地",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kæmp/"
+    },
+    {
+        "english": "enjoy",
+        "chinese": "享受，喜欢",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɪnˈdʒɔɪ/"
+    },
+    {
+        "english": "tour",
+        "chinese": "旅游",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/tʊr/"
+    },
+    {
+        "english": "artist",
+        "chinese": "艺术家",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɑːr.tɪst/"
+    },
+    {
+        "english": "starfish",
+        "chinese": "海星",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈstɑːrfɪʃ/"
+    },
+    {
+        "english": "sight",
+        "chinese": "视力",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/saɪt/"
+    },
+    {
+        "english": "sound",
+        "chinese": "声音",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/saʊnd/"
+    },
+    {
+        "english": "smell",
+        "chinese": "气味",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/smɛl/"
+    },
+    {
+        "english": "taste",
+        "chinese": "味道",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/teɪst/"
+    },
+    {
+        "english": "texture",
+        "chinese": "质地",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtɛkstʃər/"
+    },
+    {
+        "english": "Egypt",
+        "chinese": "埃及",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈiːdʒɪpt/"
+    },
+    {
+        "english": "descriptive",
+        "chinese": "描述性的",
+        "tag": "Yeki-20240609",
+        "desc": "Jun. 9th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dɪˈskrɪptɪv/"
+    },
+    {
+        "english": "direction",
+        "chinese": "方向",
+        "tag": "Yeki-20240608",
+        "desc": "Jun. 8th. 2024 23/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dəˈrɛkʃn/"
+    },
+    {
+        "english": "castle",
+        "chinese": "城堡",
+        "tag": "Yeki-20240608",
+        "desc": "Jun. 8th. 2024 23/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkæsl/"
+    },
+    {
+        "english": "navigation",
+        "chinese": "导航",
+        "tag": "Yeki-20240608",
+        "desc": "Jun. 8th. 2024 23/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌnævɪˈɡeɪʃn/"
+    },
+    {
+        "english": "square",
+        "chinese": "正方形",
+        "tag": "Yeki-20240608",
+        "desc": "Jun. 8th. 2024 23/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/skwɛər/"
+    },
+    {
+        "english": "opposite",
+        "chinese": "对面的",
+        "tag": "Yeki-20240608",
+        "desc": "Jun. 8th. 2024 23/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɒpəzɪt/"
+    },
+    {
+        "english": "difficult",
+        "chinese": "困难的",
+        "tag": "Yeki-20240608",
+        "desc": "Jun. 8th. 2024 23/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɪfɪkəlt/"
+    },
+    {
+        "english": "mysterious",
+        "chinese": "神秘的",
+        "tag": "Yeki-20240608",
+        "desc": "Jun. 8th. 2024 23/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mɪˈstɪriəs/"
+    },
+    {
         "english": "compass",
         "chinese": "指南针",
         "tag": "Yeki-20240601",
@@ -1087,6 +1600,41 @@ var words = [
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈɛntrəns/"
+    },
+    {
+        "english": "afternoon",
+        "chinese": "下午",
+        "tag": "Yeki-20240531",
+        "desc": "May. 31th. 2024 27/30",
+        "phonetic": "/ˌæftərˈnuːn/"
+    },
+    {
+        "english": "treasure",
+        "chinese": "宝藏",
+        "tag": "Yeki-20240531",
+        "desc": "May. 31th. 2024 27/30",
+        "phonetic": "/ˈtreʒər/"
+    },
+    {
+        "english": "difficult",
+        "chinese": "困难的",
+        "tag": "Yeki-20240531",
+        "desc": "May. 31th. 2024 27/30",
+        "phonetic": "/ˈdɪfɪkəlt/"
+    },
+    {
+        "english": "fitness center",
+        "chinese": "健身中心",
+        "tag": "Yeki-20240531",
+        "desc": "May. 31th. 2024 27/30",
+        "phonetic": "/ˈfɪtnəs ˈsɛntər/"
+    },
+    {
+        "english": "motorcycle",
+        "chinese": "摩托车",
+        "tag": "Yeki-20240531",
+        "desc": "May. 31th. 2024 27/30",
+        "phonetic": "/ˈmoʊtərˌsaɪkəl/"
     },
     {
         "english": "grocery store",

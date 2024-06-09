@@ -1,0 +1,65 @@
+[
+    {
+        "english": "direction",
+        "chinese": "方向",
+        "tag": "Yeki-20240608",
+        "desc": "Jun. 8th. 2024 23/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dəˈrɛkʃn/"
+    },
+    {
+        "english": "castle",
+        "chinese": "城堡",
+        "tag": "Yeki-20240608",
+        "desc": "Jun. 8th. 2024 23/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkæsl/"
+    },
+    {
+        "english": "navigation",
+        "chinese": "导航",
+        "tag": "Yeki-20240608",
+        "desc": "Jun. 8th. 2024 23/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌnævɪˈɡeɪʃn/"
+    },
+    {
+        "english": "square",
+        "chinese": "正方形",
+        "tag": "Yeki-20240608",
+        "desc": "Jun. 8th. 2024 23/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/skwɛər/"
+    },
+    {
+        "english": "opposite",
+        "chinese": "对面的",
+        "tag": "Yeki-20240608",
+        "desc": "Jun. 8th. 2024 23/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɒpəzɪt/"
+    },
+    {
+        "english": "difficult",
+        "chinese": "困难的",
+        "tag": "Yeki-20240608",
+        "desc": "Jun. 8th. 2024 23/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɪfɪkəlt/"
+    },
+    {
+        "english": "mysterious",
+        "chinese": "神秘的",
+        "tag": "Yeki-20240608",
+        "desc": "Jun. 8th. 2024 23/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mɪˈstɪriəs/"
+    }
+]
