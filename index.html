@@ -105,6 +105,20 @@
                 return true;
             });
 
+            practiceWords = practiceWords.reduce((acc, word) => {
+                let found = acc.find(w => w.english === word.english);
+                if (found) {
+                    found.chinese = [...new Set([found.chinese, word.chinese])];
+                    found.wrong += word.wrong;
+                    found.right += word.right;
+                    found.tag = [...new Set([found.tag, word.tag])];
+                    found.desc =  [...new Set([found.desc, word.desc])];
+                } else {
+                    acc.push(word);
+                }
+                return acc;
+            }, []);
+
             practiceWords.sort(function() {
                 return 0.5 - Math.random();
             });
