@@ -1,0 +1,443 @@
+[
+    {
+        "english": "town",
+        "chinese": "镇",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/taʊn/"
+    },
+    {
+        "english": "cafe",
+        "chinese": "咖啡馆",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkæfeɪ/"
+    },
+    {
+        "english": "fitness center",
+        "chinese": "健身中心",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "park",
+        "chinese": "公园",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pɑːrk/"
+    },
+    {
+        "english": "police station",
+        "chinese": "警察局",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "grocery store",
+        "chinese": "杂货店",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "store",
+        "chinese": "商店",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/stoʊr/"
+    },
+    {
+        "english": "school",
+        "chinese": "学校",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/skuːl/"
+    },
+    {
+        "english": "hospital",
+        "chinese": "医院",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhɑːspɪtl/"
+    },
+    {
+        "english": "library",
+        "chinese": "图书馆",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈlaɪbreri/"
+    },
+    {
+        "english": "swimming pool",
+        "chinese": "游泳池",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "movie theatre",
+        "chinese": "电影院",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "town hall",
+        "chinese": "市政厅",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "travel",
+        "chinese": "旅行",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtrævl/"
+    },
+    {
+        "english": "mysterious",
+        "chinese": "神秘的",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mɪˈstɪəriəs/"
+    },
+    {
+        "english": "ago",
+        "chinese": "以前",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/əˈgoʊ/"
+    },
+    {
+        "english": "suddenly",
+        "chinese": "突然",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsʌdnli/"
+    },
+    {
+        "english": "treasure",
+        "chinese": "宝藏",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtreʒər/"
+    },
+    {
+        "english": "opposite",
+        "chinese": "相反的",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɑːpəzɪt/"
+    },
+    {
+        "english": "square",
+        "chinese": "广场",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/skwer/"
+    },
+    {
+        "english": "trip",
+        "chinese": "旅行",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/trɪp/"
+    },
+    {
+        "english": "navigation",
+        "chinese": "导航",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌnævɪˈɡeɪʃn/"
+    },
+    {
+        "english": "navigate",
+        "chinese": "导航",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈnævɪɡeɪt/"
+    },
+    {
+        "english": "tools",
+        "chinese": "工具",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/toʊlz/"
+    },
+    {
+        "english": "compass",
+        "chinese": "指南针",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkɑːmpəs/"
+    },
+    {
+        "english": "map",
+        "chinese": "地图",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mæp/"
+    },
+    {
+        "english": "direction",
+        "chinese": "方向",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dɪˈrekʃn/"
+    },
+    {
+        "english": "needle",
+        "chinese": "针",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈniːdl/"
+    },
+    {
+        "english": "north",
+        "chinese": "北",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/nɔːrθ/"
+    },
+    {
+        "english": "south",
+        "chinese": "南",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/saʊθ/"
+    },
+    {
+        "english": "west",
+        "chinese": "西",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɛst/"
+    },
+    {
+        "english": "east",
+        "chinese": "东",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/iːst/"
+    },
+    {
+        "english": "northeast",
+        "chinese": "东北",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌnɔːrθˈist/"
+    },
+    {
+        "english": "northwest",
+        "chinese": "西北",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌnɔːrθˈwɛst/"
+    },
+    {
+        "english": "southwest",
+        "chinese": "西南",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌsaʊθˈwɛst/"
+    },
+    {
+        "english": "southeast",
+        "chinese": "东南",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌsaʊθˈist/"
+    },
+    {
+        "english": "satellite",
+        "chinese": "卫星",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsætəlaɪt/"
+    },
+    {
+        "english": "get lost",
+        "chinese": "迷路",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "without",
+        "chinese": "没有",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɪˈðaʊt/"
+    },
+    {
+        "english": "field",
+        "chinese": "田野",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fiːld/"
+    },
+    {
+        "english": "farmhouse",
+        "chinese": "农舍",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "entrance",
+        "chinese": "入口",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɛntrəns/"
+    },
+    {
+        "english": "Netherlands",
+        "chinese": "荷兰",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈnɛðərləndz/"
+    },
+    {
+        "english": "tulips",
+        "chinese": "郁金香",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtuːlɪps/"
+    },
+    {
+        "english": "canal",
+        "chinese": "运河",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kəˈnæl/"
+    },
+    {
+        "english": "countryside",
+        "chinese": "乡村",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "include",
+        "chinese": "包括",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɪnˈkluːd/"
+    },
+    {
+        "english": "wooden clogs",
+        "chinese": "木屐",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "windmills",
+        "chinese": "风车",
+        "tag": "Yeki-Unit8",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɪndmɪlz/"
+    }
+]
