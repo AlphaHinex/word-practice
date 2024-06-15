@@ -250,5 +250,50 @@
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈtrævl/"
+    },
+    {
+        "english": "thirty",
+        "chinese": "三十",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈθɜːrti/"
+    },
+    {
+        "english": "three",
+        "chinese": "三",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/θriː/"
+    },
+    {
+        "english": "thirteen",
+        "chinese": "十三",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌθɜːrˈtiːn/"
+    },
+    {
+        "english": "most",
+        "chinese": "大多数",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/moʊst/"
+    },
+    {
+        "english": "lots of",
+        "chinese": "许多",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
     }
 ]
