@@ -295,5 +295,50 @@
         "right": 0,
         "wrong": 0,
         "phonetic": ""
+    },
+    {
+        "english": "transportation",
+        "chinese": "交通",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌtrænspɔːrˈteɪʃən/"
+    },
+    {
+        "english": "live",
+        "chinese": "生活",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/lɪv/"
+    },
+    {
+        "english": "women",
+        "chinese": "女人",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɪmɪn/"
+    },
+    {
+        "english": "keep",
+        "chinese": "保持",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kip/"
+    },
+    {
+        "english": "feel",
+        "chinese": "感觉",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fiːl/"
     }
 ]
