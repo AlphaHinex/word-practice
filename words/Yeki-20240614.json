@@ -196,5 +196,59 @@
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈpɪknɪk/"
+    },
+    {
+        "english": "poster",
+        "chinese": "海报",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpoʊstər/"
+    },
+    {
+        "english": "fair",
+        "chinese": "公平的；集市",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fɛər/"
+    },
+    {
+        "english": "motorcycle",
+        "chinese": "摩托车",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmoʊtərˌsaɪkəl/"
+    },
+    {
+        "english": "traffic jam",
+        "chinese": "交通堵塞",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "lucky",
+        "chinese": "幸运的",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈlʌki/"
+    },
+    {
+        "english": "travel",
+        "chinese": "旅行",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtrævl/"
     }
 ]
