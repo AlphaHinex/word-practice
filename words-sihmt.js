@@ -1359,6 +1359,204 @@ var words = [
         "phonetic": ""
     },
     {
+        "english": "Europe",
+        "chinese": "欧洲",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈjuːrəp/"
+    },
+    {
+        "english": "Dutch",
+        "chinese": "荷兰的",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dʌtʃ/"
+    },
+    {
+        "english": "capital",
+        "chinese": "首都",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkæpɪtl/"
+    },
+    {
+        "english": "famous",
+        "chinese": "著名的",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfeɪməs/"
+    },
+    {
+        "english": "delicious",
+        "chinese": "美味的",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dɪˈlɪʃəs/"
+    },
+    {
+        "english": "cheese",
+        "chinese": "奶酪",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/tʃiz/"
+    },
+    {
+        "english": "bike path",
+        "chinese": "自行车道",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "bike rack",
+        "chinese": "自行车架",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "traditional clothes",
+        "chinese": "传统服装",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "dry",
+        "chinese": "干燥的",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/draɪ/"
+    },
+    {
+        "english": "pump",
+        "chinese": "泵",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pʌmp/"
+    },
+    {
+        "english": "land",
+        "chinese": "土地",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/lænd/"
+    },
+    {
+        "english": "tandem",
+        "chinese": "双人自行车",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtændəm/"
+    },
+    {
+        "english": "helicopter",
+        "chinese": "直升机",
+        "tag": "Yeki-20240614",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhɛlɪkɑːptər/"
+    },
+    {
+        "english": "was",
+        "chinese": "是（过去式）",
+        "tag": "Yeki-20240614",
+        "desc": "18/25 Jun. 14th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɑːz/"
+    },
+    {
+        "english": "were",
+        "chinese": "是（过去式，用于you, we, they）",
+        "tag": "Yeki-20240614",
+        "desc": "18/25 Jun. 14th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɜːr/"
+    },
+    {
+        "english": "wasn't",
+        "chinese": "不是（过去式）",
+        "tag": "Yeki-20240614",
+        "desc": "18/25 Jun. 14th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɔːzn̩t/"
+    },
+    {
+        "english": "weren't",
+        "chinese": "不是（过去式，用于you, we, they）",
+        "tag": "Yeki-20240614",
+        "desc": "18/25 Jun. 14th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɜːrənt/"
+    },
+    {
+        "english": "field",
+        "chinese": "田地",
+        "tag": "Yeki-20240614",
+        "desc": "18/25 Jun. 14th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fiːld/"
+    },
+    {
+        "english": "tail",
+        "chinese": "尾巴",
+        "tag": "Yeki-20240614",
+        "desc": "18/25 Jun. 14th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/teɪl/"
+    },
+    {
+        "english": "satellite",
+        "chinese": "卫星",
+        "tag": "Yeki-20240614",
+        "desc": "18/25 Jun. 14th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsætəlaɪt/"
+    },
+    {
+        "english": "picnic",
+        "chinese": "野餐",
+        "tag": "Yeki-20240614",
+        "desc": "18/25 Jun. 14th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpɪknɪk/"
+    },
+    {
         "english": "move",
         "chinese": "移动",
         "tag": "Yeki-20240609",
