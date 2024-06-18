@@ -25,5 +25,7 @@ jobs:
         python merge_words.py
     - name: Commit changes
       run: |
+        git config --global user.email "AlphaHinex@gmail.com"
+        git config --global user.name "AlphaHinex"
         git add .
         git commit -am "Refresh index"
