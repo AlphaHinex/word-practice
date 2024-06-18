@@ -20,12 +20,18 @@ new_options = '<!-- Add your tags here -->'
 for file in files:
     option = os.path.basename(file).replace('.json', '')
     new_options += f'<option value="{option}">{option}</option>'
+    # Check if the file is empty
+    if os.path.getsize(file) == 0:
+        print(f"Skipping empty file: {file}")
+        continue
     # 读取文件内容
-    with open(file, 'r') as f:
+    with open(file, 'r', encoding='utf-8') as f:
         content = f.read()
-
     # 解析 JSON 并添加到 words 列表
-    words.extend(json.loads(content))
+    try:
+        words.extend(json.loads(content))
+    except json.JSONDecodeError as e:
+        print(f"Error decoding JSON from {file}: {e}")
 new_options += '<!-- tag end -->'
 
 # 将 words 列表转换为 JSON 字符串
