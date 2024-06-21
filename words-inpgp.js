@@ -1193,7 +1193,7 @@ var words = [
         "english": "park",
         "phonetic": "/pɑːrk/",
         "right": 0,
-        "tag": "Yeki-Unit8-Vic",
+        "tag": "Yeki-Unit8-voc",
         "wrong": 0
     },
     {
@@ -1202,7 +1202,7 @@ var words = [
         "english": "fitness center",
         "phonetic": "",
         "right": 0,
-        "tag": "Yeki-Unit8-Vic",
+        "tag": "Yeki-Unit8-voc",
         "wrong": 0
     },
     {
@@ -1211,7 +1211,7 @@ var words = [
         "english": "café",
         "phonetic": "/kæˈfeɪ/",
         "right": 0,
-        "tag": "Yeki-Unit8-Vic",
+        "tag": "Yeki-Unit8-voc",
         "wrong": 0
     },
     {
@@ -1220,7 +1220,7 @@ var words = [
         "english": "movie theater",
         "phonetic": "",
         "right": 0,
-        "tag": "Yeki-Unit8-Vic",
+        "tag": "Yeki-Unit8-voc",
         "wrong": 0
     },
     {
@@ -1229,7 +1229,7 @@ var words = [
         "english": "hospital",
         "phonetic": "/ˈhɒspɪtl/",
         "right": 0,
-        "tag": "Yeki-Unit8-Vic",
+        "tag": "Yeki-Unit8-voc",
         "wrong": 0
     },
     {
@@ -1238,7 +1238,7 @@ var words = [
         "english": "swimming pool",
         "phonetic": "",
         "right": 0,
-        "tag": "Yeki-Unit8-Vic",
+        "tag": "Yeki-Unit8-voc",
         "wrong": 0
     },
     {
@@ -1247,7 +1247,7 @@ var words = [
         "english": "store",
         "phonetic": "/stɔːr/",
         "right": 0,
-        "tag": "Yeki-Unit8-Vic",
+        "tag": "Yeki-Unit8-voc",
         "wrong": 0
     },
     {
@@ -1256,7 +1256,7 @@ var words = [
         "english": "police station",
         "phonetic": "",
         "right": 0,
-        "tag": "Yeki-Unit8-Vic",
+        "tag": "Yeki-Unit8-voc",
         "wrong": 0
     },
     {
@@ -1265,7 +1265,7 @@ var words = [
         "english": "library",
         "phonetic": "/ˈlaɪbreri/",
         "right": 0,
-        "tag": "Yeki-Unit8-Vic",
+        "tag": "Yeki-Unit8-voc",
         "wrong": 0
     },
     {
@@ -1274,7 +1274,7 @@ var words = [
         "english": "town hall",
         "phonetic": "",
         "right": 0,
-        "tag": "Yeki-Unit8-Vic",
+        "tag": "Yeki-Unit8-voc",
         "wrong": 0
     },
     {
@@ -1283,7 +1283,7 @@ var words = [
         "english": "grocery store",
         "phonetic": "",
         "right": 0,
-        "tag": "Yeki-Unit8-Vic",
+        "tag": "Yeki-Unit8-voc",
         "wrong": 0
     },
     {
@@ -1292,7 +1292,7 @@ var words = [
         "english": "school",
         "phonetic": "/skuːl/",
         "right": 0,
-        "tag": "Yeki-Unit8-Vic",
+        "tag": "Yeki-Unit8-voc",
         "wrong": 0
     },
     {
