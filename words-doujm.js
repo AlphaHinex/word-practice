@@ -2548,7 +2548,7 @@ var words = [
     },
     {
         "chinese": "冲浪",
-        "desc": "",
+        "desc": "Jun.21st.2024 31/35",
         "english": "surfing",
         "phonetic": "/ˈsɜːrfɪŋ/",
         "right": 0,
@@ -2557,7 +2557,7 @@ var words = [
     },
     {
         "chinese": "奶酪",
-        "desc": "",
+        "desc": "Jun.21st.2024 31/35",
         "english": "cheese",
         "phonetic": "/tʃiz/",
         "right": 0,
@@ -2566,7 +2566,7 @@ var words = [
     },
     {
         "chinese": "季节",
-        "desc": "",
+        "desc": "Jun.21st.2024 31/35",
         "english": "season",
         "phonetic": "/ˈsiːzən/",
         "right": 0,
@@ -2575,7 +2575,7 @@ var words = [
     },
     {
         "chinese": "火",
-        "desc": "",
+        "desc": "Jun.21st.2024 31/35",
         "english": "fire",
         "phonetic": "/faɪər/",
         "right": 0,
