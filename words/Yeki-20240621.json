@@ -1,1 +1,182 @@
-[{"chinese":"失踪的","desc":"","english":"missing","phonetic":"/ˈmɪsɪŋ/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"烧烤","desc":"","english":"barbecue","phonetic":"/ˈbɑːrbɪkjuː/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"脚印","desc":"","english":"footprint","phonetic":"/ˈfʊtprɪnt/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"线索","desc":"","english":"clue","phonetic":"/kluː/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"进入","desc":"","english":"enter","phonetic":"/ˈɛntər/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"出口","desc":"","english":"exit","phonetic":"/ˈɛɡzɪt/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"类型","desc":"","english":"genre","phonetic":"/ˈʒɑːnrə/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"剧本","desc":"","english":"script","phonetic":"/skrɪpt/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"角色","desc":"","english":"characters","phonetic":"","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"情节","desc":"","english":"plot","phonetic":"/plɑːt/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"场景","desc":"","english":"scene","phonetic":"/siːn/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"音乐会","desc":"","english":"concert","phonetic":"/ˈkɑːnsərt/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"冲浪","desc":"","english":"surfing","phonetic":"/ˈsɜːrfɪŋ/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"奶酪","desc":"","english":"cheese","phonetic":"/tʃiz/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"季节","desc":"","english":"season","phonetic":"/ˈsiːzən/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"火","desc":"","english":"fire","phonetic":"/faɪər/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"晚餐","desc":"","english":"dinner","phonetic":"/ˈdɪnər/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"露营","desc":"","english":"camp","phonetic":"/kæmp/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"饿的","desc":"","english":"hungry","phonetic":"/ˈhʌŋgri/","right":0,"tag":"Yeki-20240621","wrong":0},{"chinese":"解决方案","desc":"","english":"solution","phonetic":"/səˈluːʃən/","right":0,"tag":"Yeki-20240621","wrong":0}]
+[
+    {
+        "chinese": "失踪的",
+        "desc": "",
+        "english": "missing",
+        "phonetic": "/ˈmɪsɪŋ/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "烧烤",
+        "desc": "",
+        "english": "barbecue",
+        "phonetic": "/ˈbɑːrbɪkjuː/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "脚印",
+        "desc": "",
+        "english": "footprint",
+        "phonetic": "/ˈfʊtprɪnt/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "线索",
+        "desc": "",
+        "english": "clue",
+        "phonetic": "/kluː/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "进入",
+        "desc": "",
+        "english": "enter",
+        "phonetic": "/ˈɛntər/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "出口",
+        "desc": "",
+        "english": "exit",
+        "phonetic": "/ˈɛɡzɪt/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "类型",
+        "desc": "",
+        "english": "genre",
+        "phonetic": "/ˈʒɑːnrə/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "剧本",
+        "desc": "",
+        "english": "script",
+        "phonetic": "/skrɪpt/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "角色",
+        "desc": "",
+        "english": "characters",
+        "phonetic": "",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "情节",
+        "desc": "",
+        "english": "plot",
+        "phonetic": "/plɑːt/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "场景",
+        "desc": "",
+        "english": "scene",
+        "phonetic": "/siːn/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "音乐会",
+        "desc": "",
+        "english": "concert",
+        "phonetic": "/ˈkɑːnsərt/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "冲浪",
+        "desc": "Jun.21st.2024 31/35",
+        "english": "surfing",
+        "phonetic": "/ˈsɜːrfɪŋ/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "奶酪",
+        "desc": "Jun.21st.2024 31/35",
+        "english": "cheese",
+        "phonetic": "/tʃiz/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "季节",
+        "desc": "Jun.21st.2024 31/35",
+        "english": "season",
+        "phonetic": "/ˈsiːzən/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "火",
+        "desc": "Jun.21st.2024 31/35",
+        "english": "fire",
+        "phonetic": "/faɪər/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "晚餐",
+        "desc": "",
+        "english": "dinner",
+        "phonetic": "/ˈdɪnər/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "露营",
+        "desc": "",
+        "english": "camp",
+        "phonetic": "/kæmp/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "饿的",
+        "desc": "",
+        "english": "hungry",
+        "phonetic": "/ˈhʌŋgri/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    },
+    {
+        "chinese": "解决方案",
+        "desc": "",
+        "english": "solution",
+        "phonetic": "/səˈluːʃən/",
+        "right": 0,
+        "tag": "Yeki-20240621",
+        "wrong": 0
+    }
+]
