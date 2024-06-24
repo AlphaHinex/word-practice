@@ -2439,6 +2439,42 @@ var words = [
         "wrong": 0
     },
     {
+        "chinese": "八月",
+        "desc": "Jun.22nd.2024. 26/30",
+        "english": "August",
+        "phonetic": "/ɔːˈɡʌst/",
+        "right": 0,
+        "tag": "Yeki-20240622",
+        "wrong": 0
+    },
+    {
+        "chinese": "十一月",
+        "desc": "Jun.22nd.2024. 26/30",
+        "english": "November",
+        "phonetic": "/noʊˈvɛmbər/",
+        "right": 0,
+        "tag": "Yeki-20240622",
+        "wrong": 0
+    },
+    {
+        "chinese": "星期四",
+        "desc": "Jun.22nd.2024. 26/30",
+        "english": "Thursday",
+        "phonetic": "/ˈθɜːrzdeɪ/",
+        "right": 0,
+        "tag": "Yeki-20240622",
+        "wrong": 0
+    },
+    {
+        "chinese": "卷曲的",
+        "desc": "Jun.22nd.2024. 26/30",
+        "english": "curly",
+        "phonetic": "/ˈkɜːrli/",
+        "right": 0,
+        "tag": "Yeki-20240622",
+        "wrong": 0
+    },
+    {
         "chinese": "失踪的",
         "desc": "",
         "english": "missing",
