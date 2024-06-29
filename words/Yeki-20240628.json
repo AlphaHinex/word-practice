@@ -1,0 +1,76 @@
+```json
+[
+    {
+        "english": "barbecue",
+        "chinese": "烧烤",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbɑːrbəkjuː/"
+    },
+    {
+        "english": "forest",
+        "chinese": "森林",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfɔːrɪst/"
+    },
+    {
+        "english": "desert",
+        "chinese": "沙漠",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɛzərt/"
+    },
+    {
+        "english": "jungle",
+        "chinese": "丛林",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdʒʌŋɡli/"
+    },
+    {
+        "english": "thermometer",
+        "chinese": "温度计",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/θərˈmɑːmɪtər/"
+    },
+    {
+        "english": "funny",
+        "chinese": "有趣的",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfʌni/"
+    },
+    {
+        "english": "bounce",
+        "chinese": "弹跳",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/baʊns/"
+    },
+    {
+        "english": "throw",
+        "chinese": "投掷",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/θroʊ/"
+    }
+]
+```
