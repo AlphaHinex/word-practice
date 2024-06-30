@@ -2439,6 +2439,33 @@ var words = [
         "wrong": 0
     },
     {
+        "chinese": "对面的",
+        "desc": "Jun.29th.2024. 22/25",
+        "english": "opposite",
+        "phonetic": "/ˈɑːpəzɪt/",
+        "right": 0,
+        "tag": "Yeki-20240629",
+        "wrong": 0
+    },
+    {
+        "chinese": "左边的",
+        "desc": "Jun.29th.2024. 22/25",
+        "english": "left",
+        "phonetic": "/left/",
+        "right": 0,
+        "tag": "Yeki-20240629",
+        "wrong": 0
+    },
+    {
+        "chinese": "毯子",
+        "desc": "Jun.29th.2024. 22/25",
+        "english": "blanket",
+        "phonetic": "/ˈblæŋkɪt/",
+        "right": 0,
+        "tag": "Yeki-20240629",
+        "wrong": 0
+    },
+    {
         "chinese": "八月",
         "desc": "Jun.22nd.2024. 26/30",
         "english": "August",
