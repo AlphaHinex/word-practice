@@ -1,1 +1,164 @@
-[{"chinese":"对面的","desc":"Jun.29th.2024. 22/25","english":"opposite","phonetic":"/ˈɑːpəzɪt/","right":0,"tag":"Yeki-20240629","wrong":0},{"chinese":"左边的","desc":"Jun.29th.2024. 22/25","english":"left","phonetic":"/left/","right":0,"tag":"Yeki-20240629","wrong":0},{"chinese":"毯子","desc":"Jun.29th.2024. 22/25","english":"blanket","phonetic":"/ˈblæŋkɪt/","right":0,"tag":"Yeki-20240629","wrong":0}]
+[
+    {
+        "chinese": "状态",
+        "desc": "",
+        "english": "state",
+        "phonetic": "/steɪt/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "液体",
+        "desc": "",
+        "english": "liquid",
+        "phonetic": "/ˈlɪkwɪd/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "气体",
+        "desc": "",
+        "english": "gas",
+        "phonetic": "/ɡæs/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "固体",
+        "desc": "",
+        "english": "solid",
+        "phonetic": "/ˈsɒlɪd/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "蒸发",
+        "desc": "",
+        "english": "evaporate",
+        "phonetic": "/ɪˈvæpəreɪt/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "水蒸气",
+        "desc": "",
+        "english": "water vapor",
+        "phonetic": "",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "凝结",
+        "desc": "",
+        "english": "condense",
+        "phonetic": "/kənˈdens/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "冻结",
+        "desc": "",
+        "english": "freeze",
+        "phonetic": "/friːz/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "融化",
+        "desc": "",
+        "english": "melt",
+        "phonetic": "/melt/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "小滴",
+        "desc": "",
+        "english": "droplet",
+        "phonetic": "/ˈdrɒplɪt/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "形成",
+        "desc": "",
+        "english": "form",
+        "phonetic": "/fɔːrm/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "流动",
+        "desc": "",
+        "english": "flow",
+        "phonetic": "/floʊ/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "冷的",
+        "desc": "",
+        "english": "cold",
+        "phonetic": "/koʊld/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "温暖的",
+        "desc": "",
+        "english": "warm",
+        "phonetic": "/wɔːrm/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "冰",
+        "desc": "",
+        "english": "ice",
+        "phonetic": "/aɪs/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "对面的",
+        "desc": "Jun.29th.2024. 22/25",
+        "english": "opposite",
+        "phonetic": "/ˈɑːpəzɪt/",
+        "right": 0,
+        "tag": "Yeki-20240629",
+        "wrong": 0
+    },
+    {
+        "chinese": "左边的",
+        "desc": "Jun.29th.2024. 22/25",
+        "english": "left",
+        "phonetic": "/left/",
+        "right": 0,
+        "tag": "Yeki-20240629",
+        "wrong": 0
+    },
+    {
+        "chinese": "毯子",
+        "desc": "Jun.29th.2024. 22/25",
+        "english": "blanket",
+        "phonetic": "/ˈblæŋkɪt/",
+        "right": 0,
+        "tag": "Yeki-20240629",
+        "wrong": 0
+    }
+]
