@@ -2444,7 +2444,7 @@ var words = [
         "english": "state",
         "phonetic": "/steɪt/",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
@@ -2453,7 +2453,7 @@ var words = [
         "english": "liquid",
         "phonetic": "/ˈlɪkwɪd/",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
@@ -2462,7 +2462,7 @@ var words = [
         "english": "gas",
         "phonetic": "/ɡæs/",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
@@ -2471,7 +2471,7 @@ var words = [
         "english": "solid",
         "phonetic": "/ˈsɒlɪd/",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
@@ -2480,7 +2480,7 @@ var words = [
         "english": "evaporate",
         "phonetic": "/ɪˈvæpəreɪt/",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
@@ -2489,7 +2489,7 @@ var words = [
         "english": "water vapor",
         "phonetic": "",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
@@ -2498,7 +2498,7 @@ var words = [
         "english": "condense",
         "phonetic": "/kənˈdens/",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
@@ -2507,7 +2507,7 @@ var words = [
         "english": "freeze",
         "phonetic": "/friːz/",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
@@ -2516,7 +2516,7 @@ var words = [
         "english": "melt",
         "phonetic": "/melt/",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
@@ -2525,7 +2525,7 @@ var words = [
         "english": "droplet",
         "phonetic": "/ˈdrɒplɪt/",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
@@ -2534,7 +2534,7 @@ var words = [
         "english": "form",
         "phonetic": "/fɔːrm/",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
@@ -2543,7 +2543,7 @@ var words = [
         "english": "flow",
         "phonetic": "/floʊ/",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
@@ -2552,7 +2552,7 @@ var words = [
         "english": "cold",
         "phonetic": "/koʊld/",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
@@ -2561,7 +2561,7 @@ var words = [
         "english": "warm",
         "phonetic": "/wɔːrm/",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
@@ -2570,7 +2570,7 @@ var words = [
         "english": "ice",
         "phonetic": "/aɪs/",
         "right": 0,
-        "tag": "Yeki-20240629-all",
+        "tag": "Yeki-20240629",
         "wrong": 0
     },
     {
