@@ -2439,6 +2439,141 @@ var words = [
         "wrong": 0
     },
     {
+        "chinese": "状态",
+        "desc": "",
+        "english": "state",
+        "phonetic": "/steɪt/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "液体",
+        "desc": "",
+        "english": "liquid",
+        "phonetic": "/ˈlɪkwɪd/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "气体",
+        "desc": "",
+        "english": "gas",
+        "phonetic": "/ɡæs/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "固体",
+        "desc": "",
+        "english": "solid",
+        "phonetic": "/ˈsɒlɪd/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "蒸发",
+        "desc": "",
+        "english": "evaporate",
+        "phonetic": "/ɪˈvæpəreɪt/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "水蒸气",
+        "desc": "",
+        "english": "water vapor",
+        "phonetic": "",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "凝结",
+        "desc": "",
+        "english": "condense",
+        "phonetic": "/kənˈdens/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "冻结",
+        "desc": "",
+        "english": "freeze",
+        "phonetic": "/friːz/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "融化",
+        "desc": "",
+        "english": "melt",
+        "phonetic": "/melt/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "小滴",
+        "desc": "",
+        "english": "droplet",
+        "phonetic": "/ˈdrɒplɪt/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "形成",
+        "desc": "",
+        "english": "form",
+        "phonetic": "/fɔːrm/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "流动",
+        "desc": "",
+        "english": "flow",
+        "phonetic": "/floʊ/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "冷的",
+        "desc": "",
+        "english": "cold",
+        "phonetic": "/koʊld/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "温暖的",
+        "desc": "",
+        "english": "warm",
+        "phonetic": "/wɔːrm/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
+        "chinese": "冰",
+        "desc": "",
+        "english": "ice",
+        "phonetic": "/aɪs/",
+        "right": 0,
+        "tag": "Yeki-20240629-all",
+        "wrong": 0
+    },
+    {
         "chinese": "对面的",
         "desc": "Jun.29th.2024. 22/25",
         "english": "opposite",
@@ -2464,6 +2599,78 @@ var words = [
         "right": 0,
         "tag": "Yeki-20240629",
         "wrong": 0
+    },
+    {
+        "english": "barbecue",
+        "chinese": "烧烤",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbɑːrbəkjuː/"
+    },
+    {
+        "english": "forest",
+        "chinese": "森林",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfɔːrɪst/"
+    },
+    {
+        "english": "desert",
+        "chinese": "沙漠",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɛzərt/"
+    },
+    {
+        "english": "jungle",
+        "chinese": "丛林",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdʒʌŋɡli/"
+    },
+    {
+        "english": "thermometer",
+        "chinese": "温度计",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/θərˈmɑːmɪtər/"
+    },
+    {
+        "english": "funny",
+        "chinese": "有趣的",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfʌni/"
+    },
+    {
+        "english": "bounce",
+        "chinese": "弹跳",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/baʊns/"
+    },
+    {
+        "english": "throw",
+        "chinese": "投掷",
+        "tag": "Yeki-20240628",
+        "desc": "Jun.28nd.2024. 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/θroʊ/"
     },
     {
         "chinese": "八月",
