@@ -2439,6 +2439,78 @@ var words = [
         "wrong": 0
     },
     {
+        "english": "windmill",
+        "chinese": "风车",
+        "tag": "Yeki-20240705",
+        "desc": "Jul.5th.2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɪndmɪl/"
+    },
+    {
+        "english": "symbol",
+        "chinese": "符号",
+        "tag": "Yeki-20240705",
+        "desc": "Jul.5th.2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsɪmbəl/"
+    },
+    {
+        "english": "temple",
+        "chinese": "庙宇",
+        "tag": "Yeki-20240705",
+        "desc": "Jul.5th.2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtempəl/"
+    },
+    {
+        "english": "respect",
+        "chinese": "尊重",
+        "tag": "Yeki-20240705",
+        "desc": "Jul.5th.2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/rɪˈspekt/"
+    },
+    {
+        "english": "habitat",
+        "chinese": "栖息地",
+        "tag": "Yeki-20240705",
+        "desc": "Jul.5th.2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhæbɪtæt/"
+    },
+    {
+        "english": "volcano",
+        "chinese": "火山",
+        "tag": "Yeki-20240705",
+        "desc": "Jul.5th.2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/vɑːlˈkeɪnoʊ/"
+    },
+    {
+        "english": "national",
+        "chinese": "国家的",
+        "tag": "Yeki-20240705",
+        "desc": "Jul.5th.2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈnæʃənəl/"
+    },
+    {
+        "english": "popular",
+        "chinese": "受欢迎的",
+        "tag": "Yeki-20240705",
+        "desc": "Jul.5th.2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpɑːpjələr/"
+    },
+    {
         "chinese": "状态",
         "desc": "",
         "english": "state",
