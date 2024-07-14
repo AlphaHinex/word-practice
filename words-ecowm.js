@@ -4998,6 +4998,510 @@ var words = [
         "phonetic": ""
     },
     {
+        "english": "famous",
+        "chinese": "著名的",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfeɪməs/"
+    },
+    {
+        "english": "during",
+        "chinese": "在...期间",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdjʊrɪŋ/"
+    },
+    {
+        "english": "spend",
+        "chinese": "度过",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/spɛnd/"
+    },
+    {
+        "english": "everyone",
+        "chinese": "每个人",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɛvərɪwʌn/"
+    },
+    {
+        "english": "everybody",
+        "chinese": "每个人",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɛvərɪbɒdi/"
+    },
+    {
+        "english": "countryside",
+        "chinese": "乡村",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkʌntrɪsaɪd/"
+    },
+    {
+        "english": "pick",
+        "chinese": "采摘",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pɪk/"
+    },
+    {
+        "english": "summer holiday",
+        "chinese": "暑假",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "winter holiday",
+        "chinese": "寒假",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "visit my grandparents",
+        "chinese": "拜访我的祖父母",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "go to the beach with my family",
+        "chinese": "和我的家人去海滩",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "play ball games",
+        "chinese": "玩球类游戏",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "go swimming in the sea",
+        "chinese": "去海里游泳",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "go to Beijing",
+        "chinese": "去北京",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "go to the Great Wall",
+        "chinese": "去长城",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "go to Tian'anmen Square",
+        "chinese": "去天安门广场",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "go to the Palace Museum",
+        "chinese": "去故宫博物院",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "go to some famous parks",
+        "chinese": "去一些著名的公园",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "take a lot of photos",
+        "chinese": "拍很多照片",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "during the summer holiday",
+        "chinese": "在暑假期间",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "by plane",
+        "chinese": "乘飞机",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "enjoy her summer holiday",
+        "chinese": "享受她的暑假",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "go back to the UK",
+        "chinese": "回到英国",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "spend their holiday",
+        "chinese": "度过他们的假期",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "in London",
+        "chinese": "在伦敦",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "visit Big Ben and the British Museum",
+        "chinese": "参观大本钟和大英博物馆",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "stay with their grandparents",
+        "chinese": "和他们的祖父母一起住",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "in the countryside",
+        "chinese": "在农村",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "pick apples with her grandmother",
+        "chinese": "和她的祖母一起摘苹果",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "over the bridge",
+        "chinese": "过桥",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "into the town",
+        "chinese": "到镇上",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "ride her bicycle",
+        "chinese": "骑她的自行车",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "How was your summer holiday? It was wonderful.",
+        "chinese": "你的暑假过得怎么样？很棒。",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "We went to the Great Wall, Tian'anmen Square and the Palace Museum.",
+        "chinese": "我们去了长城、天安门广场和故宫博物院。",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "We also went to some famous parks in Beijing.",
+        "chinese": "我们还去了北京的一些著名公园。",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "How about your summer holiday?",
+        "chinese": "你的暑假过得怎么样？",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "They spent their holiday in London.",
+        "chinese": "他们在伦敦度过假期。",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Everyone had a good time.",
+        "chinese": "每个人都玩得很开心。",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "visited",
+        "chinese": "参观",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈvɪzɪtɪd/"
+    },
+    {
+        "english": "played",
+        "chinese": "玩",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pleɪd/"
+    },
+    {
+        "english": "stayed",
+        "chinese": "停留",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/steɪd/"
+    },
+    {
+        "english": "picked",
+        "chinese": "采摘",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pɪkt/"
+    },
+    {
+        "english": "enjoyed",
+        "chinese": "享受",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɪnˈdʒɔɪd/"
+    },
+    {
+        "english": "liked",
+        "chinese": "喜欢",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/laɪkt/"
+    },
+    {
+        "english": "lived",
+        "chinese": "居住",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/lɪvd/"
+    },
+    {
+        "english": "studied",
+        "chinese": "学习",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈstʌdɪd/"
+    },
+    {
+        "english": "carried",
+        "chinese": "携带",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkærɪd/"
+    },
+    {
+        "english": "stopped",
+        "chinese": "停止",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/stɒpt/"
+    },
+    {
+        "english": "planned",
+        "chinese": "计划",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/plænd/"
+    },
+    {
+        "english": "went",
+        "chinese": "去",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɛnt/"
+    },
+    {
+        "english": "did",
+        "chinese": "做",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dɪd/"
+    },
+    {
+        "english": "spent",
+        "chinese": "度过",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/spɛnt/"
+    },
+    {
+        "english": "rode",
+        "chinese": "骑",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/roʊd/"
+    },
+    {
+        "english": "had",
+        "chinese": "有",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hæd/"
+    },
+    {
+        "english": "took",
+        "chinese": "拿",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/toʊk/"
+    },
+    {
+        "english": "came",
+        "chinese": "来",
+        "tag": "Grade6-U2",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/keɪm/"
+    },
+    {
         "english": "why",
         "chinese": "为什么",
         "tag": "Grade5-Unit02",
