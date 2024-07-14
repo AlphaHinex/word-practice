@@ -5394,6 +5394,411 @@ var words = [
         "phonetic": ""
     },
     {
+        "english": "month",
+        "chinese": "月",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mʌnθ/"
+    },
+    {
+        "english": "months",
+        "chinese": "月",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mʌnθs/"
+    },
+    {
+        "english": "cute",
+        "chinese": "可爱的",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kjuːt/"
+    },
+    {
+        "english": "lovely",
+        "chinese": "可爱的",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈlʌvli/"
+    },
+    {
+        "english": "pretty",
+        "chinese": "漂亮的",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈprɪti/"
+    },
+    {
+        "english": "beautiful",
+        "chinese": "美丽的",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbjuːtɪfəl/"
+    },
+    {
+        "english": "handsome",
+        "chinese": "英俊的",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhænsəm/"
+    },
+    {
+        "english": "grow up",
+        "chinese": "长大",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "about",
+        "chinese": "关于",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/əˈbaʊt/"
+    },
+    {
+        "english": "primary school",
+        "chinese": "小学",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "junior high school",
+        "chinese": "初中",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "middle school",
+        "chinese": "中学",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "senior high school",
+        "chinese": "高中",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "round",
+        "chinese": "圆的",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/raʊnd/"
+    },
+    {
+        "english": "turtle",
+        "chinese": "乌龟",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtɜːrtl/"
+    },
+    {
+        "english": "catch",
+        "chinese": "抓住",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kætʃ/"
+    },
+    {
+        "english": "fly",
+        "chinese": "飞",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/flaɪ/"
+    },
+    {
+        "english": "flies",
+        "chinese": "苍蝇",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/flaɪz/"
+    },
+    {
+        "english": "later",
+        "chinese": "稍后",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈleɪtər/"
+    },
+    {
+        "english": "bin",
+        "chinese": "垃圾桶",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/bɪn/"
+    },
+    {
+        "english": "least",
+        "chinese": "至少",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/liːst/"
+    },
+    {
+        "english": "list",
+        "chinese": "列表",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/lɪst/"
+    },
+    {
+        "english": "leave",
+        "chinese": "离开",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/liːv/"
+    },
+    {
+        "english": "was",
+        "chinese": "是",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɒz/"
+    },
+    {
+        "english": "were",
+        "chinese": "是",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɜːr/"
+    },
+    {
+        "english": "in photo 1",
+        "chinese": "在照片1中",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "(be) about two months old",
+        "chinese": "大约两个月大",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "(be) one year old",
+        "chinese": "一岁",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "a primary school student",
+        "chinese": "一名小学生",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "go to junior high school",
+        "chinese": "上初中",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "(be) born",
+        "chinese": "出生",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "look around",
+        "chinese": "环顾四周",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "a round head",
+        "chinese": "一个圆脑袋",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "at primary school",
+        "chinese": "在小学",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "has no tail",
+        "chinese": "没有尾巴",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "catch flies",
+        "chinese": "抓苍蝇",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "In photo 1, Sally was a baby.",
+        "chinese": "在照片1中，莎莉是个婴儿。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "She was about two months old.",
+        "chinese": "她大约两个月大。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "She was small and cute.",
+        "chinese": "她小而可爱。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Her hair was short and her eyes were big.",
+        "chinese": "她的头发短，眼睛大。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "She was a primary school student.",
+        "chinese": "她是一名小学生。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "She goes to junior high school.",
+        "chinese": "她上初中。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "She is tall and pretty.",
+        "chinese": "她高而漂亮。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Little Justin was born in the river.",
+        "chinese": "小贾斯汀出生在河里。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "He meets a turtle.",
+        "chinese": "他遇到了一只乌龟。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
         "english": "tidy",
         "chinese": "整理；整洁的",
         "tag": "Grade5-Unit01",
