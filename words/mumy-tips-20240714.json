@@ -1,0 +1,265 @@
+```json
+[
+    {
+        "english": "acorn",
+        "chinese": "橡子",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈeɪkɔːrn/"
+    },
+    {
+        "english": "squirrel",
+        "chinese": "松鼠",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈskwɪrəl/"
+    },
+    {
+        "english": "cobweb",
+        "chinese": "蜘蛛网",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkɒbweb/"
+    },
+    {
+        "english": "pumpkin",
+        "chinese": "南瓜",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpʌmpkɪn/"
+    },
+    {
+        "english": "mushroom",
+        "chinese": "蘑菇",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmʌʃruːm/"
+    },
+    {
+        "english": "berry",
+        "chinese": "浆果",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈberi/"
+    },
+    {
+        "english": "walnut",
+        "chinese": "核桃",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɔːlnʌt/"
+    },
+    {
+        "english": "chestnut",
+        "chinese": "栗子",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtʃɛstnʌt/"
+    },
+    {
+        "english": "corn",
+        "chinese": "玉米",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kɔːrn/"
+    },
+    {
+        "english": "hay",
+        "chinese": "干草",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/heɪ/"
+    },
+    {
+        "english": "harvest",
+        "chinese": "收获",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhɑːrvɪst/"
+    },
+    {
+        "english": "Halloween",
+        "chinese": "万圣节",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhæləʊiːn/"
+    },
+    {
+        "english": "Thanksgiving",
+        "chinese": "感恩节",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈθæŋksɡɪvɪŋ/"
+    },
+    {
+        "english": "turkey",
+        "chinese": "火鸡",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtɜːrki/"
+    },
+    {
+        "english": "scare crow",
+        "chinese": "稻草人",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "baseball hat",
+        "chinese": "棒球帽",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "mittens",
+        "chinese": "手套",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmɪtnz/"
+    },
+    {
+        "english": "rainboots",
+        "chinese": "雨靴",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "raincoat",
+        "chinese": "雨衣",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈreɪnkoʊt/"
+    },
+    {
+        "english": "sandals",
+        "chinese": "凉鞋",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsændlz/"
+    },
+    {
+        "english": "scarf",
+        "chinese": "围巾",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/skɑːrf/"
+    },
+    {
+        "english": "sunglasses",
+        "chinese": "太阳镜",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "sweater",
+        "chinese": "毛衣",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈswɛtər/"
+    },
+    {
+        "english": "swimsuit",
+        "chinese": "泳衣",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈswɪmsuːt/"
+    },
+    {
+        "english": "T-shirt",
+        "chinese": "T恤",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtiːʃɜːrt/"
+    },
+    {
+        "english": "swimming trunks",
+        "chinese": "游泳裤",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "wool hat",
+        "chinese": "羊毛帽",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "midnight",
+        "chinese": "午夜",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmɪdnaɪt/"
+    },
+    {
+        "english": "bell",
+        "chinese": "钟",
+        "tag": "mumy-tips-20240714",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/bel/"
+    },
+    {
+        "english":
