@@ -1,774 +1,405 @@
 var words = [
     {
-        "english": "street",
-        "chinese": "街道",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024",
+        "english": "backpack",
+        "chinese": "背包",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/striːt/"
+        "phonetic": "/ˈbækpæk/"
     },
     {
-        "english": "path",
-        "chinese": "路径",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024",
+        "english": "field",
+        "chinese": "田野；场地",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/pɑːθ/"
+        "phonetic": "/fiːld/"
     },
     {
-        "english": "river",
-        "chinese": "河流",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024",
+        "english": "fire",
+        "chinese": "火；火灾",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈrɪvər/"
+        "phonetic": "/faɪə(r)/"
     },
     {
-        "english": "go along",
-        "chinese": "沿着走",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024",
+        "english": "flashlight",
+        "chinese": "手电筒",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈflæʃlaɪt/"
+    },
+    {
+        "english": "grass",
+        "chinese": "草；草地",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɡrɑːs/"
+    },
+    {
+        "english": "hill",
+        "chinese": "小山；丘陵",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hɪl/"
+    },
+    {
+        "english": "lake",
+        "chinese": "湖；湖泊",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/leɪk/"
+    },
+    {
+        "english": "leaves",
+        "chinese": "叶子（leaf 的复数）",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/liːvz/"
+    },
+    {
+        "english": "sleeping bag",
+        "chinese": "睡袋",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "go across",
-        "chinese": "穿过",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024",
+        "english": "tent",
+        "chinese": "帐篷",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/tent/"
+    },
+    {
+        "english": "waterfall",
+        "chinese": "瀑布",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɔːtəfɔːl/"
+    },
+    {
+        "english": "woods",
+        "chinese": "树林；森林",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wʊdz/"
+    },
+    {
+        "english": "stage play",
+        "chinese": "舞台剧",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "turn left",
-        "chinese": "左转",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024",
+        "english": "play script",
+        "chinese": "剧本",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "turn right",
-        "chinese": "右转",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024",
+        "english": "barbecue",
+        "chinese": "烧烤；烤肉",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbɑːbɪkjuː/"
+    },
+    {
+        "english": "look around",
+        "chinese": "环顾四周",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "country",
-        "chinese": "国家",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024",
+        "english": "exit",
+        "chinese": "出口；退出",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈkʌntri/"
+        "phonetic": "/ˈeksɪt/"
     },
     {
-        "english": "town",
-        "chinese": "城镇",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024",
+        "english": "clue",
+        "chinese": "线索；提示",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/taʊn/"
+        "phonetic": "/kluː/"
     },
     {
-        "english": "bridge",
-        "chinese": "桥",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024",
+        "english": "close",
+        "chinese": "关闭；合上",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/brɪdʒ/"
+        "phonetic": "/kləʊz/"
     },
     {
-        "english": "direction",
-        "chinese": "方向",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024",
+        "english": "litter",
+        "chinese": "垃圾；杂物",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/dɪˈrɛkʃən/"
+        "phonetic": "/ˈlɪtə(r)/"
     },
     {
-        "english": "Can you tell me how to go to the Hun River?",
-        "chinese": "你能告诉我怎么去浑河吗？",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024",
+        "english": "pick",
+        "chinese": "采摘；挑选",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pɪk/"
+    },
+    {
+        "english": "protect",
+        "chinese": "保护",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/prəˈtekt/"
+    },
+    {
+        "english": "put out",
+        "chinese": "熄灭；扑灭",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Can you tell me where is the hospital?",
-        "chinese": "你能告诉我医院在哪里吗？",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024",
+        "english": "present",
+        "chinese": "礼物；现在的",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpreznt/"
+    },
+    {
+        "english": "states",
+        "chinese": "州；状态（state 的复数）",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/steɪts/"
+    },
+    {
+        "english": "solid",
+        "chinese": "固体",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsɒlɪd/"
+    },
+    {
+        "english": "liquid",
+        "chinese": "液体",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈlɪkwɪd/"
+    },
+    {
+        "english": "gas",
+        "chinese": "气体",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɡæs/"
+    },
+    {
+        "english": "evaporate",
+        "chinese": "蒸发",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɪˈvæpəreɪt/"
+    },
+    {
+        "english": "change",
+        "chinese": "改变；变化",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/tʃeɪndʒ/"
+    },
+    {
+        "english": "vapor",
+        "chinese": "蒸汽；水汽",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈveɪpə(r)/"
+    },
+    {
+        "english": "condense",
+        "chinese": "凝结；浓缩",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kənˈdens/"
+    },
+    {
+        "english": "droplet",
+        "chinese": "小滴；飞沫",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdrɒplət/"
+    },
+    {
+        "english": "form",
+        "chinese": "形成；构成",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fɔːm/"
+    },
+    {
+        "english": "freeze",
+        "chinese": "冻结；结冰",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/friːz/"
+    },
+    {
+        "english": "melt",
+        "chinese": "融化；熔化",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/melt/"
+    },
+    {
+        "english": "water cycle",
+        "chinese": "水循环",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Can you tell me the way to the school?",
-        "chinese": "你能告诉我去学校的路吗？",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024",
+        "english": "scene",
+        "chinese": "场景；景色",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": ""
+        "phonetic": "/siːn/"
     },
     {
         "english": "scenery",
-        "chinese": "风景",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024 18/22",
+        "chinese": "风景；景色",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈsiːnəri/"
     },
     {
-        "english": "temple",
-        "chinese": "寺庙",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024 18/22",
+        "english": "costume",
+        "chinese": "服装；戏服",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈtɛmpl/"
+        "phonetic": "/ˈkɒstjuːm/"
     },
     {
-        "english": "statue",
-        "chinese": "雕像",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024 18/22",
+        "english": "impossible",
+        "chinese": "不可能的",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈstætʃuː/"
+        "phonetic": "/ɪmˈpɒsəbl/"
     },
     {
-        "english": "No, they aren't",
-        "chinese": "不，他们不是",
-        "tag": "Yeki",
-        "desc": "Apr. 27th. 2024 18/22",
+        "english": "auditorium",
+        "chinese": "礼堂；观众席",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "travel",
-        "chinese": "旅行",
-        "tag": "Yeki",
-        "desc": "Apr. 26th. 2024 22/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈtrævəl/"
-    },
-    {
-        "english": "traffic jam",
-        "chinese": "交通堵塞",
-        "tag": "Yeki",
-        "desc": "Apr. 26th. 2024 22/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "tractor",
-        "chinese": "拖拉机",
-        "tag": "Yeki",
-        "desc": "Apr. 26th. 2024 22/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈtræktər/"
-    },
-    {
-        "english": "caravan",
-        "chinese": "大篷车",
-        "tag": "Yeki",
-        "desc": "Apr. 26th. 2024 22/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈkærəvæn/"
-    },
-    {
-        "english": "ambulance",
-        "chinese": "救护车",
-        "tag": "Yeki",
-        "desc": "Apr. 26th. 2024 22/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈæmbjuləns/"
-    },
-    {
-        "english": "snowmobile",
-        "chinese": "雪地摩托",
-        "tag": "Yeki",
-        "desc": "Apr. 26th. 2024 22/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈsnoʊmoʊbiːl/"
-    },
-    {
-        "english": "ferry",
-        "chinese": "渡船",
-        "tag": "Yeki",
-        "desc": "Apr. 26th. 2024 22/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈfɛri/"
-    },
-    {
-        "english": "bicycle",
-        "chinese": "自行车",
-        "tag": "Yeki",
-        "desc": "Apr. 26th. 2024 22/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈbaɪsɪkl/"
-    },
-    {
-        "english": "scissors",
-        "chinese": "剪刀",
-        "tag": "Yeki",
-        "desc": "Apr. 20th. 2024 21/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈsɪzərz/"
-    },
-    {
-        "english": "truck",
-        "chinese": "卡车",
-        "tag": "Yeki",
-        "desc": "Apr. 20th. 2024 21/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/trʌk/"
-    },
-    {
-        "english": "scooter",
-        "chinese": "滑板车",
-        "tag": "Yeki",
-        "desc": "Apr. 20th. 2024 21/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈskuːtər/"
-    },
-    {
-        "english": "transportation",
-        "chinese": "交通工具",
-        "tag": "Yeki",
-        "desc": "Apr. 20th. 2024 21/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˌtrænspərˈteɪʃn/"
-    },
-    {
-        "english": "laptop",
-        "chinese": "笔记本电脑",
-        "tag": "Yeki",
-        "desc": "Apr. 19th. 2024 23/25",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈlæpˌtɑːp/"
-    },
-    {
-        "english": "website",
-        "chinese": "网站",
-        "tag": "Yeki",
-        "desc": "Apr. 19th. 2024 23/25",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈwɛbˌsaɪt/"
-    },
-    {
-        "english": "famous",
-        "chinese": "著名的",
-        "tag": "Yeki",
-        "desc": "Apr. 13th. 2024 20/25",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈfeɪməs/"
-    },
-    {
-        "english": "canal",
-        "chinese": "运河",
-        "tag": "Yeki",
-        "desc": "Apr. 13th. 2024 20/25",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/kəˈnæl/"
-    },
-    {
-        "english": "floating market",
-        "chinese": "水上市场",
-        "tag": "Yeki",
-        "desc": "Apr. 13th. 2024 20/25",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "fantastic",
-        "chinese": "极好的",
-        "tag": "Yeki",
-        "desc": "Apr. 12th. 2024 26/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/fænˈtæstɪk/"
-    },
-    {
-        "english": "radio",
-        "chinese": "收音机",
-        "tag": "Yeki",
-        "desc": "Apr. 12th. 2024 26/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈreɪdioʊ/"
-    },
-    {
-        "english": "French fries",
-        "chinese": "炸薯条",
-        "tag": "Yeki",
-        "desc": "Apr. 12th. 2024 26/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "cheese",
-        "chinese": "奶酪",
-        "tag": "Yeki",
-        "desc": "Apr. 12th. 2024 26/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/tʃiːz/"
-    },
-    {
-        "english": "dairy",
-        "chinese": "乳制品",
-        "tag": "Yeki",
-        "desc": "Apr. 6th. 2024 22/26",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈdɛri/"
-    },
-    {
-        "english": "Thursday",
-        "chinese": "星期四",
-        "tag": "Yeki",
-        "desc": "Apr. 6th. 2024 22/26",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈθɝːzdeɪ/"
-    },
-    {
-        "english": "routine",
-        "chinese": "常规",
-        "tag": "Yeki",
-        "desc": "Apr. 6th. 2024 22/26",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ruːˈtiːn/"
-    },
-    {
-        "english": "She does her work",
-        "chinese": "她做她的工作",
-        "tag": "Yeki",
-        "desc": "Apr. 5th. 2024 20/22",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "earlier",
-        "chinese": "更早",
-        "tag": "Yeki",
-        "desc": "Apr. 5th. 2024 20/22",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈɝːliər/"
-    },
-    {
-        "english": "April",
-        "chinese": "四月",
-        "tag": "Yeki",
-        "desc": "Mar. 31th. 2024 18/20",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈeɪprəl/"
-    },
-    {
-        "english": "daily",
-        "chinese": "每日的",
-        "tag": "Yeki",
-        "desc": "Mar. 30th. 2024 20/22",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈdeɪli/"
-    },
-    {
-        "english": "draw a picture",
-        "chinese": "画一幅画",
-        "tag": "Yeki",
-        "desc": "Mar. 29th. 2024",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "Tuesday",
-        "chinese": "星期二",
-        "tag": "Yeki",
-        "desc": "Mar. 29th. 2024",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈtjuːzdeɪ/"
-    },
-    {
-        "english": "Wednesday",
-        "chinese": "星期三",
-        "tag": "Yeki",
-        "desc": "Mar. 29th. 2024",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈwɛnzdeɪ/"
-    },
-    {
-        "english": "Friday",
-        "chinese": "星期五",
-        "tag": "Yeki",
-        "desc": "Mar. 29th. 2024",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈfraɪdeɪ/"
-    },
-    {
-        "english": "Saturday",
-        "chinese": "星期六",
-        "tag": "Yeki",
-        "desc": "Mar. 29th. 2024",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈsætərdeɪ/"
-    },
-    {
-        "english": "key",
-        "chinese": "钥匙",
-        "tag": "Yeki",
-        "desc": "Mar. 29th. 2024",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/kiː/"
-    },
-    {
-        "english": "seat",
-        "chinese": "座位",
-        "tag": "Yeki",
-        "desc": "Mar. 29th. 2024",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/siːt/"
-    },
-    {
-        "english": "feed the fish",
-        "chinese": "喂鱼",
-        "tag": "Yeki",
-        "desc": "Mar. 22nd. 2024 23/25",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "nutrient",
-        "chinese": "营养物",
-        "tag": "Yeki",
-        "desc": "Mar. 22nd. 2024 23/25",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈnuːtriənt/"
-    },
-    {
-        "english": "sugar",
-        "chinese": "糖",
-        "tag": "Yeki",
-        "desc": "Mar. 16th. 2024 18/20",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈʃʊɡər/"
-    },
-    {
-        "english": "strawberry",
-        "chinese": "草莓",
-        "tag": "Yeki",
-        "desc": "Mar. 16th. 2024 18/20",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈstrɔːbəri/"
-    },
-    {
-        "english": "What do you have for breakfast?",
-        "chinese": "你早餐吃什么？",
-        "tag": "Yeki",
-        "desc": "Mar. 15th. 2024 16/24",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "I have toast for breakfast.",
-        "chinese": "我早餐吃吐司。",
-        "tag": "Yeki",
-        "desc": "Mar. 15th. 2024 16/24",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "calcium",
-        "chinese": "钙",
-        "tag": "Yeki",
-        "desc": "Mar. 15th. 2024 16/24",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈkælsiəm/"
-    },
-    {
-        "english": "group",
-        "chinese": "组",
-        "tag": "Yeki",
-        "desc": "Mar. 15th. 2024 16/24",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ɡruːp/"
-    },
-    {
-        "english": "activity",
-        "chinese": "活动",
-        "tag": "Yeki",
-        "desc": "Mar. 15th. 2024 16/24",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ækˈtɪvɪti/"
-    },
-    {
-        "english": "No, thank you.",
-        "chinese": "不，谢谢。",
-        "tag": "Yeki",
-        "desc": "Mar. 15th. 2024 16/24",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "balanced",
-        "chinese": "平衡的",
-        "tag": "Yeki",
-        "desc": "Mar. 9th. 2024 21/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈbælənst/"
-    },
-    {
-        "english": "vitamins",
-        "chinese": "维生素",
-        "tag": "Yeki",
-        "desc": "Mar. 9th. 2024 21/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈvaɪtəmɪnz/"
-    },
-    {
-        "english": "protein",
-        "chinese": "蛋白质",
-        "tag": "Yeki",
-        "desc": "Mar. 9th. 2024 21/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈproʊtiːn/"
-    },
-    {
-        "english": "healthy",
-        "chinese": "健康的",
-        "tag": "Yeki",
-        "desc": "Mar. 9th. 2024 21/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈhɛlθi/"
-    },
-    {
-        "english": "please",
-        "chinese": "请",
-        "tag": "Yeki",
-        "desc": "Mar. 9th. 2024 21/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/pliːz/"
-    },
-    {
-        "english": "evening",
-        "chinese": "晚上",
-        "tag": "Yeki",
-        "desc": "Mar. 8th. 2024 26/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈiːvənɪŋ/"
-    },
-    {
-        "english": "action",
-        "chinese": "行动",
-        "tag": "Yeki",
-        "desc": "Mar. 8th. 2024 26/30",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈækʃən/"
-    },
-    {
-        "english": "o'clock",
-        "chinese": "点钟",
-        "tag": "Yeki",
-        "desc": "Mar. 2nd. 2024 24/25",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/əˈklɑːk/"
-    },
-    {
-        "chinese": "背包",
-        "desc": "vocabulary",
-        "english": "backpack",
-        "phonetic": "/ˈbækpæk/",
-        "right": 0,
-        "tag": "Yeki-Unit9",
-        "wrong": 0
-    },
-    {
-        "chinese": "田野",
-        "desc": "vocabulary",
-        "english": "field",
-        "phonetic": "/fiːld/",
-        "right": 0,
-        "tag": "Yeki-Unit9",
-        "wrong": 0
-    },
-    {
-        "chinese": "火",
-        "desc": "vocabulary",
-        "english": "fire",
-        "phonetic": "/faɪər/",
-        "right": 0,
-        "tag": "Yeki-Unit9",
-        "wrong": 0
-    },
-    {
-        "chinese": "手电筒",
-        "desc": "vocabulary",
-        "english": "flashlight",
-        "phonetic": "/ˈflæʃlaɪt/",
-        "right": 0,
-        "tag": "Yeki-Unit9",
-        "wrong": 0
-    },
-    {
-        "chinese": "草",
-        "desc": "vocabulary",
-        "english": "grass",
-        "phonetic": "/ɡræs/",
-        "right": 0,
-        "tag": "Yeki-Unit9",
-        "wrong": 0
-    },
-    {
-        "chinese": "小山",
-        "desc": "vocabulary",
-        "english": "hill",
-        "phonetic": "/hɪl/",
-        "right": 0,
-        "tag": "Yeki-Unit9",
-        "wrong": 0
-    },
-    {
-        "chinese": "湖",
-        "desc": "vocabulary",
-        "english": "lake",
-        "phonetic": "/leɪk/",
-        "right": 0,
-        "tag": "Yeki-Unit9",
-        "wrong": 0
-    },
-    {
-        "chinese": "叶子",
-        "desc": "vocabulary",
-        "english": "leaves",
-        "phonetic": "/liːvz/",
-        "right": 0,
-        "tag": "Yeki-Unit9",
-        "wrong": 0
-    },
-    {
-        "chinese": "睡袋",
-        "desc": "vocabulary",
-        "english": "sleeping bag",
-        "phonetic": "",
-        "right": 0,
-        "tag": "Yeki-Unit9",
-        "wrong": 0
-    },
-    {
-        "chinese": "帐篷",
-        "desc": "vocabulary",
-        "english": "tent",
-        "phonetic": "/tɛnt/",
-        "right": 0,
-        "tag": "Yeki-Unit9",
-        "wrong": 0
-    },
-    {
-        "chinese": "瀑布",
-        "desc": "vocabulary",
-        "english": "waterfall",
-        "phonetic": "/ˈwɔːtərˌfɔːl/",
-        "right": 0,
-        "tag": "Yeki-Unit9",
-        "wrong": 0
-    },
-    {
-        "chinese": "树林",
-        "desc": "vocabulary",
-        "english": "woods",
-        "phonetic": "/wʊdz/",
-        "right": 0,
-        "tag": "Yeki-Unit9",
-        "wrong": 0
+        "phonetic": "/ˌɔːdɪˈtɔːriəm/"
     },
     {
         "english": "town",
         "chinese": "镇",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/taʊn/"
     },
     {
-        "english": "cafe",
+        "english": "café",
         "chinese": "咖啡馆",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈkæfeɪ/"
+        "phonetic": "/kæˈfeɪ/"
     },
     {
         "english": "fitness center",
         "chinese": "健身中心",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -776,8 +407,8 @@ var words = [
     {
         "english": "park",
         "chinese": "公园",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/pɑːrk/"
@@ -785,8 +416,8 @@ var words = [
     {
         "english": "police station",
         "chinese": "警察局",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -794,8 +425,8 @@ var words = [
     {
         "english": "grocery store",
         "chinese": "杂货店",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -803,8 +434,8 @@ var words = [
     {
         "english": "store",
         "chinese": "商店",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/stoʊr/"
@@ -812,8 +443,8 @@ var words = [
     {
         "english": "school",
         "chinese": "学校",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/skuːl/"
@@ -821,8 +452,8 @@ var words = [
     {
         "english": "hospital",
         "chinese": "医院",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈhɑːspɪtl/"
@@ -830,8 +461,8 @@ var words = [
     {
         "english": "library",
         "chinese": "图书馆",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈlaɪbreri/"
@@ -839,8 +470,8 @@ var words = [
     {
         "english": "swimming pool",
         "chinese": "游泳池",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -848,8 +479,8 @@ var words = [
     {
         "english": "movie theatre",
         "chinese": "电影院",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -857,8 +488,8 @@ var words = [
     {
         "english": "town hall",
         "chinese": "市政厅",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -866,7 +497,7 @@ var words = [
     {
         "english": "travel",
         "chinese": "旅行",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -875,7 +506,7 @@ var words = [
     {
         "english": "mysterious",
         "chinese": "神秘的",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -884,7 +515,7 @@ var words = [
     {
         "english": "ago",
         "chinese": "以前",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -893,7 +524,7 @@ var words = [
     {
         "english": "suddenly",
         "chinese": "突然",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -902,7 +533,7 @@ var words = [
     {
         "english": "treasure",
         "chinese": "宝藏",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -911,7 +542,7 @@ var words = [
     {
         "english": "opposite",
         "chinese": "相反的",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -920,7 +551,7 @@ var words = [
     {
         "english": "square",
         "chinese": "广场",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -929,7 +560,7 @@ var words = [
     {
         "english": "trip",
         "chinese": "旅行",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -938,7 +569,7 @@ var words = [
     {
         "english": "navigation",
         "chinese": "导航",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -947,7 +578,7 @@ var words = [
     {
         "english": "navigate",
         "chinese": "导航",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -956,7 +587,7 @@ var words = [
     {
         "english": "tools",
         "chinese": "工具",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -965,7 +596,7 @@ var words = [
     {
         "english": "compass",
         "chinese": "指南针",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -974,7 +605,7 @@ var words = [
     {
         "english": "map",
         "chinese": "地图",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -983,7 +614,7 @@ var words = [
     {
         "english": "direction",
         "chinese": "方向",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -992,7 +623,7 @@ var words = [
     {
         "english": "needle",
         "chinese": "针",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1001,7 +632,7 @@ var words = [
     {
         "english": "north",
         "chinese": "北",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1010,7 +641,7 @@ var words = [
     {
         "english": "south",
         "chinese": "南",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1019,7 +650,7 @@ var words = [
     {
         "english": "west",
         "chinese": "西",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1028,7 +659,7 @@ var words = [
     {
         "english": "east",
         "chinese": "东",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1037,7 +668,7 @@ var words = [
     {
         "english": "northeast",
         "chinese": "东北",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1046,7 +677,7 @@ var words = [
     {
         "english": "northwest",
         "chinese": "西北",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1055,7 +686,7 @@ var words = [
     {
         "english": "southwest",
         "chinese": "西南",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1064,7 +695,7 @@ var words = [
     {
         "english": "southeast",
         "chinese": "东南",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1073,7 +704,7 @@ var words = [
     {
         "english": "satellite",
         "chinese": "卫星",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1082,7 +713,7 @@ var words = [
     {
         "english": "get lost",
         "chinese": "迷路",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1091,7 +722,7 @@ var words = [
     {
         "english": "without",
         "chinese": "没有",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1100,7 +731,7 @@ var words = [
     {
         "english": "field",
         "chinese": "田野",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1109,7 +740,7 @@ var words = [
     {
         "english": "farmhouse",
         "chinese": "农舍",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1118,7 +749,7 @@ var words = [
     {
         "english": "entrance",
         "chinese": "入口",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1127,7 +758,7 @@ var words = [
     {
         "english": "Netherlands",
         "chinese": "荷兰",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1136,7 +767,7 @@ var words = [
     {
         "english": "tulips",
         "chinese": "郁金香",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1145,7 +776,7 @@ var words = [
     {
         "english": "canal",
         "chinese": "运河",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1154,7 +785,7 @@ var words = [
     {
         "english": "countryside",
         "chinese": "乡村",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1163,7 +794,7 @@ var words = [
     {
         "english": "include",
         "chinese": "包括",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1172,7 +803,7 @@ var words = [
     {
         "english": "wooden clogs",
         "chinese": "木屐",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1181,125 +812,17 @@ var words = [
     {
         "english": "windmills",
         "chinese": "风车",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈwɪndmɪlz/"
     },
     {
-        "chinese": "公园",
-        "desc": "",
-        "english": "park",
-        "phonetic": "/pɑːrk/",
-        "right": 0,
-        "tag": "Yeki-Unit8-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "健身中心",
-        "desc": "",
-        "english": "fitness center",
-        "phonetic": "",
-        "right": 0,
-        "tag": "Yeki-Unit8-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "咖啡馆",
-        "desc": "",
-        "english": "café",
-        "phonetic": "/kæˈfeɪ/",
-        "right": 0,
-        "tag": "Yeki-Unit8-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "电影院",
-        "desc": "",
-        "english": "movie theater",
-        "phonetic": "",
-        "right": 0,
-        "tag": "Yeki-Unit8-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "医院",
-        "desc": "",
-        "english": "hospital",
-        "phonetic": "/ˈhɒspɪtl/",
-        "right": 0,
-        "tag": "Yeki-Unit8-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "游泳池",
-        "desc": "",
-        "english": "swimming pool",
-        "phonetic": "",
-        "right": 0,
-        "tag": "Yeki-Unit8-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "商店",
-        "desc": "",
-        "english": "store",
-        "phonetic": "/stɔːr/",
-        "right": 0,
-        "tag": "Yeki-Unit8-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "警察局",
-        "desc": "",
-        "english": "police station",
-        "phonetic": "",
-        "right": 0,
-        "tag": "Yeki-Unit8-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "图书馆",
-        "desc": "",
-        "english": "library",
-        "phonetic": "/ˈlaɪbreri/",
-        "right": 0,
-        "tag": "Yeki-Unit8-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "市政厅",
-        "desc": "",
-        "english": "town hall",
-        "phonetic": "",
-        "right": 0,
-        "tag": "Yeki-Unit8-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "杂货店",
-        "desc": "",
-        "english": "grocery store",
-        "phonetic": "",
-        "right": 0,
-        "tag": "Yeki-Unit8-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "学校",
-        "desc": "",
-        "english": "school",
-        "phonetic": "/skuːl/",
-        "right": 0,
-        "tag": "Yeki-Unit8-voc",
-        "wrong": 0
-    },
-    {
         "english": "bike",
         "chinese": "自行车",
-        "tag": "Yeki-Unit7",
-        "desc": "",
+        "tag": "Starlight-Lv3-U7",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/baɪk/"
@@ -1307,8 +830,8 @@ var words = [
     {
         "english": "boat",
         "chinese": "船",
-        "tag": "Yeki-Unit7",
-        "desc": "",
+        "tag": "Starlight-Lv3-U7",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/boʊt/"
@@ -1316,17 +839,26 @@ var words = [
     {
         "english": "bus",
         "chinese": "公共汽车",
-        "tag": "Yeki-Unit7",
-        "desc": "",
+        "tag": "Starlight-Lv3-U7",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/bʌs/"
     },
     {
+        "chinese": "双层巴士",
+        "desc": "vocabulary",
+        "english": "double-decker bus",
+        "phonetic": "",
+        "right": 0,
+        "tag": "Starlight-Lv3-U7",
+        "wrong": 0
+    },
+    {
         "english": "helicopter",
         "chinese": "直升机",
-        "tag": "Yeki-Unit7",
-        "desc": "",
+        "tag": "Starlight-Lv3-U7",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈhɛlɪkɑːptər/"
@@ -1334,8 +866,8 @@ var words = [
     {
         "english": "hot-air balloon",
         "chinese": "热气球",
-        "tag": "Yeki-Unit7",
-        "desc": "",
+        "tag": "Starlight-Lv3-U7",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1343,8 +875,8 @@ var words = [
     {
         "english": "motorcycle",
         "chinese": "摩托车",
-        "tag": "Yeki-Unit7",
-        "desc": "",
+        "tag": "Starlight-Lv3-U7",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈmoʊtərsaɪkl/"
@@ -1352,8 +884,8 @@ var words = [
     {
         "english": "on foot",
         "chinese": "步行",
-        "tag": "Yeki-Unit7",
-        "desc": "",
+        "tag": "Starlight-Lv3-U7",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -1361,8 +893,8 @@ var words = [
     {
         "english": "plane",
         "chinese": "飞机",
-        "tag": "Yeki-Unit7",
-        "desc": "",
+        "tag": "Starlight-Lv3-U7",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/pleɪn/"
@@ -1370,8 +902,8 @@ var words = [
     {
         "english": "tandem",
         "chinese": "双人自行车",
-        "tag": "Yeki-Unit7",
-        "desc": "",
+        "tag": "Starlight-Lv3-U7",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈtændəm/"
@@ -1379,8 +911,8 @@ var words = [
     {
         "english": "taxi",
         "chinese": "出租车",
-        "tag": "Yeki-Unit7",
-        "desc": "",
+        "tag": "Starlight-Lv3-U7",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈtæksi/"
@@ -1388,8 +920,8 @@ var words = [
     {
         "english": "truck",
         "chinese": "卡车",
-        "tag": "Yeki-Unit7",
-        "desc": "",
+        "tag": "Starlight-Lv3-U7",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/trʌk/"
@@ -1397,7 +929,7 @@ var words = [
     {
         "english": "fair",
         "chinese": "公平的",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1406,7 +938,7 @@ var words = [
     {
         "english": "on the way to",
         "chinese": "在路上",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1415,7 +947,7 @@ var words = [
     {
         "english": "bridge",
         "chinese": "桥",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1424,7 +956,7 @@ var words = [
     {
         "english": "country",
         "chinese": "国家",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1433,7 +965,7 @@ var words = [
     {
         "english": "left",
         "chinese": "左",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1442,7 +974,7 @@ var words = [
     {
         "english": "right",
         "chinese": "正确的；右边的",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1451,7 +983,7 @@ var words = [
     {
         "english": "path",
         "chinese": "小路",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1460,7 +992,7 @@ var words = [
     {
         "english": "river",
         "chinese": "河流",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1469,7 +1001,7 @@ var words = [
     {
         "english": "street",
         "chinese": "街道",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1478,7 +1010,7 @@ var words = [
     {
         "english": "town",
         "chinese": "镇；市镇",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1487,7 +1019,7 @@ var words = [
     {
         "english": "direction",
         "chinese": "方向",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1496,7 +1028,7 @@ var words = [
     {
         "english": "rule",
         "chinese": "规则",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1505,7 +1037,7 @@ var words = [
     {
         "english": "backpack",
         "chinese": "背包",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1514,7 +1046,7 @@ var words = [
     {
         "english": "bell",
         "chinese": "铃铛",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1523,7 +1055,7 @@ var words = [
     {
         "english": "helmet",
         "chinese": "头盔",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1532,7 +1064,7 @@ var words = [
     {
         "english": "sign",
         "chinese": "标志",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1541,7 +1073,7 @@ var words = [
     {
         "english": "bike rack",
         "chinese": "自行车架",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1550,7 +1082,7 @@ var words = [
     {
         "english": "objects",
         "chinese": "物体",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -1559,128 +1091,29 @@ var words = [
     {
         "english": "traffic jam",
         "chinese": "交通堵塞",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
+    },
+    {
+        "chinese": "火车",
+        "desc": "vocabulary",
+        "english": "train",
+        "phonetic": "/treɪn/",
+        "right": 0,
+        "tag": "Starlight-Lv3-U7",
+        "wrong": 0
     },
     {
         "english": "bar graph",
         "chinese": "条形图",
-        "tag": "Yeki-Unit7",
+        "tag": "Starlight-Lv3-U7",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
-    },
-    {
-        "chinese": "飞机",
-        "desc": "",
-        "english": "plane",
-        "phonetic": "/pleɪn/",
-        "right": 0,
-        "tag": "Yeki-Unit7-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "卡车",
-        "desc": "",
-        "english": "truck",
-        "phonetic": "/trʌk/",
-        "right": 0,
-        "tag": "Yeki-Unit7-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "摩托车",
-        "desc": "",
-        "english": "motorcycle",
-        "phonetic": "/ˈmoʊtərˌsaɪkl/",
-        "right": 0,
-        "tag": "Yeki-Unit7-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "船",
-        "desc": "",
-        "english": "boat",
-        "phonetic": "/boʊt/",
-        "right": 0,
-        "tag": "Yeki-Unit7-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "热气球",
-        "desc": "",
-        "english": "hot-air balloon",
-        "phonetic": "",
-        "right": 0,
-        "tag": "Yeki-Unit7-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "火车",
-        "desc": "",
-        "english": "train",
-        "phonetic": "/treɪn/",
-        "right": 0,
-        "tag": "Yeki-Unit7-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "双层巴士",
-        "desc": "",
-        "english": "double-decker bus",
-        "phonetic": "",
-        "right": 0,
-        "tag": "Yeki-Unit7-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "步行",
-        "desc": "",
-        "english": "on foot",
-        "phonetic": "",
-        "right": 0,
-        "tag": "Yeki-Unit7-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "出租车",
-        "desc": "",
-        "english": "taxi",
-        "phonetic": "/ˈtæksi/",
-        "right": 0,
-        "tag": "Yeki-Unit7-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "直升机",
-        "desc": "",
-        "english": "helicopter",
-        "phonetic": "/ˈhɛlɪkɑːptər/",
-        "right": 0,
-        "tag": "Yeki-Unit7-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "自行车",
-        "desc": "",
-        "english": "bike",
-        "phonetic": "/baɪk/",
-        "right": 0,
-        "tag": "Yeki-Unit7-voc",
-        "wrong": 0
-    },
-    {
-        "chinese": "双人自行车",
-        "desc": "",
-        "english": "tandem",
-        "phonetic": "/ˈtændəm/",
-        "right": 0,
-        "tag": "Yeki-Unit7-voc",
-        "wrong": 0
     },
     {
         "chinese": "刷牙",
@@ -2437,6 +1870,645 @@ var words = [
         "right": 0,
         "tag": "Yeki-Unit0",
         "wrong": 0
+    },
+    {
+        "english": "street",
+        "chinese": "街道",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/striːt/"
+    },
+    {
+        "english": "path",
+        "chinese": "路径",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pɑːθ/"
+    },
+    {
+        "english": "river",
+        "chinese": "河流",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈrɪvər/"
+    },
+    {
+        "english": "go along",
+        "chinese": "沿着走",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "go across",
+        "chinese": "穿过",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "turn left",
+        "chinese": "左转",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "turn right",
+        "chinese": "右转",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "country",
+        "chinese": "国家",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkʌntri/"
+    },
+    {
+        "english": "town",
+        "chinese": "城镇",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/taʊn/"
+    },
+    {
+        "english": "bridge",
+        "chinese": "桥",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/brɪdʒ/"
+    },
+    {
+        "english": "direction",
+        "chinese": "方向",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dɪˈrɛkʃən/"
+    },
+    {
+        "english": "Can you tell me how to go to the Hun River?",
+        "chinese": "你能告诉我怎么去浑河吗？",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Can you tell me where is the hospital?",
+        "chinese": "你能告诉我医院在哪里吗？",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Can you tell me the way to the school?",
+        "chinese": "你能告诉我去学校的路吗？",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "scenery",
+        "chinese": "风景",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024 18/22",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsiːnəri/"
+    },
+    {
+        "english": "temple",
+        "chinese": "寺庙",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024 18/22",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtɛmpl/"
+    },
+    {
+        "english": "statue",
+        "chinese": "雕像",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024 18/22",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈstætʃuː/"
+    },
+    {
+        "english": "No, they aren't",
+        "chinese": "不，他们不是",
+        "tag": "Yeki",
+        "desc": "Apr. 27th. 2024 18/22",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "travel",
+        "chinese": "旅行",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtrævəl/"
+    },
+    {
+        "english": "traffic jam",
+        "chinese": "交通堵塞",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "tractor",
+        "chinese": "拖拉机",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtræktər/"
+    },
+    {
+        "english": "caravan",
+        "chinese": "大篷车",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkærəvæn/"
+    },
+    {
+        "english": "ambulance",
+        "chinese": "救护车",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈæmbjuləns/"
+    },
+    {
+        "english": "snowmobile",
+        "chinese": "雪地摩托",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsnoʊmoʊbiːl/"
+    },
+    {
+        "english": "ferry",
+        "chinese": "渡船",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfɛri/"
+    },
+    {
+        "english": "bicycle",
+        "chinese": "自行车",
+        "tag": "Yeki",
+        "desc": "Apr. 26th. 2024 22/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbaɪsɪkl/"
+    },
+    {
+        "english": "scissors",
+        "chinese": "剪刀",
+        "tag": "Yeki",
+        "desc": "Apr. 20th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsɪzərz/"
+    },
+    {
+        "english": "truck",
+        "chinese": "卡车",
+        "tag": "Yeki",
+        "desc": "Apr. 20th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/trʌk/"
+    },
+    {
+        "english": "scooter",
+        "chinese": "滑板车",
+        "tag": "Yeki",
+        "desc": "Apr. 20th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈskuːtər/"
+    },
+    {
+        "english": "transportation",
+        "chinese": "交通工具",
+        "tag": "Yeki",
+        "desc": "Apr. 20th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌtrænspərˈteɪʃn/"
+    },
+    {
+        "english": "laptop",
+        "chinese": "笔记本电脑",
+        "tag": "Yeki",
+        "desc": "Apr. 19th. 2024 23/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈlæpˌtɑːp/"
+    },
+    {
+        "english": "website",
+        "chinese": "网站",
+        "tag": "Yeki",
+        "desc": "Apr. 19th. 2024 23/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɛbˌsaɪt/"
+    },
+    {
+        "english": "famous",
+        "chinese": "著名的",
+        "tag": "Yeki",
+        "desc": "Apr. 13th. 2024 20/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfeɪməs/"
+    },
+    {
+        "english": "canal",
+        "chinese": "运河",
+        "tag": "Yeki",
+        "desc": "Apr. 13th. 2024 20/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kəˈnæl/"
+    },
+    {
+        "english": "floating market",
+        "chinese": "水上市场",
+        "tag": "Yeki",
+        "desc": "Apr. 13th. 2024 20/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "fantastic",
+        "chinese": "极好的",
+        "tag": "Yeki",
+        "desc": "Apr. 12th. 2024 26/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fænˈtæstɪk/"
+    },
+    {
+        "english": "radio",
+        "chinese": "收音机",
+        "tag": "Yeki",
+        "desc": "Apr. 12th. 2024 26/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈreɪdioʊ/"
+    },
+    {
+        "english": "French fries",
+        "chinese": "炸薯条",
+        "tag": "Yeki",
+        "desc": "Apr. 12th. 2024 26/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "cheese",
+        "chinese": "奶酪",
+        "tag": "Yeki",
+        "desc": "Apr. 12th. 2024 26/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/tʃiːz/"
+    },
+    {
+        "english": "dairy",
+        "chinese": "乳制品",
+        "tag": "Yeki",
+        "desc": "Apr. 6th. 2024 22/26",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɛri/"
+    },
+    {
+        "english": "Thursday",
+        "chinese": "星期四",
+        "tag": "Yeki",
+        "desc": "Apr. 6th. 2024 22/26",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈθɝːzdeɪ/"
+    },
+    {
+        "english": "routine",
+        "chinese": "常规",
+        "tag": "Yeki",
+        "desc": "Apr. 6th. 2024 22/26",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ruːˈtiːn/"
+    },
+    {
+        "english": "She does her work",
+        "chinese": "她做她的工作",
+        "tag": "Yeki",
+        "desc": "Apr. 5th. 2024 20/22",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "earlier",
+        "chinese": "更早",
+        "tag": "Yeki",
+        "desc": "Apr. 5th. 2024 20/22",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɝːliər/"
+    },
+    {
+        "english": "April",
+        "chinese": "四月",
+        "tag": "Yeki",
+        "desc": "Mar. 31th. 2024 18/20",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈeɪprəl/"
+    },
+    {
+        "english": "daily",
+        "chinese": "每日的",
+        "tag": "Yeki",
+        "desc": "Mar. 30th. 2024 20/22",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdeɪli/"
+    },
+    {
+        "english": "draw a picture",
+        "chinese": "画一幅画",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Tuesday",
+        "chinese": "星期二",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtjuːzdeɪ/"
+    },
+    {
+        "english": "Wednesday",
+        "chinese": "星期三",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɛnzdeɪ/"
+    },
+    {
+        "english": "Friday",
+        "chinese": "星期五",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfraɪdeɪ/"
+    },
+    {
+        "english": "Saturday",
+        "chinese": "星期六",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsætərdeɪ/"
+    },
+    {
+        "english": "key",
+        "chinese": "钥匙",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kiː/"
+    },
+    {
+        "english": "seat",
+        "chinese": "座位",
+        "tag": "Yeki",
+        "desc": "Mar. 29th. 2024",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/siːt/"
+    },
+    {
+        "english": "feed the fish",
+        "chinese": "喂鱼",
+        "tag": "Yeki",
+        "desc": "Mar. 22nd. 2024 23/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "nutrient",
+        "chinese": "营养物",
+        "tag": "Yeki",
+        "desc": "Mar. 22nd. 2024 23/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈnuːtriənt/"
+    },
+    {
+        "english": "sugar",
+        "chinese": "糖",
+        "tag": "Yeki",
+        "desc": "Mar. 16th. 2024 18/20",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈʃʊɡər/"
+    },
+    {
+        "english": "strawberry",
+        "chinese": "草莓",
+        "tag": "Yeki",
+        "desc": "Mar. 16th. 2024 18/20",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈstrɔːbəri/"
+    },
+    {
+        "english": "What do you have for breakfast?",
+        "chinese": "你早餐吃什么？",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I have toast for breakfast.",
+        "chinese": "我早餐吃吐司。",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "calcium",
+        "chinese": "钙",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkælsiəm/"
+    },
+    {
+        "english": "group",
+        "chinese": "组",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɡruːp/"
+    },
+    {
+        "english": "activity",
+        "chinese": "活动",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ækˈtɪvɪti/"
+    },
+    {
+        "english": "No, thank you.",
+        "chinese": "不，谢谢。",
+        "tag": "Yeki",
+        "desc": "Mar. 15th. 2024 16/24",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "balanced",
+        "chinese": "平衡的",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbælənst/"
+    },
+    {
+        "english": "vitamins",
+        "chinese": "维生素",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈvaɪtəmɪnz/"
+    },
+    {
+        "english": "protein",
+        "chinese": "蛋白质",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈproʊtiːn/"
+    },
+    {
+        "english": "healthy",
+        "chinese": "健康的",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhɛlθi/"
+    },
+    {
+        "english": "please",
+        "chinese": "请",
+        "tag": "Yeki",
+        "desc": "Mar. 9th. 2024 21/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pliːz/"
+    },
+    {
+        "english": "evening",
+        "chinese": "晚上",
+        "tag": "Yeki",
+        "desc": "Mar. 8th. 2024 26/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈiːvənɪŋ/"
+    },
+    {
+        "english": "action",
+        "chinese": "行动",
+        "tag": "Yeki",
+        "desc": "Mar. 8th. 2024 26/30",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈækʃən/"
+    },
+    {
+        "english": "o'clock",
+        "chinese": "点钟",
+        "tag": "Yeki",
+        "desc": "Mar. 2nd. 2024 24/25",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/əˈklɑːk/"
     },
     {
         "english": "windmill",
