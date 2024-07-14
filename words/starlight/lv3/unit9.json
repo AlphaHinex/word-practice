@@ -1,0 +1,380 @@
+[
+    {
+        "english": "backpack",
+        "chinese": "背包",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbækpæk/"
+    },
+    {
+        "english": "field",
+        "chinese": "田野；场地",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fiːld/"
+    },
+    {
+        "english": "fire",
+        "chinese": "火；火灾",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/faɪə(r)/"
+    },
+    {
+        "english": "flashlight",
+        "chinese": "手电筒",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈflæʃlaɪt/"
+    },
+    {
+        "english": "grass",
+        "chinese": "草；草地",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɡrɑːs/"
+    },
+    {
+        "english": "hill",
+        "chinese": "小山；丘陵",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hɪl/"
+    },
+    {
+        "english": "lake",
+        "chinese": "湖；湖泊",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/leɪk/"
+    },
+    {
+        "english": "leaves",
+        "chinese": "叶子（leaf 的复数）",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/liːvz/"
+    },
+    {
+        "english": "sleeping bag",
+        "chinese": "睡袋",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "tent",
+        "chinese": "帐篷",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/tent/"
+    },
+    {
+        "english": "waterfall",
+        "chinese": "瀑布",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɔːtəfɔːl/"
+    },
+    {
+        "english": "woods",
+        "chinese": "树林；森林",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "vocabulary",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wʊdz/"
+    },
+    {
+        "english": "stage play",
+        "chinese": "舞台剧",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "play script",
+        "chinese": "剧本",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "barbecue",
+        "chinese": "烧烤；烤肉",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbɑːbɪkjuː/"
+    },
+    {
+        "english": "look around",
+        "chinese": "环顾四周",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "exit",
+        "chinese": "出口；退出",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈeksɪt/"
+    },
+    {
+        "english": "clue",
+        "chinese": "线索；提示",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kluː/"
+    },
+    {
+        "english": "close",
+        "chinese": "关闭；合上",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kləʊz/"
+    },
+    {
+        "english": "litter",
+        "chinese": "垃圾；杂物",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈlɪtə(r)/"
+    },
+    {
+        "english": "pick",
+        "chinese": "采摘；挑选",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pɪk/"
+    },
+    {
+        "english": "protect",
+        "chinese": "保护",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/prəˈtekt/"
+    },
+    {
+        "english": "put out",
+        "chinese": "熄灭；扑灭",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "present",
+        "chinese": "礼物；现在的",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈpreznt/"
+    },
+    {
+        "english": "states",
+        "chinese": "州；状态（state 的复数）",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/steɪts/"
+    },
+    {
+        "english": "solid",
+        "chinese": "固体",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsɒlɪd/"
+    },
+    {
+        "english": "liquid",
+        "chinese": "液体",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈlɪkwɪd/"
+    },
+    {
+        "english": "gas",
+        "chinese": "气体",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɡæs/"
+    },
+    {
+        "english": "evaporate",
+        "chinese": "蒸发",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɪˈvæpəreɪt/"
+    },
+    {
+        "english": "change",
+        "chinese": "改变；变化",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/tʃeɪndʒ/"
+    },
+    {
+        "english": "vapor",
+        "chinese": "蒸汽；水汽",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈveɪpə(r)/"
+    },
+    {
+        "english": "condense",
+        "chinese": "凝结；浓缩",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kənˈdens/"
+    },
+    {
+        "english": "droplet",
+        "chinese": "小滴；飞沫",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdrɒplət/"
+    },
+    {
+        "english": "form",
+        "chinese": "形成；构成",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fɔːm/"
+    },
+    {
+        "english": "freeze",
+        "chinese": "冻结；结冰",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/friːz/"
+    },
+    {
+        "english": "melt",
+        "chinese": "融化；熔化",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/melt/"
+    },
+    {
+        "english": "water cycle",
+        "chinese": "水循环",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "scene",
+        "chinese": "场景；景色",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/siːn/"
+    },
+    {
+        "english": "scenery",
+        "chinese": "风景；景色",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsiːnəri/"
+    },
+    {
+        "english": "costume",
+        "chinese": "服装；戏服",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkɒstjuːm/"
+    },
+    {
+        "english": "impossible",
+        "chinese": "不可能的",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɪmˈpɒsəbl/"
+    },
+    {
+        "english": "auditorium",
+        "chinese": "礼堂；观众席",
+        "tag": "Starlight-Lv3-U9",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌɔːdɪˈtɔːriəm/"
+    }
+]

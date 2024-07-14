@@ -2,26 +2,26 @@
     {
         "english": "town",
         "chinese": "镇",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/taʊn/"
     },
     {
-        "english": "cafe",
+        "english": "café",
         "chinese": "咖啡馆",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈkæfeɪ/"
+        "phonetic": "/kæˈfeɪ/"
     },
     {
         "english": "fitness center",
         "chinese": "健身中心",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -29,8 +29,8 @@
     {
         "english": "park",
         "chinese": "公园",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/pɑːrk/"
@@ -38,8 +38,8 @@
     {
         "english": "police station",
         "chinese": "警察局",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -47,8 +47,8 @@
     {
         "english": "grocery store",
         "chinese": "杂货店",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -56,8 +56,8 @@
     {
         "english": "store",
         "chinese": "商店",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/stoʊr/"
@@ -65,8 +65,8 @@
     {
         "english": "school",
         "chinese": "学校",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/skuːl/"
@@ -74,8 +74,8 @@
     {
         "english": "hospital",
         "chinese": "医院",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈhɑːspɪtl/"
@@ -83,8 +83,8 @@
     {
         "english": "library",
         "chinese": "图书馆",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈlaɪbreri/"
@@ -92,8 +92,8 @@
     {
         "english": "swimming pool",
         "chinese": "游泳池",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -101,8 +101,8 @@
     {
         "english": "movie theatre",
         "chinese": "电影院",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -110,8 +110,8 @@
     {
         "english": "town hall",
         "chinese": "市政厅",
-        "tag": "Yeki-Unit8",
-        "desc": "",
+        "tag": "Starlight-Lv3-U8",
+        "desc": "vocabulary",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
@@ -119,7 +119,7 @@
     {
         "english": "travel",
         "chinese": "旅行",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -128,7 +128,7 @@
     {
         "english": "mysterious",
         "chinese": "神秘的",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -137,7 +137,7 @@
     {
         "english": "ago",
         "chinese": "以前",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -146,7 +146,7 @@
     {
         "english": "suddenly",
         "chinese": "突然",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -155,7 +155,7 @@
     {
         "english": "treasure",
         "chinese": "宝藏",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -164,7 +164,7 @@
     {
         "english": "opposite",
         "chinese": "相反的",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -173,7 +173,7 @@
     {
         "english": "square",
         "chinese": "广场",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -182,7 +182,7 @@
     {
         "english": "trip",
         "chinese": "旅行",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -191,7 +191,7 @@
     {
         "english": "navigation",
         "chinese": "导航",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -200,7 +200,7 @@
     {
         "english": "navigate",
         "chinese": "导航",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -209,7 +209,7 @@
     {
         "english": "tools",
         "chinese": "工具",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -218,7 +218,7 @@
     {
         "english": "compass",
         "chinese": "指南针",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -227,7 +227,7 @@
     {
         "english": "map",
         "chinese": "地图",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -236,7 +236,7 @@
     {
         "english": "direction",
         "chinese": "方向",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -245,7 +245,7 @@
     {
         "english": "needle",
         "chinese": "针",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -254,7 +254,7 @@
     {
         "english": "north",
         "chinese": "北",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -263,7 +263,7 @@
     {
         "english": "south",
         "chinese": "南",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -272,7 +272,7 @@
     {
         "english": "west",
         "chinese": "西",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -281,7 +281,7 @@
     {
         "english": "east",
         "chinese": "东",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -290,7 +290,7 @@
     {
         "english": "northeast",
         "chinese": "东北",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -299,7 +299,7 @@
     {
         "english": "northwest",
         "chinese": "西北",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -308,7 +308,7 @@
     {
         "english": "southwest",
         "chinese": "西南",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -317,7 +317,7 @@
     {
         "english": "southeast",
         "chinese": "东南",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -326,7 +326,7 @@
     {
         "english": "satellite",
         "chinese": "卫星",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -335,7 +335,7 @@
     {
         "english": "get lost",
         "chinese": "迷路",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -344,7 +344,7 @@
     {
         "english": "without",
         "chinese": "没有",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -353,7 +353,7 @@
     {
         "english": "field",
         "chinese": "田野",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -362,7 +362,7 @@
     {
         "english": "farmhouse",
         "chinese": "农舍",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -371,7 +371,7 @@
     {
         "english": "entrance",
         "chinese": "入口",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -380,7 +380,7 @@
     {
         "english": "Netherlands",
         "chinese": "荷兰",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -389,7 +389,7 @@
     {
         "english": "tulips",
         "chinese": "郁金香",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -398,7 +398,7 @@
     {
         "english": "canal",
         "chinese": "运河",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -407,7 +407,7 @@
     {
         "english": "countryside",
         "chinese": "乡村",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -416,7 +416,7 @@
     {
         "english": "include",
         "chinese": "包括",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -425,7 +425,7 @@
     {
         "english": "wooden clogs",
         "chinese": "木屐",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -434,7 +434,7 @@
     {
         "english": "windmills",
         "chinese": "风车",
-        "tag": "Yeki-Unit8",
+        "tag": "Starlight-Lv3-U8",
         "desc": "",
         "right": 0,
         "wrong": 0,

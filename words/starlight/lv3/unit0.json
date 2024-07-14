@@ -1,0 +1,110 @@
+[
+    {
+        "chinese": "麦克风",
+        "desc": "vocabulary",
+        "english": "microphone",
+        "phonetic": "/ˈmaɪkrəfoʊn/",
+        "right": 0,
+        "tag": "Yeki-Unit0",
+        "wrong": 0
+    },
+    {
+        "chinese": "笔记本电脑",
+        "desc": "vocabulary",
+        "english": "laptop",
+        "phonetic": "/ˈlæptɑːp/",
+        "right": 0,
+        "tag": "Yeki-Unit0",
+        "wrong": 0
+    },
+    {
+        "chinese": "文件夹",
+        "desc": "vocabulary",
+        "english": "folder",
+        "phonetic": "/ˈfəʊldər/",
+        "right": 0,
+        "tag": "Yeki-Unit0",
+        "wrong": 0
+    },
+    {
+        "chinese": "书",
+        "desc": "vocabulary",
+        "english": "book",
+        "phonetic": "/bʊk/",
+        "right": 0,
+        "tag": "Yeki-Unit0",
+        "wrong": 0
+    },
+    {
+        "chinese": "剪刀",
+        "desc": "vocabulary",
+        "english": "scissors",
+        "phonetic": "/ˈsɪzərz/",
+        "right": 0,
+        "tag": "Yeki-Unit0",
+        "wrong": 0
+    },
+    {
+        "chinese": "桌子",
+        "desc": "vocabulary",
+        "english": "table",
+        "phonetic": "/ˈteɪbl/",
+        "right": 0,
+        "tag": "Yeki-Unit0",
+        "wrong": 0
+    },
+    {
+        "chinese": "尺子",
+        "desc": "vocabulary",
+        "english": "ruler",
+        "phonetic": "/ˈruːlər/",
+        "right": 0,
+        "tag": "Yeki-Unit0",
+        "wrong": 0
+    },
+    {
+        "chinese": "钢笔",
+        "desc": "vocabulary",
+        "english": "pen",
+        "phonetic": "/pen/",
+        "right": 0,
+        "tag": "Yeki-Unit0",
+        "wrong": 0
+    },
+    {
+        "chinese": "胶水",
+        "desc": "vocabulary",
+        "english": "glue",
+        "phonetic": "/ɡluː/",
+        "right": 0,
+        "tag": "Yeki-Unit0",
+        "wrong": 0
+    },
+    {
+        "chinese": "铅笔刀",
+        "desc": "vocabulary",
+        "english": "pencil sharpener",
+        "phonetic": "",
+        "right": 0,
+        "tag": "Yeki-Unit0",
+        "wrong": 0
+    },
+    {
+        "chinese": "笔记本",
+        "desc": "vocabulary",
+        "english": "notebook",
+        "phonetic": "/ˈnoʊtboʊk/",
+        "right": 0,
+        "tag": "Yeki-Unit0",
+        "wrong": 0
+    },
+    {
+        "chinese": "彩色铅笔",
+        "desc": "vocabulary",
+        "english": "crayons",
+        "phonetic": "/ˈkreɪənz/",
+        "right": 0,
+        "tag": "Yeki-Unit0",
+        "wrong": 0
+    }
+]
