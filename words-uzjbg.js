@@ -10728,23 +10728,5 @@ var words = [
         "right": 0,
         "wrong": 0,
         "phonetic": "/wɛr/"
-    },
-    {
-        "chinese": "著名的",
-        "desc": "",
-        "english": "famous",
-        "phonetic": "/ˈfeɪməs/",
-        "right": 0,
-        "tag": "Grade6-U2",
-        "wrong": 0
-    },
-    {
-        "chinese": "在...期间",
-        "desc": "",
-        "english": "during",
-        "phonetic": "/ˈdjʊrɪŋ/",
-        "right": 0,
-        "tag": "Grade6-U2",
-        "wrong": 0
     }
 ];
