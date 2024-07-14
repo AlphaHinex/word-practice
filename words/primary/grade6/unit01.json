@@ -51,7 +51,7 @@
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈbjutəfəl/"
+        "phonetic": "/ˈbjuːtɪfəl/"
     },
     {
         "english": "handsome",
@@ -172,7 +172,7 @@
     },
     {
         "english": "bin",
-        "chinese": "箱子",
+        "chinese": "垃圾桶",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -302,3 +302,106 @@
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "has no tail",
+        "chinese": "没有尾巴",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "catch flies",
+        "chinese": "抓苍蝇",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "In photo 1, Sally was a baby.",
+        "chinese": "在照片1中，莎莉是个婴儿。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "She was about two months old.",
+        "chinese": "她大约两个月大。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "She was small and cute.",
+        "chinese": "她小而可爱。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Her hair was short and her eyes were big.",
+        "chinese": "她的头发短，眼睛大。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "She was a primary school student.",
+        "chinese": "她是一名小学生。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "She goes to junior high school.",
+        "chinese": "她上初中。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "She is tall and pretty.",
+        "chinese": "她高而漂亮。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Little Justin was born in the river.",
+        "chinese": "小贾斯汀出生在河里。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "He meets a turtle.",
+        "chinese": "他遇到了一只乌龟。",
+        "tag": "Grade6-U1",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    }
+]
