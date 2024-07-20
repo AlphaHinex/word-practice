@@ -1,0 +1,242 @@
+[
+    {
+        "english": "month",
+        "chinese": "月",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mʌnθ/"
+    },
+    {
+        "english": "season",
+        "chinese": "季节",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsiːzən/"
+    },
+    {
+        "english": "planet",
+        "chinese": "行星",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈplænɪt/"
+    },
+    {
+        "english": "Earth",
+        "chinese": "地球",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɜːrθ/"
+    },
+    {
+        "english": "straight",
+        "chinese": "直的",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/streɪt/"
+    },
+    {
+        "english": "space",
+        "chinese": "空间",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/speɪs/"
+    },
+    {
+        "english": "spring",
+        "chinese": "春天",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/sprɪŋ/"
+    },
+    {
+        "english": "summer",
+        "chinese": "夏天",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsʌmər/"
+    },
+    {
+        "english": "autumn",
+        "chinese": "秋天",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɔːtəm/"
+    },
+    {
+        "english": "winter",
+        "chinese": "冬天",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɪntər/"
+    },
+    {
+        "english": "January",
+        "chinese": "一月",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdʒænjuəri/"
+    },
+    {
+        "english": "February",
+        "chinese": "二月",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfebrʊəri/"
+    },
+    {
+        "english": "March",
+        "chinese": "三月",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mɑːrtʃ/"
+    },
+    {
+        "english": "April",
+        "chinese": "四月",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈeɪprəl/"
+    },
+    {
+        "english": "May",
+        "chinese": "五月",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/meɪ/"
+    },
+    {
+        "english": "June",
+        "chinese": "六月",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dʒuːn/"
+    },
+    {
+        "english": "July",
+        "chinese": "七月",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dʒuˈlaɪ/"
+    },
+    {
+        "english": "August",
+        "chinese": "八月",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɔːɡəst/"
+    },
+    {
+        "english": "September",
+        "chinese": "九月",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/sɛpˈtɛmbə/"
+    },
+    {
+        "english": "October",
+        "chinese": "十月",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɒkˈtəʊbə/"
+    },
+    {
+        "english": "November",
+        "chinese": "十一月",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/nəʊˈvɛmbə/"
+    },
+    {
+        "english": "December",
+        "chinese": "十二月",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dɪˈsɛmbə/"
+    },
+    {
+        "english": "south",
+        "chinese": "南方",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/saʊθ/"
+    },
+    {
+        "english": "north",
+        "chinese": "北方",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/nɔːrθ/"
+    },
+    {
+        "english": "weather",
+        "chinese": "天气",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈweðə/"
+    },
+    {
+        "english": "Jacket",
+        "chinese": "夹克",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdʒækɪt/"
+    },
+    {
+        "english": "juice",
+        "chinese": "果汁",
+        "tag": "mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
