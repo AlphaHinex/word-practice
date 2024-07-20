@@ -6780,6 +6780,663 @@ var words = [
         "wrong": 0
     },
     {
+        "english": "month",
+        "chinese": "月",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mʌnθ/"
+    },
+    {
+        "english": "season",
+        "chinese": "季节",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsiːzən/"
+    },
+    {
+        "english": "planet",
+        "chinese": "行星",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈplænɪt/"
+    },
+    {
+        "english": "Earth",
+        "chinese": "地球",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɜːrθ/"
+    },
+    {
+        "english": "straight",
+        "chinese": "直的",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/streɪt/"
+    },
+    {
+        "english": "space",
+        "chinese": "空间",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/speɪs/"
+    },
+    {
+        "english": "spring",
+        "chinese": "春天",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/sprɪŋ/"
+    },
+    {
+        "english": "summer",
+        "chinese": "夏天",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsʌmər/"
+    },
+    {
+        "english": "autumn",
+        "chinese": "秋天",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɔːtəm/"
+    },
+    {
+        "english": "winter",
+        "chinese": "冬天",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɪntər/"
+    },
+    {
+        "english": "January",
+        "chinese": "一月",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdʒænjuəri/"
+    },
+    {
+        "english": "February",
+        "chinese": "二月",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfebrʊəri/"
+    },
+    {
+        "english": "March",
+        "chinese": "三月",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mɑːrtʃ/"
+    },
+    {
+        "english": "April",
+        "chinese": "四月",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈeɪprəl/"
+    },
+    {
+        "english": "May",
+        "chinese": "五月",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/meɪ/"
+    },
+    {
+        "english": "June",
+        "chinese": "六月",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dʒuːn/"
+    },
+    {
+        "english": "July",
+        "chinese": "七月",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dʒuˈlaɪ/"
+    },
+    {
+        "english": "August",
+        "chinese": "八月",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɔːɡəst/"
+    },
+    {
+        "english": "September",
+        "chinese": "九月",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/sɛpˈtɛmbə/"
+    },
+    {
+        "english": "October",
+        "chinese": "十月",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɒkˈtəʊbə/"
+    },
+    {
+        "english": "November",
+        "chinese": "十一月",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/nəʊˈvɛmbə/"
+    },
+    {
+        "english": "December",
+        "chinese": "十二月",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dɪˈsɛmbə/"
+    },
+    {
+        "english": "south",
+        "chinese": "南方",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/saʊθ/"
+    },
+    {
+        "english": "north",
+        "chinese": "北方",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/nɔːrθ/"
+    },
+    {
+        "english": "weather",
+        "chinese": "天气",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈweðə/"
+    },
+    {
+        "english": "Jacket",
+        "chinese": "夹克",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdʒækɪt/"
+    },
+    {
+        "english": "juice",
+        "chinese": "果汁",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/dʒuːs/"
+    },
+    {
+        "english": "graph",
+        "chinese": "图表",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɡræf/"
+    },
+    {
+        "english": "winner",
+        "chinese": "获胜者",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwɪnər/"
+    },
+    {
+        "english": "woman",
+        "chinese": "女人",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈwʊmən/"
+    },
+    {
+        "english": "stone",
+        "chinese": "石头",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/stəʊn/"
+    },
+    {
+        "english": "mud",
+        "chinese": "泥",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mʌd/"
+    },
+    {
+        "english": "jungle",
+        "chinese": "丛林",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdʒʌŋɡl/"
+    },
+    {
+        "english": "desert",
+        "chinese": "沙漠",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdezərt/"
+    },
+    {
+        "english": "cool",
+        "chinese": "凉爽的",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kuːl/"
+    },
+    {
+        "english": "Arctic",
+        "chinese": "北极的",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɑːrktɪk/"
+    },
+    {
+        "english": "warm",
+        "chinese": "温暖的",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wɔːrm/"
+    },
+    {
+        "english": "cold",
+        "chinese": "寒冷的",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/koʊld/"
+    },
+    {
+        "english": "wet",
+        "chinese": "湿的",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/wet/"
+    },
+    {
+        "english": "rocks",
+        "chinese": "岩石",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/rɒks/"
+    },
+    {
+        "english": "cotton",
+        "chinese": "棉花",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkɒtn/"
+    },
+    {
+        "english": "heat",
+        "chinese": "热",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hiːt/"
+    },
+    {
+        "english": "feathers",
+        "chinese": "羽毛",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfeðərz/"
+    },
+    {
+        "english": "skirt",
+        "chinese": "裙子",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/skɜːrt/"
+    },
+    {
+        "english": "thirsty",
+        "chinese": "口渴的",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈθɜːrsti/"
+    },
+    {
+        "english": "circle",
+        "chinese": "圆圈",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsɜːrkl/"
+    },
+    {
+        "english": "instrument",
+        "chinese": "乐器",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɪnstrəmənt/"
+    },
+    {
+        "english": "musical",
+        "chinese": "音乐的",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmjuːzɪkl/"
+    },
+    {
+        "english": "recorder",
+        "chinese": "录音机",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/rɪˈkɔːrdər/"
+    },
+    {
+        "english": "hole",
+        "chinese": "洞",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hoʊl/"
+    },
+    {
+        "english": "fingers",
+        "chinese": "手指",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfɪŋɡərz/"
+    },
+    {
+        "english": "violin",
+        "chinese": "小提琴",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌvaɪəˈlɪn/"
+    },
+    {
+        "english": "percussion",
+        "chinese": "打击乐器",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pəˈkʌʃn/"
+    },
+    {
+        "english": "cello",
+        "chinese": "大提琴",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtʃeləʊ/"
+    },
+    {
+        "english": "drum",
+        "chinese": "鼓",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/drʌm/"
+    },
+    {
+        "english": "flute",
+        "chinese": "长笛",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/fluːt/"
+    },
+    {
+        "english": "triangle",
+        "chinese": "三角形；三角铁",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtraɪæŋɡl/"
+    },
+    {
+        "english": "clarinet",
+        "chinese": "单簧管；黑管",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˌklærəˈnet/"
+    },
+    {
+        "english": "coordinates",
+        "chinese": "坐标",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kəʊˈɔːdɪneɪts/"
+    },
+    {
+        "english": "pond",
+        "chinese": "池塘",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/pɒnd/"
+    },
+    {
+        "english": "forest",
+        "chinese": "森林",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈfɒrɪst/"
+    },
+    {
+        "english": "dolphin",
+        "chinese": "海豚",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈdɒlfɪn/"
+    },
+    {
+        "english": "xylophone",
+        "chinese": "木琴",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈzaɪləfəʊn/"
+    },
+    {
+        "english": "group",
+        "chinese": "组；群",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɡruːp/"
+    },
+    {
+        "english": "similar",
+        "chinese": "相似的",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsɪmələ(r)/"
+    },
+    {
+        "english": "indoor",
+        "chinese": "室内的",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈɪndɔː(r)/"
+    },
+    {
+        "english": "outdoor",
+        "chinese": "户外的",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈaʊtdɔː(r)/"
+    },
+    {
+        "english": "hamster",
+        "chinese": "仓鼠",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhæmstə(r)/"
+    },
+    {
+        "english": "tortoise",
+        "chinese": "乌龟",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtɔːtəs/"
+    },
+    {
+        "english": "swan",
+        "chinese": "天鹅",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/swɒn/"
+    },
+    {
+        "english": "reptile",
+        "chinese": "爬行动物",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈreptaɪl/"
+    },
+    {
+        "english": "mammal",
+        "chinese": "哺乳动物",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmæml/"
+    },
+    {
+        "english": "hungry",
+        "chinese": "饥饿的",
+        "tag": "-mumy-tips-20240720",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhʌŋɡri/"
+    },
+    {
         "english": "acorn",
         "chinese": "橡子",
         "tag": "-mumy-tips-20240714",
