@@ -18,7 +18,9 @@ words = []
 new_options = '<!-- Add your tags here -->'
 # 遍历每个文件
 for file in files:
-    option = os.path.basename(file).replace('.json', '')
+    # option 使用文件路径（不包括 words/），目录之间使用 - 分割
+    option = os.path.dirname(file)[6:].replace('\\', '-').replace('/', '-') \
+             + '-' + os.path.basename(file).replace('.json', '')
     new_options += f'<option value="{option}">{option}</option>'
     # Check if the file is empty
     if os.path.getsize(file) == 0:
@@ -27,9 +29,13 @@ for file in files:
     # 读取文件内容
     with open(file, 'r', encoding='utf-8') as f:
         content = f.read()
-    # 解析 JSON 并添加到 words 列表
     try:
-        words.extend(json.loads(content))
+        # 解析 content 为 json 对象后，根据 option 修改 json 对象的 tag 属性
+        json_arr = json.loads(content)
+        for item in json_arr:
+            item['tag'] = option
+        # 添加到 words 列表
+        words.extend(json_arr)
     except json.JSONDecodeError as e:
         print(f"Error decoding JSON from {file}: {e}")
 new_options += '<!-- tag end -->'
