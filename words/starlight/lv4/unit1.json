@@ -1,0 +1,174 @@
+
+
+
+
+[
+    {
+        "english": "acorn",
+        "chinese": "橡子",
+        "desc": "",
+        "phonetic": "/ˈeɪkɔːrn/"
+    },
+    {
+        "english": "ball",
+        "chinese": "球",
+        "desc": "",
+        "phonetic": "/bɔːl/"
+    },
+    {
+        "english": "bike",
+        "chinese": "自行车",
+        "desc": "",
+        "phonetic": "/baɪk/"
+    },
+    {
+        "english": "book",
+        "chinese": "书",
+        "desc": "",
+        "phonetic": "/bʊk/"
+    },
+    {
+        "english": "rain coat",
+        "chinese": "雨衣",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "eat",
+        "chinese": "吃",
+        "desc": "",
+        "phonetic": "/iːt/"
+    },
+    {
+        "english": "read",
+        "chinese": "阅读",
+        "desc": "",
+        "phonetic": "/riːd/"
+    },
+    {
+        "english": "ride",
+        "chinese": "骑",
+        "desc": "",
+        "phonetic": "/raɪd/"
+    },
+    {
+        "english": "throw",
+        "chinese": "扔",
+        "desc": "",
+        "phonetic": "/θroʊ/"
+    },
+    {
+        "english": "wear",
+        "chinese": "穿",
+        "desc": "",
+        "phonetic": "/weər/"
+    },
+    {
+        "english": "squirrel",
+        "chinese": "松鼠",
+        "desc": "",
+        "phonetic": "/ˈskwɜːrəl/"
+    },
+    {
+        "english": "cobweb",
+        "chinese": "蜘蛛网",
+        "desc": "",
+        "phonetic": "/ˈkoʊbweb/"
+    },
+    {
+        "english": "pumpkin",
+        "chinese": "南瓜",
+        "desc": "",
+        "phonetic": "/ˈpʌmpkɪn/"
+    },
+    {
+        "english": "mushroom",
+        "chinese": "蘑菇",
+        "desc": "",
+        "phonetic": "/ˈmʌʃruːm/"
+    },
+    {
+        "english": "berry",
+        "chinese": "浆果",
+        "desc": "",
+        "phonetic": "/ˈbɛri/"
+    },
+    {
+        "english": "walnut",
+        "chinese": "核桃",
+        "desc": "",
+        "phonetic": "/ˈwɔːlnʌt/"
+    },
+    {
+        "english": "chestnut",
+        "chinese": "栗子",
+        "desc": "",
+        "phonetic": "/ˈtʃɛsnʌt/"
+    },
+    {
+        "english": "baseball hat",
+        "chinese": "棒球帽",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "mittens",
+        "chinese": "连指手套",
+        "desc": "",
+        "phonetic": "/ˈmɪtənz/"
+    },
+    {
+        "english": "rain boots",
+        "chinese": "雨靴",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "sandals",
+        "chinese": "凉鞋",
+        "desc": "",
+        "phonetic": "/ˈsændlz/"
+    },
+    {
+        "english": "scarf",
+        "chinese": "围巾",
+        "desc": "",
+        "phonetic": "/skɑːrf/
+    },
+    {
+        "english": "sunglasses",
+        "chinese": "太阳镜",
+        "desc": "",
+        "phonetic": "/ˈsʌnglæsɪz/"
+    },
+    {
+        "english": "sweater",
+        "chinese": "毛衣",
+        "desc": "",
+        "phonetic": "/ˈswetər/"
+    },
+    {
+        "english": "swimming trunks",
+        "chinese": "泳裤",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "swimsuit",
+        "chinese": "泳衣",
+        "desc": "",
+        "phonetic": "/ˈswɪmsuːt/"
+    },
+    {
+        "english": "T-shirt",
+        "chinese": "T恤",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "wool hat",
+        "chinese": "羊毛帽",
+        "desc": "",
+        "phonetic": ""
+    }
+]
