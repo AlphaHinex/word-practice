@@ -2451,6 +2451,202 @@ var words = [
         "wrong": 0
     },
     {
+        "english": "acorn",
+        "chinese": "橡子",
+        "desc": "",
+        "phonetic": "/ˈeɪkɔːrn/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "ball",
+        "chinese": "球",
+        "desc": "",
+        "phonetic": "/bɔːl/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "bike",
+        "chinese": "自行车",
+        "desc": "",
+        "phonetic": "/baɪk/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "book",
+        "chinese": "书",
+        "desc": "",
+        "phonetic": "/bʊk/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "rain coat",
+        "chinese": "雨衣",
+        "desc": "",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "eat",
+        "chinese": "吃",
+        "desc": "",
+        "phonetic": "/iːt/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "read",
+        "chinese": "阅读",
+        "desc": "",
+        "phonetic": "/riːd/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "ride",
+        "chinese": "骑",
+        "desc": "",
+        "phonetic": "/raɪd/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "throw",
+        "chinese": "扔",
+        "desc": "",
+        "phonetic": "/θroʊ/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "wear",
+        "chinese": "穿",
+        "desc": "",
+        "phonetic": "/weər/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "squirrel",
+        "chinese": "松鼠",
+        "desc": "",
+        "phonetic": "/ˈskwɜːrəl/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "cobweb",
+        "chinese": "蜘蛛网",
+        "desc": "",
+        "phonetic": "/ˈkoʊbweb/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "pumpkin",
+        "chinese": "南瓜",
+        "desc": "",
+        "phonetic": "/ˈpʌmpkɪn/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "mushroom",
+        "chinese": "蘑菇",
+        "desc": "",
+        "phonetic": "/ˈmʌʃruːm/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "berry",
+        "chinese": "浆果",
+        "desc": "",
+        "phonetic": "/ˈbɛri/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "walnut",
+        "chinese": "核桃",
+        "desc": "",
+        "phonetic": "/ˈwɔːlnʌt/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "chestnut",
+        "chinese": "栗子",
+        "desc": "",
+        "phonetic": "/ˈtʃɛsnʌt/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "baseball hat",
+        "chinese": "棒球帽",
+        "desc": "",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "mittens",
+        "chinese": "连指手套",
+        "desc": "",
+        "phonetic": "/ˈmɪtənz/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "rain boots",
+        "chinese": "雨靴",
+        "desc": "",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "sandals",
+        "chinese": "凉鞋",
+        "desc": "",
+        "phonetic": "/ˈsændlz/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "scarf",
+        "chinese": "围巾",
+        "desc": "",
+        "phonetic": "/skɑːrf/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "sunglasses",
+        "chinese": "太阳镜",
+        "desc": "",
+        "phonetic": "/ˈsʌnglæsɪz/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "sweater",
+        "chinese": "毛衣",
+        "desc": "",
+        "phonetic": "/ˈswetər/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "swimming trunks",
+        "chinese": "泳裤",
+        "desc": "",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "swimsuit",
+        "chinese": "泳衣",
+        "desc": "",
+        "phonetic": "/ˈswɪmsuːt/",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "T-shirt",
+        "chinese": "T恤",
+        "desc": "",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
+        "english": "wool hat",
+        "chinese": "羊毛帽",
+        "desc": "",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit1"
+    },
+    {
         "english": "ill",
         "chinese": "生病的",
         "tag": "primary-grade5-unit09",
