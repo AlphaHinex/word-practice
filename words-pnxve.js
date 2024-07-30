@@ -7921,13 +7921,6 @@ var words = [
         "phonetic": "/kənˈdens/"
     },
     {
-        "chinese": "微信公众号文章链接",
-        "desc": "",
-        "english": "https://mp.weixin.qq.com/s/N5d35mwWNeTP72NX5fm6UA",
-        "phonetic": "",
-        "tag": "-keyword"
-    },
-    {
         "english": "street",
         "chinese": "街道",
         "tag": "starlight-others-Yeki",
