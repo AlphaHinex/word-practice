@@ -7921,13 +7921,6 @@ var words = [
         "phonetic": "/kənˈdens/"
     },
     {
-        "chinese": "东方甄选小作文事件",
-        "desc": "",
-        "english": "Dongfang Zhenxuan Little Composition Incident",
-        "phonetic": "",
-        "tag": "-keyword"
-    },
-    {
         "english": "street",
         "chinese": "街道",
         "tag": "starlight-others-Yeki",
