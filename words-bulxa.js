@@ -1,5 +1,12 @@
 var words = [
     {
+        "chinese": "不舒服",
+        "desc": "",
+        "english": "uncomfortable",
+        "phonetic": "/ʌnˈkʌm.fər.təbəl/",
+        "tag": "-不舒服"
+    },
+    {
         "english": "backpack",
         "chinese": "背包",
         "tag": "starlight-lv3-unit9",
@@ -2343,6 +2350,114 @@ var words = [
         "phonetic": ""
     },
     {
+        "chinese": "马尾辫",
+        "desc": "vocabulary",
+        "english": "ponytail",
+        "phonetic": "/ˈpoʊniːteɪl/",
+        "right": 0,
+        "tag": "starlight-lv3-unit1",
+        "wrong": 0
+    },
+    {
+        "chinese": "雀斑",
+        "desc": "vocabulary",
+        "english": "freckles",
+        "phonetic": "/ˈfrɛkəlz/",
+        "right": 0,
+        "tag": "starlight-lv3-unit1",
+        "wrong": 0
+    },
+    {
+        "chinese": "刘海",
+        "desc": "vocabulary",
+        "english": "bangs",
+        "phonetic": "/bæŋz/",
+        "right": 0,
+        "tag": "starlight-lv3-unit1",
+        "wrong": 0
+    },
+    {
+        "chinese": "耳环",
+        "desc": "vocabulary",
+        "english": "earrings",
+        "phonetic": "/ˈɪərɪŋz/",
+        "right": 0,
+        "tag": "starlight-lv3-unit1",
+        "wrong": 0
+    },
+    {
+        "chinese": "辫子",
+        "desc": "vocabulary",
+        "english": "braid",
+        "phonetic": "/breɪd/",
+        "right": 0,
+        "tag": "starlight-lv3-unit1",
+        "wrong": 0
+    },
+    {
+        "chinese": "直发",
+        "desc": "vocabulary",
+        "english": "straight hair",
+        "phonetic": "",
+        "right": 0,
+        "tag": "starlight-lv3-unit1",
+        "wrong": 0
+    },
+    {
+        "chinese": "眼镜",
+        "desc": "vocabulary",
+        "english": "glasses",
+        "phonetic": "/ˈglæsɪz/",
+        "right": 0,
+        "tag": "starlight-lv3-unit1",
+        "wrong": 0
+    },
+    {
+        "chinese": "卷发",
+        "desc": "vocabulary",
+        "english": "curly hair",
+        "phonetic": "",
+        "right": 0,
+        "tag": "starlight-lv3-unit1",
+        "wrong": 0
+    },
+    {
+        "chinese": "胡子",
+        "desc": "vocabulary",
+        "english": "mustache",
+        "phonetic": "/ˈmʌstætʃ/",
+        "right": 0,
+        "tag": "starlight-lv3-unit1",
+        "wrong": 0
+    },
+    {
+        "chinese": "络腮胡子",
+        "desc": "vocabulary",
+        "english": "beard",
+        "phonetic": "/bɪərd/",
+        "right": 0,
+        "tag": "starlight-lv3-unit1",
+        "wrong": 0
+    },
+    {
+        "chinese": "波浪发",
+        "desc": "vocabulary",
+        "english": "wavy hair",
+        "phonetic": "",
+        "right": 0,
+        "tag": "starlight-lv3-unit1",
+        "wrong": 0
+    },
+    {
+        "chinese": "眉毛",
+        "desc": "vocabulary",
+        "english": "eyebrows",
+        "phonetic": "/ˈaɪbraʊz/",
+        "right": 0,
+        "tag": "starlight-lv3-unit1",
+        "wrong": 0
+    },
+    {
         "english": "acorn",
         "chinese": "橡子",
         "desc": "",
@@ -2537,114 +2652,6 @@ var words = [
         "desc": "",
         "phonetic": "",
         "tag": "starlight-lv4-unit1"
-    },
-    {
-        "chinese": "马尾辫",
-        "desc": "vocabulary",
-        "english": "ponytail",
-        "phonetic": "/ˈpoʊniːteɪl/",
-        "right": 0,
-        "tag": "starlight-lv3-unit1",
-        "wrong": 0
-    },
-    {
-        "chinese": "雀斑",
-        "desc": "vocabulary",
-        "english": "freckles",
-        "phonetic": "/ˈfrɛkəlz/",
-        "right": 0,
-        "tag": "starlight-lv3-unit1",
-        "wrong": 0
-    },
-    {
-        "chinese": "刘海",
-        "desc": "vocabulary",
-        "english": "bangs",
-        "phonetic": "/bæŋz/",
-        "right": 0,
-        "tag": "starlight-lv3-unit1",
-        "wrong": 0
-    },
-    {
-        "chinese": "耳环",
-        "desc": "vocabulary",
-        "english": "earrings",
-        "phonetic": "/ˈɪərɪŋz/",
-        "right": 0,
-        "tag": "starlight-lv3-unit1",
-        "wrong": 0
-    },
-    {
-        "chinese": "辫子",
-        "desc": "vocabulary",
-        "english": "braid",
-        "phonetic": "/breɪd/",
-        "right": 0,
-        "tag": "starlight-lv3-unit1",
-        "wrong": 0
-    },
-    {
-        "chinese": "直发",
-        "desc": "vocabulary",
-        "english": "straight hair",
-        "phonetic": "",
-        "right": 0,
-        "tag": "starlight-lv3-unit1",
-        "wrong": 0
-    },
-    {
-        "chinese": "眼镜",
-        "desc": "vocabulary",
-        "english": "glasses",
-        "phonetic": "/ˈglæsɪz/",
-        "right": 0,
-        "tag": "starlight-lv3-unit1",
-        "wrong": 0
-    },
-    {
-        "chinese": "卷发",
-        "desc": "vocabulary",
-        "english": "curly hair",
-        "phonetic": "",
-        "right": 0,
-        "tag": "starlight-lv3-unit1",
-        "wrong": 0
-    },
-    {
-        "chinese": "胡子",
-        "desc": "vocabulary",
-        "english": "mustache",
-        "phonetic": "/ˈmʌstætʃ/",
-        "right": 0,
-        "tag": "starlight-lv3-unit1",
-        "wrong": 0
-    },
-    {
-        "chinese": "络腮胡子",
-        "desc": "vocabulary",
-        "english": "beard",
-        "phonetic": "/bɪərd/",
-        "right": 0,
-        "tag": "starlight-lv3-unit1",
-        "wrong": 0
-    },
-    {
-        "chinese": "波浪发",
-        "desc": "vocabulary",
-        "english": "wavy hair",
-        "phonetic": "",
-        "right": 0,
-        "tag": "starlight-lv3-unit1",
-        "wrong": 0
-    },
-    {
-        "chinese": "眉毛",
-        "desc": "vocabulary",
-        "english": "eyebrows",
-        "phonetic": "/ˈaɪbraʊz/",
-        "right": 0,
-        "tag": "starlight-lv3-unit1",
-        "wrong": 0
     },
     {
         "english": "ill",
@@ -5194,402 +5201,6 @@ var words = [
         "phonetic": ""
     },
     {
-        "english": "why",
-        "chinese": "为什么",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/waɪ/"
-    },
-    {
-        "english": "because",
-        "chinese": "因为",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/bɪˈzaʊs/"
-    },
-    {
-        "english": "study",
-        "chinese": "书房；学习",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈstʌdi/"
-    },
-    {
-        "english": "change",
-        "chinese": "改变；变化",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/tʃeɪndʒ/"
-    },
-    {
-        "english": "place",
-        "chinese": "地方",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/pleɪs/"
-    },
-    {
-        "english": "twice",
-        "chinese": "两次",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/twaɪs/"
-    },
-    {
-        "english": "every",
-        "chinese": "每；每次",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈɛvri/"
-    },
-    {
-        "english": "north",
-        "chinese": "北方；向北",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/nɔːrθ/"
-    },
-    {
-        "english": "south",
-        "chinese": "南方；向南",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/saʊθ/"
-    },
-    {
-        "english": "enough",
-        "chinese": "足够的",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ɪˈnʌf/"
-    },
-    {
-        "english": "then",
-        "chinese": "然后",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ðɛn/"
-    },
-    {
-        "english": "garden",
-        "chinese": "花园",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈɡɑːrdn/"
-    },
-    {
-        "english": "quiet",
-        "chinese": "安静的",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈkwaɪət/"
-    },
-    {
-        "english": "kitchen",
-        "chinese": "厨房",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈkɪtʃɪn/"
-    },
-    {
-        "english": "bedroom",
-        "chinese": "卧室",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈbɛdrˌrum/"
-    },
-    {
-        "english": "write",
-        "chinese": "写字",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/raɪt/"
-    },
-    {
-        "english": "spring",
-        "chinese": "春天",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/sprɪŋ/"
-    },
-    {
-        "english": "autumn",
-        "chinese": "秋天",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈɔːtəm/"
-    },
-    {
-        "english": "around",
-        "chinese": "围绕；环绕",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/əˈraʊnd/"
-    },
-    {
-        "english": "another",
-        "chinese": "另一个；再一个",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/əˈnʌðɚ/"
-    },
-    {
-        "english": "shoe",
-        "chinese": "鞋",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ʃuː/"
-    },
-    {
-        "english": "back",
-        "chinese": "返回",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/bæk/"
-    },
-    {
-        "english": "skirt",
-        "chinese": "短裙",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/skɜːrt/"
-    },
-    {
-        "english": "purse",
-        "chinese": "钱包",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/pɜːrs/"
-    },
-    {
-        "english": "dining room",
-        "chinese": "餐食；餐厅",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "wild goose",
-        "chinese": "大雁",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "all day",
-        "chinese": "一天到晚",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "living room",
-        "chinese": "客厅",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "in autumn",
-        "chinese": "在秋天",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "from ... to",
-        "chinese": "从...到...",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "over there",
-        "chinese": "在那边",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "change homes",
-        "chinese": "搬家",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "fly north",
-        "chinese": "往北飞",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "twice every day",
-        "chinese": "一天两次",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "Why do you like it?",
-        "chinese": "你为什么喜欢它？",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "Because it's so big.",
-        "chinese": "因为它很大。",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "In winter, they cannot find enough food in the north.",
-        "chinese": "在冬天，它们在北方找不到足够的食物。",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "I can read and write there.",
-        "chinese": "我能在那读书和写字。",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "They can play in the garden all day.",
-        "chinese": "他们能一天到晚在花园里玩。",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "Why do wild geese change homes?",
-        "chinese": "为什么大雁要迁徙？",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "They change homes twice every year.",
-        "chinese": "他们每年搬两次家。",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "Why do wild geese move around so much?",
-        "chinese": "为什么大雁频繁的搬家？",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "She knows what to do.",
-        "chinese": "她知道做什么。",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
-        "english": "It's time to go to bed.",
-        "chinese": "该上床睡觉了。",
-        "tag": "primary-grade5-unit02",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": ""
-    },
-    {
         "english": "famous",
         "chinese": "著名的",
         "tag": "primary-grade6-unit02",
@@ -6094,369 +5705,396 @@ var words = [
         "phonetic": "/keɪm/"
     },
     {
-        "english": "tidy",
-        "chinese": "整理；整洁的",
-        "tag": "primary-grade5-unit01",
+        "english": "why",
+        "chinese": "为什么",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈtɪdi/"
+        "phonetic": "/waɪ/"
     },
     {
-        "english": "mess",
-        "chinese": "脏乱；不整洁",
-        "tag": "primary-grade5-unit01",
+        "english": "because",
+        "chinese": "因为",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/mɛs/"
+        "phonetic": "/bɪˈzaʊs/"
     },
     {
-        "english": "let",
-        "chinese": "让",
-        "tag": "primary-grade5-unit01",
+        "english": "study",
+        "chinese": "书房；学习",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/lɛt/"
+        "phonetic": "/ˈstʌdi/"
     },
     {
-        "english": "sock",
-        "chinese": "短袜",
-        "tag": "primary-grade5-unit01",
+        "english": "change",
+        "chinese": "改变；变化",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/sɑːk/"
+        "phonetic": "/tʃeɪndʒ/"
     },
     {
-        "english": "yours",
-        "chinese": "你的；你们的",
-        "tag": "primary-grade5-unit01",
+        "english": "place",
+        "chinese": "地方",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/jɔːrz/"
+        "phonetic": "/pleɪs/"
     },
     {
-        "english": "cap",
-        "chinese": "帽子",
-        "tag": "primary-grade5-unit01",
+        "english": "twice",
+        "chinese": "两次",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/kæp/"
+        "phonetic": "/twaɪs/"
     },
     {
-        "english": "mine",
-        "chinese": "我的",
-        "tag": "primary-grade5-unit01",
+        "english": "every",
+        "chinese": "每；每次",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/maɪn/"
+        "phonetic": "/ˈɛvri/"
     },
     {
-        "english": "crayon",
-        "chinese": "彩色蜡笔",
-        "tag": "primary-grade5-unit01",
+        "english": "north",
+        "chinese": "北方；向北",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈkreɪən/"
+        "phonetic": "/nɔːrθ/"
     },
     {
-        "english": "umbrella",
-        "chinese": "伞",
-        "tag": "primary-grade5-unit01",
+        "english": "south",
+        "chinese": "南方；向南",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ʌmˈbrɛlə/"
+        "phonetic": "/saʊθ/"
     },
     {
-        "english": "nail",
-        "chinese": "钉子",
-        "tag": "primary-grade5-unit01",
+        "english": "enough",
+        "chinese": "足够的",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/neɪl/"
+        "phonetic": "/ɪˈnʌf/"
     },
     {
-        "english": "drop",
-        "chinese": "使落下；掉落",
-        "tag": "primary-grade5-unit01",
+        "english": "then",
+        "chinese": "然后",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/drɑːp/"
+        "phonetic": "/ðɛn/"
     },
     {
-        "english": "stick",
-        "chinese": "粘贴；粘住",
-        "tag": "primary-grade5-unit01",
+        "english": "garden",
+        "chinese": "花园",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/stɪk/"
+        "phonetic": "/ˈɡɑːrdn/"
     },
     {
-        "english": "second",
-        "chinese": "秒（时间单位）",
-        "tag": "primary-grade5-unit01",
+        "english": "quiet",
+        "chinese": "安静的",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈsekənd/"
+        "phonetic": "/ˈkwaɪət/"
     },
     {
-        "english": "hers",
-        "chinese": "她的",
-        "tag": "primary-grade5-unit01",
+        "english": "kitchen",
+        "chinese": "厨房",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/hɜːrz/"
-    },
-    {
-        "english": "theirs",
-        "chinese": "他（她，它）们的",
-        "tag": "primary-grade5-unit01",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ðɛrz/"
+        "phonetic": "/ˈkɪtʃɪn/"
     },
     {
         "english": "bedroom",
         "chinese": "卧室",
-        "tag": "primary-grade5-unit01",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈbɛdruːm/"
+        "phonetic": "/ˈbɛdrˌrum/"
     },
     {
-        "english": "whose",
-        "chinese": "谁的",
-        "tag": "primary-grade5-unit01",
+        "english": "write",
+        "chinese": "写字",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/huːz/"
+        "phonetic": "/raɪt/"
     },
     {
-        "english": "magic",
-        "chinese": "神奇的",
-        "tag": "primary-grade5-unit01",
+        "english": "spring",
+        "chinese": "春天",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈmædʒɪk/"
+        "phonetic": "/sprɪŋ/"
     },
     {
-        "english": "stone",
-        "chinese": "石头",
-        "tag": "primary-grade5-unit01",
+        "english": "autumn",
+        "chinese": "秋天",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/stoʊn/"
+        "phonetic": "/ˈɔːtəm/"
     },
     {
-        "english": "floor",
-        "chinese": "地板",
-        "tag": "primary-grade5-unit01",
+        "english": "around",
+        "chinese": "围绕；环绕",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/flɔːr/"
+        "phonetic": "/əˈraʊnd/"
     },
     {
-        "english": "happily",
-        "chinese": "快乐地",
-        "tag": "primary-grade5-unit01",
+        "english": "another",
+        "chinese": "另一个；再一个",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈhæpəli/"
+        "phonetic": "/əˈnʌðɚ/"
     },
     {
-        "english": "give",
-        "chinese": "给",
-        "tag": "primary-grade5-unit01",
+        "english": "shoe",
+        "chinese": "鞋",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ɡɪv/"
+        "phonetic": "/ʃuː/"
     },
     {
-        "english": "help",
-        "chinese": "帮助",
-        "tag": "primary-grade5-unit01",
+        "english": "back",
+        "chinese": "返回",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/hɛlp/"
+        "phonetic": "/bæk/"
     },
     {
-        "english": "never",
-        "chinese": "从不；永不",
-        "tag": "primary-grade5-unit01",
+        "english": "skirt",
+        "chinese": "短裙",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/ˈnɛvər/"
+        "phonetic": "/skɜːrt/"
     },
     {
-        "english": "try",
-        "chinese": "尝试",
-        "tag": "primary-grade5-unit01",
+        "english": "purse",
+        "chinese": "钱包",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
-        "phonetic": "/traɪ/"
+        "phonetic": "/pɜːrs/"
     },
     {
-        "english": "afternoon",
-        "chinese": "下午",
-        "tag": "primary-grade5-unit01",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈæftərˌnuːn/"
-    },
-    {
-        "english": "sunny",
-        "chinese": "晴朗的",
-        "tag": "primary-grade5-unit01",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ˈsʌni/"
-    },
-    {
-        "english": "tidy up",
-        "chinese": "把……整理好",
-        "tag": "primary-grade5-unit01",
+        "english": "dining room",
+        "chinese": "餐食；餐厅",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "(be) full of",
-        "chinese": "装满……；充满",
-        "tag": "primary-grade5-unit01",
+        "english": "wild goose",
+        "chinese": "大雁",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "a few",
-        "chinese": "几个，一些",
-        "tag": "primary-grade5-unit01",
-        "desc": "",
-        "right": 0,
-        "wrong": 0,
-        "phonetic": "/ə ˈfjuː/"
-    },
-    {
-        "english": "put ... on",
-        "chinese": "把……放在……上",
-        "tag": "primary-grade5-unit01",
+        "english": "all day",
+        "chinese": "一天到晚",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "What a mess!",
-        "chinese": "真是一团糟。",
-        "tag": "primary-grade5-unit01",
+        "english": "living room",
+        "chinese": "客厅",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Whose socks are those?",
-        "chinese": "那些袜子是谁的？",
-        "tag": "primary-grade5-unit01",
+        "english": "in autumn",
+        "chinese": "在秋天",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "All the nails fall on the floor.",
-        "chinese": "所有的钉子掉在了地板上。",
-        "tag": "primary-grade5-unit01",
+        "english": "from ... to",
+        "chinese": "从...到...",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Can you put them on his bed?",
-        "chinese": "你能把它们放在他的床上吗？",
-        "tag": "primary-grade5-unit01",
+        "english": "over there",
+        "chinese": "在那边",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Are they yours? Not, they aren't.",
-        "chinese": "他们是你的吗？不，他们不是。",
-        "tag": "primary-grade5-unit01",
+        "english": "change homes",
+        "chinese": "搬家",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "The room is now clean and tidy.",
-        "chinese": "房间现在又干净又整洁。",
-        "tag": "primary-grade5-unit01",
+        "english": "fly north",
+        "chinese": "往北飞",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Let's tidy it up.",
-        "chinese": "让我们把它整理好。",
-        "tag": "primary-grade5-unit01",
+        "english": "twice every day",
+        "chinese": "一天两次",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "It's full of nails.",
-        "chinese": "它装满了钉子。",
-        "tag": "primary-grade5-unit01",
+        "english": "Why do you like it?",
+        "chinese": "你为什么喜欢它？",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "Thank you for your help.",
-        "chinese": "谢谢你的帮助。",
-        "tag": "primary-grade5-unit01",
+        "english": "Because it's so big.",
+        "chinese": "因为它很大。",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": ""
     },
     {
-        "english": "In a few seconds, the floor is clean again.",
-        "chinese": "几秒钟之内，地板又干净了。",
-        "tag": "primary-grade5-unit01",
+        "english": "In winter, they cannot find enough food in the north.",
+        "chinese": "在冬天，它们在北方找不到足够的食物。",
+        "tag": "primary-grade5-unit02",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "I can read and write there.",
+        "chinese": "我能在那读书和写字。",
+        "tag": "primary-grade5-unit02",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "They can play in the garden all day.",
+        "chinese": "他们能一天到晚在花园里玩。",
+        "tag": "primary-grade5-unit02",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Why do wild geese change homes?",
+        "chinese": "为什么大雁要迁徙？",
+        "tag": "primary-grade5-unit02",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "They change homes twice every year.",
+        "chinese": "他们每年搬两次家。",
+        "tag": "primary-grade5-unit02",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Why do wild geese move around so much?",
+        "chinese": "为什么大雁频繁的搬家？",
+        "tag": "primary-grade5-unit02",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "She knows what to do.",
+        "chinese": "她知道做什么。",
+        "tag": "primary-grade5-unit02",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "It's time to go to bed.",
+        "chinese": "该上床睡觉了。",
+        "tag": "primary-grade5-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6862,6 +6500,375 @@ var words = [
         "english": "He meets a turtle.",
         "chinese": "他遇到了一只乌龟。",
         "tag": "primary-grade6-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "tidy",
+        "chinese": "整理；整洁的",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈtɪdi/"
+    },
+    {
+        "english": "mess",
+        "chinese": "脏乱；不整洁",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/mɛs/"
+    },
+    {
+        "english": "let",
+        "chinese": "让",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/lɛt/"
+    },
+    {
+        "english": "sock",
+        "chinese": "短袜",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/sɑːk/"
+    },
+    {
+        "english": "yours",
+        "chinese": "你的；你们的",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/jɔːrz/"
+    },
+    {
+        "english": "cap",
+        "chinese": "帽子",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/kæp/"
+    },
+    {
+        "english": "mine",
+        "chinese": "我的",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/maɪn/"
+    },
+    {
+        "english": "crayon",
+        "chinese": "彩色蜡笔",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈkreɪən/"
+    },
+    {
+        "english": "umbrella",
+        "chinese": "伞",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ʌmˈbrɛlə/"
+    },
+    {
+        "english": "nail",
+        "chinese": "钉子",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/neɪl/"
+    },
+    {
+        "english": "drop",
+        "chinese": "使落下；掉落",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/drɑːp/"
+    },
+    {
+        "english": "stick",
+        "chinese": "粘贴；粘住",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/stɪk/"
+    },
+    {
+        "english": "second",
+        "chinese": "秒（时间单位）",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsekənd/"
+    },
+    {
+        "english": "hers",
+        "chinese": "她的",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hɜːrz/"
+    },
+    {
+        "english": "theirs",
+        "chinese": "他（她，它）们的",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ðɛrz/"
+    },
+    {
+        "english": "bedroom",
+        "chinese": "卧室",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈbɛdruːm/"
+    },
+    {
+        "english": "whose",
+        "chinese": "谁的",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/huːz/"
+    },
+    {
+        "english": "magic",
+        "chinese": "神奇的",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈmædʒɪk/"
+    },
+    {
+        "english": "stone",
+        "chinese": "石头",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/stoʊn/"
+    },
+    {
+        "english": "floor",
+        "chinese": "地板",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/flɔːr/"
+    },
+    {
+        "english": "happily",
+        "chinese": "快乐地",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈhæpəli/"
+    },
+    {
+        "english": "give",
+        "chinese": "给",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ɡɪv/"
+    },
+    {
+        "english": "help",
+        "chinese": "帮助",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/hɛlp/"
+    },
+    {
+        "english": "never",
+        "chinese": "从不；永不",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈnɛvər/"
+    },
+    {
+        "english": "try",
+        "chinese": "尝试",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/traɪ/"
+    },
+    {
+        "english": "afternoon",
+        "chinese": "下午",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈæftərˌnuːn/"
+    },
+    {
+        "english": "sunny",
+        "chinese": "晴朗的",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ˈsʌni/"
+    },
+    {
+        "english": "tidy up",
+        "chinese": "把……整理好",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "(be) full of",
+        "chinese": "装满……；充满",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "a few",
+        "chinese": "几个，一些",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": "/ə ˈfjuː/"
+    },
+    {
+        "english": "put ... on",
+        "chinese": "把……放在……上",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "What a mess!",
+        "chinese": "真是一团糟。",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Whose socks are those?",
+        "chinese": "那些袜子是谁的？",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "All the nails fall on the floor.",
+        "chinese": "所有的钉子掉在了地板上。",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Can you put them on his bed?",
+        "chinese": "你能把它们放在他的床上吗？",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Are they yours? Not, they aren't.",
+        "chinese": "他们是你的吗？不，他们不是。",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "The room is now clean and tidy.",
+        "chinese": "房间现在又干净又整洁。",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Let's tidy it up.",
+        "chinese": "让我们把它整理好。",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "It's full of nails.",
+        "chinese": "它装满了钉子。",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "Thank you for your help.",
+        "chinese": "谢谢你的帮助。",
+        "tag": "primary-grade5-unit01",
+        "desc": "",
+        "right": 0,
+        "wrong": 0,
+        "phonetic": ""
+    },
+    {
+        "english": "In a few seconds, the floor is clean again.",
+        "chinese": "几秒钟之内，地板又干净了。",
+        "tag": "primary-grade5-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
