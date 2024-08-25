@@ -1,12 +1,5 @@
 var words = [
     {
-        "chinese": "不舒服",
-        "desc": "",
-        "english": "uncomfortable",
-        "phonetic": "/ʌnˈkʌm.fər.təbəl/",
-        "tag": "-不舒服"
-    },
-    {
         "english": "backpack",
         "chinese": "背包",
         "tag": "starlight-lv3-unit9",
