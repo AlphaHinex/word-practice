@@ -1656,6 +1656,174 @@ var words = [
         "wrong": 0
     },
     {
+        "chinese": "地球",
+        "desc": "",
+        "english": "Earth",
+        "phonetic": "/ɜːrθ/",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "地区；区域；部分",
+        "desc": "",
+        "english": "part",
+        "phonetic": "/pɑːrt/",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "森林",
+        "desc": "",
+        "english": "forest",
+        "phonetic": "/ˈfɒrɪst/",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "陆地",
+        "desc": "",
+        "english": "land",
+        "phonetic": "/lænd/",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "海洋",
+        "desc": "",
+        "english": "ocean",
+        "phonetic": "/ˈoʊʃn/",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "垃圾",
+        "desc": "",
+        "english": "rubbish",
+        "phonetic": "/ˈrʌbɪʃ/",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "生病的",
+        "desc": "",
+        "english": "sick",
+        "phonetic": "/sɪk/",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "回收利用；再利用",
+        "desc": "",
+        "english": "recycle",
+        "phonetic": "/ˌriːˈsaɪkl/",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "玻璃制品；玻璃",
+        "desc": "",
+        "english": "glass",
+        "phonetic": "/ɡlɑːs/",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "自己的",
+        "desc": "",
+        "english": "own",
+        "phonetic": "/oʊn/",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "这么多",
+        "desc": "",
+        "english": "so many",
+        "phonetic": "",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "捡起；拾起",
+        "desc": "",
+        "english": "pick up",
+        "phonetic": "",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "购物袋",
+        "desc": "",
+        "english": "shopping bag",
+        "phonetic": "",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "塑料袋",
+        "desc": "",
+        "english": "plastic bag",
+        "phonetic": "",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "停止做某事",
+        "desc": "",
+        "english": "stop doing sth.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "停下去做另一件事",
+        "desc": "",
+        "english": "stop to do sth.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "居住在地球上",
+        "desc": "",
+        "english": "live on the Earth",
+        "phonetic": "",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "生病",
+        "desc": "",
+        "english": "get sick",
+        "phonetic": "",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "我们应该停止往河里扔垃圾。",
+        "desc": "",
+        "english": "We should stop throwing rubbish into rivers.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "我们应该停止砍倒如此多的树木。",
+        "desc": "",
+        "english": "We should stop cutting down so many trees.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "我们应该停止使用塑料袋。",
+        "desc": "",
+        "english": "We should stop using plastic bags.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "现在人们一起工作来让地球保持干净和健康。",
+        "desc": "",
+        "english": "Now people work together to keep the Earth clean and healthy.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "他们回收利用玻璃和纸张。",
+        "desc": "",
+        "english": "They recycle glass and paper.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit12"
+    },
+    {
+        "chinese": "他们带来自己的购物袋并停止使用塑料袋。",
+        "desc": "",
+        "english": "They bring their own shopping bags and stop using plastic bags.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit12"
+    },
+    {
         "english": "giant",
         "chinese": "巨人",
         "tag": "primary-grade5-unit12",
@@ -11581,173 +11749,5 @@ var words = [
         "right": 0,
         "wrong": 0,
         "phonetic": "/wɛr/"
-    },
-    {
-        "chinese": "地球",
-        "desc": "",
-        "english": "Earth",
-        "phonetic": "/ɜːrθ/",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "部分",
-        "desc": "",
-        "english": "part",
-        "phonetic": "/pɑːrt/",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "森林",
-        "desc": "",
-        "english": "forest",
-        "phonetic": "/ˈfɒrɪst/",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "陆地",
-        "desc": "",
-        "english": "land",
-        "phonetic": "/lænd/",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "海洋",
-        "desc": "",
-        "english": "ocean",
-        "phonetic": "/ˈoʊʃn/",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "垃圾",
-        "desc": "",
-        "english": "rubbish",
-        "phonetic": "/ˈrʌbɪʃ/",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "生病的",
-        "desc": "",
-        "english": "sick",
-        "phonetic": "/sɪk/",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "回收",
-        "desc": "",
-        "english": "recycle",
-        "phonetic": "/ˌriːˈsaɪkl/",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "玻璃",
-        "desc": "",
-        "english": "glass",
-        "phonetic": "/ɡlɑːs/",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "自己的",
-        "desc": "",
-        "english": "own",
-        "phonetic": "/oʊn/",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "如此多",
-        "desc": "",
-        "english": "so many",
-        "phonetic": "",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "捡起",
-        "desc": "",
-        "english": "pick up",
-        "phonetic": "",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "购物袋",
-        "desc": "",
-        "english": "shopping bag",
-        "phonetic": "",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "塑料袋",
-        "desc": "",
-        "english": "plastic bag",
-        "phonetic": "",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "停止做某事",
-        "desc": "",
-        "english": "stop doing sth.",
-        "phonetic": "",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "停下来去做某事",
-        "desc": "",
-        "english": "stop to do sth.",
-        "phonetic": "",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "生活在地球上",
-        "desc": "",
-        "english": "live on the Earth",
-        "phonetic": "",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "生病",
-        "desc": "",
-        "english": "get sick",
-        "phonetic": "",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "我们应该停止把垃圾扔进河里。",
-        "desc": "",
-        "english": "We should stop throwing rubbish into rivers.",
-        "phonetic": "",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "我们应该停止砍伐这么多树木。",
-        "desc": "",
-        "english": "We should stop cutting down so many trees.",
-        "phonetic": "",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "我们应该停止使用塑料袋。",
-        "desc": "",
-        "english": "We should stop using plastic bags.",
-        "phonetic": "",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "现在人们共同努力保持地球清洁和健康。",
-        "desc": "",
-        "english": "Now people work together to keep the Earth clean and healthy.",
-        "phonetic": "",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "他们回收玻璃和纸张。",
-        "desc": "",
-        "english": "They recycle glass and paper.",
-        "phonetic": "",
-        "tag": "-Grade6-U12"
-    },
-    {
-        "chinese": "他们携带自己的购物袋，停止使用塑料袋。",
-        "desc": "",
-        "english": "They bring their own shopping bags and stop using plastic bags.",
-        "phonetic": "",
-        "tag": "-Grade6-U12"
     }
 ];
