@@ -1,7 +1,7 @@
 [
     {
         "english": "month",
-        "chinese": "月",
+        "chinese": "一个月的时间；月份",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -10,7 +10,7 @@
     },
     {
         "english": "months",
-        "chinese": "月",
+        "chinese": "月（复数）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -28,7 +28,7 @@
     },
     {
         "english": "lovely",
-        "chinese": "可爱的",
+        "chinese": "可爱的（近义词）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -46,7 +46,7 @@
     },
     {
         "english": "beautiful",
-        "chinese": "美丽的",
+        "chinese": "漂亮的（近义词）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -55,7 +55,7 @@
     },
     {
         "english": "handsome",
-        "chinese": "英俊的",
+        "chinese": "英俊的，帅气的",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -64,7 +64,7 @@
     },
     {
         "english": "grow up",
-        "chinese": "长大",
+        "chinese": "成长",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -73,7 +73,7 @@
     },
     {
         "english": "about",
-        "chinese": "关于",
+        "chinese": "大约",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -91,7 +91,7 @@
     },
     {
         "english": "junior high school",
-        "chinese": "初中",
+        "chinese": "初中（2个）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -100,7 +100,7 @@
     },
     {
         "english": "middle school",
-        "chinese": "中学",
+        "chinese": "初中（2个）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -118,7 +118,7 @@
     },
     {
         "english": "round",
-        "chinese": "圆的",
+        "chinese": "圆的 adj.",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -136,7 +136,7 @@
     },
     {
         "english": "catch",
-        "chinese": "抓住",
+        "chinese": "逮住；捕捉",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -145,7 +145,7 @@
     },
     {
         "english": "fly",
-        "chinese": "飞",
+        "chinese": "苍蝇",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -154,7 +154,7 @@
     },
     {
         "english": "flies",
-        "chinese": "苍蝇",
+        "chinese": "苍蝇（复数）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -163,7 +163,7 @@
     },
     {
         "english": "later",
-        "chinese": "稍后",
+        "chinese": "后来",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -181,7 +181,7 @@
     },
     {
         "english": "least",
-        "chinese": "至少",
+        "chinese": "最少的；最小的",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -190,7 +190,7 @@
     },
     {
         "english": "list",
-        "chinese": "列表",
+        "chinese": "列表；清单",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -208,7 +208,7 @@
     },
     {
         "english": "was",
-        "chinese": "是",
+        "chinese": "am/is 过去式",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -217,7 +217,7 @@
     },
     {
         "english": "were",
-        "chinese": "是",
+        "chinese": "are 过去式",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -307,7 +307,7 @@
     },
     {
         "english": "has no tail",
-        "chinese": "没有尾巴",
+        "chinese": "没有尾巴（单三）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -316,7 +316,7 @@
     },
     {
         "english": "catch flies",
-        "chinese": "抓苍蝇",
+        "chinese": "捕捉苍蝇",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -325,7 +325,7 @@
     },
     {
         "english": "In photo 1, Sally was a baby.",
-        "chinese": "在照片1中，莎莉是个婴儿。",
+        "chinese": "在照片1中，Sally 是一个小婴儿。（过）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -343,7 +343,7 @@
     },
     {
         "english": "She was small and cute.",
-        "chinese": "她小而可爱。",
+        "chinese": "她又小又可爱。（过）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -352,7 +352,7 @@
     },
     {
         "english": "Her hair was short and her eyes were big.",
-        "chinese": "她的头发短，眼睛大。",
+        "chinese": "她的头发是短的，她的眼睛是大的。（过）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -361,7 +361,7 @@
     },
     {
         "english": "She was a primary school student.",
-        "chinese": "她是一名小学生。",
+        "chinese": "她是一名小学生。（过）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -370,7 +370,7 @@
     },
     {
         "english": "She goes to junior high school.",
-        "chinese": "她上初中。",
+        "chinese": "她上初中了。（现）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -379,7 +379,7 @@
     },
     {
         "english": "She is tall and pretty.",
-        "chinese": "她高而漂亮。",
+        "chinese": "她又高又漂亮。（现）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -388,7 +388,7 @@
     },
     {
         "english": "Little Justin was born in the river.",
-        "chinese": "小贾斯汀出生在河里。",
+        "chinese": "Little Justin 出生在河里。（过）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
@@ -397,7 +397,7 @@
     },
     {
         "english": "He meets a turtle.",
-        "chinese": "他遇到了一只乌龟。",
+        "chinese": "他遇见了一只乌龟。（现）",
         "tag": "Grade6-U1",
         "desc": "",
         "right": 0,
