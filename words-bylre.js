@@ -5759,7 +5759,7 @@ var words = [
     },
     {
         "english": "famous",
-        "chinese": "著名的",
+        "chinese": "著名的；出名的",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -5786,7 +5786,7 @@ var words = [
     },
     {
         "english": "everyone",
-        "chinese": "每个人",
+        "chinese": "每个人；所有人",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -5795,7 +5795,7 @@ var words = [
     },
     {
         "english": "everybody",
-        "chinese": "每个人",
+        "chinese": "每个人；所有人（近义词）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -5804,7 +5804,7 @@ var words = [
     },
     {
         "english": "countryside",
-        "chinese": "乡村",
+        "chinese": "乡村；农村",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -5840,7 +5840,7 @@ var words = [
     },
     {
         "english": "visit my grandparents",
-        "chinese": "拜访我的祖父母",
+        "chinese": "看望我的祖父母",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -5849,7 +5849,7 @@ var words = [
     },
     {
         "english": "go to the beach with my family",
-        "chinese": "和我的家人去海滩",
+        "chinese": "和我的家人去沙滩",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -5867,7 +5867,7 @@ var words = [
     },
     {
         "english": "go swimming in the sea",
-        "chinese": "去海里游泳",
+        "chinese": "在海里游泳",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -5939,7 +5939,7 @@ var words = [
     },
     {
         "english": "by plane",
-        "chinese": "乘飞机",
+        "chinese": "乘坐飞机",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -5993,7 +5993,7 @@ var words = [
     },
     {
         "english": "stay with their grandparents",
-        "chinese": "和他们的祖父母一起住",
+        "chinese": "和他们的祖父母待在一起",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6002,7 +6002,7 @@ var words = [
     },
     {
         "english": "in the countryside",
-        "chinese": "在农村",
+        "chinese": "在乡村",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6011,7 +6011,7 @@ var words = [
     },
     {
         "english": "pick apples with her grandmother",
-        "chinese": "和她的祖母一起摘苹果",
+        "chinese": "和她的奶奶采摘苹果",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6020,7 +6020,7 @@ var words = [
     },
     {
         "english": "over the bridge",
-        "chinese": "过桥",
+        "chinese": "在桥上",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6029,7 +6029,7 @@ var words = [
     },
     {
         "english": "into the town",
-        "chinese": "到镇上",
+        "chinese": "去城里",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6047,7 +6047,7 @@ var words = [
     },
     {
         "english": "How was your summer holiday? It was wonderful.",
-        "chinese": "你的暑假过得怎么样？很棒。",
+        "chinese": "你的暑假过得怎么样？好极了。",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6065,7 +6065,7 @@ var words = [
     },
     {
         "english": "We also went to some famous parks in Beijing.",
-        "chinese": "我们还去了北京的一些著名公园。",
+        "chinese": "我们也去了北京一些著名的公园。",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6074,7 +6074,7 @@ var words = [
     },
     {
         "english": "How about your summer holiday?",
-        "chinese": "你的暑假过得怎么样？",
+        "chinese": "你的暑假是怎么样的？",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6083,7 +6083,7 @@ var words = [
     },
     {
         "english": "They spent their holiday in London.",
-        "chinese": "他们在伦敦度过假期。",
+        "chinese": "他们在伦敦度过了他们的假期。",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6101,7 +6101,7 @@ var words = [
     },
     {
         "english": "visited",
-        "chinese": "参观",
+        "chinese": "参观（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6110,7 +6110,7 @@ var words = [
     },
     {
         "english": "played",
-        "chinese": "玩",
+        "chinese": "玩（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6119,7 +6119,7 @@ var words = [
     },
     {
         "english": "stayed",
-        "chinese": "停留",
+        "chinese": "停留（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6128,7 +6128,7 @@ var words = [
     },
     {
         "english": "picked",
-        "chinese": "采摘",
+        "chinese": "采摘（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6137,7 +6137,7 @@ var words = [
     },
     {
         "english": "enjoyed",
-        "chinese": "享受",
+        "chinese": "享受（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6146,7 +6146,7 @@ var words = [
     },
     {
         "english": "liked",
-        "chinese": "喜欢",
+        "chinese": "喜欢（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6155,7 +6155,7 @@ var words = [
     },
     {
         "english": "lived",
-        "chinese": "居住",
+        "chinese": "居住（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6164,7 +6164,7 @@ var words = [
     },
     {
         "english": "studied",
-        "chinese": "学习",
+        "chinese": "学习（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6173,7 +6173,7 @@ var words = [
     },
     {
         "english": "carried",
-        "chinese": "携带",
+        "chinese": "携带（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6182,7 +6182,7 @@ var words = [
     },
     {
         "english": "stopped",
-        "chinese": "停止",
+        "chinese": "停止（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6191,7 +6191,7 @@ var words = [
     },
     {
         "english": "planned",
-        "chinese": "计划",
+        "chinese": "计划（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6200,7 +6200,7 @@ var words = [
     },
     {
         "english": "went",
-        "chinese": "去",
+        "chinese": "去（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6209,7 +6209,7 @@ var words = [
     },
     {
         "english": "did",
-        "chinese": "做",
+        "chinese": "做（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6218,7 +6218,7 @@ var words = [
     },
     {
         "english": "spent",
-        "chinese": "度过",
+        "chinese": "度过（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6227,7 +6227,7 @@ var words = [
     },
     {
         "english": "rode",
-        "chinese": "骑",
+        "chinese": "骑（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6236,7 +6236,7 @@ var words = [
     },
     {
         "english": "had",
-        "chinese": "有",
+        "chinese": "有（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6245,7 +6245,7 @@ var words = [
     },
     {
         "english": "took",
-        "chinese": "拿",
+        "chinese": "拿（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
@@ -6254,7 +6254,7 @@ var words = [
     },
     {
         "english": "came",
-        "chinese": "来",
+        "chinese": "来（过去式）",
         "tag": "primary-grade6-unit02",
         "desc": "",
         "right": 0,
