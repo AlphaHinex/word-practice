@@ -1,0 +1,458 @@
+[
+    {
+        "chinese": "健康的；有益于健康的",
+        "desc": "",
+        "english": "healthy",
+        "phonetic": "/ˈhelθi/"
+    },
+    {
+        "chinese": "不健康的",
+        "desc": "",
+        "english": "unhealthy",
+        "phonetic": "/ʌnˈhelθi/"
+    },
+    {
+        "chinese": "汉堡包",
+        "desc": "",
+        "english": "hamburger(s)",
+        "phonetic": "/ˈhæmbɜːrɡər/"
+    },
+    {
+        "chinese": "昨天",
+        "desc": "",
+        "english": "yesterday",
+        "phonetic": "/ˈjestərdeɪ/"
+    },
+    {
+        "chinese": "前天",
+        "desc": "",
+        "english": "the day before yesterday",
+        "phonetic": ""
+    },
+    {
+        "chinese": "馅饼",
+        "desc": "",
+        "english": "pie(s)",
+        "phonetic": "/paɪ/"
+    },
+    {
+        "chinese": "比萨饼",
+        "desc": "",
+        "english": "pizza",
+        "phonetic": "/ˈpiːtsə/"
+    },
+    {
+        "chinese": "鸡肉",
+        "desc": "",
+        "english": "chicken",
+        "phonetic": "/ˈtʃɪkɪn/"
+    },
+    {
+        "chinese": "巧克力",
+        "desc": "",
+        "english": "chocolate",
+        "phonetic": "/ˈtʃɒklət/"
+    },
+    {
+        "chinese": "一点儿，少量（表跟肯定）+不可数名词",
+        "desc": "",
+        "english": "a little",
+        "phonetic": ""
+    },
+    {
+        "chinese": "几乎没有（表否定）+不可数名词",
+        "desc": "",
+        "english": "little",
+        "phonetic": "/ˈlɪtl/"
+    },
+    {
+        "chinese": "一些；几个（肯定）+可数名词复数",
+        "desc": "",
+        "english": "a few",
+        "phonetic": ""
+    },
+    {
+        "chinese": "几乎没有（否定）+可数名词复数",
+        "desc": "",
+        "english": "few",
+        "phonetic": "/fjuː/"
+    },
+    {
+        "chinese": "许多（A lot of 同义词组）",
+        "desc": "",
+        "english": "lots of",
+        "phonetic": ""
+    },
+    {
+        "chinese": "大量（A lot of 同义词组）",
+        "desc": "",
+        "english": "plenty of",
+        "phonetic": ""
+    },
+    {
+        "chinese": "今天早上",
+        "desc": "",
+        "english": "this morning",
+        "phonetic": ""
+    },
+    {
+        "chinese": "吃了两个汉堡包",
+        "desc": "",
+        "english": "had two hamburgers",
+        "phonetic": ""
+    },
+    {
+        "chinese": "喝了一些可乐（过）",
+        "desc": "",
+        "english": "had some cola",
+        "phonetic": ""
+    },
+    {
+        "chinese": "喝一些牛奶",
+        "desc": "",
+        "english": "drink some milk",
+        "phonetic": ""
+    },
+    {
+        "chinese": "吃一些水果",
+        "desc": "",
+        "english": "eat some fruit",
+        "phonetic": ""
+    },
+    {
+        "chinese": "吃一点肉",
+        "desc": "",
+        "english": "have a little meat",
+        "phonetic": ""
+    },
+    {
+        "chinese": "太多+可数名词",
+        "desc": "",
+        "english": "too many",
+        "phonetic": ""
+    },
+    {
+        "chinese": "太多+不可数名词",
+        "desc": "",
+        "english": "too much",
+        "phonetic": ""
+    },
+    {
+        "chinese": "吃早饭",
+        "desc": "",
+        "english": "have breakfast",
+        "phonetic": ""
+    },
+    {
+        "chinese": "吃午饭和晚饭",
+        "desc": "",
+        "english": "have lunch and dinner",
+        "phonetic": ""
+    },
+    {
+        "chinese": "每一天",
+        "desc": "",
+        "english": "every day",
+        "phonetic": ""
+    },
+    {
+        "chinese": "吃了一些面包，喝了一些牛奶（过）",
+        "desc": "",
+        "english": "had some bread and milk",
+        "phonetic": ""
+    },
+    {
+        "chinese": "吃了一个蛋和一个苹果（过）",
+        "desc": "",
+        "english": "had an egg and an apple",
+        "phonetic": ""
+    },
+    {
+        "chinese": "对于某人是重要的",
+        "desc": "",
+        "english": "(be) important to sb.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "吃很多水果和蔬菜",
+        "desc": "",
+        "english": "eat a lot of fruit and vegetables",
+        "phonetic": ""
+    },
+    {
+        "chinese": "吃很多米饭",
+        "desc": "",
+        "english": "eat a lot of rice",
+        "phonetic": ""
+    },
+    {
+        "chinese": "喝很多水",
+        "desc": "",
+        "english": "drink a lot of water",
+        "phonetic": ""
+    },
+    {
+        "chinese": "吃一些鱼肉、鸡肉和蛋",
+        "desc": "",
+        "english": "eat some fish, chicken and eggs",
+        "phonetic": ""
+    },
+    {
+        "chinese": "吃一点甜品",
+        "desc": "",
+        "english": "eat a little sweet food",
+        "phonetic": ""
+    },
+    {
+        "chinese": "强壮又健康",
+        "desc": "",
+        "english": "strong and healthy",
+        "phonetic": ""
+    },
+    {
+        "chinese": "肥胖且不健康",
+        "desc": "",
+        "english": "fat and unhealthy",
+        "phonetic": ""
+    },
+    {
+        "chinese": "吃……作为早饭/午饭/晚饭",
+        "desc": "",
+        "english": "have...for breakfast / lunch / dinner",
+        "phonetic": ""
+    },
+    {
+        "chinese": "经常",
+        "desc": "",
+        "english": "very often",
+        "phonetic": ""
+    },
+    {
+        "chinese": "炸鱼薯条",
+        "desc": "",
+        "english": "fish and chips",
+        "phonetic": ""
+    },
+    {
+        "chinese": "你今天早饭吃了什么？（过）",
+        "desc": "",
+        "english": "What did you have for breakfast this morning?",
+        "phonetic": ""
+    },
+    {
+        "chinese": "我吃了一些面包，喝了一些牛奶。（过）",
+        "desc": "",
+        "english": "I had some bread and milk.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "我吃了两个汉堡，喝了一些可乐。（过）",
+        "desc": "",
+        "english": "I had two hamburgers and some cola.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "那是不健康的。",
+        "desc": "",
+        "english": "That’s not healthy.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "那是不健康的。（近义）",
+        "desc": "",
+        "english": "That’s unhealthy.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "你可以吃一点肉，但是不要太多。",
+        "desc": "",
+        "english": "You can have a little meat, but not too much.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "我今早没吃早饭。",
+        "desc": "",
+        "english": "I didn’t have breakfast this morning.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "早饭对我们非常重要。",
+        "desc": "",
+        "english": "Breakfast is very important to us.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "我们应该每天吃早饭。",
+        "desc": "",
+        "english": "We should have breakfast every day.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "我喝了一些可乐。",
+        "desc": "肯定句。结构：主语+动词过去式+宾语",
+        "english": "I had some cola.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "今天早上我没有吃早餐。",
+        "desc": "否定句。结构：主语+did+not+动词原形+宾语（did not=didn't)",
+        "english": "I did not have breakfast this morning.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "上周末你和 Sam 一起玩了吗？",
+        "desc": "一般疑问句。结构：Did+主语+动词原形+宾语+?",
+        "english": "Did you play with Sam last weekend?",
+        "phonetic": ""
+    },
+    {
+        "chinese": "今天早上你吃了什么早餐？",
+        "desc": "特殊疑问句。结构：在一般疑问句前加 What,Where,When,Who,Why 和 How 等疑问代词或疑问副词",
+        "english": "What did you have for breakfast this morning?",
+        "phonetic": ""
+    },
+    {
+        "chinese": "水果",
+        "desc": "集合名词，泛指水果",
+        "english": "fruit",
+        "phonetic": "/fruːt/"
+    },
+    {
+        "chinese": "食物",
+        "desc": "集合名词",
+        "english": "food",
+        "phonetic": "/fuːd/"
+    },
+    {
+        "chinese": "面条",
+        "desc": "常用复数",
+        "english": "noodles",
+        "phonetic": "/ˈnuːdlz/"
+    },
+    {
+        "chinese": "筷子",
+        "desc": "常用复数",
+        "english": "chopsticks",
+        "phonetic": "/ˈtʃɒpstɪks/"
+    },
+    {
+        "chinese": "蔬菜",
+        "desc": "可数名词",
+        "english": "vegetable (s)",
+        "phonetic": "/ˈvedʒtəbl/"
+    },
+    {
+        "chinese": " 米饭 ",
+        "desc": "不可数名词",
+        "english": "rice",
+        "phonetic": "/raɪs/"
+    },
+    {
+        "chinese": "面包",
+        "desc": "不可数名词",
+        "english": "bread",
+        "phonetic": "/bred/"
+    },
+    {
+        "chinese": "比萨饼",
+        "desc": "不可数名词",
+        "english": "pizza",
+        "phonetic": "/ˈpiːtsə/"
+    },
+    {
+        "chinese": "水",
+        "desc": "不可数名词",
+        "english": "water",
+        "phonetic": "/ˈwɔːtər/"
+    },
+    {
+        "chinese": " 可乐 ",
+        "desc": "不可数名词",
+        "english": "cola",
+        "phonetic": "/ˈkoʊlə/"
+    },
+    {
+        "chinese": "牛奶",
+        "desc": "不可数名词",
+        "english": "milk",
+        "phonetic": "/mɪlk/"
+    },
+    {
+        "chinese": " 酸奶 ",
+        "desc": "不可数名词",
+        "english": "yoghurt",
+        "phonetic": "/ˈjoʊɡərt/"
+    },
+    {
+        "chinese": "啤酒",
+        "desc": "不可数名词",
+        "english": "beer",
+        "phonetic": "/bɪər/"
+    },
+    {
+        "chinese": " 鱼 ",
+        "desc": "不可数名词",
+        "english": "fish",
+        "phonetic": "/fɪʃ/"
+    },
+    {
+        "chinese": "鸡肉",
+        "desc": "不可数名词",
+        "english": "chicken",
+        "phonetic": "/ˈtʃɪkɪn/"
+    },
+    {
+        "chinese": " 巧克力 ",
+        "desc": "不可数名词",
+        "english": "chocolate",
+        "phonetic": "/ˈtʃɑːklət/"
+    },
+    {
+        "chinese": "泛指冰淇淋",
+        "desc": "不可数名词",
+        "english": "ice cream",
+        "phonetic": "/ˈaɪs kriːm/"
+    },
+    {
+        "chinese": " 糖果 ",
+        "desc": "不可数名词",
+        "english": "candy",
+        "phonetic": "/ˈkændi/"
+    },
+    {
+        "chinese": "许多（可数名词前用）",
+        "desc": "",
+        "english": "many",
+        "phonetic": "/ˈmɛni/"
+    },
+    {
+        "chinese": "很多（不可数名词前用）",
+        "desc": "",
+        "english": "much",
+        "phonetic": "/mʌtʃ/"
+    },
+    {
+        "chinese": "一些",
+        "desc": "可数、不可数两者通用",
+        "english": "some",
+        "phonetic": "/sʌm/"
+    },
+    {
+        "chinese": " 很多 ",
+        "desc": "可数、不可数两者通用",
+        "english": "a lot of",
+        "phonetic": ""
+    },
+    {
+        "chinese":"三明治",
+        "desc":"",
+        "english":"sandwich",
+        "phonetic":"/ˈsænwɪtʃ/"
+    },
+    {
+        "chinese":" 三明治（复数）",
+        "desc":"",
+        "english":"sandwiches",
+        "phonetic":"/ˈsænwɪtʃɪz/"
+    }
+]
