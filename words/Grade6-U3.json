@@ -1,0 +1,291 @@
+[
+    {
+        "english": "healthy",
+        "chinese": "健康的",
+        "desc": "",
+        "phonetic": "/ˈhelθi/"
+    },
+    {
+        "english": "unhealthy",
+        "chinese": "不健康的",
+        "desc": "",
+        "phonetic": "/ʌnˈhelθi/"
+    },
+    {
+        "english": "hamburger(s)",
+        "chinese": "汉堡包",
+        "desc": "",
+        "phonetic": "/ˈhæmbɜːrɡər/"
+    },
+    {
+        "english": "yesterday",
+        "chinese": "昨天",
+        "desc": "",
+        "phonetic": "/ˈjestərdeɪ/"
+    },
+    {
+        "english": "the day before yesterday fruit",
+        "chinese": "前天的水果",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "pie(s)",
+        "chinese": "派",
+        "desc": "",
+        "phonetic": "/paɪ/"
+    },
+    {
+        "english": "pizza",
+        "chinese": "比萨饼",
+        "desc": "",
+        "phonetic": "/ˈpiːtsə/"
+    },
+    {
+        "english": "sandwich(es) vegetable(s)",
+        "chinese": "三明治和蔬菜",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "chicken",
+        "chinese": "鸡肉",
+        "desc": "",
+        "phonetic": "/ˈtʃɪkɪn/"
+    },
+    {
+        "english": "chocolate",
+        "chinese": "巧克力",
+        "desc": "",
+        "phonetic": "/ˈtʃɒklət/"
+    },
+    {
+        "english": "a little",
+        "chinese": "一点",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "little",
+        "chinese": "小的",
+        "desc": "",
+        "phonetic": "/ˈlɪtl/"
+    },
+    {
+        "english": "a few",
+        "chinese": "一些",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "few",
+        "chinese": "很少",
+        "desc": "",
+        "phonetic": "/fjuː/"
+    },
+    {
+        "english": "lots of",
+        "chinese": "许多",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "plenty of",
+        "chinese": "大量",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "this morning",
+        "chinese": "今天早上",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "had two hamburgers had some cola",
+        "chinese": "吃了两个汉堡包喝了一些可乐",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "drink some milk",
+        "chinese": "喝一些牛奶",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "eat some fruit",
+        "chinese": "吃一些水果",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "have a little meat",
+        "chinese": "吃一点肉",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "too many",
+        "chinese": "太多",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "too much",
+        "chinese": "太多",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "have breakfast",
+        "chinese": "吃早餐",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "have lunch and dinner every day",
+        "chinese": "每天午餐和晚餐",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "hadsomebreadandmilk",
+        "chinese": "吃了一些面包和牛奶",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "had an egg and an apple",
+        "chinese": "吃了一个鸡蛋和一个苹果",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "(be) important to sb.",
+        "chinese": "对某人重要",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "eat a lot of fruit and vegetables",
+        "chinese": "吃很多水果和蔬菜",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "eat a lot of rice",
+        "chinese": "吃很多米饭",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "drink a lot of water",
+        "chinese": "喝很多水",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "eat some fish, chicken and eggs",
+        "chinese": "吃一些鱼、鸡肉和鸡蛋",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "eat a little sweet food",
+        "chinese": "吃一点甜食",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "strong and healthy",
+        "chinese": "强壮和健康",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "fat and unhealthy",
+        "chinese": "肥胖和不健康",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "have...for breakfast / lunch / dinner",
+        "chinese": "早餐/午餐/晚餐吃...",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "very often fish and chips",
+        "chinese": "经常吃鱼和薯条",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "What did you have for breakfast this morning?",
+        "chinese": "今天早上你吃了什么早餐？",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "I had some bread and milk.",
+        "chinese": "我吃了一些面包和牛奶。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "I had two hamburgers and some cola.",
+        "chinese": "我吃了两个汉堡包和一些可乐。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "That’s not healthy.",
+        "chinese": "那不健康。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "That’s unhealthy.",
+        "chinese": "那是不健康的。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "You can have a little meat, but not too much.",
+        "chinese": "你可以吃一点肉，但不要太多。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "I didn’t have breakfast this morning.",
+        "chinese": "今天早上我没吃早餐。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "Breakfast is very important to us.",
+        "chinese": "早餐对我们来说非常重要。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "We should have breakfast every day.",
+        "chinese": "我们应该每天吃早餐。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "I had some cola.",
+        "chinese": "我喝了一些可乐。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "I did not have breakfast this morning.",
+        "chinese": "今天早上我没有吃早餐。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "Did you play with Sam
