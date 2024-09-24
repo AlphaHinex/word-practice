@@ -4921,6 +4921,342 @@ var words = [
         "phonetic": ""
     },
     {
+        "chinese": "邻居",
+        "desc": "",
+        "english": "neighbour",
+        "phonetic": "/ˈneɪbər/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "儿子",
+        "desc": "",
+        "english": "son",
+        "phonetic": "/sʌn/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "女儿",
+        "desc": "",
+        "english": "daughter",
+        "phonetic": "/ˈdɔːtər/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "作家",
+        "desc": "",
+        "english": "writer",
+        "phonetic": "/ˈraɪtər/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "孩子",
+        "desc": "",
+        "english": "child",
+        "phonetic": "/tʃaɪld/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "孩子们",
+        "desc": "",
+        "english": "children",
+        "phonetic": "/ˈtʃɪldrən/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "吵闹的",
+        "desc": "",
+        "english": "noisy",
+        "phonetic": "/ˈnɔɪzi/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "噪音",
+        "desc": "",
+        "english": "noise",
+        "phonetic": "/nɔɪz/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "猫头鹰",
+        "desc": "",
+        "english": "owl",
+        "phonetic": "/aʊl/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "挖掘",
+        "desc": "",
+        "english": "dig",
+        "phonetic": "/dɪɡ/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "挖掘",
+        "desc": "",
+        "english": "dug",
+        "phonetic": "/dʌɡ/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "地下的",
+        "desc": "",
+        "english": "underground",
+        "phonetic": "/ˌʌndərˈɡraʊnd/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "做",
+        "desc": "",
+        "english": "did",
+        "phonetic": "/dɪd/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "没有做",
+        "desc": "",
+        "english": "did not",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "没有",
+        "desc": "",
+        "english": "didn’t",
+        "phonetic": "/ˈdɪdənt/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "有（have的过去式）",
+        "desc": "",
+        "english": "had",
+        "phonetic": "/hæd/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "玩（play的过去分词）",
+        "desc": "",
+        "english": "played",
+        "phonetic": "/pleɪd/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "居住（live的过去式）",
+        "desc": "",
+        "english": "lived",
+        "phonetic": "/lɪvd/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "制造（make的过去式）",
+        "desc": "",
+        "english": "made",
+        "phonetic": "/meɪd/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "能够（can的过去式）",
+        "desc": "",
+        "english": "could",
+        "phonetic": "/kʊd/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "不能",
+        "desc": "",
+        "english": "could not",
+        "phonetic": "/kʊd nɒt/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "不能",
+        "desc": "",
+        "english": "couldn’t",
+        "phonetic": "/ˈkʊd.ənt/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "说",
+        "desc": "",
+        "english": "said",
+        "phonetic": "/sed/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "来自美国",
+        "desc": "",
+        "english": "(be)from the US",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "来自美国",
+        "desc": "",
+        "english": "come from the US",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "和某人玩",
+        "desc": "",
+        "english": "play with sb.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "上周末",
+        "desc": "",
+        "english": "last weekend",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "下棋",
+        "desc": "",
+        "english": "played chess",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "在我家",
+        "desc": "",
+        "english": "in my home",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "在森林里",
+        "desc": "",
+        "english": "in the forest",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "住在一棵树上",
+        "desc": "",
+        "english": "lived in a tree",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "住在树下",
+        "desc": "",
+        "english": "lived under the tree",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "一个吵闹的邻居",
+        "desc": "",
+        "english": "a noisy neighbour",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "每个晚上",
+        "desc": "",
+        "english": "every night",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "制造了很多噪音",
+        "desc": "",
+        "english": "made a lot of noise",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "停止做某事",
+        "desc": "",
+        "english": "stop doing sth.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "停下来去做某事",
+        "desc": "",
+        "english": "stop to do sth.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "有了个主意",
+        "desc": "",
+        "english": "had an idea",
+        "phonetic": "/hæd ən aɪˈdiːə/",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "好好睡了一觉",
+        "desc": "",
+        "english": "had a good sleep",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "在洞里睡觉",
+        "desc": "",
+        "english": "sleep in holes",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "你的邻居是谁？",
+        "desc": "",
+        "english": "Who are your neighbours?",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "你上周末和萨姆一起玩了吗？是的，我玩了。",
+        "desc": "",
+        "english": "Did you play with Sam last weekend? Yes, I did.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "我在家里和他下棋。",
+        "desc": "",
+        "english": "I played chess with him in my home.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "你今天早上看到他们了吗？不，我没看到。",
+        "desc": "",
+        "english": "Did you see them this morning? No, I didn’t.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "森林里有一只猫头鹰和三只兔子。",
+        "desc": "",
+        "english": "There was an owl and three rabbits in the forest.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "请在晚上停止制造噪音。",
+        "desc": "",
+        "english": "Please stop making noise at night.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "让我们挖个洞然后睡在里面。",
+        "desc": "",
+        "english": "Let’s dig a hole and sleep in it.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
+        "chinese": "地下非常安静。",
+        "desc": "",
+        "english": "It’s very quiet underground.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit04"
+    },
+    {
         "english": "future",
         "chinese": "将来；未来",
         "tag": "primary-grade5-unit03",
