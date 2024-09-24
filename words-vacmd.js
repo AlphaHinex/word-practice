@@ -4923,28 +4923,28 @@ var words = [
     {
         "chinese": "邻居",
         "desc": "",
-        "english": "neighbour",
+        "english": "neighbour(s)",
         "phonetic": "/ˈneɪbər/",
         "tag": "primary-grade6-unit04"
     },
     {
         "chinese": "儿子",
         "desc": "",
-        "english": "son",
+        "english": "son(s)",
         "phonetic": "/sʌn/",
         "tag": "primary-grade6-unit04"
     },
     {
         "chinese": "女儿",
         "desc": "",
-        "english": "daughter",
+        "english": "daughter(s)",
         "phonetic": "/ˈdɔːtər/",
         "tag": "primary-grade6-unit04"
     },
     {
         "chinese": "作家",
         "desc": "",
-        "english": "writer",
+        "english": "writer(s)",
         "phonetic": "/ˈraɪtər/",
         "tag": "primary-grade6-unit04"
     },
@@ -4957,125 +4957,125 @@ var words = [
     },
     {
         "chinese": "孩子们",
-        "desc": "",
+        "desc": "复数",
         "english": "children",
         "phonetic": "/ˈtʃɪldrən/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "吵闹的",
+        "chinese": "吵闹的 adj.",
         "desc": "",
         "english": "noisy",
         "phonetic": "/ˈnɔɪzi/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "噪音",
+        "chinese": "噪音 n.",
         "desc": "",
-        "english": "noise",
+        "english": "noise(s)",
         "phonetic": "/nɔɪz/",
         "tag": "primary-grade6-unit04"
     },
     {
         "chinese": "猫头鹰",
         "desc": "",
-        "english": "owl",
+        "english": "owl(s)",
         "phonetic": "/aʊl/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "挖掘",
+        "chinese": "挖（土）；掘（洞）",
         "desc": "",
         "english": "dig",
         "phonetic": "/dɪɡ/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "挖掘",
+        "chinese": "挖（土）；掘（洞）过去式",
         "desc": "",
         "english": "dug",
         "phonetic": "/dʌɡ/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "地下的",
+        "chinese": "地下的 adv.",
         "desc": "",
         "english": "underground",
         "phonetic": "/ˌʌndərˈɡraʊnd/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "做",
+        "chinese": "do 过去式",
         "desc": "",
         "english": "did",
         "phonetic": "/dɪd/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "没有做",
+        "chinese": "do 过去式否定",
         "desc": "",
         "english": "did not",
         "phonetic": "",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "没有",
+        "chinese": "do 过去式否定 = did not",
         "desc": "",
         "english": "didn’t",
         "phonetic": "/ˈdɪdənt/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "有（have的过去式）",
+        "chinese": "have 过去式",
         "desc": "",
         "english": "had",
         "phonetic": "/hæd/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "玩（play的过去分词）",
+        "chinese": "play 过去式",
         "desc": "",
         "english": "played",
         "phonetic": "/pleɪd/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "居住（live的过去式）",
+        "chinese": "live 过去式",
         "desc": "",
         "english": "lived",
         "phonetic": "/lɪvd/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "制造（make的过去式）",
+        "chinese": "make 过去式",
         "desc": "",
         "english": "made",
         "phonetic": "/meɪd/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "能够（can的过去式）",
+        "chinese": "can 过去式",
         "desc": "",
         "english": "could",
         "phonetic": "/kʊd/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "不能",
+        "chinese": "can 过去式否定",
         "desc": "",
         "english": "could not",
         "phonetic": "/kʊd nɒt/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "不能",
+        "chinese": "can 过去式否定 = could not",
         "desc": "",
         "english": "couldn’t",
         "phonetic": "/ˈkʊd.ənt/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "说",
+        "chinese": "say 过去式",
         "desc": "",
         "english": "said",
         "phonetic": "/sed/",
@@ -5089,7 +5089,7 @@ var words = [
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "来自美国",
+        "chinese": "来自美国 =(be) from the US",
         "desc": "",
         "english": "come from the US",
         "phonetic": "",
@@ -5103,21 +5103,21 @@ var words = [
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "上周末",
+        "chinese": "上个周末",
         "desc": "",
         "english": "last weekend",
         "phonetic": "",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "下棋",
+        "chinese": "下棋（过）",
         "desc": "",
         "english": "played chess",
         "phonetic": "",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "在我家",
+        "chinese": "在我的家里",
         "desc": "",
         "english": "in my home",
         "phonetic": "",
@@ -5131,14 +5131,14 @@ var words = [
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "住在一棵树上",
+        "chinese": "住在一棵树上（过）",
         "desc": "",
         "english": "lived in a tree",
         "phonetic": "",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "住在树下",
+        "chinese": "住在树下（过）",
         "desc": "",
         "english": "lived under the tree",
         "phonetic": "",
@@ -5152,14 +5152,14 @@ var words = [
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "每个晚上",
+        "chinese": "每个夜晚",
         "desc": "",
         "english": "every night",
         "phonetic": "",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "制造了很多噪音",
+        "chinese": "制造大量噪音（过）",
         "desc": "",
         "english": "made a lot of noise",
         "phonetic": "",
@@ -5180,21 +5180,21 @@ var words = [
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "有了个主意",
+        "chinese": "有了一个主意（过）",
         "desc": "",
         "english": "had an idea",
         "phonetic": "/hæd ən aɪˈdiːə/",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "好好睡了一觉",
+        "chinese": "睡了一个好觉（过）",
         "desc": "",
         "english": "had a good sleep",
         "phonetic": "",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "在洞里睡觉",
+        "chinese": "睡在洞里",
         "desc": "",
         "english": "sleep in holes",
         "phonetic": "",
@@ -5208,49 +5208,49 @@ var words = [
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "你上周末和萨姆一起玩了吗？是的，我玩了。",
+        "chinese": "上周末你和 Sam 一起玩了吗？是的。（过）",
         "desc": "",
         "english": "Did you play with Sam last weekend? Yes, I did.",
         "phonetic": "",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "我在家里和他下棋。",
+        "chinese": "我和他在我家下了棋。（过）",
         "desc": "",
         "english": "I played chess with him in my home.",
         "phonetic": "",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "你今天早上看到他们了吗？不，我没看到。",
+        "chinese": "今天早上你看见他们了吗？没有。（过）",
         "desc": "",
         "english": "Did you see them this morning? No, I didn’t.",
         "phonetic": "",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "森林里有一只猫头鹰和三只兔子。",
+        "chinese": "在森林里有一只猫头鹰和三只兔子。（过）",
         "desc": "",
         "english": "There was an owl and three rabbits in the forest.",
         "phonetic": "",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "请在晚上停止制造噪音。",
+        "chinese": "请停止在晚上制造噪音。",
         "desc": "",
         "english": "Please stop making noise at night.",
         "phonetic": "",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "让我们挖个洞然后睡在里面。",
+        "chinese": "让我们挖一个洞并睡在里面吧。",
         "desc": "",
         "english": "Let’s dig a hole and sleep in it.",
         "phonetic": "",
         "tag": "primary-grade6-unit04"
     },
     {
-        "chinese": "地下非常安静。",
+        "chinese": "在地下非常安静。",
         "desc": "",
         "english": "It’s very quiet underground.",
         "phonetic": "",
@@ -5696,6 +5696,538 @@ var words = [
         "right": 0,
         "wrong": 0,
         "phonetic": ""
+    },
+    {
+        "chinese": "健康的；有益于健康的",
+        "desc": "",
+        "english": "healthy",
+        "phonetic": "/ˈhelθi/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "不健康的",
+        "desc": "",
+        "english": "unhealthy",
+        "phonetic": "/ʌnˈhelθi/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "汉堡包",
+        "desc": "",
+        "english": "hamburger(s)",
+        "phonetic": "/ˈhæmbɜːrɡər/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "昨天",
+        "desc": "",
+        "english": "yesterday",
+        "phonetic": "/ˈjestərdeɪ/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "前天",
+        "desc": "",
+        "english": "the day before yesterday",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "馅饼",
+        "desc": "",
+        "english": "pie(s)",
+        "phonetic": "/paɪ/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "比萨饼",
+        "desc": "",
+        "english": "pizza",
+        "phonetic": "/ˈpiːtsə/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "鸡肉",
+        "desc": "",
+        "english": "chicken",
+        "phonetic": "/ˈtʃɪkɪn/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "巧克力",
+        "desc": "",
+        "english": "chocolate",
+        "phonetic": "/ˈtʃɒklət/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "一点儿，少量（表跟肯定）+不可数名词",
+        "desc": "",
+        "english": "a little",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "几乎没有（表否定）+不可数名词",
+        "desc": "",
+        "english": "little",
+        "phonetic": "/ˈlɪtl/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "一些；几个（肯定）+可数名词复数",
+        "desc": "",
+        "english": "a few",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "几乎没有（否定）+可数名词复数",
+        "desc": "",
+        "english": "few",
+        "phonetic": "/fjuː/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "许多（A lot of 同义词组）",
+        "desc": "",
+        "english": "lots of",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "大量（A lot of 同义词组）",
+        "desc": "",
+        "english": "plenty of",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "今天早上",
+        "desc": "",
+        "english": "this morning",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "吃了两个汉堡包",
+        "desc": "",
+        "english": "had two hamburgers",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "喝了一些可乐（过）",
+        "desc": "",
+        "english": "had some cola",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "喝一些牛奶",
+        "desc": "",
+        "english": "drink some milk",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "吃一些水果",
+        "desc": "",
+        "english": "eat some fruit",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "吃一点肉",
+        "desc": "",
+        "english": "have a little meat",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "太多+可数名词",
+        "desc": "",
+        "english": "too many",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "太多+不可数名词",
+        "desc": "",
+        "english": "too much",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "吃早饭",
+        "desc": "",
+        "english": "have breakfast",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "吃午饭和晚饭",
+        "desc": "",
+        "english": "have lunch and dinner",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "每一天",
+        "desc": "",
+        "english": "every day",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "吃了一些面包，喝了一些牛奶（过）",
+        "desc": "",
+        "english": "had some bread and milk",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "吃了一个蛋和一个苹果（过）",
+        "desc": "",
+        "english": "had an egg and an apple",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "对于某人是重要的",
+        "desc": "",
+        "english": "(be) important to sb.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "吃很多水果和蔬菜",
+        "desc": "",
+        "english": "eat a lot of fruit and vegetables",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "吃很多米饭",
+        "desc": "",
+        "english": "eat a lot of rice",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "喝很多水",
+        "desc": "",
+        "english": "drink a lot of water",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "吃一些鱼肉、鸡肉和蛋",
+        "desc": "",
+        "english": "eat some fish, chicken and eggs",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "吃一点甜品",
+        "desc": "",
+        "english": "eat a little sweet food",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "强壮又健康",
+        "desc": "",
+        "english": "strong and healthy",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "肥胖且不健康",
+        "desc": "",
+        "english": "fat and unhealthy",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "吃……作为早饭/午饭/晚饭",
+        "desc": "",
+        "english": "have...for breakfast / lunch / dinner",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "经常",
+        "desc": "",
+        "english": "very often",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "炸鱼薯条",
+        "desc": "",
+        "english": "fish and chips",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "你今天早饭吃了什么？（过）",
+        "desc": "",
+        "english": "What did you have for breakfast this morning?",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "我吃了一些面包，喝了一些牛奶。（过）",
+        "desc": "",
+        "english": "I had some bread and milk.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "我吃了两个汉堡，喝了一些可乐。（过）",
+        "desc": "",
+        "english": "I had two hamburgers and some cola.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "那是不健康的。",
+        "desc": "",
+        "english": "That’s not healthy.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "那是不健康的。（近义）",
+        "desc": "",
+        "english": "That’s unhealthy.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "你可以吃一点肉，但是不要太多。",
+        "desc": "",
+        "english": "You can have a little meat, but not too much.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "我今早没吃早饭。",
+        "desc": "",
+        "english": "I didn’t have breakfast this morning.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "早饭对我们非常重要。",
+        "desc": "",
+        "english": "Breakfast is very important to us.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "我们应该每天吃早饭。",
+        "desc": "",
+        "english": "We should have breakfast every day.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "我喝了一些可乐。",
+        "desc": "肯定句。结构：主语+动词过去式+宾语",
+        "english": "I had some cola.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "今天早上我没有吃早餐。",
+        "desc": "否定句。结构：主语+did+not+动词原形+宾语（did not=didn't)",
+        "english": "I did not have breakfast this morning.",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "上周末你和 Sam 一起玩了吗？",
+        "desc": "一般疑问句。结构：Did+主语+动词原形+宾语+?",
+        "english": "Did you play with Sam last weekend?",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "今天早上你吃了什么早餐？",
+        "desc": "特殊疑问句。结构：在一般疑问句前加 What,Where,When,Who,Why 和 How 等疑问代词或疑问副词",
+        "english": "What did you have for breakfast this morning?",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "水果",
+        "desc": "集合名词，泛指水果",
+        "english": "fruit",
+        "phonetic": "/fruːt/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "食物",
+        "desc": "集合名词",
+        "english": "food",
+        "phonetic": "/fuːd/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "面条",
+        "desc": "常用复数",
+        "english": "noodles",
+        "phonetic": "/ˈnuːdlz/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "筷子",
+        "desc": "常用复数",
+        "english": "chopsticks",
+        "phonetic": "/ˈtʃɒpstɪks/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "蔬菜",
+        "desc": "可数名词",
+        "english": "vegetable (s)",
+        "phonetic": "/ˈvedʒtəbl/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": " 米饭 ",
+        "desc": "不可数名词",
+        "english": "rice",
+        "phonetic": "/raɪs/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "面包",
+        "desc": "不可数名词",
+        "english": "bread",
+        "phonetic": "/bred/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "比萨饼",
+        "desc": "不可数名词",
+        "english": "pizza",
+        "phonetic": "/ˈpiːtsə/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "水",
+        "desc": "不可数名词",
+        "english": "water",
+        "phonetic": "/ˈwɔːtər/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": " 可乐 ",
+        "desc": "不可数名词",
+        "english": "cola",
+        "phonetic": "/ˈkoʊlə/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "牛奶",
+        "desc": "不可数名词",
+        "english": "milk",
+        "phonetic": "/mɪlk/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": " 酸奶 ",
+        "desc": "不可数名词",
+        "english": "yoghurt",
+        "phonetic": "/ˈjoʊɡərt/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "啤酒",
+        "desc": "不可数名词",
+        "english": "beer",
+        "phonetic": "/bɪər/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": " 鱼 ",
+        "desc": "不可数名词",
+        "english": "fish",
+        "phonetic": "/fɪʃ/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "鸡肉",
+        "desc": "不可数名词",
+        "english": "chicken",
+        "phonetic": "/ˈtʃɪkɪn/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": " 巧克力 ",
+        "desc": "不可数名词",
+        "english": "chocolate",
+        "phonetic": "/ˈtʃɑːklət/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "泛指冰淇淋",
+        "desc": "不可数名词",
+        "english": "ice cream",
+        "phonetic": "/ˈaɪs kriːm/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": " 糖果 ",
+        "desc": "不可数名词",
+        "english": "candy",
+        "phonetic": "/ˈkændi/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "许多（可数名词前用）",
+        "desc": "",
+        "english": "many",
+        "phonetic": "/ˈmɛni/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "很多（不可数名词前用）",
+        "desc": "",
+        "english": "much",
+        "phonetic": "/mʌtʃ/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "一些",
+        "desc": "可数、不可数两者通用",
+        "english": "some",
+        "phonetic": "/sʌm/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": " 很多 ",
+        "desc": "可数、不可数两者通用",
+        "english": "a lot of",
+        "phonetic": "",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": "三明治",
+        "desc": "",
+        "english": "sandwich",
+        "phonetic": "/ˈsænwɪtʃ/",
+        "tag": "primary-grade6-unit03"
+    },
+    {
+        "chinese": " 三明治（复数）",
+        "desc": "",
+        "english": "sandwiches",
+        "phonetic": "/ˈsænwɪtʃɪz/",
+        "tag": "primary-grade6-unit03"
     },
     {
         "english": "why",
