@@ -1,5 +1,19 @@
 var words = [
     {
+        "chinese": "博客",
+        "desc": "",
+        "english": "blog",
+        "phonetic": "/blɒɡ/",
+        "tag": "-word"
+    },
+    {
+        "chinese": "HTTP客户端",
+        "desc": "",
+        "english": "httpclient",
+        "phonetic": "",
+        "tag": "-word"
+    },
+    {
         "english": "backpack",
         "chinese": "背包",
         "tag": "starlight-lv3-unit9",
