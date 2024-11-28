@@ -8971,13 +8971,6 @@ var words = [
         "phonetic": "/kənˈdens/"
     },
     {
-        "chinese": "HTTP客户端",
-        "desc": "",
-        "english": "httpclient",
-        "phonetic": "",
-        "tag": "-httpclient"
-    },
-    {
         "english": "street",
         "chinese": "街道",
         "tag": "starlight-others-Yeki",
