@@ -1,19 +1,5 @@
 var words = [
     {
-        "chinese": "博客",
-        "desc": "",
-        "english": "blog",
-        "phonetic": "/blɒɡ/",
-        "tag": "-word"
-    },
-    {
-        "chinese": "HTTP客户端",
-        "desc": "",
-        "english": "httpclient",
-        "phonetic": "",
-        "tag": "-word"
-    },
-    {
         "english": "backpack",
         "chinese": "背包",
         "tag": "starlight-lv3-unit9",
@@ -1812,168 +1798,168 @@ var words = [
         "desc": "",
         "english": "Earth",
         "phonetic": "/ɜːrθ/",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "地区；区域；部分",
         "desc": "",
         "english": "part",
         "phonetic": "/pɑːrt/",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "森林",
         "desc": "",
         "english": "forest",
         "phonetic": "/ˈfɒrɪst/",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "陆地",
         "desc": "",
         "english": "land",
         "phonetic": "/lænd/",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "海洋",
         "desc": "",
         "english": "ocean",
         "phonetic": "/ˈoʊʃn/",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "垃圾",
         "desc": "",
         "english": "rubbish",
         "phonetic": "/ˈrʌbɪʃ/",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "生病的",
         "desc": "",
         "english": "sick",
         "phonetic": "/sɪk/",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "回收利用；再利用",
         "desc": "",
         "english": "recycle",
         "phonetic": "/ˌriːˈsaɪkl/",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "玻璃制品；玻璃",
         "desc": "",
         "english": "glass",
         "phonetic": "/ɡlɑːs/",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "自己的",
         "desc": "",
         "english": "own",
         "phonetic": "/oʊn/",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "这么多",
         "desc": "",
         "english": "so many",
         "phonetic": "",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "捡起；拾起",
         "desc": "",
         "english": "pick up",
         "phonetic": "",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "购物袋",
         "desc": "",
         "english": "shopping bag",
         "phonetic": "",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "塑料袋",
         "desc": "",
         "english": "plastic bag",
         "phonetic": "",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "停止做某事",
         "desc": "",
         "english": "stop doing sth.",
         "phonetic": "",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "停下去做另一件事",
         "desc": "",
         "english": "stop to do sth.",
         "phonetic": "",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "居住在地球上",
         "desc": "",
         "english": "live on the Earth",
         "phonetic": "",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "生病",
         "desc": "",
         "english": "get sick",
         "phonetic": "",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "我们应该停止往河里扔垃圾。",
         "desc": "",
         "english": "We should stop throwing rubbish into rivers.",
         "phonetic": "",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "我们应该停止砍倒如此多的树木。",
         "desc": "",
         "english": "We should stop cutting down so many trees.",
         "phonetic": "",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "我们应该停止使用塑料袋。",
         "desc": "",
         "english": "We should stop using plastic bags.",
         "phonetic": "",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "现在人们一起工作来让地球保持干净和健康。",
         "desc": "",
         "english": "Now people work together to keep the Earth clean and healthy.",
         "phonetic": "",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "他们回收利用玻璃和纸张。",
         "desc": "",
         "english": "They recycle glass and paper.",
         "phonetic": "",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "chinese": "他们带来自己的购物袋并停止使用塑料袋。",
         "desc": "",
         "english": "They bring their own shopping bags and stop using plastic bags.",
         "phonetic": "",
-        "tag": "primary-grade6-unit12"
+        "tag": "primary-grade6a-unit12"
     },
     {
         "english": "festival",
@@ -4939,336 +4925,336 @@ var words = [
         "desc": "",
         "english": "neighbour(s)",
         "phonetic": "/ˈneɪbər/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "儿子",
         "desc": "",
         "english": "son(s)",
         "phonetic": "/sʌn/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "女儿",
         "desc": "",
         "english": "daughter(s)",
         "phonetic": "/ˈdɔːtər/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "作家",
         "desc": "",
         "english": "writer(s)",
         "phonetic": "/ˈraɪtər/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "孩子",
         "desc": "",
         "english": "child",
         "phonetic": "/tʃaɪld/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "孩子们",
         "desc": "复数",
         "english": "children",
         "phonetic": "/ˈtʃɪldrən/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "吵闹的 adj.",
         "desc": "",
         "english": "noisy",
         "phonetic": "/ˈnɔɪzi/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "噪音 n.",
         "desc": "",
         "english": "noise(s)",
         "phonetic": "/nɔɪz/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "猫头鹰",
         "desc": "",
         "english": "owl(s)",
         "phonetic": "/aʊl/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "挖（土）；掘（洞）",
         "desc": "",
         "english": "dig",
         "phonetic": "/dɪɡ/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "挖（土）；掘（洞）过去式",
         "desc": "",
         "english": "dug",
         "phonetic": "/dʌɡ/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "地下的 adv.",
         "desc": "",
         "english": "underground",
         "phonetic": "/ˌʌndərˈɡraʊnd/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "do 过去式",
         "desc": "",
         "english": "did",
         "phonetic": "/dɪd/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "do 过去式否定",
         "desc": "",
         "english": "did not",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "do 过去式否定 = did not",
         "desc": "",
         "english": "didn’t",
         "phonetic": "/ˈdɪdənt/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "have 过去式",
         "desc": "",
         "english": "had",
         "phonetic": "/hæd/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "play 过去式",
         "desc": "",
         "english": "played",
         "phonetic": "/pleɪd/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "live 过去式",
         "desc": "",
         "english": "lived",
         "phonetic": "/lɪvd/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "make 过去式",
         "desc": "",
         "english": "made",
         "phonetic": "/meɪd/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "can 过去式",
         "desc": "",
         "english": "could",
         "phonetic": "/kʊd/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "can 过去式否定",
         "desc": "",
         "english": "could not",
         "phonetic": "/kʊd nɒt/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "can 过去式否定 = could not",
         "desc": "",
         "english": "couldn’t",
         "phonetic": "/ˈkʊd.ənt/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "say 过去式",
         "desc": "",
         "english": "said",
         "phonetic": "/sed/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "来自美国",
         "desc": "",
         "english": "(be)from the US",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "来自美国 =(be) from the US",
         "desc": "",
         "english": "come from the US",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "和某人玩",
         "desc": "",
         "english": "play with sb.",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "上个周末",
         "desc": "",
         "english": "last weekend",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "下棋（过）",
         "desc": "",
         "english": "played chess",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "在我的家里",
         "desc": "",
         "english": "in my home",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "在森林里",
         "desc": "",
         "english": "in the forest",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "住在一棵树上（过）",
         "desc": "",
         "english": "lived in a tree",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "住在树下（过）",
         "desc": "",
         "english": "lived under the tree",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "一个吵闹的邻居",
         "desc": "",
         "english": "a noisy neighbour",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "每个夜晚",
         "desc": "",
         "english": "every night",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "制造大量噪音（过）",
         "desc": "",
         "english": "made a lot of noise",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "停止做某事",
         "desc": "",
         "english": "stop doing sth.",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "停下来去做某事",
         "desc": "",
         "english": "stop to do sth.",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "有了一个主意（过）",
         "desc": "",
         "english": "had an idea",
         "phonetic": "/hæd ən aɪˈdiːə/",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "睡了一个好觉（过）",
         "desc": "",
         "english": "had a good sleep",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "睡在洞里",
         "desc": "",
         "english": "sleep in holes",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "你的邻居是谁？",
         "desc": "",
         "english": "Who are your neighbours?",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "上周末你和 Sam 一起玩了吗？是的。（过）",
         "desc": "",
         "english": "Did you play with Sam last weekend? Yes, I did.",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "我和他在我家下了棋。（过）",
         "desc": "",
         "english": "I played chess with him in my home.",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "今天早上你看见他们了吗？没有。（过）",
         "desc": "",
         "english": "Did you see them this morning? No, I didn’t.",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "在森林里有一只猫头鹰和三只兔子。（过）",
         "desc": "",
         "english": "There was an owl and three rabbits in the forest.",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "请停止在晚上制造噪音。",
         "desc": "",
         "english": "Please stop making noise at night.",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "让我们挖一个洞并睡在里面吧。",
         "desc": "",
         "english": "Let’s dig a hole and sleep in it.",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "chinese": "在地下非常安静。",
         "desc": "",
         "english": "It’s very quiet underground.",
         "phonetic": "",
-        "tag": "primary-grade6-unit04"
+        "tag": "primary-grade6a-unit04"
     },
     {
         "english": "future",
@@ -5716,532 +5702,532 @@ var words = [
         "desc": "",
         "english": "healthy",
         "phonetic": "/ˈhelθi/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "不健康的",
         "desc": "",
         "english": "unhealthy",
         "phonetic": "/ʌnˈhelθi/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "汉堡包",
         "desc": "",
         "english": "hamburger(s)",
         "phonetic": "/ˈhæmbɜːrɡər/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "昨天",
         "desc": "",
         "english": "yesterday",
         "phonetic": "/ˈjestərdeɪ/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "前天",
         "desc": "",
         "english": "the day before yesterday",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "馅饼",
         "desc": "",
         "english": "pie(s)",
         "phonetic": "/paɪ/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "比萨饼",
         "desc": "",
         "english": "pizza",
         "phonetic": "/ˈpiːtsə/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "鸡肉",
         "desc": "",
         "english": "chicken",
         "phonetic": "/ˈtʃɪkɪn/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "巧克力",
         "desc": "",
         "english": "chocolate",
         "phonetic": "/ˈtʃɒklət/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "一点儿，少量（表跟肯定）+不可数名词",
         "desc": "",
         "english": "a little",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "几乎没有（表否定）+不可数名词",
         "desc": "",
         "english": "little",
         "phonetic": "/ˈlɪtl/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "一些；几个（肯定）+可数名词复数",
         "desc": "",
         "english": "a few",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "几乎没有（否定）+可数名词复数",
         "desc": "",
         "english": "few",
         "phonetic": "/fjuː/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "许多（A lot of 同义词组）",
         "desc": "",
         "english": "lots of",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "大量（A lot of 同义词组）",
         "desc": "",
         "english": "plenty of",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "今天早上",
         "desc": "",
         "english": "this morning",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "吃了两个汉堡包",
         "desc": "",
         "english": "had two hamburgers",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "喝了一些可乐（过）",
         "desc": "",
         "english": "had some cola",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "喝一些牛奶",
         "desc": "",
         "english": "drink some milk",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "吃一些水果",
         "desc": "",
         "english": "eat some fruit",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "吃一点肉",
         "desc": "",
         "english": "have a little meat",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "太多+可数名词",
         "desc": "",
         "english": "too many",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "太多+不可数名词",
         "desc": "",
         "english": "too much",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "吃早饭",
         "desc": "",
         "english": "have breakfast",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "吃午饭和晚饭",
         "desc": "",
         "english": "have lunch and dinner",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "每一天",
         "desc": "",
         "english": "every day",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "吃了一些面包，喝了一些牛奶（过）",
         "desc": "",
         "english": "had some bread and milk",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "吃了一个蛋和一个苹果（过）",
         "desc": "",
         "english": "had an egg and an apple",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "对于某人是重要的",
         "desc": "",
         "english": "(be) important to sb.",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "吃很多水果和蔬菜",
         "desc": "",
         "english": "eat a lot of fruit and vegetables",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "吃很多米饭",
         "desc": "",
         "english": "eat a lot of rice",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "喝很多水",
         "desc": "",
         "english": "drink a lot of water",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "吃一些鱼肉、鸡肉和蛋",
         "desc": "",
         "english": "eat some fish, chicken and eggs",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "吃一点甜品",
         "desc": "",
         "english": "eat a little sweet food",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "强壮又健康",
         "desc": "",
         "english": "strong and healthy",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "肥胖且不健康",
         "desc": "",
         "english": "fat and unhealthy",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "吃……作为早饭/午饭/晚饭",
         "desc": "",
         "english": "have...for breakfast / lunch / dinner",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "经常",
         "desc": "",
         "english": "very often",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "炸鱼薯条",
         "desc": "",
         "english": "fish and chips",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "你今天早饭吃了什么？（过）",
         "desc": "",
         "english": "What did you have for breakfast this morning?",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "我吃了一些面包，喝了一些牛奶。（过）",
         "desc": "",
         "english": "I had some bread and milk.",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "我吃了两个汉堡，喝了一些可乐。（过）",
         "desc": "",
         "english": "I had two hamburgers and some cola.",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "那是不健康的。",
         "desc": "",
         "english": "That’s not healthy.",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "那是不健康的。（近义）",
         "desc": "",
         "english": "That’s unhealthy.",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "你可以吃一点肉，但是不要太多。",
         "desc": "",
         "english": "You can have a little meat, but not too much.",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "我今早没吃早饭。",
         "desc": "",
         "english": "I didn’t have breakfast this morning.",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "早饭对我们非常重要。",
         "desc": "",
         "english": "Breakfast is very important to us.",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "我们应该每天吃早饭。",
         "desc": "",
         "english": "We should have breakfast every day.",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "我喝了一些可乐。",
         "desc": "肯定句。结构：主语+动词过去式+宾语",
         "english": "I had some cola.",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "今天早上我没有吃早餐。",
         "desc": "否定句。结构：主语+did+not+动词原形+宾语（did not=didn't)",
         "english": "I did not have breakfast this morning.",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "上周末你和 Sam 一起玩了吗？",
         "desc": "一般疑问句。结构：Did+主语+动词原形+宾语+?",
         "english": "Did you play with Sam last weekend?",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "今天早上你吃了什么早餐？",
         "desc": "特殊疑问句。结构：在一般疑问句前加 What,Where,When,Who,Why 和 How 等疑问代词或疑问副词",
         "english": "What did you have for breakfast this morning?",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "水果",
         "desc": "集合名词，泛指水果",
         "english": "fruit",
         "phonetic": "/fruːt/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "食物",
         "desc": "集合名词",
         "english": "food",
         "phonetic": "/fuːd/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "面条",
         "desc": "常用复数",
         "english": "noodles",
         "phonetic": "/ˈnuːdlz/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "筷子",
         "desc": "常用复数",
         "english": "chopsticks",
         "phonetic": "/ˈtʃɒpstɪks/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "蔬菜",
         "desc": "可数名词",
         "english": "vegetable (s)",
         "phonetic": "/ˈvedʒtəbl/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": " 米饭 ",
         "desc": "不可数名词",
         "english": "rice",
         "phonetic": "/raɪs/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "面包",
         "desc": "不可数名词",
         "english": "bread",
         "phonetic": "/bred/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "比萨饼",
         "desc": "不可数名词",
         "english": "pizza",
         "phonetic": "/ˈpiːtsə/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "水",
         "desc": "不可数名词",
         "english": "water",
         "phonetic": "/ˈwɔːtər/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": " 可乐 ",
         "desc": "不可数名词",
         "english": "cola",
         "phonetic": "/ˈkoʊlə/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "牛奶",
         "desc": "不可数名词",
         "english": "milk",
         "phonetic": "/mɪlk/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": " 酸奶 ",
         "desc": "不可数名词",
         "english": "yoghurt",
         "phonetic": "/ˈjoʊɡərt/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "啤酒",
         "desc": "不可数名词",
         "english": "beer",
         "phonetic": "/bɪər/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": " 鱼 ",
         "desc": "不可数名词",
         "english": "fish",
         "phonetic": "/fɪʃ/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "鸡肉",
         "desc": "不可数名词",
         "english": "chicken",
         "phonetic": "/ˈtʃɪkɪn/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": " 巧克力 ",
         "desc": "不可数名词",
         "english": "chocolate",
         "phonetic": "/ˈtʃɑːklət/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "泛指冰淇淋",
         "desc": "不可数名词",
         "english": "ice cream",
         "phonetic": "/ˈaɪs kriːm/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": " 糖果 ",
         "desc": "不可数名词",
         "english": "candy",
         "phonetic": "/ˈkændi/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "许多（可数名词前用）",
         "desc": "",
         "english": "many",
         "phonetic": "/ˈmɛni/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "很多（不可数名词前用）",
         "desc": "",
         "english": "much",
         "phonetic": "/mʌtʃ/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "一些",
         "desc": "可数、不可数两者通用",
         "english": "some",
         "phonetic": "/sʌm/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": " 很多 ",
         "desc": "可数、不可数两者通用",
         "english": "a lot of",
         "phonetic": "",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": "三明治",
         "desc": "",
         "english": "sandwich",
         "phonetic": "/ˈsænwɪtʃ/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "chinese": " 三明治（复数）",
         "desc": "",
         "english": "sandwiches",
         "phonetic": "/ˈsænwɪtʃɪz/",
-        "tag": "primary-grade6-unit03"
+        "tag": "primary-grade6a-unit03"
     },
     {
         "english": "why",
@@ -6642,7 +6628,7 @@ var words = [
     {
         "english": "famous",
         "chinese": "著名的；出名的",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6651,7 +6637,7 @@ var words = [
     {
         "english": "during",
         "chinese": "在...期间",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6660,7 +6646,7 @@ var words = [
     {
         "english": "spend",
         "chinese": "度过",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6669,7 +6655,7 @@ var words = [
     {
         "english": "everyone",
         "chinese": "每个人；所有人",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6678,7 +6664,7 @@ var words = [
     {
         "english": "everybody",
         "chinese": "每个人；所有人（近义词）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6687,7 +6673,7 @@ var words = [
     {
         "english": "countryside",
         "chinese": "乡村；农村",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6696,7 +6682,7 @@ var words = [
     {
         "english": "pick",
         "chinese": "采摘",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6705,7 +6691,7 @@ var words = [
     {
         "english": "summer holiday",
         "chinese": "暑假",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6714,7 +6700,7 @@ var words = [
     {
         "english": "winter holiday",
         "chinese": "寒假",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6723,7 +6709,7 @@ var words = [
     {
         "english": "visit my grandparents",
         "chinese": "看望我的祖父母",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6732,7 +6718,7 @@ var words = [
     {
         "english": "go to the beach with my family",
         "chinese": "和我的家人去沙滩",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6741,7 +6727,7 @@ var words = [
     {
         "english": "play ball games",
         "chinese": "玩球类游戏",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6750,7 +6736,7 @@ var words = [
     {
         "english": "go swimming in the sea",
         "chinese": "在海里游泳",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6759,7 +6745,7 @@ var words = [
     {
         "english": "go to Beijing",
         "chinese": "去北京",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6768,7 +6754,7 @@ var words = [
     {
         "english": "go to the Great Wall",
         "chinese": "去长城",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6777,7 +6763,7 @@ var words = [
     {
         "english": "go to Tian'anmen Square",
         "chinese": "去天安门广场",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6786,7 +6772,7 @@ var words = [
     {
         "english": "go to the Palace Museum",
         "chinese": "去故宫博物院",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6795,7 +6781,7 @@ var words = [
     {
         "english": "go to some famous parks",
         "chinese": "去一些著名的公园",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6804,7 +6790,7 @@ var words = [
     {
         "english": "take a lot of photos",
         "chinese": "拍很多照片",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6813,7 +6799,7 @@ var words = [
     {
         "english": "during the summer holiday",
         "chinese": "在暑假期间",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6822,7 +6808,7 @@ var words = [
     {
         "english": "by plane",
         "chinese": "乘坐飞机",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6831,7 +6817,7 @@ var words = [
     {
         "english": "enjoy her summer holiday",
         "chinese": "享受她的暑假",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6840,7 +6826,7 @@ var words = [
     {
         "english": "go back to the UK",
         "chinese": "回到英国",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6849,7 +6835,7 @@ var words = [
     {
         "english": "spend their holiday",
         "chinese": "度过他们的假期",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6858,7 +6844,7 @@ var words = [
     {
         "english": "in London",
         "chinese": "在伦敦",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6867,7 +6853,7 @@ var words = [
     {
         "english": "visit Big Ben and the British Museum",
         "chinese": "参观大本钟和大英博物馆",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6876,7 +6862,7 @@ var words = [
     {
         "english": "stay with their grandparents",
         "chinese": "和他们的祖父母待在一起",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6885,7 +6871,7 @@ var words = [
     {
         "english": "in the countryside",
         "chinese": "在乡村",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6894,7 +6880,7 @@ var words = [
     {
         "english": "pick apples with her grandmother",
         "chinese": "和她的奶奶采摘苹果",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6903,7 +6889,7 @@ var words = [
     {
         "english": "over the bridge",
         "chinese": "在桥上",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6912,7 +6898,7 @@ var words = [
     {
         "english": "into the town",
         "chinese": "去城里",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6921,7 +6907,7 @@ var words = [
     {
         "english": "ride her bicycle",
         "chinese": "骑她的自行车",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6930,7 +6916,7 @@ var words = [
     {
         "english": "How was your summer holiday? It was wonderful.",
         "chinese": "你的暑假过得怎么样？好极了。",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6939,7 +6925,7 @@ var words = [
     {
         "english": "We went to the Great Wall, Tian'anmen Square and the Palace Museum.",
         "chinese": "我们去了长城、天安门广场和故宫博物院。",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6948,7 +6934,7 @@ var words = [
     {
         "english": "We also went to some famous parks in Beijing.",
         "chinese": "我们也去了北京一些著名的公园。",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6957,7 +6943,7 @@ var words = [
     {
         "english": "How about your summer holiday?",
         "chinese": "你的暑假是怎么样的？",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6966,7 +6952,7 @@ var words = [
     {
         "english": "They spent their holiday in London.",
         "chinese": "他们在伦敦度过了他们的假期。",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6975,7 +6961,7 @@ var words = [
     {
         "english": "Everyone had a good time.",
         "chinese": "每个人都玩得很开心。",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6984,7 +6970,7 @@ var words = [
     {
         "english": "visited",
         "chinese": "参观（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -6993,7 +6979,7 @@ var words = [
     {
         "english": "played",
         "chinese": "玩（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7002,7 +6988,7 @@ var words = [
     {
         "english": "stayed",
         "chinese": "停留（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7011,7 +6997,7 @@ var words = [
     {
         "english": "picked",
         "chinese": "采摘（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7020,7 +7006,7 @@ var words = [
     {
         "english": "enjoyed",
         "chinese": "享受（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7029,7 +7015,7 @@ var words = [
     {
         "english": "liked",
         "chinese": "喜欢（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7038,7 +7024,7 @@ var words = [
     {
         "english": "lived",
         "chinese": "居住（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7047,7 +7033,7 @@ var words = [
     {
         "english": "studied",
         "chinese": "学习（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7056,7 +7042,7 @@ var words = [
     {
         "english": "carried",
         "chinese": "携带（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7065,7 +7051,7 @@ var words = [
     {
         "english": "stopped",
         "chinese": "停止（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7074,7 +7060,7 @@ var words = [
     {
         "english": "planned",
         "chinese": "计划（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7083,7 +7069,7 @@ var words = [
     {
         "english": "went",
         "chinese": "去（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7092,7 +7078,7 @@ var words = [
     {
         "english": "did",
         "chinese": "做（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7101,7 +7087,7 @@ var words = [
     {
         "english": "spent",
         "chinese": "度过（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7110,7 +7096,7 @@ var words = [
     {
         "english": "rode",
         "chinese": "骑（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7119,7 +7105,7 @@ var words = [
     {
         "english": "had",
         "chinese": "有（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7128,7 +7114,7 @@ var words = [
     {
         "english": "took",
         "chinese": "拿（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7137,11 +7123,389 @@ var words = [
     {
         "english": "came",
         "chinese": "来（过去式）",
-        "tag": "primary-grade6-unit02",
+        "tag": "primary-grade6a-unit02",
         "desc": "",
         "right": 0,
         "wrong": 0,
         "phonetic": "/keɪm/"
+    },
+    {
+        "chinese": "称重",
+        "desc": "",
+        "english": "weigh",
+        "phonetic": "/weɪ/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "重量",
+        "desc": "",
+        "english": "weight",
+        "phonetic": "/weɪt/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "克",
+        "desc": "",
+        "english": "gram",
+        "phonetic": "/ɡræm/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "千克",
+        "desc": "",
+        "english": "kilogram",
+        "phonetic": "/ˈkɪləɡræm/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "米",
+        "desc": "",
+        "english": "metre",
+        "phonetic": "/ˈmiːtər/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "厘米",
+        "desc": "",
+        "english": "centimetre",
+        "phonetic": "/ˈsɛntɪˌmiːtər/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "毫米",
+        "desc": "",
+        "english": "millimetre",
+        "phonetic": "/ˈmɪlɪˌmiːtər/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "千米",
+        "desc": "",
+        "english": "kilometre",
+        "phonetic": "/ˈkɪləˌmiːtər/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "高的",
+        "desc": "",
+        "english": "tall",
+        "phonetic": "/tɔːl/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "更高",
+        "desc": "",
+        "english": "taller",
+        "phonetic": "/ˈtɔːlər/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "最高的",
+        "desc": "",
+        "english": "tallest",
+        "phonetic": "/ˈtɔːlɪst/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "风扇；狂热爱好者",
+        "desc": "",
+        "english": "fan",
+        "phonetic": "/fæn/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "他们自己",
+        "desc": "",
+        "english": "themselves",
+        "phonetic": "/ðəmˈsɛlvz/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "剧院",
+        "desc": "",
+        "english": "theatre",
+        "phonetic": "/ˈθiətər/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "极好的；奇异的",
+        "desc": "",
+        "english": "fantastic",
+        "phonetic": "/fænˈtæstɪk/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "in the countryside",
+        "chinese": "在乡下",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "how tall",
+        "chinese": "多高",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "do a lot of exercise",
+        "chinese": "做很多运动",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "after school",
+        "chinese": "放学后",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "a football fan",
+        "chinese": "足球迷",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "去钓鱼",
+        "desc": "",
+        "english": "go fishing",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "去博物馆",
+        "desc": "",
+        "english": "go to museums",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "住在城市",
+        "desc": "",
+        "english": "live in the city",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "玩得愉快",
+        "desc": "",
+        "english": "enjoy oneself",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "在电影院",
+        "desc": "",
+        "english": "at the cinema",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "houses with gardens",
+        "chinese": "带花园的房子",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "plant crops in spring",
+        "chinese": "春天种植庄稼",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "get... in",
+        "chinese": "进入，参与",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "Asia",
+        "chinese": "亚洲",
+        "desc": "",
+        "phonetic": "/ˈeɪʒə/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "Africa",
+        "chinese": "非洲",
+        "desc": "",
+        "phonetic": "/ˈæfrɪkə/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "South America",
+        "chinese": "南美洲",
+        "desc": "",
+        "phonetic": "/saʊθ ˈæmərɪkə/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "Europe",
+        "chinese": "欧洲",
+        "desc": "",
+        "phonetic": "/ˈjʊərəp/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "Joe is visiting his cousin George in the countryside.",
+        "chinese": "乔正在乡下拜访他的堂兄乔治。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "How much do you weigh? I weigh forty-seven kilograms.",
+        "chinese": "你多重？我重四十七公斤。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "english": "How tall are you? I'm one hundred and fifty-two centimetres tall.",
+        "chinese": "你多高？我身高一百五十二厘米。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "你更高。",
+        "desc": "",
+        "english": "You're taller.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "你经常锻炼吗？",
+        "desc": "",
+        "english": "Do you do a lot of exercise?",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "我通常放学后打篮球和乒乓球。",
+        "desc": "",
+        "english": "I usually play basketball and table tennis after school.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "多么令人兴奋啊！",
+        "desc": "",
+        "english": "How exciting!",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "我不常去钓鱼。",
+        "desc": "",
+        "english": "I don't go fishing often.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "我家附近没有河流。",
+        "desc": "",
+        "english": "There's no river near my home.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "他身高152厘米，体重40公斤。",
+        "desc": "",
+        "english": "He is 152centimetres tall and weighs 40 kilograms.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "在周末",
+        "desc": "",
+        "english": "At the weekend",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "一些人",
+        "desc": "",
+        "english": "some people",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "玩得开心",
+        "desc": "",
+        "english": "enjoy themselves",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "在电影院",
+        "desc": "",
+        "english": "at the cinema",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "或者",
+        "desc": "",
+        "english": "or",
+        "phonetic": "/ɔːr/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "剧院",
+        "desc": "",
+        "english": "theatre",
+        "phonetic": "/ˈθiətər/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "农民",
+        "desc": "",
+        "english": "Farmers",
+        "phonetic": "/ˈfɑːrmərz/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "种植庄稼",
+        "desc": "",
+        "english": "plant crops",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "在春天",
+        "desc": "",
+        "english": "in spring",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "然后",
+        "desc": "",
+        "english": "Then",
+        "phonetic": "/ðen/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "在秋天",
+        "desc": "",
+        "english": "in autumn",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "收割庄稼",
+        "desc": "",
+        "english": "get the crops in",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
     },
     {
         "english": "tidy",
@@ -7515,7 +7879,7 @@ var words = [
     {
         "english": "month",
         "chinese": "一个月的时间；月份",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7524,7 +7888,7 @@ var words = [
     {
         "english": "months",
         "chinese": "月（复数）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7533,7 +7897,7 @@ var words = [
     {
         "english": "cute",
         "chinese": "可爱的",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7542,7 +7906,7 @@ var words = [
     {
         "english": "lovely",
         "chinese": "可爱的（近义词）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7551,7 +7915,7 @@ var words = [
     {
         "english": "pretty",
         "chinese": "漂亮的",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7560,7 +7924,7 @@ var words = [
     {
         "english": "beautiful",
         "chinese": "漂亮的（近义词）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7569,7 +7933,7 @@ var words = [
     {
         "english": "handsome",
         "chinese": "英俊的，帅气的",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7578,7 +7942,7 @@ var words = [
     {
         "english": "grow up",
         "chinese": "成长",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7587,7 +7951,7 @@ var words = [
     {
         "english": "about",
         "chinese": "大约",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7596,7 +7960,7 @@ var words = [
     {
         "english": "primary school",
         "chinese": "小学",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7605,7 +7969,7 @@ var words = [
     {
         "english": "junior high school",
         "chinese": "初中（2个）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7614,7 +7978,7 @@ var words = [
     {
         "english": "middle school",
         "chinese": "初中（2个）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7623,7 +7987,7 @@ var words = [
     {
         "english": "senior high school",
         "chinese": "高中",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7632,7 +7996,7 @@ var words = [
     {
         "english": "round",
         "chinese": "圆的 adj.",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7641,7 +8005,7 @@ var words = [
     {
         "english": "turtle",
         "chinese": "乌龟",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7650,7 +8014,7 @@ var words = [
     {
         "english": "catch",
         "chinese": "逮住；捕捉",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7659,7 +8023,7 @@ var words = [
     {
         "english": "fly",
         "chinese": "苍蝇",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7668,7 +8032,7 @@ var words = [
     {
         "english": "flies",
         "chinese": "苍蝇（复数）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7677,7 +8041,7 @@ var words = [
     {
         "english": "later",
         "chinese": "后来",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7686,7 +8050,7 @@ var words = [
     {
         "english": "bin",
         "chinese": "垃圾桶",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7695,7 +8059,7 @@ var words = [
     {
         "english": "least",
         "chinese": "最少的；最小的",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7704,7 +8068,7 @@ var words = [
     {
         "english": "list",
         "chinese": "列表；清单",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7713,7 +8077,7 @@ var words = [
     {
         "english": "leave",
         "chinese": "离开",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7722,7 +8086,7 @@ var words = [
     {
         "english": "was",
         "chinese": "am/is 过去式",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7731,7 +8095,7 @@ var words = [
     {
         "english": "were",
         "chinese": "are 过去式",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7740,7 +8104,7 @@ var words = [
     {
         "english": "in photo 1",
         "chinese": "在照片1中",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7749,7 +8113,7 @@ var words = [
     {
         "english": "(be) about two months old",
         "chinese": "大约两个月大",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7758,7 +8122,7 @@ var words = [
     {
         "english": "(be) one year old",
         "chinese": "一岁",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7767,7 +8131,7 @@ var words = [
     {
         "english": "a primary school student",
         "chinese": "一名小学生",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7776,7 +8140,7 @@ var words = [
     {
         "english": "go to junior high school",
         "chinese": "上初中",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7785,7 +8149,7 @@ var words = [
     {
         "english": "(be) born",
         "chinese": "出生",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7794,7 +8158,7 @@ var words = [
     {
         "english": "look around",
         "chinese": "环顾四周",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7803,7 +8167,7 @@ var words = [
     {
         "english": "a round head",
         "chinese": "一个圆脑袋",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7812,7 +8176,7 @@ var words = [
     {
         "english": "at primary school",
         "chinese": "在小学",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7821,7 +8185,7 @@ var words = [
     {
         "english": "has no tail",
         "chinese": "没有尾巴（单三）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7830,7 +8194,7 @@ var words = [
     {
         "english": "catch flies",
         "chinese": "捕捉苍蝇",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7839,7 +8203,7 @@ var words = [
     {
         "english": "In photo 1, Sally was a baby.",
         "chinese": "在照片1中，Sally 是一个小婴儿。（过）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7848,7 +8212,7 @@ var words = [
     {
         "english": "She was about two months old.",
         "chinese": "她大约两个月大。",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7857,7 +8221,7 @@ var words = [
     {
         "english": "She was small and cute.",
         "chinese": "她又小又可爱。（过）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7866,7 +8230,7 @@ var words = [
     {
         "english": "Her hair was short and her eyes were big.",
         "chinese": "她的头发是短的，她的眼睛是大的。（过）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7875,7 +8239,7 @@ var words = [
     {
         "english": "She was a primary school student.",
         "chinese": "她是一名小学生。（过）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7884,7 +8248,7 @@ var words = [
     {
         "english": "She goes to junior high school.",
         "chinese": "她上初中了。（现）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7893,7 +8257,7 @@ var words = [
     {
         "english": "She is tall and pretty.",
         "chinese": "她又高又漂亮。（现）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7902,7 +8266,7 @@ var words = [
     {
         "english": "Little Justin was born in the river.",
         "chinese": "Little Justin 出生在河里。（过）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -7911,7 +8275,7 @@ var words = [
     {
         "english": "He meets a turtle.",
         "chinese": "他遇见了一只乌龟。（现）",
-        "tag": "primary-grade6-unit01",
+        "tag": "primary-grade6a-unit01",
         "desc": "",
         "right": 0,
         "wrong": 0,
@@ -12631,383 +12995,5 @@ var words = [
         "right": 0,
         "wrong": 0,
         "phonetic": "/wɛr/"
-    },
-    {
-        "chinese": "称重",
-        "desc": "",
-        "english": "weigh",
-        "phonetic": "/weɪ/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "重量",
-        "desc": "",
-        "english": "weight",
-        "phonetic": "/weɪt/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "克",
-        "desc": "",
-        "english": "gram",
-        "phonetic": "/ɡræm/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "千克",
-        "desc": "",
-        "english": "kilogram",
-        "phonetic": "/ˈkɪləɡræm/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "米",
-        "desc": "",
-        "english": "metre",
-        "phonetic": "/ˈmiːtər/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "厘米",
-        "desc": "",
-        "english": "centimetre",
-        "phonetic": "/ˈsɛntɪˌmiːtər/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "毫米",
-        "desc": "",
-        "english": "millimetre",
-        "phonetic": "/ˈmɪlɪˌmiːtər/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "千米",
-        "desc": "",
-        "english": "kilometre",
-        "phonetic": "/ˈkɪləˌmiːtər/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "高的",
-        "desc": "",
-        "english": "tall",
-        "phonetic": "/tɔːl/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "更高",
-        "desc": "",
-        "english": "taller",
-        "phonetic": "/ˈtɔːlər/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "最高的",
-        "desc": "",
-        "english": "tallest",
-        "phonetic": "/ˈtɔːlɪst/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "风扇；狂热爱好者",
-        "desc": "",
-        "english": "fan",
-        "phonetic": "/fæn/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "他们自己",
-        "desc": "",
-        "english": "themselves",
-        "phonetic": "/ðəmˈsɛlvz/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "剧院",
-        "desc": "",
-        "english": "theatre",
-        "phonetic": "/ˈθiətər/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "极好的；奇异的",
-        "desc": "",
-        "english": "fantastic",
-        "phonetic": "/fænˈtæstɪk/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "in the countryside",
-        "chinese": "在乡下",
-        "desc": "",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "how tall",
-        "chinese": "多高",
-        "desc": "",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "do a lot of exercise",
-        "chinese": "做很多运动",
-        "desc": "",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "after school",
-        "chinese": "放学后",
-        "desc": "",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "a football fan",
-        "chinese": "足球迷",
-        "desc": "",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "去钓鱼",
-        "desc": "",
-        "english": "go fishing",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "去博物馆",
-        "desc": "",
-        "english": "go to museums",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "住在城市",
-        "desc": "",
-        "english": "live in the city",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "玩得愉快",
-        "desc": "",
-        "english": "enjoy oneself",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "在电影院",
-        "desc": "",
-        "english": "at the cinema",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "houses with gardens",
-        "chinese": "带花园的房子",
-        "desc": "",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "plant crops in spring",
-        "chinese": "春天种植庄稼",
-        "desc": "",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "get... in",
-        "chinese": "进入，参与",
-        "desc": "",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "Asia",
-        "chinese": "亚洲",
-        "desc": "",
-        "phonetic": "/ˈeɪʒə/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "Africa",
-        "chinese": "非洲",
-        "desc": "",
-        "phonetic": "/ˈæfrɪkə/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "South America",
-        "chinese": "南美洲",
-        "desc": "",
-        "phonetic": "/saʊθ ˈæmərɪkə/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "Europe",
-        "chinese": "欧洲",
-        "desc": "",
-        "phonetic": "/ˈjʊərəp/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "Joe is visiting his cousin George in the countryside.",
-        "chinese": "乔正在乡下拜访他的堂兄乔治。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "How much do you weigh? I weigh forty-seven kilograms.",
-        "chinese": "你多重？我重四十七公斤。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "english": "How tall are you? I'm one hundred and fifty-two centimetres tall.",
-        "chinese": "你多高？我身高一百五十二厘米。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "你更高。",
-        "desc": "",
-        "english": "You're taller.",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "你经常锻炼吗？",
-        "desc": "",
-        "english": "Do you do a lot of exercise?",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "我通常放学后打篮球和乒乓球。",
-        "desc": "",
-        "english": "I usually play basketball and table tennis after school.",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "多么令人兴奋啊！",
-        "desc": "",
-        "english": "How exciting!",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "我不常去钓鱼。",
-        "desc": "",
-        "english": "I don't go fishing often.",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "我家附近没有河流。",
-        "desc": "",
-        "english": "There's no river near my home.",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "他身高152厘米，体重40公斤。",
-        "desc": "",
-        "english": "He is 152centimetres tall and weighs 40 kilograms.",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "在周末",
-        "desc": "",
-        "english": "At the weekend",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "一些人",
-        "desc": "",
-        "english": "some people",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "玩得开心",
-        "desc": "",
-        "english": "enjoy themselves",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "在电影院",
-        "desc": "",
-        "english": "at the cinema",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "或者",
-        "desc": "",
-        "english": "or",
-        "phonetic": "/ɔːr/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "剧院",
-        "desc": "",
-        "english": "theatre",
-        "phonetic": "/ˈθiətər/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "农民",
-        "desc": "",
-        "english": "Farmers",
-        "phonetic": "/ˈfɑːrmərz/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "种植庄稼",
-        "desc": "",
-        "english": "plant crops",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "在春天",
-        "desc": "",
-        "english": "in spring",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "然后",
-        "desc": "",
-        "english": "Then",
-        "phonetic": "/ðen/",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "在秋天",
-        "desc": "",
-        "english": "in autumn",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
-    },
-    {
-        "chinese": "收割庄稼",
-        "desc": "",
-        "english": "get the crops in",
-        "phonetic": "",
-        "tag": "-Grade6b-U1"
     }
 ];
