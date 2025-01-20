@@ -6230,6 +6230,342 @@ var words = [
         "tag": "primary-grade6a-unit03"
     },
     {
+        "chinese": "生活，生命",
+        "desc": "",
+        "english": "life",
+        "phonetic": "/laɪf/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "生命（复数）",
+        "desc": "",
+        "english": "lives",
+        "phonetic": "/laɪvz/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "作家",
+        "desc": "",
+        "english": "writer",
+        "phonetic": "/ˈraɪtə(r)/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "摄影师",
+        "desc": "",
+        "english": "photographer",
+        "phonetic": "/fəˈtɒɡrəfə(r)/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "电影；胶卷",
+        "desc": "",
+        "english": "film",
+        "phonetic": "/fɪlm/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "数码的",
+        "desc": "",
+        "english": "digital",
+        "phonetic": "/ˈdɪdʒɪtl/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "扫地",
+        "desc": "",
+        "english": "sweep",
+        "phonetic": "/swiːp/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "扫地，过去式",
+        "desc": "",
+        "english": "swept",
+        "phonetic": "/swept/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "扫帚",
+        "desc": "",
+        "english": "broom",
+        "phonetic": "/bruːm/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "驾驶，驱动",
+        "desc": "",
+        "english": "drive",
+        "phonetic": "/draɪv/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "驾驶，驱动，过去式",
+        "desc": "",
+        "english": "drove",
+        "phonetic": "/drəʊv/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "扫地车",
+        "desc": "",
+        "english": "a street sweeper",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "用……去做……",
+        "desc": "",
+        "english": "use... to do....",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "用手",
+        "desc": "",
+        "english": "by hand",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "数码相机",
+        "desc": "",
+        "english": "a digital camera",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "立刻；马上（三种等价形式）",
+        "desc": "",
+        "english": "right away",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "立刻；马上（三种等价形式）",
+        "desc": "",
+        "english": "right now",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "立刻；马上（三种等价形式）",
+        "desc": "",
+        "english": "at once",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "拍照",
+        "desc": "",
+        "english": "take photos",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "环卫工人",
+        "desc": "",
+        "english": "a street cleaner",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "扫地车",
+        "desc": "",
+        "english": "street sweeper",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "很快，不久，在短时间内（两种形式）",
+        "desc": "",
+        "english": "in a short time",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "很快，不久，在短时间内（两种形式）",
+        "desc": "",
+        "english": "soon",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "劳动（工作）工具",
+        "desc": "",
+        "english": "tools for work",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "妻子",
+        "desc": "",
+        "english": "wife",
+        "phonetic": "/waɪf/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "妻子（复数）",
+        "desc": "",
+        "english": "wives",
+        "phonetic": "/waɪvz/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "从前（两种形式）",
+        "desc": "",
+        "english": "once upon a time",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "从前（两种形式）",
+        "desc": "",
+        "english": "long ago",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "一个名叫弗雷德的穷农夫",
+        "desc": "",
+        "english": "a poor farmer called Fred",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "仙女",
+        "desc": "",
+        "english": "fairy",
+        "phonetic": "/ˈfeəri/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "愿望，祝愿",
+        "desc": "",
+        "english": "wish",
+        "phonetic": "/wɪʃ/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "愿望，祝愿（复数）",
+        "desc": "",
+        "english": "wishes",
+        "phonetic": "/ˈwɪʃɪz/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "朝……微笑",
+        "desc": "",
+        "english": "smile at...",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "彼此",
+        "desc": "",
+        "english": "each other",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "说",
+        "desc": "",
+        "english": "say",
+        "phonetic": "/seɪ/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "说，过去式",
+        "desc": "",
+        "english": "said",
+        "phonetic": "/sed/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "金子",
+        "desc": "",
+        "english": "gold",
+        "phonetic": "/ɡəʊld/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "不得不",
+        "desc": "",
+        "english": "have to",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "幸福的生活",
+        "desc": "",
+        "english": "a happy life",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "洗衣机",
+        "desc": "",
+        "english": "a washing machine",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "过去，她用笔和纸来写她的书。",
+        "desc": "",
+        "english": "In the past, she used a pen and paper to write her books.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "过去，她用手收割庄稼。现在她用机器。",
+        "desc": "",
+        "english": "In the past, she got her crops in by hand. Now she uses a machine.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "在过去，他用胶卷拍照。现在他用数码相机。他能立刻看到他的照片。",
+        "desc": "",
+        "english": "In the past, he used film to take photos. Now he uses a digital camera. He can see his photos right away.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "过去，他用扫帚扫地。现在他开扫地车。",
+        "desc": "",
+        "english": "In the past, he swept the streets with a broom. Now he drives a street sweeper.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "它能在短时间内把接到清扫干净。",
+        "desc": "",
+        "english": "It can clean the streets in a short time.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "从前，有一个穷苦的农夫叫弗莱德。",
+        "desc": "",
+        "english": "Once upon a time, there was a poor farmer called Fred.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "我可以帮你们实现三个愿望。",
+        "desc": "",
+        "english": "I'd like to give you three wishes.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "我祝你们的生活幸福快乐。",
+        "desc": "",
+        "english": "I wish you a happy life.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
         "english": "why",
         "chinese": "为什么",
         "tag": "primary-grade5-unit02",
