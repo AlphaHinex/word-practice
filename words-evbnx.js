@@ -7130,7 +7130,7 @@ var words = [
         "phonetic": "/keɪm/"
     },
     {
-        "chinese": "称重",
+        "chinese": "重……，称重",
         "desc": "",
         "english": "weigh",
         "phonetic": "/weɪ/",
@@ -7186,7 +7186,7 @@ var words = [
         "tag": "primary-grade6b-unit01"
     },
     {
-        "chinese": "高的",
+        "chinese": "高",
         "desc": "",
         "english": "tall",
         "phonetic": "/tɔːl/",
@@ -7200,14 +7200,14 @@ var words = [
         "tag": "primary-grade6b-unit01"
     },
     {
-        "chinese": "最高的",
+        "chinese": "最高",
         "desc": "",
         "english": "tallest",
         "phonetic": "/ˈtɔːlɪst/",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "chinese": "风扇；狂热爱好者",
+        "chinese": "迷，扇子",
         "desc": "",
         "english": "fan",
         "phonetic": "/fæn/",
@@ -7228,44 +7228,44 @@ var words = [
         "tag": "primary-grade6b-unit01"
     },
     {
-        "chinese": "极好的；奇异的",
+        "chinese": "极好的",
         "desc": "",
         "english": "fantastic",
         "phonetic": "/fænˈtæstɪk/",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "english": "in the countryside",
         "chinese": "在乡下",
         "desc": "",
+        "english": "in the countryside",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "english": "how tall",
         "chinese": "多高",
         "desc": "",
+        "english": "how tall",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "english": "do a lot of exercise",
         "chinese": "做很多运动",
         "desc": "",
+        "english": "do a lot of exercise",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "english": "after school",
         "chinese": "放学后",
         "desc": "",
+        "english": "after school",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "english": "a football fan",
         "chinese": "足球迷",
         "desc": "",
+        "english": "a football fan",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
@@ -7284,14 +7284,14 @@ var words = [
         "tag": "primary-grade6b-unit01"
     },
     {
-        "chinese": "住在城市",
+        "chinese": "居住在城市",
         "desc": "",
         "english": "live in the city",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "chinese": "玩得愉快",
+        "chinese": "玩得开心、过得愉快",
         "desc": "",
         "english": "enjoy oneself",
         "phonetic": "",
@@ -7305,205 +7305,121 @@ var words = [
         "tag": "primary-grade6b-unit01"
     },
     {
-        "english": "houses with gardens",
         "chinese": "带花园的房子",
         "desc": "",
+        "english": "houses with gardens",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
+        "chinese": "春天耕种",
+        "desc": "",
         "english": "plant crops in spring",
-        "chinese": "春天种植庄稼",
-        "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
+        "chinese": "收割",
+        "desc": "",
         "english": "get... in",
-        "chinese": "进入，参与",
-        "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "english": "Asia",
         "chinese": "亚洲",
         "desc": "",
+        "english": "Asia",
         "phonetic": "/ˈeɪʒə/",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "english": "Africa",
         "chinese": "非洲",
         "desc": "",
+        "english": "Africa",
         "phonetic": "/ˈæfrɪkə/",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "english": "South America",
         "chinese": "南美洲",
         "desc": "",
+        "english": "South America",
         "phonetic": "/saʊθ ˈæmərɪkə/",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "english": "Europe",
         "chinese": "欧洲",
         "desc": "",
+        "english": "Europe",
         "phonetic": "/ˈjʊərəp/",
         "tag": "primary-grade6b-unit01"
     },
     {
+        "chinese": "乔在乡村探望他的表哥乔治。",
+        "desc": "",
         "english": "Joe is visiting his cousin George in the countryside.",
-        "chinese": "乔正在乡下拜访他的堂兄乔治。",
-        "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
+        "chinese": "你体重多少？我重47千克。",
+        "desc": "",
         "english": "How much do you weigh? I weigh forty-seven kilograms.",
-        "chinese": "你多重？我重四十七公斤。",
-        "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "english": "How tall are you? I'm one hundred and fifty-two centimetres tall.",
         "chinese": "你多高？我身高一百五十二厘米。",
         "desc": "",
+        "english": "How tall are you? I'm one hundred and fifty-two centimetres tall.",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "chinese": "你更高。",
+        "chinese": "你更高一些。你做很多运动吗？",
         "desc": "",
-        "english": "You're taller.",
+        "english": "You're taller. Do you do a lot of exercise?",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "chinese": "你经常锻炼吗？",
-        "desc": "",
-        "english": "Do you do a lot of exercise?",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "我通常放学后打篮球和乒乓球。",
+        "chinese": "我经常在放学后打篮球、乒乓球。",
         "desc": "",
         "english": "I usually play basketball and table tennis after school.",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "chinese": "多么令人兴奋啊！",
+        "chinese": "多么让人兴奋啊！我不经常去钓鱼。",
         "desc": "",
-        "english": "How exciting!",
+        "english": "How exciting!I don't go fishing often.",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "chinese": "我不常去钓鱼。",
-        "desc": "",
-        "english": "I don't go fishing often.",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "我家附近没有河流。",
+        "chinese": "我家附近没有河。",
         "desc": "",
         "english": "There's no river near my home.",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "chinese": "他身高152厘米，体重40公斤。",
+        "chinese": "他身高152厘米、重40千克。",
         "desc": "",
         "english": "He is 152centimetres tall and weighs 40 kilograms.",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "chinese": "在周末",
+        "chinese": "有些人在电影院或剧院里享受周末。",
         "desc": "",
-        "english": "At the weekend",
+        "english": "At the weekend, some people enjoy themselves at the cinema or theatre.",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
     {
-        "chinese": "一些人",
+        "chinese": "农民们在春天耕种。然后在秋天收割。",
         "desc": "",
-        "english": "some people",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "玩得开心",
-        "desc": "",
-        "english": "enjoy themselves",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "在电影院",
-        "desc": "",
-        "english": "at the cinema",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "或者",
-        "desc": "",
-        "english": "or",
-        "phonetic": "/ɔːr/",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "剧院",
-        "desc": "",
-        "english": "theatre",
-        "phonetic": "/ˈθiətər/",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "农民",
-        "desc": "",
-        "english": "Farmers",
-        "phonetic": "/ˈfɑːrmərz/",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "种植庄稼",
-        "desc": "",
-        "english": "plant crops",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "在春天",
-        "desc": "",
-        "english": "in spring",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "然后",
-        "desc": "",
-        "english": "Then",
-        "phonetic": "/ðen/",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "在秋天",
-        "desc": "",
-        "english": "in autumn",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "收割庄稼",
-        "desc": "",
-        "english": "get the crops in",
+        "english": "Farmers plant crops in spring. Then in autumn, they get the crops in.",
         "phonetic": "",
         "tag": "primary-grade6b-unit01"
     },
