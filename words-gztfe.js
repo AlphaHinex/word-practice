@@ -1656,6 +1656,312 @@ var words = [
         "wrong": 0
     },
     {
+        "english": "giant",
+        "chinese": "巨人",
+        "tag": "primary-grade5-unit12",
+        "phonetic": "/ˈdʒaɪənt/"
+    },
+    {
+        "english": "knock",
+        "chinese": "敲，击，打",
+        "tag": "primary-grade5-unit12",
+        "phonetic": "/nɒk/"
+    },
+    {
+        "english": "wall",
+        "chinese": "墙",
+        "tag": "primary-grade5-unit12",
+        "phonetic": "/wɔːl/"
+    },
+    {
+        "english": "entry",
+        "chinese": "进入",
+        "tag": "primary-grade5-unit12",
+        "phonetic": "/ˈɛntri/"
+    },
+    {
+        "english": "kind",
+        "chinese": "亲切的",
+        "tag": "primary-grade5-unit12",
+        "phonetic": "/kaɪnd/"
+    },
+    {
+        "english": "through",
+        "chinese": "穿过",
+        "tag": "primary-grade5-unit12",
+        "phonetic": "/θruː/"
+    },
+    {
+        "english": "have a lot of fun",
+        "chinese": "玩得开心",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "hear some lovely sounds",
+        "chinese": "听见一些可爱的声音",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "build a wall",
+        "chinese": "砌了一道墙",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "come through a hole",
+        "chinese": "通过一个洞进来",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "around the garden",
+        "chinese": "在花园周围",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "knock down the wall",
+        "chinese": "推倒墙",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "bring to",
+        "chinese": "带到……",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "get out",
+        "chinese": "出去",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "be kind to",
+        "chinese": "对...亲切",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "any time",
+        "chinese": "任何时候",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "A giant lives in a big house with a beautiful garden.",
+        "chinese": "一个巨人住在一个带有美丽花园的大房子里。",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "The giant builds a wall around his garden.",
+        "chinese": "巨人在他的花园周围砌了一道墙。",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "She brings beautiful flowers and birds, but she doesn't bring any to the giant's garden.",
+        "chinese": "她带来了美丽的花和鸟儿，但是却没给巨人的花园带来任何东西。",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "He's not kind to the children.",
+        "chinese": "他对孩子们不亲切。",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "They are coming through a hole.",
+        "chinese": "他们正从一个洞里进来。",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "The giant knocks down the wall around his garden.",
+        "chinese": "巨人推倒了他花园周围的墙。",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "english": "Miss Spring never comes late again.",
+        "chinese": "春姑娘再没晚来过。",
+        "tag": "primary-grade5-unit12",
+        "phonetic": ""
+    },
+    {
+        "chinese": "地球",
+        "desc": "",
+        "english": "Earth",
+        "phonetic": "/ɜːrθ/",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "地区；区域；部分",
+        "desc": "",
+        "english": "part",
+        "phonetic": "/pɑːrt/",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "森林",
+        "desc": "",
+        "english": "forest",
+        "phonetic": "/ˈfɒrɪst/",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "陆地",
+        "desc": "",
+        "english": "land",
+        "phonetic": "/lænd/",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "海洋",
+        "desc": "",
+        "english": "ocean",
+        "phonetic": "/ˈoʊʃn/",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "垃圾",
+        "desc": "",
+        "english": "rubbish",
+        "phonetic": "/ˈrʌbɪʃ/",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "生病的",
+        "desc": "",
+        "english": "sick",
+        "phonetic": "/sɪk/",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "回收利用；再利用",
+        "desc": "",
+        "english": "recycle",
+        "phonetic": "/ˌriːˈsaɪkl/",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "玻璃制品；玻璃",
+        "desc": "",
+        "english": "glass",
+        "phonetic": "/ɡlɑːs/",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "自己的",
+        "desc": "",
+        "english": "own",
+        "phonetic": "/oʊn/",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "这么多",
+        "desc": "",
+        "english": "so many",
+        "phonetic": "",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "捡起；拾起",
+        "desc": "",
+        "english": "pick up",
+        "phonetic": "",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "购物袋",
+        "desc": "",
+        "english": "shopping bag",
+        "phonetic": "",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "塑料袋",
+        "desc": "",
+        "english": "plastic bag",
+        "phonetic": "",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "停止做某事",
+        "desc": "",
+        "english": "stop doing sth.",
+        "phonetic": "",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "停下去做另一件事",
+        "desc": "",
+        "english": "stop to do sth.",
+        "phonetic": "",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "居住在地球上",
+        "desc": "",
+        "english": "live on the Earth",
+        "phonetic": "",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "生病",
+        "desc": "",
+        "english": "get sick",
+        "phonetic": "",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "我们应该停止往河里扔垃圾。",
+        "desc": "",
+        "english": "We should stop throwing rubbish into rivers.",
+        "phonetic": "",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "我们应该停止砍倒如此多的树木。",
+        "desc": "",
+        "english": "We should stop cutting down so many trees.",
+        "phonetic": "",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "我们应该停止使用塑料袋。",
+        "desc": "",
+        "english": "We should stop using plastic bags.",
+        "phonetic": "",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "现在人们一起工作来让地球保持干净和健康。",
+        "desc": "",
+        "english": "Now people work together to keep the Earth clean and healthy.",
+        "phonetic": "",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "他们回收利用玻璃和纸张。",
+        "desc": "",
+        "english": "They recycle glass and paper.",
+        "phonetic": "",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
+        "chinese": "他们带来自己的购物袋并停止使用塑料袋。",
+        "desc": "",
+        "english": "They bring their own shopping bags and stop using plastic bags.",
+        "phonetic": "",
+        "tag": "primary-grade6a-unit12"
+    },
+    {
         "chinese": "离开，出发",
         "desc": "",
         "english": "leave left",
@@ -1964,529 +2270,6 @@ var words = [
         "tag": "primary-grade6b-unit12"
     },
     {
-        "english": "giant",
-        "chinese": "巨人",
-        "tag": "primary-grade5-unit12",
-        "phonetic": "/ˈdʒaɪənt/"
-    },
-    {
-        "english": "knock",
-        "chinese": "敲，击，打",
-        "tag": "primary-grade5-unit12",
-        "phonetic": "/nɒk/"
-    },
-    {
-        "english": "wall",
-        "chinese": "墙",
-        "tag": "primary-grade5-unit12",
-        "phonetic": "/wɔːl/"
-    },
-    {
-        "english": "entry",
-        "chinese": "进入",
-        "tag": "primary-grade5-unit12",
-        "phonetic": "/ˈɛntri/"
-    },
-    {
-        "english": "kind",
-        "chinese": "亲切的",
-        "tag": "primary-grade5-unit12",
-        "phonetic": "/kaɪnd/"
-    },
-    {
-        "english": "through",
-        "chinese": "穿过",
-        "tag": "primary-grade5-unit12",
-        "phonetic": "/θruː/"
-    },
-    {
-        "english": "have a lot of fun",
-        "chinese": "玩得开心",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "hear some lovely sounds",
-        "chinese": "听见一些可爱的声音",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "build a wall",
-        "chinese": "砌了一道墙",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "come through a hole",
-        "chinese": "通过一个洞进来",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "around the garden",
-        "chinese": "在花园周围",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "knock down the wall",
-        "chinese": "推倒墙",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "bring to",
-        "chinese": "带到……",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "get out",
-        "chinese": "出去",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "be kind to",
-        "chinese": "对...亲切",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "any time",
-        "chinese": "任何时候",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "A giant lives in a big house with a beautiful garden.",
-        "chinese": "一个巨人住在一个带有美丽花园的大房子里。",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "The giant builds a wall around his garden.",
-        "chinese": "巨人在他的花园周围砌了一道墙。",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "She brings beautiful flowers and birds, but she doesn't bring any to the giant's garden.",
-        "chinese": "她带来了美丽的花和鸟儿，但是却没给巨人的花园带来任何东西。",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "He's not kind to the children.",
-        "chinese": "他对孩子们不亲切。",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "They are coming through a hole.",
-        "chinese": "他们正从一个洞里进来。",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "The giant knocks down the wall around his garden.",
-        "chinese": "巨人推倒了他花园周围的墙。",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "english": "Miss Spring never comes late again.",
-        "chinese": "春姑娘再没晚来过。",
-        "tag": "primary-grade5-unit12",
-        "phonetic": ""
-    },
-    {
-        "chinese": "地球",
-        "desc": "",
-        "english": "Earth",
-        "phonetic": "/ɜːrθ/",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "地区；区域；部分",
-        "desc": "",
-        "english": "part",
-        "phonetic": "/pɑːrt/",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "森林",
-        "desc": "",
-        "english": "forest",
-        "phonetic": "/ˈfɒrɪst/",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "陆地",
-        "desc": "",
-        "english": "land",
-        "phonetic": "/lænd/",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "海洋",
-        "desc": "",
-        "english": "ocean",
-        "phonetic": "/ˈoʊʃn/",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "垃圾",
-        "desc": "",
-        "english": "rubbish",
-        "phonetic": "/ˈrʌbɪʃ/",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "生病的",
-        "desc": "",
-        "english": "sick",
-        "phonetic": "/sɪk/",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "回收利用；再利用",
-        "desc": "",
-        "english": "recycle",
-        "phonetic": "/ˌriːˈsaɪkl/",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "玻璃制品；玻璃",
-        "desc": "",
-        "english": "glass",
-        "phonetic": "/ɡlɑːs/",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "自己的",
-        "desc": "",
-        "english": "own",
-        "phonetic": "/oʊn/",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "这么多",
-        "desc": "",
-        "english": "so many",
-        "phonetic": "",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "捡起；拾起",
-        "desc": "",
-        "english": "pick up",
-        "phonetic": "",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "购物袋",
-        "desc": "",
-        "english": "shopping bag",
-        "phonetic": "",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "塑料袋",
-        "desc": "",
-        "english": "plastic bag",
-        "phonetic": "",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "停止做某事",
-        "desc": "",
-        "english": "stop doing sth.",
-        "phonetic": "",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "停下去做另一件事",
-        "desc": "",
-        "english": "stop to do sth.",
-        "phonetic": "",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "居住在地球上",
-        "desc": "",
-        "english": "live on the Earth",
-        "phonetic": "",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "生病",
-        "desc": "",
-        "english": "get sick",
-        "phonetic": "",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "我们应该停止往河里扔垃圾。",
-        "desc": "",
-        "english": "We should stop throwing rubbish into rivers.",
-        "phonetic": "",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "我们应该停止砍倒如此多的树木。",
-        "desc": "",
-        "english": "We should stop cutting down so many trees.",
-        "phonetic": "",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "我们应该停止使用塑料袋。",
-        "desc": "",
-        "english": "We should stop using plastic bags.",
-        "phonetic": "",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "现在人们一起工作来让地球保持干净和健康。",
-        "desc": "",
-        "english": "Now people work together to keep the Earth clean and healthy.",
-        "phonetic": "",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "他们回收利用玻璃和纸张。",
-        "desc": "",
-        "english": "They recycle glass and paper.",
-        "phonetic": "",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "chinese": "他们带来自己的购物袋并停止使用塑料袋。",
-        "desc": "",
-        "english": "They bring their own shopping bags and stop using plastic bags.",
-        "phonetic": "",
-        "tag": "primary-grade6a-unit12"
-    },
-    {
-        "english": "Western",
-        "chinese": "西方的",
-        "desc": "",
-        "phonetic": "/ˈwestərn/",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "on the fourth Thursday",
-        "chinese": "在第四个周四",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "Christmas",
-        "chinese": "圣诞节",
-        "desc": "",
-        "phonetic": "/ˈkrɪsməs/",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "in November",
-        "chinese": "在十一月",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "special",
-        "chinese": "特别的,特殊的",
-        "desc": "",
-        "phonetic": "/ˈspeʃəl/",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "Western countries",
-        "chinese": "西方国家",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "turkey",
-        "chinese": "火鸡",
-        "desc": "",
-        "phonetic": "/ˈtɜːrki/",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "present = gift",
-        "chinese": "礼物（两种说法）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "each other",
-        "chinese": "互相,彼此",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "meal",
-        "chinese": "餐,一顿饭",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "at Christmas",
-        "chinese": "在圣诞节",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "moment",
-        "chinese": "时刻,时光",
-        "desc": "",
-        "phonetic": "/ˈmoʊmənt/",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "decorate",
-        "chinese": "装饰,装潢",
-        "desc": "",
-        "phonetic": "/ˈdekəreɪt/",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "last year",
-        "chinese": "去年",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "put up",
-        "chinese": "搭建,张贴",
-        "desc": "",
-        "phonetic": "/ˈpʊt ʌp/",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "laugh at",
-        "chinese": "嘲笑",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "on Christmas Eve",
-        "chinese": "在平安夜",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "on one's way to..",
-        "chinese": "在某人去…的路上",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "wait for ...",
-        "chinese": "等待,等候…",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "bright",
-        "chinese": "明亮的,鲜艳的",
-        "desc": "",
-        "phonetic": "/braɪt/",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "Father Christmas",
-        "chinese": "圣诞老人",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "in bad weather",
-        "chinese": "在恶劣的天气",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "Thanksgiving",
-        "chinese": "感恩节",
-        "desc": "",
-        "phonetic": "/ˌθæŋksˈɡɪvɪŋ/",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "Christmas is on the twenty-fifth of December. It is an important festival in many Western countries.",
-        "chinese": "圣诞节在12月25日。它是许多西方国家的一个重要的节日。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "People give presents to each other at Christmas.",
-        "chinese": "人们在圣诞节时互赠礼物。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "Children wait for presents from Father Christmas on Christmas Eve.",
-        "chinese": "孩子们在平安夜等候圣诞老人的礼物。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "Thanksgiving is on the fourth Thursday in November. It is a special holiday in the US",
-        "chinese": "感恩节在11月的第4个星期四。它是美国一个特别的节日。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "People usually eat turkey at the Thanksgiving meal.",
-        "chinese": "人们通常在感恩节大餐上吃火鸡。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "What do people usually do at Thanksgiving?",
-        "chinese": "人们通常在感恩节做什么?",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "They also talk about their favourite moments of the last year.",
-        "chinese": "他们还谈论他们去年最喜欢的时光",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
-        "english": "Father Christmas was on his way to give presents to children.",
-        "chinese": "圣诞老人在去给孩子们送礼物的路上。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit11"
-    },
-    {
         "english": "festival",
         "chinese": "节日",
         "tag": "primary-grade5-unit11",
@@ -2775,256 +2558,221 @@ var words = [
         "phonetic": ""
     },
     {
-        "english": "remember",
-        "chinese": "记住，记得，回忆",
+        "english": "Western",
+        "chinese": "西方的",
         "desc": "",
-        "phonetic": "/rɪˈmɛmbər/",
-        "tag": "primary-grade6b-unit10"
+        "phonetic": "/ˈwestərn/",
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "stronger",
-        "chinese": "更强大的",
-        "desc": "",
-        "phonetic": "/ˈstrɒŋgər/",
-        "tag": "primary-grade6b-unit10"
-    },
-    {
-        "english": "emperor",
-        "chinese": "皇帝",
-        "desc": "",
-        "phonetic": "/ˈɛmpərər/",
-        "tag": "primary-grade6b-unit10"
-    },
-    {
-        "english": "than",
-        "chinese": "比",
-        "desc": "",
-        "phonetic": "/ðæn/",
-        "tag": "primary-grade6b-unit10"
-    },
-    {
-        "english": "an ugly duckling",
-        "chinese": "一只丑小鸭",
+        "english": "on the fourth Thursday",
+        "chinese": "在第四个周四",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "make the plants grow",
-        "chinese": "使植物生长",
+        "english": "Christmas",
+        "chinese": "圣诞节",
+        "desc": "",
+        "phonetic": "/ˈkrɪsməs/",
+        "tag": "primary-grade6b-unit11"
+    },
+    {
+        "english": "in November",
+        "chinese": "在十一月",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "Danish",
-        "chinese": "丹麦人，丹麦的；丹麦语",
+        "english": "special",
+        "chinese": "特别的,特殊的",
         "desc": "",
-        "phonetic": "/ˈdeɪnɪʃ/",
-        "tag": "primary-grade6b-unit10"
+        "phonetic": "/ˈspeʃəl/",
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "blow off",
-        "chinese": "吹掉",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit10"
-    },
-    {
-        "english": "fairy tale",
-        "chinese": "童话故事",
+        "english": "Western countries",
+        "chinese": "西方国家",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "put on",
-        "chinese": "穿上、戴上",
+        "english": "turkey",
+        "chinese": "火鸡",
+        "desc": "",
+        "phonetic": "/ˈtɜːrki/",
+        "tag": "primary-grade6b-unit11"
+    },
+    {
+        "english": "present = gift",
+        "chinese": "礼物（两种说法）",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "a Danish writer",
-        "chinese": "位丹麦的作家",
+        "english": "each other",
+        "chinese": "互相,彼此",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "scarf",
-        "chinese": "围巾",
-        "desc": "",
-        "phonetic": "/skɑːrf/",
-        "tag": "primary-grade6b-unit10"
-    },
-    {
-        "english": "scarfs/scarves",
-        "chinese": "围巾复数",
+        "english": "meal",
+        "chinese": "餐,一顿饭",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "German",
-        "chinese": "德国的，德语，德国人",
+        "english": "at Christmas",
+        "chinese": "在圣诞节",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "laugh",
-        "chinese": "笑",
+        "english": "moment",
+        "chinese": "时刻,时光",
         "desc": "",
-        "phonetic": "/lɑːf/",
-        "tag": "primary-grade6b-unit10"
+        "phonetic": "/ˈmoʊmənt/",
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "collect",
-        "chinese": "收集，收藏",
+        "english": "decorate",
+        "chinese": "装饰,装潢",
         "desc": "",
-        "phonetic": "/kəˈlekt/",
-        "tag": "primary-grade6b-unit10"
+        "phonetic": "/ˈdekəreɪt/",
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "take off",
-        "chinese": "脱下，起飞",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit10"
-    },
-    {
-        "english": "adult",
-        "chinese": "成人",
-        "desc": "",
-        "phonetic": "/əˈdʌlt/",
-        "tag": "primary-grade6b-unit10"
-    },
-    {
-        "english": "Your turn.",
-        "chinese": "轮到你了。",
+        "english": "last year",
+        "chinese": "去年",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "well-known = famous",
-        "chinese": "众所周知的，著名的（两种说法）",
+        "english": "put up",
+        "chinese": "搭建,张贴",
+        "desc": "",
+        "phonetic": "/ˈpʊt ʌp/",
+        "tag": "primary-grade6b-unit11"
+    },
+    {
+        "english": "laugh at",
+        "chinese": "嘲笑",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "blow",
-        "chinese": "吹，刮",
-        "desc": "",
-        "phonetic": "/bloʊ/",
-        "tag": "primary-grade6b-unit10"
-    },
-    {
-        "english": "blew",
-        "chinese": "吹，刮（过去式）",
+        "english": "on Christmas Eve",
+        "chinese": "在平安夜",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "learn .. from...",
-        "chinese": "从...中学到，向….学",
+        "english": "on one's way to..",
+        "chinese": "在某人去…的路上",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "begin",
-        "chinese": "开始",
-        "desc": "",
-        "phonetic": "/bɪˈɡɪn/",
-        "tag": "primary-grade6b-unit10"
-    },
-    {
-        "english": "began",
-        "chinese": "开始（过去式）",
-        "desc": "",
-        "phonetic": "/bɪˈɡɪn/",
-        "tag": "primary-grade6b-unit10"
-    },
-    {
-        "english": "write",
-        "chinese": "写",
-        "desc": "",
-        "phonetic": "/raɪt/",
-        "tag": "primary-grade6b-unit10"
-    },
-    {
-        "english": "wrote",
-        "chinese": "写（过去式）",
+        "english": "wait for ...",
+        "chinese": "等待,等候…",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "children around the world",
-        "chinese": "全世界的孩子们",
+        "english": "bright",
+        "chinese": "明亮的,鲜艳的",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "phonetic": "/braɪt/",
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "What is the story about? It's about an ugly duckling.",
-        "chinese": "这个故事是关于什么的？这是一个关于丑小鸭的故事。",
+        "english": "Father Christmas",
+        "chinese": "圣诞老人",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "Chillren around the world enjoy reading his stories.",
-        "chinese": "全世界的孩子们都喜欢读他的故事。",
+        "english": "in bad weather",
+        "chinese": "在恶劣的天气",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "Who wrote this story?",
-        "chinese": "谁写的这个故事？",
+        "english": "Thanksgiving",
+        "chinese": "感恩节",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "phonetic": "/ˌθæŋksˈɡɪvɪŋ/",
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "Then he began to shine.",
-        "chinese": "然后他开始照耀大地。",
+        "english": "Christmas is on the twenty-fifth of December. It is an important festival in many Western countries.",
+        "chinese": "圣诞节在12月25日。它是许多西方国家的一个重要的节日。",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "They collected a lot of stories. Both adults and children like their stories.",
-        "chinese": "他们收集了很多故事。大人和孩子都喜欢他们的故事。",
+        "english": "People give presents to each other at Christmas.",
+        "chinese": "人们在圣诞节时互赠礼物。",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "Aesop's Fables is another great book. Most stories in this book are about animals.",
-        "chinese": "《伊索寓言》是另一本了不起的书。这本书里的大多数故事与动物相关。",
+        "english": "Children wait for presents from Father Christmas on Christmas Eve.",
+        "chinese": "孩子们在平安夜等候圣诞老人的礼物。",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "We can usually learn something from these storie",
-        "chinese": "我们通常能从这些故事中学到一些东西。",
+        "english": "Thanksgiving is on the fourth Thursday in November. It is a special holiday in the US",
+        "chinese": "感恩节在11月的第4个星期四。它是美国一个特别的节日。",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
     },
     {
-        "english": "Who is stronger?I'm stronger than you.",
-        "chinese": "谁更强大？我比你强大。",
+        "english": "People usually eat turkey at the Thanksgiving meal.",
+        "chinese": "人们通常在感恩节大餐上吃火鸡。",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit10"
+        "tag": "primary-grade6b-unit11"
+    },
+    {
+        "english": "What do people usually do at Thanksgiving?",
+        "chinese": "人们通常在感恩节做什么?",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit11"
+    },
+    {
+        "english": "They also talk about their favourite moments of the last year.",
+        "chinese": "他们还谈论他们去年最喜欢的时光",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit11"
+    },
+    {
+        "english": "Father Christmas was on his way to give presents to children.",
+        "chinese": "圣诞老人在去给孩子们送礼物的路上。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit11"
     },
     {
         "english": "invent",
@@ -3286,6 +3034,258 @@ var words = [
         "right": 0,
         "wrong": 0,
         "phonetic": ""
+    },
+    {
+        "english": "remember",
+        "chinese": "记住，记得，回忆",
+        "desc": "",
+        "phonetic": "/rɪˈmɛmbər/",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "stronger",
+        "chinese": "更强大的",
+        "desc": "",
+        "phonetic": "/ˈstrɒŋgər/",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "emperor",
+        "chinese": "皇帝",
+        "desc": "",
+        "phonetic": "/ˈɛmpərər/",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "than",
+        "chinese": "比",
+        "desc": "",
+        "phonetic": "/ðæn/",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "an ugly duckling",
+        "chinese": "一只丑小鸭",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "make the plants grow",
+        "chinese": "使植物生长",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "Danish",
+        "chinese": "丹麦人，丹麦的；丹麦语",
+        "desc": "",
+        "phonetic": "/ˈdeɪnɪʃ/",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "blow off",
+        "chinese": "吹掉",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "fairy tale",
+        "chinese": "童话故事",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "put on",
+        "chinese": "穿上、戴上",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "a Danish writer",
+        "chinese": "位丹麦的作家",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "scarf",
+        "chinese": "围巾",
+        "desc": "",
+        "phonetic": "/skɑːrf/",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "scarfs/scarves",
+        "chinese": "围巾复数",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "German",
+        "chinese": "德国的，德语，德国人",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "laugh",
+        "chinese": "笑",
+        "desc": "",
+        "phonetic": "/lɑːf/",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "collect",
+        "chinese": "收集，收藏",
+        "desc": "",
+        "phonetic": "/kəˈlekt/",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "take off",
+        "chinese": "脱下，起飞",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "adult",
+        "chinese": "成人",
+        "desc": "",
+        "phonetic": "/əˈdʌlt/",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "Your turn.",
+        "chinese": "轮到你了。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "well-known = famous",
+        "chinese": "众所周知的，著名的（两种说法）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "blow",
+        "chinese": "吹，刮",
+        "desc": "",
+        "phonetic": "/bloʊ/",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "blew",
+        "chinese": "吹，刮（过去式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "learn .. from...",
+        "chinese": "从...中学到，向….学",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "begin",
+        "chinese": "开始",
+        "desc": "",
+        "phonetic": "/bɪˈɡɪn/",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "began",
+        "chinese": "开始（过去式）",
+        "desc": "",
+        "phonetic": "/bɪˈɡɪn/",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "write",
+        "chinese": "写",
+        "desc": "",
+        "phonetic": "/raɪt/",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "wrote",
+        "chinese": "写（过去式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "children around the world",
+        "chinese": "全世界的孩子们",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "What is the story about? It's about an ugly duckling.",
+        "chinese": "这个故事是关于什么的？这是一个关于丑小鸭的故事。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "Chillren around the world enjoy reading his stories.",
+        "chinese": "全世界的孩子们都喜欢读他的故事。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "Who wrote this story?",
+        "chinese": "谁写的这个故事？",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "Then he began to shine.",
+        "chinese": "然后他开始照耀大地。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "They collected a lot of stories. Both adults and children like their stories.",
+        "chinese": "他们收集了很多故事。大人和孩子都喜欢他们的故事。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "Aesop's Fables is another great book. Most stories in this book are about animals.",
+        "chinese": "《伊索寓言》是另一本了不起的书。这本书里的大多数故事与动物相关。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "We can usually learn something from these storie",
+        "chinese": "我们通常能从这些故事中学到一些东西。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
+    },
+    {
+        "english": "Who is stronger?I'm stronger than you.",
+        "chinese": "谁更强大？我比你强大。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit10"
     },
     {
         "english": "acorn",
@@ -3590,321 +3590,6 @@ var words = [
         "right": 0,
         "tag": "starlight-lv3-unit1",
         "wrong": 0
-    },
-    {
-        "english": "a week ago",
-        "chinese": "一星期前",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "reuse",
-        "chinese": "重新利用",
-        "desc": "",
-        "phonetic": "/ˌriːˈjuːs/",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "throw away",
-        "chinese": "扔掉",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "be full of = be filled with",
-        "chinese": "装满，充满（两种说法）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "can",
-        "chinese": "金属罐（近义tin）",
-        "desc": "",
-        "phonetic": "/kæn/",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "at the supermarket",
-        "chinese": "在超市",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "rubber",
-        "chinese": "橡皮，橡胶",
-        "desc": "",
-        "phonetic": "/ˈrʌbər/",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "the next morning",
-        "chinese": "第二天早上",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "vase",
-        "chinese": "花瓶",
-        "desc": "",
-        "phonetic": "/veɪs/",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "rubbish bin",
-        "chinese": "垃圾桶",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "pen holder",
-        "chinese": "笔筒",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "truck",
-        "chinese": "卡车",
-        "desc": "",
-        "phonetic": "/trʌk/",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "envelope",
-        "chinese": "信封",
-        "desc": "",
-        "phonetic": "/ˈenvəloʊp/",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "machine",
-        "chinese": "机器",
-        "desc": "",
-        "phonetic": "/məˈʃiːn/",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "crayon",
-        "chinese": "蜡笔",
-        "desc": "",
-        "phonetic": "/ˈkreɪɑːn/",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "make ...into..",
-        "chinese": "把……制成……",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "in many ways",
-        "chinese": "在许多方面",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "a piece of cloth",
-        "chinese": "一块布",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "put..in..",
-        "chinese": "把……...放进...里",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "one side of ...",
-        "chinese": "…的一面，一边",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "size",
-        "chinese": "大小，尺码",
-        "desc": "",
-        "phonetic": "/saɪz/",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "write on both sides",
-        "chinese": "在两面写字（双面用纸）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "plastic",
-        "chinese": "塑料的，塑料",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "string",
-        "chinese": "线，细绳，弦",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "journey",
-        "chinese": "旅程，历程",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "save",
-        "chinese": "节省，救助，保存",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "a plastic bottle",
-        "chinese": "一个塑料瓶",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "waste paper",
-        "chinese": "废纸",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "take me home",
-        "chinese": "带我回家",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "take ... outside",
-        "chinese": "把……带出去",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "We should keep them",
-        "chinese": "我们应该留着它们。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "That's right. We can reuse other old things too.",
-        "chinese": "对啊，我们也可以重新利用其他废旧物品。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "It's the right size. It'll be a nice pen holder.",
-        "chinese": "它大小正好。它会是一个漂亮的笔筒。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "A week ago, I was full of water.",
-        "chinese": "一星期前，我装满了水。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "The next morning, the woman drank the water and threw me into a rubbish bin.",
-        "chinese": "第二天早上，这个女子喝了水，然后把我扔进垃圾桶里。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "A street cleaner found me. He put me into a trunk.",
-        "chinese": "一个清洁工发现了我，他把我放到了一个卡车里。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "Finally, the made us into a piece of cloth.",
-        "chinese": "最后，他们把我们制成了一块布料。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "bought",
-        "chinese": "买（过去式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "took",
-        "chinese": "带着（过去式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "drank",
-        "chinese": "喝（过去式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "threw",
-        "chinese": "扔（过去式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "found",
-        "chinese": "找（过去式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "put",
-        "chinese": "放（过去式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "became",
-        "chinese": "变成（过去式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
-    },
-    {
-        "english": "made",
-        "chinese": "制作（过去式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit09"
     },
     {
         "english": "ill",
@@ -4285,263 +3970,319 @@ var words = [
         "phonetic": ""
     },
     {
-        "chinese": "标识，招牌，签字",
+        "english": "a week ago",
+        "chinese": "一星期前",
         "desc": "",
-        "english": "sign",
-        "phonetic": "/saɪn/",
-        "tag": "primary-grade6b-unit08"
-    },
-    {
-        "chinese": "保持安静",
-        "desc": "",
-        "english": "keep quiet",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "english": "underground station",
+        "english": "reuse",
+        "chinese": "重新利用",
         "desc": "",
-        "chinese": "地铁站",
+        "phonetic": "/ˌriːˈjuːs/",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "throw away",
+        "chinese": "扔掉",
+        "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "践踏草坪",
+        "english": "be full of = be filled with",
+        "chinese": "装满，充满（两种说法）",
         "desc": "",
-        "english": "walk on the grass",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "在那边",
+        "english": "can",
+        "chinese": "金属罐（近义tin）",
         "desc": "",
-        "english": "over there",
+        "phonetic": "/kæn/",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "at the supermarket",
+        "chinese": "在超市",
+        "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "小路，小径",
+        "english": "rubber",
+        "chinese": "橡皮，橡胶",
         "desc": "",
-        "english": "path",
-        "phonetic": "/pæθ/",
-        "tag": "primary-grade6b-unit08"
+        "phonetic": "/ˈrʌbər/",
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "刚才，刚好",
+        "english": "the next morning",
+        "chinese": "第二天早上",
         "desc": "",
-        "english": "just",
-        "phonetic": "/dʒʌst/",
-        "tag": "primary-grade6b-unit08"
-    },
-    {
-        "chinese": "在森林旁边",
-        "desc": "",
-        "english": "by the forest",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "来自",
+        "english": "vase",
+        "chinese": "花瓶",
         "desc": "",
-        "english": "come from",
+        "phonetic": "/veɪs/",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "rubbish bin",
+        "chinese": "垃圾桶",
+        "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "对……说",
+        "english": "pen holder",
+        "chinese": "笔筒",
         "desc": "",
-        "english": "say to...",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "……的标识",
+        "english": "truck",
+        "chinese": "卡车",
         "desc": "",
-        "english": "the sign for ...",
+        "phonetic": "/trʌk/",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "envelope",
+        "chinese": "信封",
+        "desc": "",
+        "phonetic": "/ˈenvəloʊp/",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "machine",
+        "chinese": "机器",
+        "desc": "",
+        "phonetic": "/məˈʃiːn/",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "crayon",
+        "chinese": "蜡笔",
+        "desc": "",
+        "phonetic": "/ˈkreɪɑːn/",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "make ...into..",
+        "chinese": "把……制成……",
+        "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "迷路",
-        "desc": "(adj.)=be lost",
-        "english": "get lost",
+        "english": "in many ways",
+        "chinese": "在许多方面",
+        "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "单词",
+        "english": "a piece of cloth",
+        "chinese": "一块布",
         "desc": "",
-        "english": "word",
-        "phonetic": "/wɜːrd/",
-        "tag": "primary-grade6b-unit08"
-    },
-    {
-        "chinese": "看一看",
-        "desc": "",
-        "english": "have a look",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "在……中间",
+        "english": "put..in..",
+        "chinese": "把……...放进...里",
         "desc": "",
-        "english": "in the middle of",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "一段时间",
+        "english": "one side of ...",
+        "chinese": "…的一面，一边",
         "desc": "",
-        "english": "some time",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "环顾周围",
+        "english": "size",
+        "chinese": "大小，尺码",
         "desc": "",
-        "english": "look around",
+        "phonetic": "/saɪz/",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "write on both sides",
+        "chinese": "在两面写字（双面用纸）",
+        "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "特别的，特殊的",
+        "english": "plastic",
+        "chinese": "塑料的，塑料",
         "desc": "",
-        "english": "special",
-        "phonetic": "/ˈspeʃl/",
-        "tag": "primary-grade6b-unit08"
-    },
-    {
-        "chinese": "公路，马路",
-        "desc": "",
-        "english": "road",
-        "phonetic": "/roʊd/",
-        "tag": "primary-grade6b-unit08"
-    },
-    {
-        "chinese": "在地面上",
-        "desc": "",
-        "english": "on the ground",
-        "phonetic": "/roʊd/",
-        "tag": "primary-grade6b-unit08"
-    },
-    {
-        "chinese": "当心，小心",
-        "desc": "",
-        "english": "look out",
-        "phonetic": "/lʊk aʊt/",
-        "tag": "primary-grade6b-unit08"
-    },
-    {
-        "chinese": "担心",
-        "desc": "",
-        "english": "worry (about)",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "在我回家的路上",
+        "english": "string",
+        "chinese": "线，细绳，弦",
         "desc": "",
-        "english": "on my way home",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "当心动物",
+        "english": "journey",
+        "chinese": "旅程，历程",
         "desc": "",
-        "english": "look out for animal",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "落下，掉下、滴，水珠",
+        "english": "save",
+        "chinese": "节省，救助，保存",
         "desc": "",
-        "english": "drop",
-        "phonetic": "/drɑːp/",
-        "tag": "primary-grade6b-unit08"
+        "phonetic": "",
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "找到路",
+        "english": "a plastic bottle",
+        "chinese": "一个塑料瓶",
         "desc": "",
-        "english": "find one's (the) way",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "跟随，跟从",
+        "english": "waste paper",
+        "chinese": "废纸",
         "desc": "",
-        "english": "follow",
-        "phonetic": "/ˈfɒloʊ/",
-        "tag": "primary-grade6b-unit08"
+        "phonetic": "",
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "在路上",
+        "english": "take me home",
+        "chinese": "带我回家",
         "desc": "",
-        "english": "on the way",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "那里地铁站的标志是红色的。",
+        "english": "take ... outside",
+        "chinese": "把……带出去",
         "desc": "",
-        "english": "The sign for the underground station there is red.",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "禁止吸烟。",
-        "desc": "三种说法",
-        "english": "No smoking.=Don't smoke.=You shouldn't smoke.",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit08"
-    },
-    {
-        "chinese": "禁止游泳。",
-        "desc": "两种说法",
-        "english": "No swimming.=Don't swim.=You shouldn't swim.",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit08"
-    },
-    {
-        "chinese": "他们的爸爸看到他们十分高兴。",
+        "english": "We should keep them",
+        "chinese": "我们应该留着它们。",
         "desc": "",
-        "english": "Their father was very happy to see them.",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "我们必须当心它们。",
+        "english": "That's right. We can reuse other old things too.",
+        "chinese": "对啊，我们也可以重新利用其他废旧物品。",
         "desc": "",
-        "english": "We must look out for them.",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "勿踏草坪。",
+        "english": "It's the right size. It'll be a nice pen holder.",
+        "chinese": "它大小正好。它会是一个漂亮的笔筒。",
         "desc": "",
-        "english": "Don't walk on the grass.",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "绝不要进入森林。你们会迷路的。",
+        "english": "A week ago, I was full of water.",
+        "chinese": "一星期前，我装满了水。",
         "desc": "",
-        "english": "Never go into the forest. You may get lost.",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "一段时间之后，他们感到又饿又累。",
+        "english": "The next morning, the woman drank the water and threw me into a rubbish bin.",
+        "chinese": "第二天早上，这个女子喝了水，然后把我扔进垃圾桶里。",
         "desc": "",
-        "english": "After some time, they felt hungry and tired.",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
     },
     {
-        "chinese": "我们可以跟随它们回家。",
+        "english": "A street cleaner found me. He put me into a trunk.",
+        "chinese": "一个清洁工发现了我，他把我放到了一个卡车里。",
         "desc": "",
-        "english": "We can follow them back home.",
         "phonetic": "",
-        "tag": "primary-grade6b-unit08"
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "Finally, the made us into a piece of cloth.",
+        "chinese": "最后，他们把我们制成了一块布料。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "bought",
+        "chinese": "买（过去式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "took",
+        "chinese": "带着（过去式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "drank",
+        "chinese": "喝（过去式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "threw",
+        "chinese": "扔（过去式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "found",
+        "chinese": "找（过去式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "put",
+        "chinese": "放（过去式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "became",
+        "chinese": "变成（过去式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit09"
+    },
+    {
+        "english": "made",
+        "chinese": "制作（过去式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit09"
     },
     {
         "english": "which",
@@ -4940,242 +4681,263 @@ var words = [
         "phonetic": ""
     },
     {
-        "english": "bell",
-        "chinese": "铃，铃铛，大钟",
+        "chinese": "标识，招牌，签字",
         "desc": "",
-        "phonetic": "/bɛl/",
-        "tag": "primary-grade6b-unit07"
+        "english": "sign",
+        "phonetic": "/saɪn/",
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "phone number",
-        "chinese": "电话号码",
+        "chinese": "保持安静",
         "desc": "",
+        "english": "keep quiet",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "neck",
-        "chinese": "脖子",
+        "english": "underground station",
         "desc": "",
-        "phonetic": "/nɛk/",
-        "tag": "primary-grade6b-unit07"
+        "chinese": "地铁站",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "praise... for ...",
-        "chinese": "为..而表扬…",
+        "chinese": "践踏草坪",
         "desc": "",
+        "english": "walk on the grass",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "look like",
-        "chinese": "看起来像",
+        "chinese": "在那边",
         "desc": "",
+        "english": "over there",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "hard work",
-        "chinese": "艰苦的工作",
-        "desc": "(adj.)",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit07"
-    },
-    {
-        "english": "gatekeeper",
-        "chinese": "门卫",
+        "chinese": "小路，小径",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "english": "path",
+        "phonetic": "/pæθ/",
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "help the blind cross the road",
-        "chinese": "帮助盲人过马路",
+        "chinese": "刚才，刚好",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "english": "just",
+        "phonetic": "/dʒʌst/",
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "half an hour ago",
-        "chinese": "半小时前",
+        "chinese": "在森林旁边",
         "desc": "",
+        "english": "by the forest",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "work hard",
-        "chinese": "勤奋地工作",
-        "desc": "(adv.)",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit07"
-    },
-    {
-        "english": "near the gate",
-        "chinese": "在大门附近",
+        "chinese": "来自",
         "desc": "",
+        "english": "come from",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "go out early",
-        "chinese": "早出",
+        "chinese": "对……说",
         "desc": "",
+        "english": "say to...",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "give seats to sb.",
-        "chinese": "给某人让座",
+        "chinese": "……的标识",
         "desc": "",
+        "english": "the sign for ...",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "come back late",
-        "chinese": "晚归",
+        "chinese": "迷路",
+        "desc": "(adj.)=be lost",
+        "english": "get lost",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit08"
+    },
+    {
+        "chinese": "单词",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "english": "word",
+        "phonetic": "/wɜːrd/",
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "a pink bell around her neck",
-        "chinese": "脖子上有一个粉色的铃铛",
+        "chinese": "看一看",
         "desc": "",
+        "english": "have a look",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "think of",
-        "chinese": "认为、想起",
+        "chinese": "在……中间",
         "desc": "",
+        "english": "in the middle of",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "help tourists find their way",
-        "chinese": "给游客指路",
+        "chinese": "一段时间",
         "desc": "",
+        "english": "some time",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "go ahead",
-        "chinese": "开始、前进",
+        "chinese": "环顾周围",
         "desc": "",
+        "english": "look around",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "in fifteen minutes",
-        "chinese": "15分钟后",
+        "chinese": "特别的，特殊的",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "english": "special",
+        "phonetic": "/ˈspeʃl/",
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "work for...",
-        "chinese": "为……而工作",
+        "chinese": "公路，马路",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "english": "road",
+        "phonetic": "/roʊd/",
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "read the newspaper to old people",
-        "chinese": "给老年人读报纸",
+        "chinese": "在地面上",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "english": "on the ground",
+        "phonetic": "/roʊd/",
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "think thought",
-        "chinese": "想，认为",
-        "desc": "pt",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit07"
-    },
-    {
-        "english": "write a notice",
-        "chinese": "写通知",
+        "chinese": "当心，小心",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "english": "look out",
+        "phonetic": "/lʊk aʊt/",
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "meet",
-        "chinese": "见面，会和",
-        "desc": "pt",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit07"
-    },
-    {
-        "english": "met",
-        "chinese": "见面，会和（过去式）",
+        "chinese": "担心",
         "desc": "",
+        "english": "worry (about)",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "lose",
-        "chinese": "丢失、输掉",
+        "chinese": "在我回家的路上",
         "desc": "",
-        "phonetic": "/luːz/",
-        "tag": "primary-grade6b-unit07"
+        "english": "on my way home",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "lost",
-        "chinese": "丢失、输掉（过去式）",
+        "chinese": "当心动物",
         "desc": "",
+        "english": "look out for animal",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "What's the matter(with you)?I can't find my dog.",
-        "chinese": "怎么了？我找不到我的狗了。",
+        "chinese": "落下，掉下、滴，水珠",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "english": "drop",
+        "phonetic": "/drɑːp/",
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "What does your dog look like?",
-        "chinese": "你的狗长什么样子？",
+        "chinese": "找到路",
         "desc": "",
+        "english": "find one's (the) way",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "She has a pink bell around her neck.",
-        "chinese": "她脖子上戴着一个粉色的铃铛。",
+        "chinese": "跟随，跟从",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "english": "follow",
+        "phonetic": "/ˈfɒloʊ/",
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "I saw her two minutes ago.She was near the lake.",
-        "chinese": "我两分钟前见过她。她在湖附近。",
+        "chinese": "在路上",
         "desc": "",
+        "english": "on the way",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "What did the people think of the bee? They all liked the bee.",
-        "chinese": "人们怎么看蜜蜂？他们都喜欢蜜蜂",
+        "chinese": "那里地铁站的标志是红色的。",
         "desc": "",
+        "english": "The sign for the underground station there is red.",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "They all praised her for her hard work,",
-        "chinese": "他们都因她辛勤劳作而表扬她",
-        "desc": "",
+        "chinese": "禁止吸烟。",
+        "desc": "三种说法",
+        "english": "No smoking.=Don't smoke.=You shouldn't smoke.",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
     },
     {
-        "english": "The ant was not happy about this.",
-        "chinese": "蚂蚁对此很不开心。",
-        "desc": "",
+        "chinese": "禁止游泳。",
+        "desc": "两种说法",
+        "english": "No swimming.=Don't swim.=You shouldn't swim.",
         "phonetic": "",
-        "tag": "primary-grade6b-unit07"
+        "tag": "primary-grade6b-unit08"
+    },
+    {
+        "chinese": "他们的爸爸看到他们十分高兴。",
+        "desc": "",
+        "english": "Their father was very happy to see them.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit08"
+    },
+    {
+        "chinese": "我们必须当心它们。",
+        "desc": "",
+        "english": "We must look out for them.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit08"
+    },
+    {
+        "chinese": "勿踏草坪。",
+        "desc": "",
+        "english": "Don't walk on the grass.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit08"
+    },
+    {
+        "chinese": "绝不要进入森林。你们会迷路的。",
+        "desc": "",
+        "english": "Never go into the forest. You may get lost.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit08"
+    },
+    {
+        "chinese": "一段时间之后，他们感到又饿又累。",
+        "desc": "",
+        "english": "After some time, they felt hungry and tired.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit08"
+    },
+    {
+        "chinese": "我们可以跟随它们回家。",
+        "desc": "",
+        "english": "We can follow them back home.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit08"
     },
     {
         "english": "meet",
@@ -5439,270 +5201,242 @@ var words = [
         "phonetic": ""
     },
     {
-        "english": "have PE lessons",
-        "chinese": "上体育课",
+        "english": "bell",
+        "chinese": "铃，铃铛，大钟",
+        "desc": "",
+        "phonetic": "/bɛl/",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "phone number",
+        "chinese": "电话号码",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "swimming lessons",
-        "chinese": "游泳课",
+        "english": "neck",
+        "chinese": "脖子",
+        "desc": "",
+        "phonetic": "/nɛk/",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "praise... for ...",
+        "chinese": "为..而表扬…",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "every week",
-        "chinese": "每周",
+        "english": "look like",
+        "chinese": "看起来像",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "swimsuit",
-        "chinese": "游泳衣（女士）",
+        "english": "hard work",
+        "chinese": "艰苦的工作",
+        "desc": "(adj.)",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "gatekeeper",
+        "chinese": "门卫",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "long race",
-        "chinese": "长跑",
+        "english": "help the blind cross the road",
+        "chinese": "帮助盲人过马路",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "swimming cap",
-        "chinese": "游泳帽",
+        "english": "half an hour ago",
+        "chinese": "半小时前",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "short race",
-        "chinese": "短跑",
+        "english": "work hard",
+        "chinese": "勤奋地工作",
+        "desc": "(adv.)",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "near the gate",
+        "chinese": "在大门附近",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "a pair of swimming goggles",
-        "chinese": "游泳镜",
+        "english": "go out early",
+        "chinese": "早出",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "get into ...",
-        "chinese": "进入到……里",
+        "english": "give seats to sb.",
+        "chinese": "给某人让座",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "long jump",
-        "chinese": "跳远",
+        "english": "come back late",
+        "chinese": "晚归",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "high jump",
-        "chinese": "跳高",
+        "english": "a pink bell around her neck",
+        "chinese": "脖子上有一个粉色的铃铛",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "before",
-        "chinese": "在……..之前",
+        "english": "think of",
+        "chinese": "认为、想起",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "run long races",
-        "chinese": "进行长跑",
+        "english": "help tourists find their way",
+        "chinese": "给游客指路",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "after",
-        "chinese": "在……之后",
+        "english": "go ahead",
+        "chinese": "开始、前进",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "win",
-        "chinese": "赢、获胜",
-        "desc": "",
-        "phonetic": "/wɪn/",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "won",
-        "chinese": "赢、获胜（过去式）",
-        "desc": "",
-        "phonetic": "/wʌn/",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "swimming pool",
-        "chinese": "游泳池",
+        "english": "in fifteen minutes",
+        "chinese": "15分钟后",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "do the high jump",
-        "chinese": "进行跳高",
+        "english": "work for...",
+        "chinese": "为……而工作",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "do warm-up exercises",
-        "chinese": "做热身运动",
+        "english": "read the newspaper to old people",
+        "chinese": "给老年人读报纸",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "fit",
-        "chinese": "健壮的",
-        "desc": "",
+        "english": "think thought",
+        "chinese": "想，认为",
+        "desc": "pt",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "be good at sth./ doing",
-        "chinese": "擅长（做）……",
+        "english": "write a notice",
+        "chinese": "写通知",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "play ball games",
-        "chinese": "进行球类运动",
-        "desc": "",
+        "english": "meet",
+        "chinese": "见面，会和",
+        "desc": "pt",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "stay healthy and fit",
-        "chinese": "保持身体健康",
+        "english": "met",
+        "chinese": "见面，会和（过去式）",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "play volleyball",
-        "chinese": "打排球",
+        "english": "lose",
+        "chinese": "丢失、输掉",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "phonetic": "/luːz/",
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "the Olympic Games",
-        "chinese": "奥运会",
+        "english": "lost",
+        "chinese": "丢失、输掉（过去式）",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "symbol",
-        "chinese": "象征,标志",
+        "english": "What's the matter(with you)?I can't find my dog.",
+        "chinese": "怎么了？我找不到我的狗了。",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "play sport",
-        "chinese": "做运动",
+        "english": "What does your dog look like?",
+        "chinese": "你的狗长什么样子？",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "in our PE lessons",
-        "chinese": "在体育课上",
+        "english": "She has a pink bell around her neck.",
+        "chinese": "她脖子上戴着一个粉色的铃铛。",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "ring",
-        "chinese": "环,戒指",
+        "english": "I saw her two minutes ago.She was near the lake.",
+        "chinese": "我两分钟前见过她。她在湖附近。",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "have a lot of fun together",
-        "chinese": "一起玩得很开心",
+        "english": "What did the people think of the bee? They all liked the bee.",
+        "chinese": "人们怎么看蜜蜂？他们都喜欢蜜蜂",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "five rings in five colours",
-        "chinese": "五个颜色的五环",
+        "english": "They all praised her for her hard work,",
+        "chinese": "他们都因她辛勤劳作而表扬她",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
-        "english": "We have two PE lessons at school every week.",
-        "chinese": "我们每周在学校有两节体育课。",
+        "english": "The ant was not happy about this.",
+        "chinese": "蚂蚁对此很不开心。",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "We run long races and short races. The races are exciting.",
-        "chinese": "我们进行长跑和短跑。赛跑激动人心。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "What do we need for swimming?",
-        "chinese": "我们游泳都需要什么?",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "The swimsuit should not be too big or too small,",
-        "chinese": "泳衣既不要太大也不要太小。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "You should wash yourself before you go into the swimming pool.",
-        "chinese": "在你进入泳池前，要先冲洗身体。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "Do it after swimming too.",
-        "chinese": "游泳之后也要这么做。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "I'll teach you how to swim.",
-        "chinese": "我将教你如何游泳。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
+        "tag": "primary-grade6b-unit07"
     },
     {
         "english": "holiday",
@@ -5993,305 +5727,270 @@ var words = [
         "phonetic": ""
     },
     {
-        "english": "leaf",
-        "chinese": "叶子",
-        "desc": "",
-        "phonetic": "/liːf/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "craft",
-        "chinese": "手艺，工艺",
-        "desc": "",
-        "phonetic": "/kræft/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "leaves",
-        "chinese": "叶子复数",
-        "desc": "",
-        "phonetic": "/liːvz/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "crown",
-        "chinese": "王冠",
-        "desc": "",
-        "phonetic": "/kraʊn/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "saw",
-        "chinese": "锯",
-        "desc": "",
-        "phonetic": "/sɔː/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "scissors",
-        "chinese": "剪刀",
-        "desc": "",
-        "phonetic": "/ˈsɪzərz/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "tool",
-        "chinese": "工具",
-        "desc": "",
-        "phonetic": "/tuːl/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "a pair of scissors",
-        "chinese": "一把剪刀",
+        "english": "have PE lessons",
+        "chinese": "上体育课",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "easily",
-        "chinese": "容易地",
-        "desc": "",
-        "phonetic": "/ˈiːzɪli/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "tape",
-        "chinese": "胶带",
-        "desc": "",
-        "phonetic": "/teɪp/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "cut",
-        "chinese": "剪，切，砍",
-        "desc": "",
-        "phonetic": "/kʌt/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "cut",
-        "chinese": "剪，切，砍（过去式）",
-        "desc": "",
-        "phonetic": "/kʌt/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "glue",
-        "chinese": "胶水",
-        "desc": "",
-        "phonetic": "/ɡluː/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "put",
-        "chinese": "放",
-        "desc": "",
-        "phonetic": "/pʊt/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "put",
-        "chinese": "放（过去式）",
-        "desc": "",
-        "phonetic": "/pʊt/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "sound",
-        "chinese": "声音，音量",
-        "desc": "",
-        "phonetic": "/saʊnd/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "think",
-        "chinese": "想，认为",
-        "desc": "",
-        "phonetic": "/θɪŋk/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "thought",
-        "chinese": "想，认为（过去式）",
+        "english": "swimming lessons",
+        "chinese": "游泳课",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "model house",
-        "chinese": "房子模型",
+        "english": "every week",
+        "chinese": "每周",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "hurt",
-        "chinese": "弄伤，疼",
-        "desc": "",
-        "phonetic": "/hɜːrt/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "hurt",
-        "chinese": "弄伤，疼（过去式）",
-        "desc": "",
-        "phonetic": "/hɜːrt/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "make presents for..",
-        "chinese": "为.制作礼物",
+        "english": "swimsuit",
+        "chinese": "游泳衣（女士）",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "tell",
-        "chinese": "告诉，讲述",
-        "desc": "",
-        "phonetic": "/tel/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "told",
-        "chinese": "告诉，讲述（过去式）",
+        "english": "long race",
+        "chinese": "长跑",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "prince",
-        "chinese": "王子",
-        "desc": "",
-        "phonetic": "/prɪns/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "princess",
-        "chinese": "公主",
-        "desc": "",
-        "phonetic": "/ˌprɪnˈses/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "say to oneself",
-        "chinese": "自言自语",
+        "english": "swimming cap",
+        "chinese": "游泳帽",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "a long time ago",
-        "chinese": "很久以前",
+        "english": "short race",
+        "chinese": "短跑",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "still",
-        "chinese": "还，仍然",
-        "desc": "",
-        "phonetic": "/stɪl/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "at work",
-        "chinese": "在工作，在忙着",
+        "english": "a pair of swimming goggles",
+        "chinese": "游泳镜",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "can",
-        "chinese": "能，可能",
-        "desc": "",
-        "phonetic": "/kʊd/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "could",
-        "chinese": "能，可能（过去式）",
-        "desc": "",
-        "phonetic": "/kʊd/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "craftsman",
-        "chinese": "工匠",
-        "desc": "",
-        "phonetic": "/ˈkræftsmən/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "cut into pieces",
-        "chinese": "剪成多块",
+        "english": "get into ...",
+        "chinese": "进入到……里",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "such",
-        "chinese": "如此的，这样的",
+        "english": "long jump",
+        "chinese": "跳远",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "cardboard",
-        "chinese": "硬纸板",
-        "desc": "",
-        "phonetic": "/ˈkɑːrdboɔːrd/",
-        "tag": "primary-grade6b-unit05"
-    },
-    {
-        "english": "such a small leaf",
-        "chinese": "这么小的一片叶子",
+        "english": "high jump",
+        "chinese": "跳高",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "do the puzzle",
-        "chinese": "玩拼图",
+        "english": "before",
+        "chinese": "在……..之前",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "We don't have any tape. We don't have any tape.",
-        "chinese": "我们没有胶带了。",
+        "english": "run long races",
+        "chinese": "进行长跑",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "What do you want to make? I want to make a crown.",
-        "chinese": "你想做（制作）什么？我想要做一个王冠。",
+        "english": "after",
+        "chinese": "在……之后",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "What do you need? I need a pair of scissors.",
-        "chinese": "你需要什么？我需要一把剪刀。",
+        "english": "win",
+        "chinese": "赢、获胜",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "phonetic": "/wɪn/",
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "That sounds nice. Who is it for? It's for my little cousin.",
-        "chinese": "那听起来很不错。它是给谁的？是给我小表妹的。",
+        "english": "won",
+        "chinese": "赢、获胜（过去式）",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "phonetic": "/wʌn/",
+        "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "What are you making? We're making a model house.",
-        "chinese": "你们在做什么？我们在做模型小屋。",
+        "english": "swimming pool",
+        "chinese": "游泳池",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit05"
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "do the high jump",
+        "chinese": "进行跳高",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "do warm-up exercises",
+        "chinese": "做热身运动",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "fit",
+        "chinese": "健壮的",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "be good at sth./ doing",
+        "chinese": "擅长（做）……",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "play ball games",
+        "chinese": "进行球类运动",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "stay healthy and fit",
+        "chinese": "保持身体健康",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "play volleyball",
+        "chinese": "打排球",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "the Olympic Games",
+        "chinese": "奥运会",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "symbol",
+        "chinese": "象征,标志",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "play sport",
+        "chinese": "做运动",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "in our PE lessons",
+        "chinese": "在体育课上",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "ring",
+        "chinese": "环,戒指",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "have a lot of fun together",
+        "chinese": "一起玩得很开心",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "five rings in five colours",
+        "chinese": "五个颜色的五环",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "We have two PE lessons at school every week.",
+        "chinese": "我们每周在学校有两节体育课。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "We run long races and short races. The races are exciting.",
+        "chinese": "我们进行长跑和短跑。赛跑激动人心。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "What do we need for swimming?",
+        "chinese": "我们游泳都需要什么?",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "The swimsuit should not be too big or too small,",
+        "chinese": "泳衣既不要太大也不要太小。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "You should wash yourself before you go into the swimming pool.",
+        "chinese": "在你进入泳池前，要先冲洗身体。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "Do it after swimming too.",
+        "chinese": "游泳之后也要这么做。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "I'll teach you how to swim.",
+        "chinese": "我将教你如何游泳。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
     },
     {
         "english": "weekend",
@@ -6627,291 +6326,305 @@ var words = [
         "phonetic": ""
     },
     {
-        "english": "oil",
-        "chinese": "油[U]",
+        "english": "leaf",
+        "chinese": "叶子",
         "desc": "",
-        "phonetic": "/ɔɪl/",
-        "tag": "primary-grade6b-unit04"
+        "phonetic": "/liːf/",
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "take",
-        "chinese": "拿走,带领,进行 pt",
+        "english": "craft",
+        "chinese": "手艺，工艺",
         "desc": "",
-        "phonetic": "/teɪk/",
-        "tag": "primary-grade6b-unit04"
+        "phonetic": "/kræft/",
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "took",
-        "chinese": "拿走,带领,进行（过去式）",
+        "english": "leaves",
+        "chinese": "叶子复数",
         "desc": "",
-        "phonetic": "/tuk/",
-        "tag": "primary-grade6b-unit04"
+        "phonetic": "/liːvz/",
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "take drawing lessons",
-        "chinese": "上绘画课",
+        "english": "crown",
+        "chinese": "王冠",
+        "desc": "",
+        "phonetic": "/kraʊn/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "saw",
+        "chinese": "锯",
+        "desc": "",
+        "phonetic": "/sɔː/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "scissors",
+        "chinese": "剪刀",
+        "desc": "",
+        "phonetic": "/ˈsɪzərz/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "tool",
+        "chinese": "工具",
+        "desc": "",
+        "phonetic": "/tuːl/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "a pair of scissors",
+        "chinese": "一把剪刀",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "oil painting",
-        "chinese": "油画",
+        "english": "easily",
+        "chinese": "容易地",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "phonetic": "/ˈiːzɪli/",
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "powerful",
-        "chinese": "强有力的",
+        "english": "tape",
+        "chinese": "胶带",
         "desc": "",
-        "phonetic": "/ˈpaʊərfl/",
-        "tag": "primary-grade6b-unit04"
+        "phonetic": "/teɪp/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "cut",
+        "chinese": "剪，切，砍",
+        "desc": "",
+        "phonetic": "/kʌt/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "cut",
+        "chinese": "剪，切，砍（过去式）",
+        "desc": "",
+        "phonetic": "/kʌt/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "glue",
+        "chinese": "胶水",
+        "desc": "",
+        "phonetic": "/ɡluː/",
+        "tag": "primary-grade6b-unit05"
     },
     {
         "english": "put",
-        "chinese": "放置",
+        "chinese": "放",
         "desc": "",
         "phonetic": "/pʊt/",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
         "english": "put",
-        "chinese": "放置（过去式）",
+        "chinese": "放（过去式）",
         "desc": "",
         "phonetic": "/pʊt/",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "ink",
-        "chinese": "墨水,墨汁",
+        "english": "sound",
+        "chinese": "声音，音量",
         "desc": "",
-        "phonetic": "/ɪŋk/",
-        "tag": "primary-grade6b-unit04"
+        "phonetic": "/saʊnd/",
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "draw",
-        "chinese": "(用钢笔或铅笔)画pt",
+        "english": "think",
+        "chinese": "想，认为",
         "desc": "",
-        "phonetic": "/drɔː/",
-        "tag": "primary-grade6b-unit04"
+        "phonetic": "/θɪŋk/",
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "drew",
-        "chinese": "(用钢笔或铅笔)画（过去式）",
-        "desc": "",
-        "phonetic": "/druː/",
-        "tag": "primary-grade6b-unit04"
-    },
-    {
-        "english": "Chinese ink painting",
-        "chinese": "中国水墨画",
+        "english": "thought",
+        "chinese": "想，认为（过去式）",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "ask sb to do ...",
-        "chinese": "让某人去做.…",
+        "english": "model house",
+        "chinese": "房子模型",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "brush",
-        "chinese": "画笔,刷子(n.),刷(v.)",
+        "english": "hurt",
+        "chinese": "弄伤，疼",
         "desc": "",
-        "phonetic": "/brʌʃ/",
-        "tag": "primary-grade6b-unit04"
+        "phonetic": "/hɜːrt/",
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "in the second lesson",
-        "chinese": "在第二节课上",
+        "english": "hurt",
+        "chinese": "弄伤，疼（过去式）",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "phonetic": "/hɜːrt/",
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "paints",
-        "chinese": "绘画颜料,水彩",
-        "desc": "",
-        "phonetic": "/peɪnts/",
-        "tag": "primary-grade6b-unit04"
-    },
-    {
-        "english": "all the time",
-        "chinese": "一直",
+        "english": "make presents for..",
+        "chinese": "为.制作礼物",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "feel",
-        "chinese": "触摸，感觉",
+        "english": "tell",
+        "chinese": "告诉，讲述",
         "desc": "",
-        "phonetic": "/fiːl/",
-        "tag": "primary-grade6b-unit04"
+        "phonetic": "/tel/",
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "which",
-        "chinese": "哪一个,哪一些",
-        "desc": "",
-        "phonetic": "/wɪtʃ/",
-        "tag": "primary-grade6b-unit04"
-    },
-    {
-        "english": "felt",
-        "chinese": "触摸,感觉（过去式）",
-        "desc": "",
-        "phonetic": "/felt/",
-        "tag": "primary-grade6b-unit04"
-    },
-    {
-        "english": "feel unhappy",
-        "chinese": "感到不高兴",
+        "english": "told",
+        "chinese": "告诉，讲述（过去式）",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "look carefully",
-        "chinese": "仔细看",
+        "english": "prince",
+        "chinese": "王子",
+        "desc": "",
+        "phonetic": "/prɪns/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "princess",
+        "chinese": "公主",
+        "desc": "",
+        "phonetic": "/ˌprɪnˈses/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "say to oneself",
+        "chinese": "自言自语",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "work hard",
-        "chinese": "努力工作,发奋努力",
+        "english": "a long time ago",
+        "chinese": "很久以前",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "on the left/on the right",
-        "chinese": "在左边/在右边",
+        "english": "still",
+        "chinese": "还，仍然",
+        "desc": "",
+        "phonetic": "/stɪl/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "at work",
+        "chinese": "在工作，在忙着",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "tell sb about .....",
-        "chinese": "给某人讲述..",
+        "english": "can",
+        "chinese": "能，可能",
+        "desc": "",
+        "phonetic": "/kʊd/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "could",
+        "chinese": "能，可能（过去式）",
+        "desc": "",
+        "phonetic": "/kʊd/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "craftsman",
+        "chinese": "工匠",
+        "desc": "",
+        "phonetic": "/ˈkræftsmən/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "cut into pieces",
+        "chinese": "剪成多块",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "show.....to sb",
-        "chinese": "给某人看……",
+        "english": "such",
+        "chinese": "如此的，这样的",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "the night sky",
-        "chinese": "夜空",
+        "english": "cardboard",
+        "chinese": "硬纸板",
+        "desc": "",
+        "phonetic": "/ˈkɑːrdboɔːrd/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "such a small leaf",
+        "chinese": "这么小的一片叶子",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "a picture by....",
-        "chinese": "-幅..….画的画",
+        "english": "do the puzzle",
+        "chinese": "玩拼图",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "colourful",
-        "chinese": "色彩斑斓的",
-        "desc": "",
-        "phonetic": "/ˈkʌlərfl/",
-        "tag": "primary-grade6b-unit04"
-    },
-    {
-        "english": "sunflower",
-        "chinese": "向日葵",
-        "desc": "",
-        "phonetic": "/ˈsʌnflaʊər/",
-        "tag": "primary-grade6b-unit04"
-    },
-    {
-        "english": "art",
-        "chinese": "美术",
-        "desc": "",
-        "phonetic": "/ɑːrt/",
-        "tag": "primary-grade6b-unit04"
-    },
-    {
-        "english": "artist",
-        "chinese": "艺术家,画家",
-        "desc": "",
-        "phonetic": "/ˈɑːrtɪst/",
-        "tag": "primary-grade6b-unit04"
-    },
-    {
-        "english": "vase",
-        "chinese": "花瓶",
-        "desc": "",
-        "phonetic": "/veɪs/",
-        "tag": "primary-grade6b-unit04"
-    },
-    {
-        "english": "say",
-        "chinese": "说",
-        "desc": "",
-        "phonetic": "/seɪ/",
-        "tag": "primary-grade6b-unit04"
-    },
-    {
-        "english": "said",
-        "chinese": "说（过去式）",
+        "english": "We don't have any tape. We don't have any tape.",
+        "chinese": "我们没有胶带了。",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "a great artist",
-        "chinese": "一个伟大的画家",
+        "english": "What do you want to make? I want to make a crown.",
+        "chinese": "你想做（制作）什么？我想要做一个王冠。",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "The students are going to an art museum tomorrow.",
-        "chinese": "学生们明天要去美术馆。",
+        "english": "What do you need? I need a pair of scissors.",
+        "chinese": "你需要什么？我需要一把剪刀。",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "Which one do you like? I like the one on the left.",
-        "chinese": "你们喜欢哪一幅?我喜欢左边的那幅。",
+        "english": "That sounds nice. Who is it for? It's for my little cousin.",
+        "chinese": "那听起来很不错。它是给谁的？是给我小表妹的。",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "In the first lesson, the teacher put an egg on the table and asked Little Leo to draw it.",
-        "chinese": "在第一节课上,老师在桌子上放了一个鸡蛋让小利奥画。",
+        "english": "What are you making? We're making a model house.",
+        "chinese": "你们在做什么？我们在做模型小屋。",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit04"
-    },
-    {
-        "english": "This horse looks powerful. This is a Chinese ink painting. A Chinese ink painting is usually in black and white.",
-        "chinese": "这匹马看上去强壮有力。这是一幅中国水墨画。水墨画通常以黑、白两色入画。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit04"
-    },
-    {
-        "english": "Why do we draw eggs all the time?",
-        "chinese": "为什么我们总是画鸡蛋?",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit04"
+        "tag": "primary-grade6b-unit05"
     },
     {
         "english": "storybook",
@@ -7700,312 +7413,291 @@ var words = [
         "tag": "primary-grade6a-unit04"
     },
     {
-        "english": "carry",
-        "chinese": "拿，背，挑",
+        "english": "oil",
+        "chinese": "油[U]",
         "desc": "",
-        "phonetic": "/ˈkæri/",
-        "tag": "primary-grade6b-unit03"
+        "phonetic": "/ɔɪl/",
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "carried",
-        "chinese": "拿，背，挑（过去式）",
+        "english": "take",
+        "chinese": "拿走,带领,进行 pt",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "phonetic": "/teɪk/",
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "in space",
-        "chinese": "在太空里",
+        "english": "took",
+        "chinese": "拿走,带领,进行（过去式）",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "phonetic": "/tuk/",
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "mountain",
-        "chinese": "山，山脉",
-        "desc": "",
-        "phonetic": "/ˈmaʊntən/",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "online",
-        "chinese": "在线",
-        "desc": "",
-        "phonetic": "/ˈɑːnˌlaɪn/",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "offline",
-        "chinese": "下线，离线",
+        "english": "take drawing lessons",
+        "chinese": "上绘画课",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "even",
-        "chinese": "甚至",
-        "desc": "",
-        "phonetic": "/ˈiːvən/",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "head teacher",
-        "chinese": "校长，班主任",
+        "english": "oil painting",
+        "chinese": "油画",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "postscript",
-        "chinese": "附言（用于信末）",
-        "desc": "PS",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "in the library",
-        "chinese": "在图书馆里",
+        "english": "powerful",
+        "chinese": "强有力的",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "phonetic": "/ˈpaʊərfl/",
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "write down",
-        "chinese": "写下，记下",
+        "english": "put",
+        "chinese": "放置",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "phonetic": "/pʊt/",
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "dinosaur",
-        "chinese": "恐龙",
+        "english": "put",
+        "chinese": "放置（过去式）",
         "desc": "",
-        "phonetic": "/ˈdaɪnəsɔːr/",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "a piece of",
-        "chinese": "一张，一片",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "other interesting thing",
-        "chinese": "其它有趣的事情",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "have lessons",
-        "chinese": "上课（两种等价形式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "have classes",
-        "chinese": "上课（两种等价形式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "have a picnic",
-        "chinese": "野餐（三种等价形式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "take a picnic",
-        "chinese": "野餐（三种等价形式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "go on a picnic",
-        "chinese": "野餐（三种等价形式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "every month",
-        "chinese": "每个月",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "students from other countries",
-        "chinese": "来自其他国家的学生",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "carry books to school",
-        "chinese": "把书拿到学校",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "a cooking lesson",
-        "chinese": "烹饪课",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "grow plants",
-        "chinese": "种植物",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "study",
-        "chinese": "学习，研究",
-        "desc": "",
-        "phonetic": "/ˈstʌdi/",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "studied",
-        "chinese": "学习，研究（过去式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "study online",
-        "chinese": "在线学习",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "a swimming pool",
-        "chinese": "游泳池",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "hope",
-        "chinese": "希望",
-        "desc": "",
-        "phonetic": "/hoʊp/",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "ring",
-        "chinese": "环形物（n.），鸣响（v.）",
-        "desc": "",
-        "phonetic": "/rɪŋ/",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "wing",
-        "chinese": "翅膀",
-        "desc": "",
-        "phonetic": "/wɪŋ/",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "get better and better",
-        "chinese": "变得越来越好",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "phonetic": "/pʊt/",
+        "tag": "primary-grade6b-unit04"
     },
     {
         "english": "ink",
-        "chinese": "墨水",
+        "chinese": "墨水,墨汁",
         "desc": "",
         "phonetic": "/ɪŋk/",
-        "tag": "primary-grade6b-unit03"
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "seem",
-        "chinese": "似乎，好像",
+        "english": "draw",
+        "chinese": "(用钢笔或铅笔)画pt",
         "desc": "",
-        "phonetic": "/siːm/",
-        "tag": "primary-grade6b-unit03"
+        "phonetic": "/drɔː/",
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "under the sea",
-        "chinese": "在海下",
+        "english": "drew",
+        "chinese": "(用钢笔或铅笔)画（过去式）",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "phonetic": "/druː/",
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "on high mountains",
-        "chinese": "在高山上",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "In the future, what changes would you like to see in our school?",
-        "chinese": "未来你们想看到我们的学校有什么变化？",
+        "english": "Chinese ink painting",
+        "chinese": "中国水墨画",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "Write your wishes down on a piece of paper.",
-        "chinese": "在一张纸上写下你们的愿望。",
+        "english": "ask sb to do ...",
+        "chinese": "让某人去做.…",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "Students will study online at home.",
-        "chinese": "学生们将在家线上学习。",
+        "english": "brush",
+        "chinese": "画笔,刷子(n.),刷(v.)",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "phonetic": "/brʌʃ/",
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "Students will not carry any books. All their books will be on a small computer.",
-        "chinese": "学生们将不带书。他们所有的书都在一个小电脑里。",
+        "english": "in the second lesson",
+        "chinese": "在第二节课上",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "We will have lessons with students from other countries.",
-        "chinese": "我们将和来自其它国家的学生一起上课。",
+        "english": "paints",
+        "chinese": "绘画颜料,水彩",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "phonetic": "/peɪnts/",
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "We hope our school will get better and better.",
-        "chinese": "我们希望我们的学校将变得越来越好。",
+        "english": "all the time",
+        "chinese": "一直",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "What will schools be like in the future? In the future, schools will be different. They will be under the sea, on high mountains and even in space.",
-        "chinese": "学校将来会是什么样的？未来的学校将会是不同的。它们会在海底、高山上甚至在太空里。",
+        "english": "feel",
+        "chinese": "触摸，感觉",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "phonetic": "/fiːl/",
+        "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "Robots will help us find books in the library.",
-        "chinese": "机器人将帮助我们在图书馆里找书。",
+        "english": "which",
+        "chinese": "哪一个,哪一些",
+        "desc": "",
+        "phonetic": "/wɪtʃ/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "felt",
+        "chinese": "触摸,感觉（过去式）",
+        "desc": "",
+        "phonetic": "/felt/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "feel unhappy",
+        "chinese": "感到不高兴",
         "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit03"
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "look carefully",
+        "chinese": "仔细看",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "work hard",
+        "chinese": "努力工作,发奋努力",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "on the left/on the right",
+        "chinese": "在左边/在右边",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "tell sb about .....",
+        "chinese": "给某人讲述..",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "show.....to sb",
+        "chinese": "给某人看……",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "the night sky",
+        "chinese": "夜空",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "a picture by....",
+        "chinese": "-幅..….画的画",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "colourful",
+        "chinese": "色彩斑斓的",
+        "desc": "",
+        "phonetic": "/ˈkʌlərfl/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "sunflower",
+        "chinese": "向日葵",
+        "desc": "",
+        "phonetic": "/ˈsʌnflaʊər/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "art",
+        "chinese": "美术",
+        "desc": "",
+        "phonetic": "/ɑːrt/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "artist",
+        "chinese": "艺术家,画家",
+        "desc": "",
+        "phonetic": "/ˈɑːrtɪst/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "vase",
+        "chinese": "花瓶",
+        "desc": "",
+        "phonetic": "/veɪs/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "say",
+        "chinese": "说",
+        "desc": "",
+        "phonetic": "/seɪ/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "said",
+        "chinese": "说（过去式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "a great artist",
+        "chinese": "一个伟大的画家",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "The students are going to an art museum tomorrow.",
+        "chinese": "学生们明天要去美术馆。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "Which one do you like? I like the one on the left.",
+        "chinese": "你们喜欢哪一幅?我喜欢左边的那幅。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "In the first lesson, the teacher put an egg on the table and asked Little Leo to draw it.",
+        "chinese": "在第一节课上,老师在桌子上放了一个鸡蛋让小利奥画。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "This horse looks powerful. This is a Chinese ink painting. A Chinese ink painting is usually in black and white.",
+        "chinese": "这匹马看上去强壮有力。这是一幅中国水墨画。水墨画通常以黑、白两色入画。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "Why do we draw eggs all the time?",
+        "chinese": "为什么我们总是画鸡蛋?",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
     },
     {
         "english": "future",
@@ -8981,340 +8673,312 @@ var words = [
         "tag": "primary-grade6a-unit03"
     },
     {
-        "chinese": "生活，生命",
+        "english": "carry",
+        "chinese": "拿，背，挑",
         "desc": "",
-        "english": "life",
-        "phonetic": "/laɪf/",
-        "tag": "primary-grade6b-unit02"
+        "phonetic": "/ˈkæri/",
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "生命（复数）",
+        "english": "carried",
+        "chinese": "拿，背，挑（过去式）",
         "desc": "",
-        "english": "lives",
-        "phonetic": "/laɪvz/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "作家",
-        "desc": "",
-        "english": "writer",
-        "phonetic": "/ˈraɪtə(r)/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "摄影师",
-        "desc": "",
-        "english": "photographer",
-        "phonetic": "/fəˈtɒɡrəfə(r)/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "电影；胶卷",
-        "desc": "",
-        "english": "film",
-        "phonetic": "/fɪlm/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "数码的",
-        "desc": "",
-        "english": "digital",
-        "phonetic": "/ˈdɪdʒɪtl/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "扫地",
-        "desc": "",
-        "english": "sweep",
-        "phonetic": "/swiːp/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "扫地，过去式",
-        "desc": "",
-        "english": "swept",
-        "phonetic": "/swept/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "扫帚",
-        "desc": "",
-        "english": "broom",
-        "phonetic": "/bruːm/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "驾驶，驱动",
-        "desc": "",
-        "english": "drive",
-        "phonetic": "/draɪv/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "驾驶，驱动，过去式",
-        "desc": "",
-        "english": "drove",
-        "phonetic": "/drəʊv/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "扫地车",
-        "desc": "",
-        "english": "a street sweeper",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "用……去做……",
+        "english": "in space",
+        "chinese": "在太空里",
         "desc": "",
-        "english": "use... to do....",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "用手",
+        "english": "mountain",
+        "chinese": "山，山脉",
         "desc": "",
-        "english": "by hand",
+        "phonetic": "/ˈmaʊntən/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "online",
+        "chinese": "在线",
+        "desc": "",
+        "phonetic": "/ˈɑːnˌlaɪn/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "offline",
+        "chinese": "下线，离线",
+        "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "数码相机",
+        "english": "even",
+        "chinese": "甚至",
         "desc": "",
-        "english": "a digital camera",
+        "phonetic": "/ˈiːvən/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "head teacher",
+        "chinese": "校长，班主任",
+        "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "立刻；马上（三种等价形式）",
-        "desc": "",
-        "english": "right away",
+        "english": "postscript",
+        "chinese": "附言（用于信末）",
+        "desc": "PS",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "立刻；马上（三种等价形式）",
+        "english": "in the library",
+        "chinese": "在图书馆里",
         "desc": "",
-        "english": "right now",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "立刻；马上（三种等价形式）",
+        "english": "write down",
+        "chinese": "写下，记下",
         "desc": "",
-        "english": "at once",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "拍照",
+        "english": "dinosaur",
+        "chinese": "恐龙",
         "desc": "",
-        "english": "take photos",
+        "phonetic": "/ˈdaɪnəsɔːr/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "a piece of",
+        "chinese": "一张，一片",
+        "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "环卫工人",
+        "english": "other interesting thing",
+        "chinese": "其它有趣的事情",
         "desc": "",
-        "english": "a street cleaner",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "扫地车",
+        "english": "have lessons",
+        "chinese": "上课（两种等价形式）",
         "desc": "",
-        "english": "street sweeper",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "很快，不久，在短时间内（两种形式）",
+        "english": "have classes",
+        "chinese": "上课（两种等价形式）",
         "desc": "",
-        "english": "in a short time",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "很快，不久，在短时间内（两种形式）",
+        "english": "have a picnic",
+        "chinese": "野餐（三种等价形式）",
         "desc": "",
-        "english": "soon",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "劳动（工作）工具",
+        "english": "take a picnic",
+        "chinese": "野餐（三种等价形式）",
         "desc": "",
-        "english": "tools for work",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "妻子",
+        "english": "go on a picnic",
+        "chinese": "野餐（三种等价形式）",
         "desc": "",
-        "english": "wife",
-        "phonetic": "/waɪf/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "妻子（复数）",
-        "desc": "",
-        "english": "wives",
-        "phonetic": "/waɪvz/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "从前（两种形式）",
-        "desc": "",
-        "english": "once upon a time",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "从前（两种形式）",
+        "english": "every month",
+        "chinese": "每个月",
         "desc": "",
-        "english": "long ago",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "一个名叫弗雷德的穷农夫",
+        "english": "students from other countries",
+        "chinese": "来自其他国家的学生",
         "desc": "",
-        "english": "a poor farmer called Fred",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "仙女",
+        "english": "carry books to school",
+        "chinese": "把书拿到学校",
         "desc": "",
-        "english": "fairy",
-        "phonetic": "/ˈfeəri/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "愿望，祝愿",
-        "desc": "",
-        "english": "wish",
-        "phonetic": "/wɪʃ/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "愿望，祝愿（复数）",
-        "desc": "",
-        "english": "wishes",
-        "phonetic": "/ˈwɪʃɪz/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "朝……微笑",
-        "desc": "",
-        "english": "smile at...",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "彼此",
+        "english": "a cooking lesson",
+        "chinese": "烹饪课",
         "desc": "",
-        "english": "each other",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "说",
+        "english": "grow plants",
+        "chinese": "种植物",
         "desc": "",
-        "english": "say",
-        "phonetic": "/seɪ/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "说，过去式",
-        "desc": "",
-        "english": "said",
-        "phonetic": "/sed/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "金子",
-        "desc": "",
-        "english": "gold",
-        "phonetic": "/ɡəʊld/",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "不得不",
-        "desc": "",
-        "english": "have to",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "幸福的生活",
+        "english": "study",
+        "chinese": "学习，研究",
         "desc": "",
-        "english": "a happy life",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "phonetic": "/ˈstʌdi/",
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "洗衣机",
+        "english": "studied",
+        "chinese": "学习，研究（过去式）",
         "desc": "",
-        "english": "a washing machine",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "过去，她用笔和纸来写她的书。",
+        "english": "study online",
+        "chinese": "在线学习",
         "desc": "",
-        "english": "In the past, she used a pen and paper to write her books.",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "过去，她用手收割庄稼。现在她用机器。",
+        "english": "a swimming pool",
+        "chinese": "游泳池",
         "desc": "",
-        "english": "In the past, she got her crops in by hand. Now she uses a machine.",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "在过去，他用胶卷拍照。现在他用数码相机。他能立刻看到他的照片。",
+        "english": "hope",
+        "chinese": "希望",
         "desc": "",
-        "english": "In the past, he used film to take photos. Now he uses a digital camera. He can see his photos right away.",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "phonetic": "/hoʊp/",
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "过去，他用扫帚扫地。现在他开扫地车。",
+        "english": "ring",
+        "chinese": "环形物（n.），鸣响（v.）",
         "desc": "",
-        "english": "In the past, he swept the streets with a broom. Now he drives a street sweeper.",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "phonetic": "/rɪŋ/",
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "它能在短时间内把接到清扫干净。",
+        "english": "wing",
+        "chinese": "翅膀",
         "desc": "",
-        "english": "It can clean the streets in a short time.",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "phonetic": "/wɪŋ/",
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "从前，有一个穷苦的农夫叫弗莱德。",
+        "english": "get better and better",
+        "chinese": "变得越来越好",
         "desc": "",
-        "english": "Once upon a time, there was a poor farmer called Fred.",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "我可以帮你们实现三个愿望。",
+        "english": "ink",
+        "chinese": "墨水",
         "desc": "",
-        "english": "I'd like to give you three wishes.",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "phonetic": "/ɪŋk/",
+        "tag": "primary-grade6b-unit03"
     },
     {
-        "chinese": "我祝你们的生活幸福快乐。",
+        "english": "seem",
+        "chinese": "似乎，好像",
         "desc": "",
-        "english": "I wish you a happy life.",
+        "phonetic": "/siːm/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "under the sea",
+        "chinese": "在海下",
+        "desc": "",
         "phonetic": "",
-        "tag": "primary-grade6b-unit02"
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "on high mountains",
+        "chinese": "在高山上",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "In the future, what changes would you like to see in our school?",
+        "chinese": "未来你们想看到我们的学校有什么变化？",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "Write your wishes down on a piece of paper.",
+        "chinese": "在一张纸上写下你们的愿望。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "Students will study online at home.",
+        "chinese": "学生们将在家线上学习。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "Students will not carry any books. All their books will be on a small computer.",
+        "chinese": "学生们将不带书。他们所有的书都在一个小电脑里。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "We will have lessons with students from other countries.",
+        "chinese": "我们将和来自其它国家的学生一起上课。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "We hope our school will get better and better.",
+        "chinese": "我们希望我们的学校将变得越来越好。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "What will schools be like in the future? In the future, schools will be different. They will be under the sea, on high mountains and even in space.",
+        "chinese": "学校将来会是什么样的？未来的学校将会是不同的。它们会在海底、高山上甚至在太空里。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "Robots will help us find books in the library.",
+        "chinese": "机器人将帮助我们在图书馆里找书。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
     },
     {
         "english": "why",
@@ -10217,298 +9881,340 @@ var words = [
         "phonetic": "/keɪm/"
     },
     {
-        "chinese": "重……，称重",
+        "chinese": "生活，生命",
         "desc": "",
-        "english": "weigh",
-        "phonetic": "/weɪ/",
-        "tag": "primary-grade6b-unit01"
+        "english": "life",
+        "phonetic": "/laɪf/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "重量",
+        "chinese": "生命（复数）",
         "desc": "",
-        "english": "weight",
-        "phonetic": "/weɪt/",
-        "tag": "primary-grade6b-unit01"
+        "english": "lives",
+        "phonetic": "/laɪvz/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "克",
+        "chinese": "作家",
         "desc": "",
-        "english": "gram",
-        "phonetic": "/ɡræm/",
-        "tag": "primary-grade6b-unit01"
+        "english": "writer",
+        "phonetic": "/ˈraɪtə(r)/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "千克",
+        "chinese": "摄影师",
         "desc": "",
-        "english": "kilogram",
-        "phonetic": "/ˈkɪləɡræm/",
-        "tag": "primary-grade6b-unit01"
+        "english": "photographer",
+        "phonetic": "/fəˈtɒɡrəfə(r)/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "米",
+        "chinese": "电影；胶卷",
         "desc": "",
-        "english": "metre",
-        "phonetic": "/ˈmiːtər/",
-        "tag": "primary-grade6b-unit01"
+        "english": "film",
+        "phonetic": "/fɪlm/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "厘米",
+        "chinese": "数码的",
         "desc": "",
-        "english": "centimetre",
-        "phonetic": "/ˈsɛntɪˌmiːtər/",
-        "tag": "primary-grade6b-unit01"
+        "english": "digital",
+        "phonetic": "/ˈdɪdʒɪtl/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "毫米",
+        "chinese": "扫地",
         "desc": "",
-        "english": "millimetre",
-        "phonetic": "/ˈmɪlɪˌmiːtər/",
-        "tag": "primary-grade6b-unit01"
+        "english": "sweep",
+        "phonetic": "/swiːp/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "千米",
+        "chinese": "扫地，过去式",
         "desc": "",
-        "english": "kilometre",
-        "phonetic": "/ˈkɪləˌmiːtər/",
-        "tag": "primary-grade6b-unit01"
+        "english": "swept",
+        "phonetic": "/swept/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "高",
+        "chinese": "扫帚",
         "desc": "",
-        "english": "tall",
-        "phonetic": "/tɔːl/",
-        "tag": "primary-grade6b-unit01"
+        "english": "broom",
+        "phonetic": "/bruːm/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "更高",
+        "chinese": "驾驶，驱动",
         "desc": "",
-        "english": "taller",
-        "phonetic": "/ˈtɔːlər/",
-        "tag": "primary-grade6b-unit01"
+        "english": "drive",
+        "phonetic": "/draɪv/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "最高",
+        "chinese": "驾驶，驱动，过去式",
         "desc": "",
-        "english": "tallest",
-        "phonetic": "/ˈtɔːlɪst/",
-        "tag": "primary-grade6b-unit01"
+        "english": "drove",
+        "phonetic": "/drəʊv/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "迷，扇子",
+        "chinese": "扫地车",
         "desc": "",
-        "english": "fan",
-        "phonetic": "/fæn/",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "他们自己",
-        "desc": "",
-        "english": "themselves",
-        "phonetic": "/ðəmˈsɛlvz/",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "剧院",
-        "desc": "",
-        "english": "theatre",
-        "phonetic": "/ˈθiətər/",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "极好的",
-        "desc": "",
-        "english": "fantastic",
-        "phonetic": "/fænˈtæstɪk/",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "在乡下",
-        "desc": "",
-        "english": "in the countryside",
+        "english": "a street sweeper",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "多高",
+        "chinese": "用……去做……",
         "desc": "",
-        "english": "how tall",
+        "english": "use... to do....",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "做很多运动",
+        "chinese": "用手",
         "desc": "",
-        "english": "do a lot of exercise",
+        "english": "by hand",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "放学后",
+        "chinese": "数码相机",
         "desc": "",
-        "english": "after school",
+        "english": "a digital camera",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "足球迷",
+        "chinese": "立刻；马上（三种等价形式）",
         "desc": "",
-        "english": "a football fan",
+        "english": "right away",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "去钓鱼",
+        "chinese": "立刻；马上（三种等价形式）",
         "desc": "",
-        "english": "go fishing",
+        "english": "right now",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "去博物馆",
+        "chinese": "立刻；马上（三种等价形式）",
         "desc": "",
-        "english": "go to museums",
+        "english": "at once",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "居住在城市",
+        "chinese": "拍照",
         "desc": "",
-        "english": "live in the city",
+        "english": "take photos",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "玩得开心、过得愉快",
+        "chinese": "环卫工人",
         "desc": "",
-        "english": "enjoy oneself",
+        "english": "a street cleaner",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "在电影院",
+        "chinese": "扫地车",
         "desc": "",
-        "english": "at the cinema",
+        "english": "street sweeper",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "带花园的房子",
+        "chinese": "很快，不久，在短时间内（两种形式）",
         "desc": "",
-        "english": "houses with gardens",
+        "english": "in a short time",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "春天耕种",
+        "chinese": "很快，不久，在短时间内（两种形式）",
         "desc": "",
-        "english": "plant crops in spring",
+        "english": "soon",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "收割",
+        "chinese": "劳动（工作）工具",
         "desc": "",
-        "english": "get... in",
+        "english": "tools for work",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "亚洲",
+        "chinese": "妻子",
         "desc": "",
-        "english": "Asia",
-        "phonetic": "/ˈeɪʒə/",
-        "tag": "primary-grade6b-unit01"
+        "english": "wife",
+        "phonetic": "/waɪf/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "非洲",
+        "chinese": "妻子（复数）",
         "desc": "",
-        "english": "Africa",
-        "phonetic": "/ˈæfrɪkə/",
-        "tag": "primary-grade6b-unit01"
+        "english": "wives",
+        "phonetic": "/waɪvz/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "南美洲",
+        "chinese": "从前（两种形式）",
         "desc": "",
-        "english": "South America",
-        "phonetic": "/saʊθ ˈæmərɪkə/",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "欧洲",
-        "desc": "",
-        "english": "Europe",
-        "phonetic": "/ˈjʊərəp/",
-        "tag": "primary-grade6b-unit01"
-    },
-    {
-        "chinese": "乔在乡村探望他的表哥乔治。",
-        "desc": "",
-        "english": "Joe is visiting his cousin George in the countryside.",
+        "english": "once upon a time",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "你体重多少？我重47千克。",
+        "chinese": "从前（两种形式）",
         "desc": "",
-        "english": "How much do you weigh? I weigh forty-seven kilograms.",
+        "english": "long ago",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "你多高？我身高一百五十二厘米。",
+        "chinese": "一个名叫弗雷德的穷农夫",
         "desc": "",
-        "english": "How tall are you? I'm one hundred and fifty-two centimetres tall.",
+        "english": "a poor farmer called Fred",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "你更高一些。你做很多运动吗？",
+        "chinese": "仙女",
         "desc": "",
-        "english": "You're taller. Do you do a lot of exercise?",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "english": "fairy",
+        "phonetic": "/ˈfeəri/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "我经常在放学后打篮球、乒乓球。",
+        "chinese": "愿望，祝愿",
         "desc": "",
-        "english": "I usually play basketball and table tennis after school.",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "english": "wish",
+        "phonetic": "/wɪʃ/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "多么让人兴奋啊！我不经常去钓鱼。",
+        "chinese": "愿望，祝愿（复数）",
         "desc": "",
-        "english": "How exciting!I don't go fishing often.",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "english": "wishes",
+        "phonetic": "/ˈwɪʃɪz/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "我家附近没有河。",
+        "chinese": "朝……微笑",
         "desc": "",
-        "english": "There's no river near my home.",
+        "english": "smile at...",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "他身高152厘米、重40千克。",
+        "chinese": "彼此",
         "desc": "",
-        "english": "He is 152centimetres tall and weighs 40 kilograms.",
+        "english": "each other",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "有些人在电影院或剧院里享受周末。",
+        "chinese": "说",
         "desc": "",
-        "english": "At the weekend, some people enjoy themselves at the cinema or theatre.",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "english": "say",
+        "phonetic": "/seɪ/",
+        "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "农民们在春天耕种。然后在秋天收割。",
+        "chinese": "说，过去式",
         "desc": "",
-        "english": "Farmers plant crops in spring. Then in autumn, they get the crops in.",
+        "english": "said",
+        "phonetic": "/sed/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "金子",
+        "desc": "",
+        "english": "gold",
+        "phonetic": "/ɡəʊld/",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "不得不",
+        "desc": "",
+        "english": "have to",
         "phonetic": "",
-        "tag": "primary-grade6b-unit01"
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "幸福的生活",
+        "desc": "",
+        "english": "a happy life",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "洗衣机",
+        "desc": "",
+        "english": "a washing machine",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "过去，她用笔和纸来写她的书。",
+        "desc": "",
+        "english": "In the past, she used a pen and paper to write her books.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "过去，她用手收割庄稼。现在她用机器。",
+        "desc": "",
+        "english": "In the past, she got her crops in by hand. Now she uses a machine.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "在过去，他用胶卷拍照。现在他用数码相机。他能立刻看到他的照片。",
+        "desc": "",
+        "english": "In the past, he used film to take photos. Now he uses a digital camera. He can see his photos right away.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "过去，他用扫帚扫地。现在他开扫地车。",
+        "desc": "",
+        "english": "In the past, he swept the streets with a broom. Now he drives a street sweeper.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "它能在短时间内把接到清扫干净。",
+        "desc": "",
+        "english": "It can clean the streets in a short time.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "从前，有一个穷苦的农夫叫弗莱德。",
+        "desc": "",
+        "english": "Once upon a time, there was a poor farmer called Fred.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "我可以帮你们实现三个愿望。",
+        "desc": "",
+        "english": "I'd like to give you three wishes.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
+    },
+    {
+        "chinese": "我祝你们的生活幸福快乐。",
+        "desc": "",
+        "english": "I wish you a happy life.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit02"
     },
     {
         "english": "tidy",
@@ -11283,6 +10989,300 @@ var words = [
         "right": 0,
         "wrong": 0,
         "phonetic": ""
+    },
+    {
+        "chinese": "重……，称重",
+        "desc": "",
+        "english": "weigh",
+        "phonetic": "/weɪ/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "重量",
+        "desc": "",
+        "english": "weight",
+        "phonetic": "/weɪt/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "克",
+        "desc": "",
+        "english": "gram",
+        "phonetic": "/ɡræm/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "千克",
+        "desc": "",
+        "english": "kilogram",
+        "phonetic": "/ˈkɪləɡræm/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "米",
+        "desc": "",
+        "english": "metre",
+        "phonetic": "/ˈmiːtər/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "厘米",
+        "desc": "",
+        "english": "centimetre",
+        "phonetic": "/ˈsɛntɪˌmiːtər/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "毫米",
+        "desc": "",
+        "english": "millimetre",
+        "phonetic": "/ˈmɪlɪˌmiːtər/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "千米",
+        "desc": "",
+        "english": "kilometre",
+        "phonetic": "/ˈkɪləˌmiːtər/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "高",
+        "desc": "",
+        "english": "tall",
+        "phonetic": "/tɔːl/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "更高",
+        "desc": "",
+        "english": "taller",
+        "phonetic": "/ˈtɔːlər/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "最高",
+        "desc": "",
+        "english": "tallest",
+        "phonetic": "/ˈtɔːlɪst/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "迷，扇子",
+        "desc": "",
+        "english": "fan",
+        "phonetic": "/fæn/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "他们自己",
+        "desc": "",
+        "english": "themselves",
+        "phonetic": "/ðəmˈsɛlvz/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "剧院",
+        "desc": "",
+        "english": "theatre",
+        "phonetic": "/ˈθiətər/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "极好的",
+        "desc": "",
+        "english": "fantastic",
+        "phonetic": "/fænˈtæstɪk/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "在乡下",
+        "desc": "",
+        "english": "in the countryside",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "多高",
+        "desc": "",
+        "english": "how tall",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "做很多运动",
+        "desc": "",
+        "english": "do a lot of exercise",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "放学后",
+        "desc": "",
+        "english": "after school",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "足球迷",
+        "desc": "",
+        "english": "a football fan",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "去钓鱼",
+        "desc": "",
+        "english": "go fishing",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "去博物馆",
+        "desc": "",
+        "english": "go to museums",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "居住在城市",
+        "desc": "",
+        "english": "live in the city",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "玩得开心、过得愉快",
+        "desc": "",
+        "english": "enjoy oneself",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "在电影院",
+        "desc": "",
+        "english": "at the cinema",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "带花园的房子",
+        "desc": "",
+        "english": "houses with gardens",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "春天耕种",
+        "desc": "",
+        "english": "plant crops in spring",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "收割",
+        "desc": "",
+        "english": "get... in",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "亚洲",
+        "desc": "",
+        "english": "Asia",
+        "phonetic": "/ˈeɪʒə/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "非洲",
+        "desc": "",
+        "english": "Africa",
+        "phonetic": "/ˈæfrɪkə/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "南美洲",
+        "desc": "",
+        "english": "South America",
+        "phonetic": "/saʊθ ˈæmərɪkə/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "欧洲",
+        "desc": "",
+        "english": "Europe",
+        "phonetic": "/ˈjʊərəp/",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "乔在乡村探望他的表哥乔治。",
+        "desc": "",
+        "english": "Joe is visiting his cousin George in the countryside.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "你体重多少？我重47千克。",
+        "desc": "",
+        "english": "How much do you weigh? I weigh forty-seven kilograms.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "你多高？我身高一百五十二厘米。",
+        "desc": "",
+        "english": "How tall are you? I'm one hundred and fifty-two centimetres tall.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "你更高一些。你做很多运动吗？",
+        "desc": "",
+        "english": "You're taller. Do you do a lot of exercise?",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "我经常在放学后打篮球、乒乓球。",
+        "desc": "",
+        "english": "I usually play basketball and table tennis after school.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "多么让人兴奋啊！我不经常去钓鱼。",
+        "desc": "",
+        "english": "How exciting!I don't go fishing often.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "我家附近没有河。",
+        "desc": "",
+        "english": "There's no river near my home.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "他身高152厘米、重40千克。",
+        "desc": "",
+        "english": "He is 152centimetres tall and weighs 40 kilograms.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "有些人在电影院或剧院里享受周末。",
+        "desc": "",
+        "english": "At the weekend, some people enjoy themselves at the cinema or theatre.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
+    },
+    {
+        "chinese": "农民们在春天耕种。然后在秋天收割。",
+        "desc": "",
+        "english": "Farmers plant crops in spring. Then in autumn, they get the crops in.",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit01"
     },
     {
         "chinese": "麦克风",
