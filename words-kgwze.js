@@ -3857,30 +3857,23 @@ var words = [
         "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "16 swimming lessons",
+        "english": "swimming lessons",
         "chinese": "游泳课",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "1",
+        "english": "every week",
         "chinese": "每周",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "2",
-        "chinese": "every week",
+        "english": "swimsuit",
+        "chinese": "游泳衣（女士）",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "17",
-        "chinese": "swimsuit",
-        "desc": "游泳衣（女士）",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
     },
@@ -3892,15 +3885,8 @@ var words = [
         "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "18 swimming cap",
+        "english": "swimming cap",
         "chinese": "游泳帽",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "3",
-        "chinese": "短跑",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
@@ -3913,30 +3899,23 @@ var words = [
         "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "19 a pair of swimming goggles",
+        "english": "a pair of swimming goggles",
         "chinese": "游泳镜",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "4",
-        "chinese": "跳远",
+        "english": "get into ...",
+        "chinese": "进入到……里",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
     },
     {
         "english": "long jump",
-        "chinese": "进入到…….",
+        "chinese": "跳远",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "5",
-        "chinese": "long jump",
-        "desc": "跳高",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
     },
@@ -3948,22 +3927,8 @@ var words = [
         "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "21",
-        "chinese": "before",
-        "desc": "在……..之前",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "6",
-        "chinese": "7",
-        "desc": "进行长跑",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "22 after",
-        "chinese": "在…….之后",
+        "english": "before",
+        "chinese": "在……..之前",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
@@ -3976,15 +3941,22 @@ var words = [
         "tag": "primary-grade6b-unit06"
     },
     {
+        "english": "after",
+        "chinese": "在……之后",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
         "english": "win",
-        "chinese": "赢、获胜pt",
+        "chinese": "赢、获胜",
         "desc": "",
         "phonetic": "/wɪn/",
         "tag": "primary-grade6b-unit06"
     },
     {
         "english": "won",
-        "chinese": "游泳池",
+        "chinese": "赢、获胜（过去式）",
         "desc": "",
         "phonetic": "/wʌn/",
         "tag": "primary-grade6b-unit06"
@@ -4004,21 +3976,14 @@ var words = [
         "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "24",
-        "chinese": "do warm-up exercises",
-        "desc": "做热身运动",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "做热身运动",
-        "chinese": "擅长(做)……",
+        "english": "do warm-up exercises",
+        "chinese": "做热身运动",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "25 fit",
+        "english": "fit",
         "chinese": "健壮的",
         "desc": "",
         "phonetic": "",
@@ -4039,16 +4004,9 @@ var words = [
         "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "11",
-        "chinese": "play ball games",
+        "english": "stay healthy and fit",
+        "chinese": "保持身体健康",
         "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "26",
-        "chinese": "stay healthy and fit",
-        "desc": "保持身体健康",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
     },
@@ -4067,72 +4025,44 @@ var words = [
         "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "12",
-        "chinese": "play volleyball",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "27",
-        "chinese": "the Olympic Games",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
         "english": "symbol",
-        "chinese": "做运动",
-        "desc": "象征,标志",
+        "chinese": "象征,标志",
+        "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "13",
-        "chinese": "play sport",
+        "english": "play sport",
+        "chinese": "做运动",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
     },
     {
         "english": "in our PE lessons",
-        "chinese": "play sport",
-        "desc": "在体育课上",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "14",
-        "chinese": "in our PE lessons",
-        "desc": "在体育课上",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "29",
-        "chinese": "ring",
-        "desc": "环,戒指",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit06"
-    },
-    {
-        "english": "15",
-        "chinese": "have a lot of fun together",
+        "chinese": "在体育课上",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
     },
     {
-        "english": "30",
-        "chinese": "five rings in five colours",
-        "desc": "五个颜色的五环",
+        "english": "ring",
+        "chinese": "环,戒指",
+        "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
     },
     {
         "english": "have a lot of fun together",
-        "chinese": "have a lot of fun together",
-        "desc": "We have two PE lessons at school every week.我们每周在学校有两节体育课。",
+        "chinese": "一起玩得很开心",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "five rings in five colours",
+        "chinese": "五个颜色的五环",
+        "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit06"
     },
@@ -4551,6 +4481,13 @@ var words = [
         "tag": "primary-grade6b-unit05"
     },
     {
+        "english": "cut",
+        "chinese": "剪，切，砍（过去式）",
+        "desc": "",
+        "phonetic": "/kʌt/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
         "english": "glue",
         "chinese": "胶水",
         "desc": "",
@@ -4560,6 +4497,13 @@ var words = [
     {
         "english": "put",
         "chinese": "放",
+        "desc": "",
+        "phonetic": "/pʊt/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "put",
+        "chinese": "放（过去式）",
         "desc": "",
         "phonetic": "/pʊt/",
         "tag": "primary-grade6b-unit05"
@@ -4579,6 +4523,13 @@ var words = [
         "tag": "primary-grade6b-unit05"
     },
     {
+        "english": "thought",
+        "chinese": "想，认为（过去式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
         "english": "model house",
         "chinese": "房子模型",
         "desc": "",
@@ -4588,6 +4539,13 @@ var words = [
     {
         "english": "hurt",
         "chinese": "弄伤，疼",
+        "desc": "",
+        "phonetic": "/hɜːrt/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "hurt",
+        "chinese": "弄伤，疼（过去式）",
         "desc": "",
         "phonetic": "/hɜːrt/",
         "tag": "primary-grade6b-unit05"
@@ -4604,6 +4562,13 @@ var words = [
         "chinese": "告诉，讲述",
         "desc": "",
         "phonetic": "/tel/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "told",
+        "chinese": "告诉，讲述（过去式）",
+        "desc": "",
+        "phonetic": "",
         "tag": "primary-grade6b-unit05"
     },
     {
@@ -4649,8 +4614,15 @@ var words = [
         "tag": "primary-grade6b-unit05"
     },
     {
-        "english": "could",
+        "english": "can",
         "chinese": "能，可能",
+        "desc": "",
+        "phonetic": "/kʊd/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "could",
+        "chinese": "能，可能（过去式）",
         "desc": "",
         "phonetic": "/kʊd/",
         "tag": "primary-grade6b-unit05"
@@ -4665,6 +4637,13 @@ var words = [
     {
         "english": "cut into pieces",
         "chinese": "剪成多块",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "such",
+        "chinese": "如此的，这样的",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit05"
@@ -5074,28 +5053,21 @@ var words = [
     },
     {
         "english": "took",
-        "chinese": "",
+        "chinese": "拿走,带领,进行（过去式）",
         "desc": "",
         "phonetic": "/tuk/",
         "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "油画",
-        "chinese": "",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit04"
-    },
-    {
-        "english": "上绘画课",
-        "chinese": "",
+        "english": "take drawing lessons",
+        "chinese": "上绘画课",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit04"
     },
     {
         "english": "oil painting",
-        "chinese": "",
+        "chinese": "油画",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit04"
@@ -5110,6 +5082,13 @@ var words = [
     {
         "english": "put",
         "chinese": "放置",
+        "desc": "",
+        "phonetic": "/pʊt/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "put",
+        "chinese": "放置（过去式）",
         "desc": "",
         "phonetic": "/pʊt/",
         "tag": "primary-grade6b-unit04"
@@ -5130,21 +5109,14 @@ var words = [
     },
     {
         "english": "drew",
-        "chinese": "",
+        "chinese": "(用钢笔或铅笔)画（过去式）",
         "desc": "",
         "phonetic": "/druː/",
         "tag": "primary-grade6b-unit04"
     },
     {
-        "english": "中国水墨画",
-        "chinese": "",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit04"
-    },
-    {
         "english": "Chinese ink painting",
-        "chinese": "",
+        "chinese": "中国水墨画",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit04"
@@ -5186,7 +5158,7 @@ var words = [
     },
     {
         "english": "feel",
-        "chinese": "感到不高兴",
+        "chinese": "触摸，感觉",
         "desc": "",
         "phonetic": "/fiːl/",
         "tag": "primary-grade6b-unit04"
@@ -5200,9 +5172,16 @@ var words = [
     },
     {
         "english": "felt",
-        "chinese": "触摸,感觉pt",
+        "chinese": "触摸,感觉（过去式）",
         "desc": "",
         "phonetic": "/felt/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "feel unhappy",
+        "chinese": "感到不高兴",
+        "desc": "",
+        "phonetic": "",
         "tag": "primary-grade6b-unit04"
     },
     {
@@ -5270,14 +5249,14 @@ var words = [
     },
     {
         "english": "art",
-        "chinese": "",
+        "chinese": "美术",
         "desc": "",
         "phonetic": "/ɑːrt/",
         "tag": "primary-grade6b-unit04"
     },
     {
         "english": "artist",
-        "chinese": "美术艺术家,画家",
+        "chinese": "艺术家,画家",
         "desc": "",
         "phonetic": "/ˈɑːrtɪst/",
         "tag": "primary-grade6b-unit04"
@@ -5294,6 +5273,13 @@ var words = [
         "chinese": "说",
         "desc": "",
         "phonetic": "/seɪ/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "said",
+        "chinese": "说（过去式）",
+        "desc": "",
+        "phonetic": "",
         "tag": "primary-grade6b-unit04"
     },
     {
@@ -6133,7 +6119,7 @@ var words = [
     },
     {
         "english": "carried",
-        "chinese": "携带（carry的过去式）",
+        "chinese": "拿，背，挑（过去式）",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
@@ -6154,14 +6140,14 @@ var words = [
     },
     {
         "english": "online",
-        "chinese": "在线/下线，离线",
+        "chinese": "在线",
         "desc": "",
         "phonetic": "/ˈɑːnˌlaɪn/",
         "tag": "primary-grade6b-unit03"
     },
     {
         "english": "offline",
-        "chinese": "离线",
+        "chinese": "下线，离线",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
@@ -6181,9 +6167,9 @@ var words = [
         "tag": "primary-grade6b-unit03"
     },
     {
-        "english": "PS",
+        "english": "postscript",
         "chinese": "附言（用于信末）",
-        "desc": "",
+        "desc": "PS",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
     },
@@ -6210,7 +6196,7 @@ var words = [
     },
     {
         "english": "a piece of",
-        "chinese": "张，一片",
+        "chinese": "一张，一片",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
@@ -6224,28 +6210,35 @@ var words = [
     },
     {
         "english": "have lessons",
-        "chinese": "上课",
+        "chinese": "上课（两种等价形式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "have classes",
+        "chinese": "上课（两种等价形式）",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
     },
     {
         "english": "have a picnic",
-        "chinese": "野餐",
+        "chinese": "野餐（三种等价形式）",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
     },
     {
         "english": "take a picnic",
-        "chinese": "野餐",
+        "chinese": "野餐（三种等价形式）",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
     },
     {
         "english": "go on a picnic",
-        "chinese": "野餐",
+        "chinese": "野餐（三种等价形式）",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
@@ -6253,6 +6246,27 @@ var words = [
     {
         "english": "every month",
         "chinese": "每个月",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "students from other countries",
+        "chinese": "来自其他国家的学生",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "carry books to school",
+        "chinese": "把书拿到学校",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "a cooking lesson",
+        "chinese": "烹饪课",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
@@ -6273,7 +6287,7 @@ var words = [
     },
     {
         "english": "studied",
-        "chinese": "学习（study的过去式）",
+        "chinese": "学习，研究（过去式）",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
@@ -6335,6 +6349,20 @@ var words = [
         "tag": "primary-grade6b-unit03"
     },
     {
+        "english": "under the sea",
+        "chinese": "在海下",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "on high mountains",
+        "chinese": "在高山上",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
         "english": "In the future, what changes would you like to see in our school?",
         "chinese": "未来你们想看到我们的学校有什么变化？",
         "desc": "",
@@ -6342,14 +6370,14 @@ var words = [
         "tag": "primary-grade6b-unit03"
     },
     {
-        "english": "2Write your wishes down on a piece of paper.",
+        "english": "Write your wishes down on a piece of paper.",
         "chinese": "在一张纸上写下你们的愿望。",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
     },
     {
-        "english": "3Students will study online at home.",
+        "english": "Students will study online at home.",
         "chinese": "学生们将在家线上学习。",
         "desc": "",
         "phonetic": "",
@@ -6363,35 +6391,28 @@ var words = [
         "tag": "primary-grade6b-unit03"
     },
     {
-        "english": "5 We will have lessons with students from other countries.",
+        "english": "We will have lessons with students from other countries.",
         "chinese": "我们将和来自其它国家的学生一起上课。",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
     },
     {
-        "english": "6We hope our school will get better and better.",
+        "english": "We hope our school will get better and better.",
         "chinese": "我们希望我们的学校将变得越来越好。",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
     },
     {
-        "english": "7 What will schools be like in the future? In the future, schools will be different",
-        "chinese": "学校将来会是什么样的？未来的学校将会是不同的。",
+        "english": "What will schools be like in the future? In the future, schools will be different. They will be under the sea, on high mountains and even in space.",
+        "chinese": "学校将来会是什么样的？未来的学校将会是不同的。它们会在海底、高山上甚至在太空里。",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
     },
     {
-        "english": "They will be under the sea, on high mountains and even in space.",
-        "chinese": "它们会在海底、高山上甚至在太空里。",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "8Robots will help us find books in the library.",
+        "english": "Robots will help us find books in the library.",
         "chinese": "机器人将帮助我们在图书馆里找书。",
         "desc": "",
         "phonetic": "",
