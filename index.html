@@ -19,6 +19,14 @@
             padding: 0 20px;
             box-sizing: border-box;
         }
+        .button-container {
+            position: fixed;
+            bottom: 50px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 10px;
+        }
         button {
             font-size: 30px;
             margin: 10px;
@@ -58,6 +66,19 @@
             background-color: white;
             width: 100%;
         }
+        .floating-box {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: white;
+            border-radius: 10px;
+            font-size: 3em;
+            display: none;
+            z-index: 1000;
+        }
     </style>
 </head>
 <body>
@@ -90,19 +111,21 @@
     </form>
     <div id="workspace" style="display: none;">
         <div id="practiceArea"></div>
-        <!-- https://fontawesome.com/v5/search?ic=free -->
-        <button type="button" id="read" disabled><i class="fas fa-volume-up"></i></button><br>
+        <div id="floatingBox" class="floating-box"></div>
 
-        <button type="button" id="first" disabled><i class="fas fa-angle-double-left"></i></button>
-        <button type="button" id="prev" disabled><i class="fas fa-angle-left"></i></button>
-        <button type="button" id="next" disabled><i class="fas fa-angle-right"></i></button>
-        <button type="button" id="last" disabled><i class="fas fa-angle-double-right"></i></button><br>
-        
-        <button type="button" id="right" disabled><i class="fas fa-check-circle"></i></button>
-        <button type="button" id="wrong" disabled><i class="fas fa-times-circle"></i></button><br>
-        
-        <button type="button" id="save" disabled><i class="fas fa-save"></i></button>
-        <button type="button" id="reset" onclick="reset()"><i class="fas fa-redo"></i></button>
+        <div class="button-container">
+            <!-- https://fontawesome.com/v5/search?ic=free -->
+            <button type="button" id="read" disabled><i class="fas fa-volume-up"></i></button>
+            <button type="button" id="first" disabled><i class="fas fa-angle-double-left"></i></button>
+            <button type="button" id="prev" disabled><i class="fas fa-angle-left"></i></button>
+            <button type="button" id="next" disabled><i class="fas fa-angle-right"></i></button>
+            <button type="button" id="last" disabled><i class="fas fa-angle-double-right"></i></button>
+            <!-- <button type="button" id="right" disabled><i class="fas fa-check-circle"></i></button> -->
+            <!-- <button type="button" id="wrong" disabled><i class="fas fa-times-circle"></i></button> -->
+            <button type="button" id="check" onclick="check()"><i class="fas fa-spell-check"></i></button>
+            <!-- <button type="button" id="save" disabled><i class="fas fa-save"></i></button> -->
+            <button type="button" id="reset" onclick="reset()"><i class="fas fa-redo"></i></button>
+        </div>
     </div>
 
     <script src="words-cbgjx.js"></script>
@@ -205,12 +228,19 @@
             var mode = document.getElementById('mode').value;
             var practiceArea = document.getElementById('practiceArea');
             if (mode === 'en2cn') {
-                practiceArea.innerHTML += `<br><span class="large">${word.chinese}</span>`;
+                showFloatingBox(`<span">${word.chinese}</span>`);
             } else {
-                practiceArea.innerHTML += `<br><span class="large">${word.english}</span> <br> 
-                                          <span class="large">${word.phonetic}</span>`;
+                showFloatingBox(`<span>${word.english}</span> <br> <span >${word.phonetic}</span>`);
             }
         };
+        function showFloatingBox(content) {
+            const floatingBox = document.getElementById('floatingBox');
+            floatingBox.innerHTML = content;
+            floatingBox.style.display = 'block';
+            setTimeout(() => {
+                floatingBox.style.display = 'none';
+            }, 3000); // 3秒后隐藏
+        }
 
         document.getElementById('save').addEventListener('click', function() {
             console.log(JSON.stringify(words, null, 2));
@@ -247,8 +277,6 @@
             document.getElementById('next').disabled = currentIndex === practiceWords.length - 1;
             document.getElementById('last').disabled = currentIndex === practiceWords.length - 1;
             document.getElementById('read').disabled = false;
-            document.getElementById('right').disabled = false;
-            document.getElementById('wrong').disabled = false;
             document.getElementById('save').disabled = false;
         }
 
