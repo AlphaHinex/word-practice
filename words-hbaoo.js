@@ -5257,6 +5257,279 @@ var words = [
         "tag": "primary-grade6a-unit04"
     },
     {
+        "english": "carry",
+        "chinese": "拿，背，挑",
+        "desc": "",
+        "phonetic": "/ˈkæri/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "carried",
+        "chinese": "携带（carry的过去式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "in space",
+        "chinese": "在太空里",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "mountain",
+        "chinese": "山，山脉",
+        "desc": "",
+        "phonetic": "/ˈmaʊntən/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "online",
+        "chinese": "在线/下线，离线",
+        "desc": "",
+        "phonetic": "/ˈɑːnˌlaɪn/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "offline",
+        "chinese": "离线",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "even",
+        "chinese": "甚至",
+        "desc": "",
+        "phonetic": "/ˈiːvən/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "head teacher",
+        "chinese": "校长，班主任",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "PS",
+        "chinese": "附言（用于信末）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "in the library",
+        "chinese": "在图书馆里",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "write down",
+        "chinese": "写下，记下",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "dinosaur",
+        "chinese": "恐龙",
+        "desc": "",
+        "phonetic": "/ˈdaɪnəsɔːr/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "a piece of",
+        "chinese": "张，一片",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "other interesting thing",
+        "chinese": "其它有趣的事情",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "have lessons",
+        "chinese": "上课",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "have a picnic",
+        "chinese": "野餐",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "take a picnic",
+        "chinese": "野餐",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "go on a picnic",
+        "chinese": "野餐",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "every month",
+        "chinese": "每个月",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "grow plants",
+        "chinese": "种植物",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "study",
+        "chinese": "学习，研究",
+        "desc": "",
+        "phonetic": "/ˈstʌdi/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "studied",
+        "chinese": "学习（study的过去式）",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "study online",
+        "chinese": "在线学习",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "a swimming pool",
+        "chinese": "游泳池",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "hope",
+        "chinese": "希望",
+        "desc": "",
+        "phonetic": "/hoʊp/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "ring",
+        "chinese": "环形物（n.），鸣响（v.）",
+        "desc": "",
+        "phonetic": "/rɪŋ/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "wing",
+        "chinese": "翅膀",
+        "desc": "",
+        "phonetic": "/wɪŋ/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "get better and better",
+        "chinese": "变得越来越好",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "ink",
+        "chinese": "墨水",
+        "desc": "",
+        "phonetic": "/ɪŋk/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "seem",
+        "chinese": "似乎，好像",
+        "desc": "",
+        "phonetic": "/siːm/",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "In the future, what changes would you like to see in our school?",
+        "chinese": "未来你们想看到我们的学校有什么变化？",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "2Write your wishes down on a piece of paper.",
+        "chinese": "在一张纸上写下你们的愿望。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "3Students will study online at home.",
+        "chinese": "学生们将在家线上学习。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "Students will not carry any books. All their books will be on a small computer.",
+        "chinese": "学生们将不带书。他们所有的书都在一个小电脑里。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "5 We will have lessons with students from other countries.",
+        "chinese": "我们将和来自其它国家的学生一起上课。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "6We hope our school will get better and better.",
+        "chinese": "我们希望我们的学校将变得越来越好。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "7 What will schools be like in the future? In the future, schools will be different",
+        "chinese": "学校将来会是什么样的？未来的学校将会是不同的。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "They will be under the sea, on high mountains and even in space.",
+        "chinese": "它们会在海底、高山上甚至在太空里。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
+        "english": "8Robots will help us find books in the library.",
+        "chinese": "机器人将帮助我们在图书馆里找书。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit03"
+    },
+    {
         "english": "future",
         "chinese": "将来；未来",
         "tag": "primary-grade5-unit03",
