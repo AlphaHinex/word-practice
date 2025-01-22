@@ -13,25 +13,19 @@
     },
     {
         "english": "took",
-        "chinese": "",
+        "chinese": "拿走,带领,进行（过去式）",
         "desc": "",
         "phonetic": "/tuk/"
     },
     {
-        "english": "油画",
-        "chinese": "",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "上绘画课",
-        "chinese": "",
+        "english": "take drawing lessons",
+        "chinese": "上绘画课",
         "desc": "",
         "phonetic": ""
     },
     {
         "english": "oil painting",
-        "chinese": "",
+        "chinese": "油画",
         "desc": "",
         "phonetic": ""
     },
@@ -44,6 +38,12 @@
     {
         "english": "put",
         "chinese": "放置",
+        "desc": "",
+        "phonetic": "/pʊt/"
+    },
+    {
+        "english": "put",
+        "chinese": "放置（过去式）",
         "desc": "",
         "phonetic": "/pʊt/"
     },
@@ -61,19 +61,13 @@
     },
     {
         "english": "drew",
-        "chinese": "",
+        "chinese": "(用钢笔或铅笔)画（过去式）",
         "desc": "",
         "phonetic": "/druː/"
     },
     {
-        "english": "中国水墨画",
-        "chinese": "",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
         "english": "Chinese ink painting",
-        "chinese": "",
+        "chinese": "中国水墨画",
         "desc": "",
         "phonetic": ""
     },
@@ -109,7 +103,7 @@
     },
     {
         "english": "feel",
-        "chinese": "感到不高兴",
+        "chinese": "触摸，感觉",
         "desc": "",
         "phonetic": "/fiːl/"
     },
@@ -121,9 +115,15 @@
     },
     {
         "english": "felt",
-        "chinese": "触摸,感觉pt",
+        "chinese": "触摸,感觉（过去式）",
         "desc": "",
         "phonetic": "/felt/"
+    },
+    {
+        "english": "feel unhappy",
+        "chinese": "感到不高兴",
+        "desc": "",
+        "phonetic": ""
     },
     {
         "english": "look carefully",
@@ -181,13 +181,13 @@
     },
     {
         "english": "art",
-        "chinese": "",
+        "chinese": "美术",
         "desc": "",
         "phonetic": "/ɑːrt/"
     },
     {
         "english": "artist",
-        "chinese": "美术艺术家,画家",
+        "chinese": "艺术家,画家",
         "desc": "",
         "phonetic": "/ˈɑːrtɪst/"
     },
@@ -202,6 +202,12 @@
         "chinese": "说",
         "desc": "",
         "phonetic": "/seɪ/"
+    },
+    {
+        "english": "said",
+        "chinese": "说（过去式）",
+        "desc": "",
+        "phonetic": ""
     },
     {
         "english": "a great artist",

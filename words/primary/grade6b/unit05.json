@@ -66,6 +66,12 @@
     "phonetic": "/kʌt/"
   },
   {
+    "english": "cut",
+    "chinese": "剪，切，砍（过去式）",
+    "desc": "",
+    "phonetic": "/kʌt/"
+  },
+  {
     "english": "glue",
     "chinese": "胶水",
     "desc": "",
@@ -74,6 +80,12 @@
   {
     "english": "put",
     "chinese": "放",
+    "desc": "",
+    "phonetic": "/pʊt/"
+  },
+  {
+    "english": "put",
+    "chinese": "放（过去式）",
     "desc": "",
     "phonetic": "/pʊt/"
   },
@@ -90,6 +102,12 @@
     "phonetic": "/θɪŋk/"
   },
   {
+    "english": "thought",
+    "chinese": "想，认为（过去式）",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
     "english": "model house",
     "chinese": "房子模型",
     "desc": "",
@@ -98,6 +116,12 @@
   {
     "english": "hurt",
     "chinese": "弄伤，疼",
+    "desc": "",
+    "phonetic": "/hɜːrt/"
+  },
+  {
+    "english": "hurt",
+    "chinese": "弄伤，疼（过去式）",
     "desc": "",
     "phonetic": "/hɜːrt/"
   },
@@ -112,6 +136,12 @@
     "chinese": "告诉，讲述",
     "desc": "",
     "phonetic": "/tel/"
+  },
+  {
+    "english": "told",
+    "chinese": "告诉，讲述（过去式）",
+    "desc": "",
+    "phonetic": ""
   },
   {
     "english": "prince",
@@ -150,8 +180,14 @@
     "phonetic": ""
   },
   {
-    "english": "could",
+    "english": "can",
     "chinese": "能，可能",
+    "desc": "",
+    "phonetic": "/kʊd/"
+  },
+  {
+    "english": "could",
+    "chinese": "能，可能（过去式）",
     "desc": "",
     "phonetic": "/kʊd/"
   },
@@ -164,6 +200,12 @@
   {
     "english": "cut into pieces",
     "chinese": "剪成多块",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
+    "english": "such",
+    "chinese": "如此的，这样的",
     "desc": "",
     "phonetic": ""
   },

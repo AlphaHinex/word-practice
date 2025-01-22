@@ -7,7 +7,7 @@
   },
   {
     "english": "carried",
-    "chinese": "携带（carry的过去式）",
+    "chinese": "拿，背，挑（过去式）",
     "desc": "",
     "phonetic": ""
   },
@@ -25,13 +25,13 @@
   },
   {
     "english": "online",
-    "chinese": "在线/下线，离线",
+    "chinese": "在线",
     "desc": "",
     "phonetic": "/ˈɑːnˌlaɪn/"
   },
   {
     "english": "offline",
-    "chinese": "离线",
+    "chinese": "下线，离线",
     "desc": "",
     "phonetic": ""
   },
@@ -48,9 +48,9 @@
     "phonetic": ""
   },
   {
-    "english": "PS",
+    "english": "postscript",
     "chinese": "附言（用于信末）",
-    "desc": "",
+    "desc": "PS",
     "phonetic": ""
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "english": "a piece of",
-    "chinese": "张，一片",
+    "chinese": "一张，一片",
     "desc": "",
     "phonetic": ""
   },
@@ -85,31 +85,55 @@
   },
   {
     "english": "have lessons",
-    "chinese": "上课",
+    "chinese": "上课（两种等价形式）",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
+    "english": "have classes",
+    "chinese": "上课（两种等价形式）",
     "desc": "",
     "phonetic": ""
   },
   {
     "english": "have a picnic",
-    "chinese": "野餐",
+    "chinese": "野餐（三种等价形式）",
     "desc": "",
     "phonetic": ""
   },
   {
     "english": "take a picnic",
-    "chinese": "野餐",
+    "chinese": "野餐（三种等价形式）",
     "desc": "",
     "phonetic": ""
   },
   {
     "english": "go on a picnic",
-    "chinese": "野餐",
+    "chinese": "野餐（三种等价形式）",
     "desc": "",
     "phonetic": ""
   },
   {
     "english": "every month",
     "chinese": "每个月",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
+    "english": "students from other countries",
+    "chinese": "来自其他国家的学生",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
+    "english": "carry books to school",
+    "chinese": "把书拿到学校",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
+    "english": "a cooking lesson",
+    "chinese": "烹饪课",
     "desc": "",
     "phonetic": ""
   },
@@ -127,7 +151,7 @@
   },
   {
     "english": "studied",
-    "chinese": "学习（study的过去式）",
+    "chinese": "学习，研究（过去式）",
     "desc": "",
     "phonetic": ""
   },
@@ -180,19 +204,31 @@
     "phonetic": "/siːm/"
   },
   {
+    "english": "under the sea",
+    "chinese": "在海下",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
+    "english": "on high mountains",
+    "chinese": "在高山上",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
     "english": "In the future, what changes would you like to see in our school?",
     "chinese": "未来你们想看到我们的学校有什么变化？",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "2Write your wishes down on a piece of paper.",
+    "english": "Write your wishes down on a piece of paper.",
     "chinese": "在一张纸上写下你们的愿望。",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "3Students will study online at home.",
+    "english": "Students will study online at home.",
     "chinese": "学生们将在家线上学习。",
     "desc": "",
     "phonetic": ""
@@ -204,31 +240,25 @@
     "phonetic": ""
   },
   {
-    "english": "5 We will have lessons with students from other countries.",
+    "english": "We will have lessons with students from other countries.",
     "chinese": "我们将和来自其它国家的学生一起上课。",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "6We hope our school will get better and better.",
+    "english": "We hope our school will get better and better.",
     "chinese": "我们希望我们的学校将变得越来越好。",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "7 What will schools be like in the future? In the future, schools will be different",
-    "chinese": "学校将来会是什么样的？未来的学校将会是不同的。",
+    "english": "What will schools be like in the future? In the future, schools will be different. They will be under the sea, on high mountains and even in space.",
+    "chinese": "学校将来会是什么样的？未来的学校将会是不同的。它们会在海底、高山上甚至在太空里。",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "They will be under the sea, on high mountains and even in space.",
-    "chinese": "它们会在海底、高山上甚至在太空里。",
-    "desc": "",
-    "phonetic": ""
-  },
-  {
-    "english": "8Robots will help us find books in the library.",
+    "english": "Robots will help us find books in the library.",
     "chinese": "机器人将帮助我们在图书馆里找书。",
     "desc": "",
     "phonetic": ""

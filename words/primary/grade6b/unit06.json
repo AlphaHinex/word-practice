@@ -6,27 +6,21 @@
     "phonetic": ""
   },
   {
-    "english": "16 swimming lessons",
+    "english": "swimming lessons",
     "chinese": "游泳课",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "1",
+    "english": "every week",
     "chinese": "每周",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "2",
-    "chinese": "every week",
+    "english": "swimsuit",
+    "chinese": "游泳衣（女士）",
     "desc": "",
-    "phonetic": ""
-  },
-  {
-    "english": "17",
-    "chinese": "swimsuit",
-    "desc": "游泳衣（女士）",
     "phonetic": ""
   },
   {
@@ -36,14 +30,8 @@
     "phonetic": ""
   },
   {
-    "english": "18 swimming cap",
+    "english": "swimming cap",
     "chinese": "游泳帽",
-    "desc": "",
-    "phonetic": ""
-  },
-  {
-    "english": "3",
-    "chinese": "短跑",
     "desc": "",
     "phonetic": ""
   },
@@ -54,27 +42,21 @@
     "phonetic": ""
   },
   {
-    "english": "19 a pair of swimming goggles",
+    "english": "a pair of swimming goggles",
     "chinese": "游泳镜",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "4",
-    "chinese": "跳远",
+    "english": "get into ...",
+    "chinese": "进入到……里",
     "desc": "",
     "phonetic": ""
   },
   {
     "english": "long jump",
-    "chinese": "进入到…….",
+    "chinese": "跳远",
     "desc": "",
-    "phonetic": ""
-  },
-  {
-    "english": "5",
-    "chinese": "long jump",
-    "desc": "跳高",
     "phonetic": ""
   },
   {
@@ -84,20 +66,8 @@
     "phonetic": ""
   },
   {
-    "english": "21",
-    "chinese": "before",
-    "desc": "在……..之前",
-    "phonetic": ""
-  },
-  {
-    "english": "6",
-    "chinese": "7",
-    "desc": "进行长跑",
-    "phonetic": ""
-  },
-  {
-    "english": "22 after",
-    "chinese": "在…….之后",
+    "english": "before",
+    "chinese": "在……..之前",
     "desc": "",
     "phonetic": ""
   },
@@ -108,14 +78,20 @@
     "phonetic": ""
   },
   {
+    "english": "after",
+    "chinese": "在……之后",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
     "english": "win",
-    "chinese": "赢、获胜pt",
+    "chinese": "赢、获胜",
     "desc": "",
     "phonetic": "/wɪn/"
   },
   {
     "english": "won",
-    "chinese": "游泳池",
+    "chinese": "赢、获胜（过去式）",
     "desc": "",
     "phonetic": "/wʌn/"
   },
@@ -132,19 +108,13 @@
     "phonetic": ""
   },
   {
-    "english": "24",
-    "chinese": "do warm-up exercises",
-    "desc": "做热身运动",
-    "phonetic": ""
-  },
-  {
-    "english": "做热身运动",
-    "chinese": "擅长(做)……",
+    "english": "do warm-up exercises",
+    "chinese": "做热身运动",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "25 fit",
+    "english": "fit",
     "chinese": "健壮的",
     "desc": "",
     "phonetic": ""
@@ -162,15 +132,9 @@
     "phonetic": ""
   },
   {
-    "english": "11",
-    "chinese": "play ball games",
+    "english": "stay healthy and fit",
+    "chinese": "保持身体健康",
     "desc": "",
-    "phonetic": ""
-  },
-  {
-    "english": "26",
-    "chinese": "stay healthy and fit",
-    "desc": "保持身体健康",
     "phonetic": ""
   },
   {
@@ -186,63 +150,39 @@
     "phonetic": ""
   },
   {
-    "english": "12",
-    "chinese": "play volleyball",
-    "desc": "",
-    "phonetic": ""
-  },
-  {
-    "english": "27",
-    "chinese": "the Olympic Games",
-    "desc": "",
-    "phonetic": ""
-  },
-  {
     "english": "symbol",
-    "chinese": "做运动",
-    "desc": "象征,标志",
+    "chinese": "象征,标志",
+    "desc": "",
     "phonetic": ""
   },
   {
-    "english": "13",
-    "chinese": "play sport",
+    "english": "play sport",
+    "chinese": "做运动",
     "desc": "",
     "phonetic": ""
   },
   {
     "english": "in our PE lessons",
-    "chinese": "play sport",
-    "desc": "在体育课上",
-    "phonetic": ""
-  },
-  {
-    "english": "14",
-    "chinese": "in our PE lessons",
-    "desc": "在体育课上",
-    "phonetic": ""
-  },
-  {
-    "english": "29",
-    "chinese": "ring",
-    "desc": "环,戒指",
-    "phonetic": ""
-  },
-  {
-    "english": "15",
-    "chinese": "have a lot of fun together",
+    "chinese": "在体育课上",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "30",
-    "chinese": "five rings in five colours",
-    "desc": "五个颜色的五环",
+    "english": "ring",
+    "chinese": "环,戒指",
+    "desc": "",
     "phonetic": ""
   },
   {
     "english": "have a lot of fun together",
-    "chinese": "have a lot of fun together",
-    "desc": "We have two PE lessons at school every week.我们每周在学校有两节体育课。",
+    "chinese": "一起玩得很开心",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
+    "english": "five rings in five colours",
+    "chinese": "五个颜色的五环",
+    "desc": "",
     "phonetic": ""
   },
   {
