@@ -1,25 +1,7 @@
 [
     {
-        "english": "Unit9单词&句子",
-        "chinese": "Unit9单词和句子",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "星期前",
-        "chinese": "星期前",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "重新利用",
-        "chinese": "重新利用",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "16 a week ago",
-        "chinese": "16 一星期前",
+        "english": "a week ago",
+        "chinese": "一星期前",
         "desc": "",
         "phonetic": ""
     },
@@ -30,24 +12,6 @@
         "phonetic": "/ˌriːˈjuːs/"
     },
     {
-        "english": "扔掉",
-        "chinese": "扔掉",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "装满，充满",
-        "chinese": "装满，充满",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "2",
-        "chinese": "2",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
         "english": "throw away",
         "chinese": "扔掉",
         "desc": "",
@@ -55,31 +19,13 @@
     },
     {
         "english": "be full of = be filled with",
-        "chinese": "装满 = 充满",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "金属罐(近义tin)",
-        "chinese": "金属罐（近义tin）",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "18",
-        "chinese": "18",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "在超市",
-        "chinese": "在超市",
+        "chinese": "装满，充满（两种说法）",
         "desc": "",
         "phonetic": ""
     },
     {
         "english": "can",
-        "chinese": "能够",
+        "chinese": "金属罐（近义tin）",
         "desc": "",
         "phonetic": "/kæn/"
     },
@@ -90,44 +36,14 @@
         "phonetic": ""
     },
     {
-        "english": "第二天早上",
-        "chinese": "第二天早上",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
         "english": "rubber",
         "chinese": "橡皮，橡胶",
         "desc": "",
         "phonetic": "/ˈrʌbər/"
     },
     {
-        "english": "19 the next morning",
-        "chinese": "19 第二天早上",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "5",
-        "chinese": "5",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "花瓶",
-        "chinese": "花瓶",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "20",
-        "chinese": "20",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "垃圾桶",
-        "chinese": "垃圾桶",
+        "english": "the next morning",
+        "chinese": "第二天早上",
         "desc": "",
         "phonetic": ""
     },
@@ -144,20 +60,8 @@
         "phonetic": ""
     },
     {
-        "english": "笔筒",
-        "chinese": "笔筒",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
         "english": "pen holder",
         "chinese": "笔筒",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "21",
-        "chinese": "21",
         "desc": "",
         "phonetic": ""
     },
@@ -168,46 +72,16 @@
         "phonetic": "/trʌk/"
     },
     {
-        "english": "6",
-        "chinese": "6",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "信封",
-        "chinese": "信封",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "机器",
-        "chinese": "机器",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
         "english": "envelope",
         "chinese": "信封",
         "desc": "",
         "phonetic": "/ˈenvəloʊp/"
     },
     {
-        "english": "22",
-        "chinese": "22",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
         "english": "machine",
         "chinese": "机器",
         "desc": "",
         "phonetic": "/məˈʃiːn/"
-    },
-    {
-        "english": "蜡笔",
-        "chinese": "蜡笔",
-        "desc": "",
-        "phonetic": ""
     },
     {
         "english": "crayon",
@@ -217,31 +91,7 @@
     },
     {
         "english": "make ...into..",
-        "chinese": "把……判成……",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "9",
-        "chinese": "9",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "在许多方面",
-        "chinese": "在许多方面",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "24",
-        "chinese": "24",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "一块布",
-        "chinese": "一块布",
+        "chinese": "把……制成……",
         "desc": "",
         "phonetic": ""
     },
@@ -259,43 +109,13 @@
     },
     {
         "english": "put..in..",
-        "chinese": "把……...进...里",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "把…….带出去",
-        "chinese": "把…….带出去",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "25",
-        "chinese": "25",
+        "chinese": "把……...放进...里",
         "desc": "",
         "phonetic": ""
     },
     {
         "english": "one side of ...",
         "chinese": "…的一面，一边",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "大小，尺码",
-        "chinese": "大小，尺码",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "26",
-        "chinese": "26",
-        "desc": "",
-        "phonetic": ""
-    },
-    {
-        "english": "在两面写字（双面用纸）",
-        "chinese": "在两面写字（双面用纸）",
         "desc": "",
         "phonetic": ""
     },
@@ -312,4 +132,141 @@
         "phonetic": ""
     },
     {
-        "
+        "english": "plastic",
+        "chinese": "塑料的，塑料",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "string",
+        "chinese": "线，细绳，弦",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "journey",
+        "chinese": "旅程，历程",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "save",
+        "chinese": "节省，救助，保存",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "a plastic bottle",
+        "chinese": "一个塑料瓶",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "waste paper",
+        "chinese": "废纸",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "take me home",
+        "chinese": "带我回家",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "take ... outside",
+        "chinese": "把……带出去",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "We should keep them",
+        "chinese": "我们应该留着它们。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "That's right. We can reuse other old things too.",
+        "chinese": "对啊，我们也可以重新利用其他废旧物品。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "It's the right size. It'll be a nice pen holder.",
+        "chinese": "它大小正好。它会是一个漂亮的笔筒。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "A week ago, I was full of water.",
+        "chinese": "一星期前，我装满了水。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "The next morning, the woman drank the water and threw me into a rubbish bin.",
+        "chinese": "第二天早上，这个女子喝了水，然后把我扔进垃圾桶里。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "A street cleaner found me. He put me into a trunk.",
+        "chinese": "一个清洁工发现了我，他把我放到了一个卡车里。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "Finally, the made us into a piece of cloth.",
+        "chinese": "最后，他们把我们制成了一块布料。",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "bought",
+        "chinese": "买（过去式）",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "took",
+        "chinese": "带着（过去式）",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "drank",
+        "chinese": "喝（过去式）",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "threw",
+        "chinese": "扔（过去式）",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "found",
+        "chinese": "找（过去式）",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "put",
+        "chinese": "放（过去式）",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "became",
+        "chinese": "变成（过去式）",
+        "desc": "",
+        "phonetic": ""
+    },
+    {
+        "english": "made",
+        "chinese": "制作（过去式）",
+        "desc": "",
+        "phonetic": ""
+    }
+]

@@ -1,1 +1,224 @@
-[{"chinese":"标识，招牌，签字","desc":"","english":"sign","phonetic":"/saɪn/"},{"chinese":"保持安静","desc":"","english":"keep quiet","phonetic":""},{"chinese":"underground station","desc":"","english":"地铁站","phonetic":""},{"chinese":"践踏草坪","desc":"","english":"walk on the grass","phonetic":""},{"chinese":"在那边","desc":"","english":"over there","phonetic":""},{"chinese":"小路，小径","desc":"","english":"path","phonetic":"/pæθ/"},{"chinese":"刚才，刚好","desc":"","english":"just","phonetic":"/dʒʌst/"},{"chinese":"在森林旁边","desc":"","english":"by the forest","phonetic":""},{"chinese":"来自","desc":"","english":"come from","phonetic":""},{"chinese":"对……说","desc":"","english":"say to...","phonetic":""},{"chinese":"迷路","desc":"(adj.)=be lost","english":"get lost","phonetic":""},{"chinese":"单词","desc":"","english":"word","phonetic":"/wɜːrd/"},{"chinese":"看一看","desc":"","english":"have a look","phonetic":""},{"chinese":"在……中间","desc":"","english":"in the middle of","phonetic":""},{"chinese":"环顾周围","desc":"","english":"look around","phonetic":""},{"chinese":"特别的，特殊的","desc":"","english":"special","phonetic":"/ˈspeʃl/"},{"chinese":"公路，马路","desc":"在地面上","english":"road","phonetic":"/roʊd/"},{"chinese":"当心，小心","desc":"","english":"look out","phonetic":"/lʊk aʊt/"},{"chinese":"担心","desc":"","english":"worry (about)","phonetic":""},{"chinese":"在我回家的路上","desc":"look out for animal","english":"on my way home","phonetic":""},{"chinese":"落下，掉下、滴，水珠","desc":"","english":"drop","phonetic":"/drɑːp/"},{"chinese":"找到路","desc":"","english":"find one's (the) way","phonetic":""},{"chinese":"跟随，跟从","desc":"在路上","english":"follow","phonetic":"/ˈfɒloʊ/"},{"chinese":"在路上","desc":"","english":"on the way","phonetic":""},{"chinese":"那里地铁站的标志是红色的。","desc":"","english":"The sign for the underground station there is red.","phonetic":""},{"chinese":"禁止吸烟。","desc":"=Don't smoke.=You shouldn't smoke.","english":"No smoking.","phonetic":""},{"chinese":"禁止游泳。","desc":"=Don't swim.=You should","english":"No swimming.","phonetic":""},{"chinese":"他们的爸爸看到他们十分高兴。","desc":"","english":"Their father was very happy to see them.","phonetic":""},{"chinese":"我们必须当心它们。","desc":"","english":"We must look out for them.","phonetic":""},{"chinese":"勿踏草坪。","desc":"","english":"Don't walk on the grass.","phonetic":""},{"chinese":"绝不要进入森林。你们会迷路的。","desc":"","english":"Never go into the forest. You may get lost.","phonetic":""},{"chinese":"一段时间之后，他们感到又饿又累。","desc":"","english":"After some time, they felt hungry and tired.","phonetic":""},{"chinese":"我们可以跟随它们回家。","desc":"","english":"We can follow them back home.","phonetic":""}]
+[
+    {
+        "chinese": "标识，招牌，签字",
+        "desc": "",
+        "english": "sign",
+        "phonetic": "/saɪn/"
+    },
+    {
+        "chinese": "保持安静",
+        "desc": "",
+        "english": "keep quiet",
+        "phonetic": ""
+    },
+    {
+        "english": "underground station",
+        "desc": "",
+        "chinese": "地铁站",
+        "phonetic": ""
+    },
+    {
+        "chinese": "践踏草坪",
+        "desc": "",
+        "english": "walk on the grass",
+        "phonetic": ""
+    },
+    {
+        "chinese": "在那边",
+        "desc": "",
+        "english": "over there",
+        "phonetic": ""
+    },
+    {
+        "chinese": "小路，小径",
+        "desc": "",
+        "english": "path",
+        "phonetic": "/pæθ/"
+    },
+    {
+        "chinese": "刚才，刚好",
+        "desc": "",
+        "english": "just",
+        "phonetic": "/dʒʌst/"
+    },
+    {
+        "chinese": "在森林旁边",
+        "desc": "",
+        "english": "by the forest",
+        "phonetic": ""
+    },
+    {
+        "chinese": "来自",
+        "desc": "",
+        "english": "come from",
+        "phonetic": ""
+    },
+    {
+        "chinese": "对……说",
+        "desc": "",
+        "english": "say to...",
+        "phonetic": ""
+    },
+    {
+        "chinese": "……的标识",
+        "desc": "",
+        "english": "the sign for ...",
+        "phonetic": ""
+    },
+    {
+        "chinese": "迷路",
+        "desc": "(adj.)=be lost",
+        "english": "get lost",
+        "phonetic": ""
+    },
+    {
+        "chinese": "单词",
+        "desc": "",
+        "english": "word",
+        "phonetic": "/wɜːrd/"
+    },
+    {
+        "chinese": "看一看",
+        "desc": "",
+        "english": "have a look",
+        "phonetic": ""
+    },
+    {
+        "chinese": "在……中间",
+        "desc": "",
+        "english": "in the middle of",
+        "phonetic": ""
+    },
+    {
+        "chinese": "一段时间",
+        "desc": "",
+        "english": "some time",
+        "phonetic": ""
+    },
+    {
+        "chinese": "环顾周围",
+        "desc": "",
+        "english": "look around",
+        "phonetic": ""
+    },
+    {
+        "chinese": "特别的，特殊的",
+        "desc": "",
+        "english": "special",
+        "phonetic": "/ˈspeʃl/"
+    },
+    {
+        "chinese": "公路，马路",
+        "desc": "",
+        "english": "road",
+        "phonetic": "/roʊd/"
+    },
+    {
+        "chinese": "在地面上",
+        "desc": "",
+        "english": "on the ground",
+        "phonetic": "/roʊd/"
+    },
+    {
+        "chinese": "当心，小心",
+        "desc": "",
+        "english": "look out",
+        "phonetic": "/lʊk aʊt/"
+    },
+    {
+        "chinese": "担心",
+        "desc": "",
+        "english": "worry (about)",
+        "phonetic": ""
+    },
+    {
+        "chinese": "在我回家的路上",
+        "desc": "",
+        "english": "on my way home",
+        "phonetic": ""
+    },
+    {
+        "chinese": "当心动物",
+        "desc": "",
+        "english": "look out for animal",
+        "phonetic": ""
+    },
+    {
+        "chinese": "落下，掉下、滴，水珠",
+        "desc": "",
+        "english": "drop",
+        "phonetic": "/drɑːp/"
+    },
+    {
+        "chinese": "找到路",
+        "desc": "",
+        "english": "find one's (the) way",
+        "phonetic": ""
+    },
+    {
+        "chinese": "跟随，跟从",
+        "desc": "",
+        "english": "follow",
+        "phonetic": "/ˈfɒloʊ/"
+    },
+    {
+        "chinese": "在路上",
+        "desc": "",
+        "english": "on the way",
+        "phonetic": ""
+    },
+    {
+        "chinese": "那里地铁站的标志是红色的。",
+        "desc": "",
+        "english": "The sign for the underground station there is red.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "禁止吸烟。",
+        "desc": "三种说法",
+        "english": "No smoking.=Don't smoke.=You shouldn't smoke.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "禁止游泳。",
+        "desc": "两种说法",
+        "english": "No swimming.=Don't swim.=You shouldn't swim.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "他们的爸爸看到他们十分高兴。",
+        "desc": "",
+        "english": "Their father was very happy to see them.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "我们必须当心它们。",
+        "desc": "",
+        "english": "We must look out for them.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "勿踏草坪。",
+        "desc": "",
+        "english": "Don't walk on the grass.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "绝不要进入森林。你们会迷路的。",
+        "desc": "",
+        "english": "Never go into the forest. You may get lost.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "一段时间之后，他们感到又饿又累。",
+        "desc": "",
+        "english": "After some time, they felt hungry and tired.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "我们可以跟随它们回家。",
+        "desc": "",
+        "english": "We can follow them back home.",
+        "phonetic": ""
+    }
+]

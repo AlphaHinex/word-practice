@@ -48,6 +48,12 @@
     "phonetic": ""
   },
   {
+    "english": "half an hour ago",
+    "chinese": "半小时前",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
     "english": "work hard",
     "chinese": "勤奋地工作",
     "desc": "(adv.)",
@@ -60,6 +66,12 @@
     "phonetic": ""
   },
   {
+    "english": "go out early",
+    "chinese": "早出",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
     "english": "give seats to sb.",
     "chinese": "给某人让座",
     "desc": "",
@@ -68,6 +80,12 @@
   {
     "english": "come back late",
     "chinese": "晚归",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
+    "english": "a pink bell around her neck",
+    "chinese": "脖子上有一个粉色的铃铛",
     "desc": "",
     "phonetic": ""
   },
@@ -86,6 +104,12 @@
   {
     "english": "go ahead",
     "chinese": "开始、前进",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
+    "english": "in fifteen minutes",
+    "chinese": "15分钟后",
     "desc": "",
     "phonetic": ""
   },
@@ -114,21 +138,33 @@
     "phonetic": ""
   },
   {
-    "english": "meet met",
+    "english": "meet",
     "chinese": "见面，会和",
     "desc": "pt",
     "phonetic": ""
   },
   {
+    "english": "met",
+    "chinese": "见面，会和（过去式）",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
     "english": "lose",
     "chinese": "丢失、输掉",
-    "desc": "pt",
+    "desc": "",
     "phonetic": "/luːz/"
   },
   {
-    "english": "What's the matter(with you)?",
-    "chinese": "怎么了？",
-    "desc": "I can't find my dog.我找不到我的狗了。",
+    "english": "lost",
+    "chinese": "丢失、输掉（过去式）",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
+    "english": "What's the matter(with you)?I can't find my dog.",
+    "chinese": "怎么了？我找不到我的狗了。",
+    "desc": "",
     "phonetic": ""
   },
   {
@@ -144,15 +180,15 @@
     "phonetic": ""
   },
   {
-    "english": "saw her two minutes ago.",
-    "chinese": "我两分钟前见过她。",
-    "desc": "She was near the lake.她在湖附近。",
+    "english": "I saw her two minutes ago.She was near the lake.",
+    "chinese": "我两分钟前见过她。她在湖附近。",
+    "desc": "",
     "phonetic": ""
   },
   {
-    "english": "What did the people think of the bee?",
-    "chinese": "人们怎么看蜜蜂？",
-    "desc": "They all liked the bee.他们都喜欢蜜蜂",
+    "english": "What did the people think of the bee? They all liked the bee.",
+    "chinese": "人们怎么看蜜蜂？他们都喜欢蜜蜂",
+    "desc": "",
     "phonetic": ""
   },
   {

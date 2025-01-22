@@ -1,1 +1,266 @@
-[{"chinese":"豌豆","desc":"","english":"豌豆","phonetic":"/ˈpiː/"},{"chinese":"离开，出发","desc":"","english":"leave left","phonetic":""},{"chinese":"豌豆","desc":"","english":"pea","phonetic":"/piː/"},{"chinese":"豆荚","desc":"","english":"豆荚","phonetic":""},{"chinese":"另一个豌豆","desc":"","english":"另一个豌豆","phonetic":""},{"chinese":"豆荚","desc":"","english":"pod","phonetic":"/pɒd/"},{"chinese":"永远","desc":"","english":"forever","phonetic":"/fərˈevər/"},{"chinese":"更大的","desc":"","english":"bigger","phonetic":"/ˈbɪɡər/"},{"chinese":"长得越来越大","desc":"","english":"grow bigger and bigger","phonetic":""},{"chinese":"感到兴奋的","desc":"","english":"excited","phonetic":"/ɪkˈsaɪtɪd/"},{"chinese":"令人兴奋的","desc":"","english":"exciting","phonetic":"/ɪkˈsaɪtɪŋ/"},{"chinese":"子弹","desc":"","english":"bullet","phonetic":"/ˈbʊlɪt/"},{"chinese":"好转起来","desc":"","english":"get well","phonetic":""},{"chinese":"懒惰的","desc":"","english":"lazy","phonetic":"/ˈleɪzi/"},{"chinese":"变得，得到","desc":"","english":"get got","phonetic":""},{"chinese":"房顶","desc":"","english":"roof","phonetic":"/ruːf/"},{"chinese":"说","desc":"","english":"said","phonetic":"/sed/"},{"chinese":"说","desc":"","english":"say","phonetic":"/seɪ/"},{"chinese":"院子","desc":"","english":"yard","phonetic":"/jɑːrd/"},{"chinese":"飞","desc":"","english":"fly flew","phonetic":""},{"chinese":"几个星期后","desc":"","english":"a few weeks later","phonetic":""},{"chinese":"掉落，摔倒","desc":"","english":"fall fell","phonetic":""},{"chinese":"见世面","desc":"","english":"see the world","phonetic":""},{"chinese":"个接一个地","desc":"","english":"one by one","phonetic":""},{"chinese":"一定","desc":"","english":"must be","phonetic":""},{"chinese":"往外看","desc":"","english":"look out of","phonetic":""},{"chinese":"努力，设法去做","desc":"","english":"try to do","phonetic":""},{"chinese":"做同样的事","desc":"","english":"do the same","phonetic":""},{"chinese":"把….从...中取出来","desc":"","english":"take ...out of","phonetic":""},{"chinese":"做一些有用的事","desc":"","english":"do something useful","phonetic":""},{"chinese":"生长，种植","desc":"","english":"grow","phonetic":"/ɡroʊ/"},{"chinese":"生长，种植","desc":"","english":"grew","phonetic":"/ɡruː/"},{"chinese":"她往窗外看去，看到了这个植物。","desc":"","english":"She looked out of her window and saw the plant.","phonetic":""},{"chinese":"它一定很强状。我也会努力这么做。","desc":"","english":"It must be strong. I'll try to do the same.","phonetic":""},{"chinese":"这个男孩把豌豆从豆荚中取出来。你们会成为好的子弹。","desc":"","english":"The boy took the peas out of the pod. You'll make good bullets.","phonetic":""},{"chinese":"我会做些有用的事。","desc":"","english":"I'll do something useful.","phonetic":""},{"chinese":"豌豆们一颗接一颗地飞向了天空。","desc":"","english":"One by one, the peas flew into the sky.","phonetic":""},{"chinese":"第五个豌豆撞到了一个窗户，然后掉到了地上。","desc":"","english":"The fifth pea hit a window and fell on the ground.","phonetic":""},{"chinese":"不久它长成了一棵带有一些绿叶的植物。","desc":"","english":"Soon it grew into a plant with some green leaves.","phonetic":""}]
+[
+    {
+        "chinese": "离开，出发",
+        "desc": "",
+        "english": "leave left",
+        "phonetic": ""
+    },
+    {
+        "chinese": "离开，出发（过去式）",
+        "desc": "",
+        "english": "left",
+        "phonetic": ""
+    },
+    {
+        "chinese": "豌豆",
+        "desc": "",
+        "english": "pea",
+        "phonetic": "/piː/"
+    },
+    {
+        "chinese": "豆荚",
+        "desc": "",
+        "english": "pod",
+        "phonetic": "/pɒd/"
+    },
+    {
+        "chinese": "另一个豌豆",
+        "desc": "",
+        "english": "another pea",
+        "phonetic": ""
+    },
+    {
+        "chinese": "永远",
+        "desc": "",
+        "english": "forever",
+        "phonetic": "/fərˈevər/"
+    },
+    {
+        "chinese": "回答，接电话",
+        "desc": "",
+        "english": "answer",
+        "phonetic": ""
+    },
+    {
+        "chinese": "更大的",
+        "desc": "",
+        "english": "bigger",
+        "phonetic": "/ˈbɪɡər/"
+    },
+    {
+        "chinese": "长得越来越大",
+        "desc": "",
+        "english": "grow bigger and bigger",
+        "phonetic": ""
+    },
+    {
+        "chinese": "感到兴奋的",
+        "desc": "",
+        "english": "excited",
+        "phonetic": "/ɪkˈsaɪtɪd/"
+    },
+    {
+        "chinese": "令人兴奋的",
+        "desc": "",
+        "english": "exciting",
+        "phonetic": "/ɪkˈsaɪtɪŋ/"
+    },
+    {
+        "chinese": "子弹",
+        "desc": "",
+        "english": "bullet",
+        "phonetic": "/ˈbʊlɪt/"
+    },
+    {
+        "chinese": "好转起来",
+        "desc": "",
+        "english": "get well",
+        "phonetic": ""
+    },
+    {
+        "chinese": "懒惰的",
+        "desc": "",
+        "english": "lazy",
+        "phonetic": "/ˈleɪzi/"
+    },
+    {
+        "chinese": "变得，得到",
+        "desc": "",
+        "english": "get",
+        "phonetic": ""
+    },
+    {
+        "chinese": "变得，得到（过去式）",
+        "desc": "",
+        "english": "got",
+        "phonetic": ""
+    },
+    {
+        "chinese": "房顶",
+        "desc": "",
+        "english": "roof",
+        "phonetic": "/ruːf/"
+    },
+    {
+        "chinese": "说（过去式）",
+        "desc": "",
+        "english": "said",
+        "phonetic": "/sed/"
+    },
+    {
+        "chinese": "说",
+        "desc": "",
+        "english": "say",
+        "phonetic": "/seɪ/"
+    },
+    {
+        "chinese": "院子",
+        "desc": "",
+        "english": "yard",
+        "phonetic": "/jɑːrd/"
+    },
+    {
+        "chinese": "飞",
+        "desc": "",
+        "english": "fly",
+        "phonetic": ""
+    },
+    {
+        "chinese": "飞（过去式）",
+        "desc": "",
+        "english": "flew",
+        "phonetic": ""
+    },
+    {
+        "chinese": "几个星期后",
+        "desc": "",
+        "english": "a few weeks later",
+        "phonetic": ""
+    },
+    {
+        "chinese": "掉落，摔倒",
+        "desc": "",
+        "english": "fall",
+        "phonetic": ""
+    },
+    {
+        "chinese": "掉落，摔倒（过去式）",
+        "desc": "",
+        "english": "fell",
+        "phonetic": ""
+    },
+    {
+        "chinese": "见世面",
+        "desc": "",
+        "english": "see the world",
+        "phonetic": ""
+    },
+    {
+        "chinese": "碰撞，撞击",
+        "desc": "",
+        "english": "hit",
+        "phonetic": ""
+    },
+    {
+        "chinese": "碰撞，撞击（过去式）",
+        "desc": "",
+        "english": "hit",
+        "phonetic": ""
+    },
+    {
+        "chinese": "一个接一个地",
+        "desc": "",
+        "english": "one by one",
+        "phonetic": ""
+    },
+    {
+        "chinese": "一定",
+        "desc": "",
+        "english": "must be",
+        "phonetic": ""
+    },
+    {
+        "chinese": "往外看",
+        "desc": "",
+        "english": "look out of",
+        "phonetic": ""
+    },
+    {
+        "chinese": "努力，设法去做",
+        "desc": "",
+        "english": "try to do",
+        "phonetic": ""
+    },
+    {
+        "chinese": "做同样的事",
+        "desc": "",
+        "english": "do the same",
+        "phonetic": ""
+    },
+    {
+        "chinese": "把….从...中取出来",
+        "desc": "",
+        "english": "take ...out of",
+        "phonetic": ""
+    },
+    {
+        "chinese": "做一些有用的事",
+        "desc": "",
+        "english": "do something useful",
+        "phonetic": ""
+    },
+    {
+        "chinese": "生长，种植",
+        "desc": "",
+        "english": "grow",
+        "phonetic": "/ɡroʊ/"
+    },
+    {
+        "chinese": "生长，种植（过去式）",
+        "desc": "",
+        "english": "grew",
+        "phonetic": "/ɡruː/"
+    },
+    {
+        "chinese": "她往窗外看去，看到了这个植物。",
+        "desc": "",
+        "english": "She looked out of her window and saw the plant.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "它一定很强壮。我也会努力这么做。",
+        "desc": "",
+        "english": "It must be strong. I'll try to do the same.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "这个男孩把豌豆从豆荚中取出来。你们会成为好的子弹。",
+        "desc": "",
+        "english": "The boy took the peas out of the pod. You'll make good bullets.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "我会做些有用的事。",
+        "desc": "",
+        "english": "I'll do something useful.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "豌豆们一颗接一颗地飞向了天空。",
+        "desc": "",
+        "english": "One by one, the peas flew into the sky.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "第五个豌豆撞到了一个窗户，然后掉到了地上。",
+        "desc": "",
+        "english": "The fifth pea hit a window and fell on the ground.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "不久它长成了一棵带有一些绿叶的植物。",
+        "desc": "",
+        "english": "Soon it grew into a plant with some green leaves.",
+        "phonetic": ""
+    }
+]

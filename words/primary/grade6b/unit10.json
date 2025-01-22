@@ -73,7 +73,13 @@
   },
   {
     "english": "scarfs/scarves",
-    "chinese": "复数",
+    "chinese": "围巾复数",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
+    "english": "German",
+    "chinese": "德国的，德语，德国人",
     "desc": "",
     "phonetic": ""
   },
@@ -109,7 +115,7 @@
   },
   {
     "english": "well-known = famous",
-    "chinese": "众所周知的，著名的",
+    "chinese": "众所周知的，著名的（两种说法）",
     "desc": "",
     "phonetic": ""
   },
@@ -118,6 +124,12 @@
     "chinese": "吹，刮",
     "desc": "",
     "phonetic": "/bloʊ/"
+  },
+  {
+    "english": "blew",
+    "chinese": "吹，刮（过去式）",
+    "desc": "",
+    "phonetic": ""
   },
   {
     "english": "learn .. from...",
@@ -132,10 +144,22 @@
     "phonetic": "/bɪˈɡɪn/"
   },
   {
+    "english": "began",
+    "chinese": "开始（过去式）",
+    "desc": "",
+    "phonetic": "/bɪˈɡɪn/"
+  },
+  {
     "english": "write",
     "chinese": "写",
     "desc": "",
     "phonetic": "/raɪt/"
+  },
+  {
+    "english": "wrote",
+    "chinese": "写（过去式）",
+    "desc": "",
+    "phonetic": ""
   },
   {
     "english": "children around the world",
@@ -144,49 +168,49 @@
     "phonetic": ""
   },
   {
-    "english": "I What is the story about? It's about an ugly duckling.",
+    "english": "What is the story about? It's about an ugly duckling.",
     "chinese": "这个故事是关于什么的？这是一个关于丑小鸭的故事。",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "2 Chillren around the world en oy re ding his stories.",
+    "english": "Chillren around the world enjoy reading his stories.",
     "chinese": "全世界的孩子们都喜欢读他的故事。",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "3Who wrote this story?",
+    "english": "Who wrote this story?",
     "chinese": "谁写的这个故事？",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "4Then he began to shine.",
+    "english": "Then he began to shine.",
     "chinese": "然后他开始照耀大地。",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "5They colectd a lot of stories. Both adults and children like their stories.",
+    "english": "They collected a lot of stories. Both adults and children like their stories.",
     "chinese": "他们收集了很多故事。大人和孩子都喜欢他们的故事。",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "6 Aesop's Fables is another great book. Most stories in this book are about animals.",
+    "english": "Aesop's Fables is another great book. Most stories in this book are about animals.",
     "chinese": "《伊索寓言》是另一本了不起的书。这本书里的大多数故事与动物相关。",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "7 We can usually learn something from these storie",
+    "english": "We can usually learn something from these storie",
     "chinese": "我们通常能从这些故事中学到一些东西。",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "8Who is stronger?I'm stronger than you.",
+    "english": "Who is stronger?I'm stronger than you.",
     "chinese": "谁更强大？我比你强大。",
     "desc": "",
     "phonetic": ""

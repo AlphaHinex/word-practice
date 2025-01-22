@@ -6,7 +6,7 @@
     "phonetic": "/ˈwestərn/"
   },
   {
-    "english": "on the fourth Thur",
+    "english": "on the fourth Thursday",
     "chinese": "在第四个周四",
     "desc": "",
     "phonetic": ""
@@ -43,13 +43,19 @@
   },
   {
     "english": "present = gift",
-    "chinese": "礼物",
+    "chinese": "礼物（两种说法）",
     "desc": "",
     "phonetic": ""
   },
   {
     "english": "each other",
     "chinese": "互相,彼此",
+    "desc": "",
+    "phonetic": ""
+  },
+  {
+    "english": "meal",
+    "chinese": "餐,一顿饭",
     "desc": "",
     "phonetic": ""
   },
@@ -70,6 +76,12 @@
     "chinese": "装饰,装潢",
     "desc": "",
     "phonetic": "/ˈdekəreɪt/"
+  },
+  {
+    "english": "last year",
+    "chinese": "去年",
+    "desc": "",
+    "phonetic": ""
   },
   {
     "english": "put up",
