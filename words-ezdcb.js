@@ -3850,6 +3850,342 @@ var words = [
         "phonetic": ""
     },
     {
+        "english": "have PE lessons",
+        "chinese": "上体育课",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "16 swimming lessons",
+        "chinese": "游泳课",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "1",
+        "chinese": "每周",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "2",
+        "chinese": "every week",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "17",
+        "chinese": "swimsuit",
+        "desc": "游泳衣（女士）",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "long race",
+        "chinese": "长跑",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "18 swimming cap",
+        "chinese": "游泳帽",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "3",
+        "chinese": "短跑",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "short race",
+        "chinese": "短跑",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "19 a pair of swimming goggles",
+        "chinese": "游泳镜",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "4",
+        "chinese": "跳远",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "long jump",
+        "chinese": "进入到…….",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "5",
+        "chinese": "long jump",
+        "desc": "跳高",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "high jump",
+        "chinese": "跳高",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "21",
+        "chinese": "before",
+        "desc": "在……..之前",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "6",
+        "chinese": "7",
+        "desc": "进行长跑",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "22 after",
+        "chinese": "在…….之后",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "run long races",
+        "chinese": "进行长跑",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "win",
+        "chinese": "赢、获胜pt",
+        "desc": "",
+        "phonetic": "/wɪn/",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "won",
+        "chinese": "游泳池",
+        "desc": "",
+        "phonetic": "/wʌn/",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "swimming pool",
+        "chinese": "游泳池",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "do the high jump",
+        "chinese": "进行跳高",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "24",
+        "chinese": "do warm-up exercises",
+        "desc": "做热身运动",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "做热身运动",
+        "chinese": "擅长(做)……",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "25 fit",
+        "chinese": "健壮的",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "be good at sth./ doing",
+        "chinese": "擅长（做）……",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "play ball games",
+        "chinese": "进行球类运动",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "11",
+        "chinese": "play ball games",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "26",
+        "chinese": "stay healthy and fit",
+        "desc": "保持身体健康",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "play volleyball",
+        "chinese": "打排球",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "the Olympic Games",
+        "chinese": "奥运会",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "12",
+        "chinese": "play volleyball",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "27",
+        "chinese": "the Olympic Games",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "symbol",
+        "chinese": "做运动",
+        "desc": "象征,标志",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "13",
+        "chinese": "play sport",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "in our PE lessons",
+        "chinese": "play sport",
+        "desc": "在体育课上",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "14",
+        "chinese": "in our PE lessons",
+        "desc": "在体育课上",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "29",
+        "chinese": "ring",
+        "desc": "环,戒指",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "15",
+        "chinese": "have a lot of fun together",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "30",
+        "chinese": "five rings in five colours",
+        "desc": "五个颜色的五环",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "have a lot of fun together",
+        "chinese": "have a lot of fun together",
+        "desc": "We have two PE lessons at school every week.我们每周在学校有两节体育课。",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "We have two PE lessons at school every week.",
+        "chinese": "我们每周在学校有两节体育课。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "We run long races and short races. The races are exciting.",
+        "chinese": "我们进行长跑和短跑。赛跑激动人心。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "What do we need for swimming?",
+        "chinese": "我们游泳都需要什么?",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "The swimsuit should not be too big or too small,",
+        "chinese": "泳衣既不要太大也不要太小。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "You should wash yourself before you go into the swimming pool.",
+        "chinese": "在你进入泳池前，要先冲洗身体。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "Do it after swimming too.",
+        "chinese": "游泳之后也要这么做。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
+        "english": "I'll teach you how to swim.",
+        "chinese": "我将教你如何游泳。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit06"
+    },
+    {
         "english": "holiday",
         "chinese": "假日，假期",
         "tag": "primary-grade5-unit06",
