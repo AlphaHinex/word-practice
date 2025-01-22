@@ -4138,6 +4138,258 @@ var words = [
         "phonetic": ""
     },
     {
+        "english": "leaf",
+        "chinese": "叶子",
+        "desc": "",
+        "phonetic": "/liːf/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "craft",
+        "chinese": "手艺，工艺",
+        "desc": "",
+        "phonetic": "/kræft/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "leaves",
+        "chinese": "叶子复数",
+        "desc": "",
+        "phonetic": "/liːvz/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "crown",
+        "chinese": "王冠",
+        "desc": "",
+        "phonetic": "/kraʊn/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "saw",
+        "chinese": "锯",
+        "desc": "",
+        "phonetic": "/sɔː/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "scissors",
+        "chinese": "剪刀",
+        "desc": "",
+        "phonetic": "/ˈsɪzərz/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "tool",
+        "chinese": "工具",
+        "desc": "",
+        "phonetic": "/tuːl/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "a pair of scissors",
+        "chinese": "一把剪刀",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "easily",
+        "chinese": "容易地",
+        "desc": "",
+        "phonetic": "/ˈiːzɪli/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "tape",
+        "chinese": "胶带",
+        "desc": "",
+        "phonetic": "/teɪp/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "cut",
+        "chinese": "剪，切，砍",
+        "desc": "",
+        "phonetic": "/kʌt/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "glue",
+        "chinese": "胶水",
+        "desc": "",
+        "phonetic": "/ɡluː/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "put",
+        "chinese": "放",
+        "desc": "",
+        "phonetic": "/pʊt/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "sound",
+        "chinese": "声音，音量",
+        "desc": "",
+        "phonetic": "/saʊnd/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "think",
+        "chinese": "想，认为",
+        "desc": "",
+        "phonetic": "/θɪŋk/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "model house",
+        "chinese": "房子模型",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "hurt",
+        "chinese": "弄伤，疼",
+        "desc": "",
+        "phonetic": "/hɜːrt/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "make presents for..",
+        "chinese": "为.制作礼物",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "tell",
+        "chinese": "告诉，讲述",
+        "desc": "",
+        "phonetic": "/tel/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "prince",
+        "chinese": "王子",
+        "desc": "",
+        "phonetic": "/prɪns/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "princess",
+        "chinese": "公主",
+        "desc": "",
+        "phonetic": "/ˌprɪnˈses/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "say to oneself",
+        "chinese": "自言自语",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "a long time ago",
+        "chinese": "很久以前",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "still",
+        "chinese": "还，仍然",
+        "desc": "",
+        "phonetic": "/stɪl/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "at work",
+        "chinese": "在工作，在忙着",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "could",
+        "chinese": "能，可能",
+        "desc": "",
+        "phonetic": "/kʊd/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "craftsman",
+        "chinese": "工匠",
+        "desc": "",
+        "phonetic": "/ˈkræftsmən/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "cut into pieces",
+        "chinese": "剪成多块",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "cardboard",
+        "chinese": "硬纸板",
+        "desc": "",
+        "phonetic": "/ˈkɑːrdboɔːrd/",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "such a small leaf",
+        "chinese": "这么小的一片叶子",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "do the puzzle",
+        "chinese": "玩拼图",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "We don't have any tape. We don't have any tape.",
+        "chinese": "我们没有胶带了。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "What do you want to make? I want to make a crown.",
+        "chinese": "你想做（制作）什么？我想要做一个王冠。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "What do you need? I need a pair of scissors.",
+        "chinese": "你需要什么？我需要一把剪刀。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "That sounds nice. Who is it for? It's for my little cousin.",
+        "chinese": "那听起来很不错。它是给谁的？是给我小表妹的。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
+        "english": "What are you making? We're making a model house.",
+        "chinese": "你们在做什么？我们在做模型小屋。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit05"
+    },
+    {
         "english": "weekend",
         "chinese": "周末",
         "tag": "primary-grade5-unit05",
