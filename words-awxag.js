@@ -4471,6 +4471,286 @@ var words = [
         "phonetic": ""
     },
     {
+        "english": "oil",
+        "chinese": "油[U]",
+        "desc": "",
+        "phonetic": "/ɔɪl/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "take",
+        "chinese": "拿走,带领,进行 pt",
+        "desc": "",
+        "phonetic": "/teɪk/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "took",
+        "chinese": "",
+        "desc": "",
+        "phonetic": "/tuk/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "油画",
+        "chinese": "",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "上绘画课",
+        "chinese": "",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "oil painting",
+        "chinese": "",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "powerful",
+        "chinese": "强有力的",
+        "desc": "",
+        "phonetic": "/ˈpaʊərfl/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "put",
+        "chinese": "放置",
+        "desc": "",
+        "phonetic": "/pʊt/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "ink",
+        "chinese": "墨水,墨汁",
+        "desc": "",
+        "phonetic": "/ɪŋk/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "draw",
+        "chinese": "(用钢笔或铅笔)画pt",
+        "desc": "",
+        "phonetic": "/drɔː/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "drew",
+        "chinese": "",
+        "desc": "",
+        "phonetic": "/druː/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "中国水墨画",
+        "chinese": "",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "Chinese ink painting",
+        "chinese": "",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "ask sb to do ...",
+        "chinese": "让某人去做.…",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "brush",
+        "chinese": "画笔,刷子(n.),刷(v.)",
+        "desc": "",
+        "phonetic": "/brʌʃ/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "in the second lesson",
+        "chinese": "在第二节课上",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "paints",
+        "chinese": "绘画颜料,水彩",
+        "desc": "",
+        "phonetic": "/peɪnts/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "all the time",
+        "chinese": "一直",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "feel",
+        "chinese": "感到不高兴",
+        "desc": "",
+        "phonetic": "/fiːl/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "which",
+        "chinese": "哪一个,哪一些",
+        "desc": "",
+        "phonetic": "/wɪtʃ/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "felt",
+        "chinese": "触摸,感觉pt",
+        "desc": "",
+        "phonetic": "/felt/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "look carefully",
+        "chinese": "仔细看",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "work hard",
+        "chinese": "努力工作,发奋努力",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "on the left/on the right",
+        "chinese": "在左边/在右边",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "tell sb about .....",
+        "chinese": "给某人讲述..",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "show.....to sb",
+        "chinese": "给某人看……",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "the night sky",
+        "chinese": "夜空",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "a picture by....",
+        "chinese": "-幅..….画的画",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "colourful",
+        "chinese": "色彩斑斓的",
+        "desc": "",
+        "phonetic": "/ˈkʌlərfl/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "sunflower",
+        "chinese": "向日葵",
+        "desc": "",
+        "phonetic": "/ˈsʌnflaʊər/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "art",
+        "chinese": "",
+        "desc": "",
+        "phonetic": "/ɑːrt/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "artist",
+        "chinese": "美术艺术家,画家",
+        "desc": "",
+        "phonetic": "/ˈɑːrtɪst/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "vase",
+        "chinese": "花瓶",
+        "desc": "",
+        "phonetic": "/veɪs/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "say",
+        "chinese": "说",
+        "desc": "",
+        "phonetic": "/seɪ/",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "a great artist",
+        "chinese": "一个伟大的画家",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "The students are going to an art museum tomorrow.",
+        "chinese": "学生们明天要去美术馆。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "Which one do you like? I like the one on the left.",
+        "chinese": "你们喜欢哪一幅?我喜欢左边的那幅。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "In the first lesson, the teacher put an egg on the table and asked Little Leo to draw it.",
+        "chinese": "在第一节课上,老师在桌子上放了一个鸡蛋让小利奥画。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "This horse looks powerful. This is a Chinese ink painting. A Chinese ink painting is usually in black and white.",
+        "chinese": "这匹马看上去强壮有力。这是一幅中国水墨画。水墨画通常以黑、白两色入画。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
+        "english": "Why do we draw eggs all the time?",
+        "chinese": "为什么我们总是画鸡蛋?",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit04"
+    },
+    {
         "english": "storybook",
         "chinese": "故事书",
         "tag": "primary-grade5-unit04",
