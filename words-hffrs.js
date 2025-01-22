@@ -3589,6 +3589,202 @@ var words = [
         "phonetic": ""
     },
     {
+        "english": "bell",
+        "chinese": "铃，铃铛，大钟",
+        "desc": "",
+        "phonetic": "/bɛl/",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "phone number",
+        "chinese": "电话号码",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "neck",
+        "chinese": "脖子",
+        "desc": "",
+        "phonetic": "/nɛk/",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "praise... for ...",
+        "chinese": "为..而表扬…",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "look like",
+        "chinese": "看起来像",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "hard work",
+        "chinese": "艰苦的工作",
+        "desc": "(adj.)",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "gatekeeper",
+        "chinese": "门卫",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "help the blind cross the road",
+        "chinese": "帮助盲人过马路",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "work hard",
+        "chinese": "勤奋地工作",
+        "desc": "(adv.)",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "near the gate",
+        "chinese": "在大门附近",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "give seats to sb.",
+        "chinese": "给某人让座",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "come back late",
+        "chinese": "晚归",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "think of",
+        "chinese": "认为、想起",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "help tourists find their way",
+        "chinese": "给游客指路",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "go ahead",
+        "chinese": "开始、前进",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "work for...",
+        "chinese": "为……而工作",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "read the newspaper to old people",
+        "chinese": "给老年人读报纸",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "think thought",
+        "chinese": "想，认为",
+        "desc": "pt",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "write a notice",
+        "chinese": "写通知",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "meet met",
+        "chinese": "见面，会和",
+        "desc": "pt",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "lose",
+        "chinese": "丢失、输掉",
+        "desc": "pt",
+        "phonetic": "/luːz/",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "What's the matter(with you)?",
+        "chinese": "怎么了？",
+        "desc": "I can't find my dog.我找不到我的狗了。",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "What does your dog look like?",
+        "chinese": "你的狗长什么样子？",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "She has a pink bell around her neck.",
+        "chinese": "她脖子上戴着一个粉色的铃铛。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "saw her two minutes ago.",
+        "chinese": "我两分钟前见过她。",
+        "desc": "She was near the lake.她在湖附近。",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "What did the people think of the bee?",
+        "chinese": "人们怎么看蜜蜂？",
+        "desc": "They all liked the bee.他们都喜欢蜜蜂",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "They all praised her for her hard work,",
+        "chinese": "他们都因她辛勤劳作而表扬她",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
+        "english": "The ant was not happy about this.",
+        "chinese": "蚂蚁对此很不开心。",
+        "desc": "",
+        "phonetic": "",
+        "tag": "primary-grade6b-unit07"
+    },
+    {
         "english": "meet",
         "chinese": "迎接；会见",
         "tag": "primary-grade5-unit07",
