@@ -8771,35 +8771,14 @@ var words = [
         "tag": "primary-grade6b-unit03"
     },
     {
-        "english": "have lessons",
+        "english": "have lessons = have classes",
         "chinese": "上课（两种等价形式）",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit03"
     },
     {
-        "english": "have classes",
-        "chinese": "上课（两种等价形式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "have a picnic",
-        "chinese": "野餐（三种等价形式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "take a picnic",
-        "chinese": "野餐（三种等价形式）",
-        "desc": "",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit03"
-    },
-    {
-        "english": "go on a picnic",
+        "english": "have a picnic = take a picnic = go on a picnic",
         "chinese": "野餐（三种等价形式）",
         "desc": "",
         "phonetic": "",
@@ -9988,21 +9967,7 @@ var words = [
     {
         "chinese": "立刻；马上（三种等价形式）",
         "desc": "",
-        "english": "right away",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "立刻；马上（三种等价形式）",
-        "desc": "",
-        "english": "right now",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "立刻；马上（三种等价形式）",
-        "desc": "",
-        "english": "at once",
+        "english": "right away = right now = at once",
         "phonetic": "",
         "tag": "primary-grade6b-unit02"
     },
@@ -10030,14 +9995,7 @@ var words = [
     {
         "chinese": "很快，不久，在短时间内（两种形式）",
         "desc": "",
-        "english": "in a short time",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "很快，不久，在短时间内（两种形式）",
-        "desc": "",
-        "english": "soon",
+        "english": "in a short time = soon",
         "phonetic": "",
         "tag": "primary-grade6b-unit02"
     },
@@ -10065,14 +10023,7 @@ var words = [
     {
         "chinese": "从前（两种形式）",
         "desc": "",
-        "english": "once upon a time",
-        "phonetic": "",
-        "tag": "primary-grade6b-unit02"
-    },
-    {
-        "chinese": "从前（两种形式）",
-        "desc": "",
-        "english": "long ago",
+        "english": "once upon a time = long ago",
         "phonetic": "",
         "tag": "primary-grade6b-unit02"
     },
@@ -10189,7 +10140,7 @@ var words = [
         "tag": "primary-grade6b-unit02"
     },
     {
-        "chinese": "它能在短时间内把接到清扫干净。",
+        "chinese": "它能在短时间内把街道清扫干净。",
         "desc": "",
         "english": "It can clean the streets in a short time.",
         "phonetic": "",
