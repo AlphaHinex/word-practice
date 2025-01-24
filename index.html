@@ -237,9 +237,6 @@
             const floatingBox = document.getElementById('floatingBox');
             floatingBox.innerHTML = content;
             floatingBox.style.display = 'block';
-            setTimeout(() => {
-                floatingBox.style.display = 'none';
-            }, 3000); // 3秒后隐藏
         }
 
         document.getElementById('save').addEventListener('click', function() {
@@ -254,6 +251,8 @@
         }
 
         function showWord(word) {
+            document.getElementById('floatingBox').style.display = 'none';
+
             var mode = document.getElementById('mode').value;
             var content = document.getElementById('content').value;
             var practiceArea = document.getElementById('practiceArea');
