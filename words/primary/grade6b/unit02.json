@@ -92,19 +92,7 @@
     {
         "chinese": "立刻；马上（三种等价形式）",
         "desc": "",
-        "english": "right away",
-        "phonetic": ""
-    },
-    {
-        "chinese": "立刻；马上（三种等价形式）",
-        "desc": "",
-        "english": "right now",
-        "phonetic": ""
-    },
-    {
-        "chinese": "立刻；马上（三种等价形式）",
-        "desc": "",
-        "english": "at once",
+        "english": "right away = right now = at once",
         "phonetic": ""
     },
     {
@@ -128,13 +116,7 @@
     {
         "chinese": "很快，不久，在短时间内（两种形式）",
         "desc": "",
-        "english": "in a short time",
-        "phonetic": ""
-    },
-    {
-        "chinese": "很快，不久，在短时间内（两种形式）",
-        "desc": "",
-        "english": "soon",
+        "english": "in a short time = soon",
         "phonetic": ""
     },
     {
@@ -158,13 +140,7 @@
     {
         "chinese": "从前（两种形式）",
         "desc": "",
-        "english": "once upon a time",
-        "phonetic": ""
-    },
-    {
-        "chinese": "从前（两种形式）",
-        "desc": "",
-        "english": "long ago",
+        "english": "once upon a time = long ago",
         "phonetic": ""
     },
     {
@@ -264,7 +240,7 @@
         "phonetic": ""
     },
     {
-        "chinese": "它能在短时间内把接到清扫干净。",
+        "chinese": "它能在短时间内把街道清扫干净。",
         "desc": "",
         "english": "It can clean the streets in a short time.",
         "phonetic": ""

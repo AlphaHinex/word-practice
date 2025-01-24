@@ -84,31 +84,13 @@
     "phonetic": ""
   },
   {
-    "english": "have lessons",
+    "english": "have lessons = have classes",
     "chinese": "上课（两种等价形式）",
     "desc": "",
     "phonetic": ""
   },
   {
-    "english": "have classes",
-    "chinese": "上课（两种等价形式）",
-    "desc": "",
-    "phonetic": ""
-  },
-  {
-    "english": "have a picnic",
-    "chinese": "野餐（三种等价形式）",
-    "desc": "",
-    "phonetic": ""
-  },
-  {
-    "english": "take a picnic",
-    "chinese": "野餐（三种等价形式）",
-    "desc": "",
-    "phonetic": ""
-  },
-  {
-    "english": "go on a picnic",
+    "english": "have a picnic = take a picnic = go on a picnic",
     "chinese": "野餐（三种等价形式）",
     "desc": "",
     "phonetic": ""
