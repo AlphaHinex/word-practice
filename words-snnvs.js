@@ -1,12 +1,5 @@
 var words = [
     {
-        "chinese": "Auspicious snake celebrates the year, happiness follows",
-        "desc": "",
-        "english": "祥蛇贺岁，喜乐相随",
-        "phonetic": "",
-        "tag": "-祝福语"
-    },
-    {
         "english": "backpack",
         "chinese": "背包",
         "tag": "starlight-lv3-unit9",
