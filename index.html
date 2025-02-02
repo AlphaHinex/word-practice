@@ -126,7 +126,7 @@
         </div>
     </div>
 
-    <script src="words-ztwba.js"></script>
+    <script src="words-jsdhs.js"></script>
     <script>
         // Get the select element
         const tagsSelect = document.getElementById('tags');
@@ -242,14 +242,13 @@
             floatingBox.innerHTML = content;
             floatingBox.style.display = 'block';
 
-            if (content.length > 50) {
+            if (content.length > 100) {
                 // 设置定时器，n 秒后隐藏浮动框
                 const n = 10;
                 setTimeout(() => {
                     floatingBox.style.display = 'none';
                 }, n * 1000);
-            }
-            
+            } 
         }
 
         function nextWord() {
