@@ -11,7 +11,7 @@ for file in files:
 
 # 获取 words 目录下的所有 json 文件
 files = glob.glob("words/**/*.json", recursive=True)
-# files.sort(key=os.path.basename, reverse=True)
+files.sort(key=lambda x: (os.path.dirname(x), os.path.basename(x)))
 
 words = []
 
