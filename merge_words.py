@@ -11,7 +11,7 @@ for file in files:
 
 # 获取 words 目录下的所有 json 文件
 files = glob.glob("words/**/*.json", recursive=True)
-files.sort(key=os.path.basename, reverse=True)
+# files.sort(key=os.path.basename, reverse=True)
 
 words = []
 
@@ -51,7 +51,7 @@ words_file = f'words-{random_string}.js'
 with open(words_file, 'w', encoding='utf-8') as f:
     f.write('var words = ' + json_str + ';')
 
-# 修改 index.html 文件中应用的 words-*.js 文件名
+# 修改 index.html 文件中引用的 words-*.js 文件名
 with open('index.html', 'r', encoding='utf-8') as f:
     content = f.read()
     x = content.find('"words')
