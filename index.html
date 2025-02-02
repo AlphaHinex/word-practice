@@ -246,14 +246,13 @@
             floatingBox.innerHTML = content;
             floatingBox.style.display = 'block';
 
-            if (content.length > 50) {
+            if (content.length > 100) {
                 // 设置定时器，n 秒后隐藏浮动框
                 const n = 10;
                 setTimeout(() => {
                     floatingBox.style.display = 'none';
                 }, n * 1000);
-            }
-            
+            } 
         }
 
         // document.getElementById('save').addEventListener('click', function() {
