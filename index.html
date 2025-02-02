@@ -119,14 +119,14 @@
             <button type="button" id="read" disabled><i class="fas fa-volume-up"></i></button>
             <button type="button" id="prev" disabled><i class="fas fa-angle-left"></i></button>
             <button type="button" id="next" disabled><i class="fas fa-angle-right"></i></button>
-            <button type="button" id="check" ondblclick="check()"><i class="fas fa-spell-check"></i></button>
+            <button type="button" id="check" onclick="check()"><i class="fas fa-spell-check"></i></button>
             <button type="button" onclick="bookmark()"><i id="bookmark" style="color: white;" class="fas fa-bookmark"></i></button>
             <button type="button" id="last" disabled><i class="fas fa-angle-double-right"></i></button>
             <button type="button" id="reset" onclick="reset()"><i class="fas fa-redo"></i></button>
         </div>
     </div>
 
-    <script src="words-tttbe.js"></script>
+    <script src="words-ztwba.js"></script>
     <script>
         // Get the select element
         const tagsSelect = document.getElementById('tags');
@@ -242,11 +242,14 @@
             floatingBox.innerHTML = content;
             floatingBox.style.display = 'block';
 
-            // 设置定时器，n 秒后隐藏浮动框
-            const n = 10;
-            setTimeout(() => {
-                floatingBox.style.display = 'none';
-            }, n * 1000);
+            if (content.length > 50) {
+                // 设置定时器，n 秒后隐藏浮动框
+                const n = 10;
+                setTimeout(() => {
+                    floatingBox.style.display = 'none';
+                }, n * 1000);
+            }
+            
         }
 
         function nextWord() {

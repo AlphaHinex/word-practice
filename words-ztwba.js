@@ -9374,14 +9374,14 @@ var words = [
         "tag": "primary-grade6b-unit09"
     },
     {
-        "english": "A street cleaner found me. He put me into a trunk.",
+        "english": "A street cleaner found me. He put me into a truck.",
         "chinese": "一个清洁工发现了我，他把我放到了一个卡车里。",
         "desc": "",
         "phonetic": "",
         "tag": "primary-grade6b-unit09"
     },
     {
-        "english": "Finally, the made us into a piece of cloth.",
+        "english": "Finally, they made us into a piece of cloth.",
         "chinese": "最后，他们把我们制成了一块布料。",
         "desc": "",
         "phonetic": "",
