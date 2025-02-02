@@ -121,7 +121,7 @@
             <button type="button" id="next" disabled><i class="fas fa-angle-right"></i></button>
             <!-- <button type="button" id="right" disabled><i class="fas fa-check-circle"></i></button> -->
             <!-- <button type="button" id="wrong" disabled><i class="fas fa-times-circle"></i></button> -->
-            <button type="button" id="check" ondblclick="check()"><i class="fas fa-spell-check"></i></button>
+            <button type="button" id="check" onclick="check()"><i class="fas fa-spell-check"></i></button>
             <!-- <button type="button" id="save" disabled><i class="fas fa-save"></i></button> -->
             <button type="button" id="last" disabled><i class="fas fa-angle-double-right"></i></button>
             <button type="button" id="reset" onclick="reset()"><i class="fas fa-redo"></i></button>
@@ -246,11 +246,16 @@
             floatingBox.innerHTML = content;
             floatingBox.style.display = 'block';
 
-            // 设置定时器，n 秒后隐藏浮动框
-            const n = 10;
-            setTimeout(() => {
+            if (content.length > 50) {
+                // 设置定时器，n 秒后隐藏浮动框
+                const n = 10;
+                setTimeout(() => {
+                    floatingBox.style.display = 'none';
+                }, n * 1000);
+            } else {
                 floatingBox.style.display = 'none';
-            }, n * 1000);
+            }
+            
         }
 
         // document.getElementById('save').addEventListener('click', function() {
