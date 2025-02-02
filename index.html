@@ -83,25 +83,25 @@
 </head>
 <body>
     <form id="options">
-        <label for="tagSearch">Search Tags:</label>
-        <input type="text" id="tagSearch" onkeyup="filterTags()" placeholder="Search for tags...">
-        <br><br>
+        <label for="tagSearch">
+            Search Tags:<br>
+            <input type="text" id="tagSearch" onkeyup="filterTags()" placeholder="Search for tags..." style="width: 220px;">
+        </label>
         <label>
-            Tags:
+            Tags:<br>
             <select id="tags" multiple style="height: 150px; width: 220px;">
-                <!-- Add your tags here --><option value="starlight-lv3-unit9">starlight-lv3-unit9</option><option value="starlight-lv3-unit8">starlight-lv3-unit8</option><option value="starlight-lv3-unit7">starlight-lv3-unit7</option><option value="starlight-lv3-unit6">starlight-lv3-unit6</option><option value="starlight-lv3-unit5">starlight-lv3-unit5</option><option value="starlight-lv3-unit4">starlight-lv3-unit4</option><option value="starlight-lv3-unit3">starlight-lv3-unit3</option><option value="starlight-lv3-unit2">starlight-lv3-unit2</option><option value="primary-grade5-unit12">primary-grade5-unit12</option><option value="primary-grade6a-unit12">primary-grade6a-unit12</option><option value="primary-grade6b-unit12">primary-grade6b-unit12</option><option value="primary-grade5-unit11">primary-grade5-unit11</option><option value="primary-grade6b-unit11">primary-grade6b-unit11</option><option value="primary-grade5-unit10">primary-grade5-unit10</option><option value="primary-grade6b-unit10">primary-grade6b-unit10</option><option value="starlight-lv4-unit1">starlight-lv4-unit1</option><option value="starlight-lv3-unit1">starlight-lv3-unit1</option><option value="primary-grade5-unit09">primary-grade5-unit09</option><option value="primary-grade6b-unit09">primary-grade6b-unit09</option><option value="primary-grade5-unit08">primary-grade5-unit08</option><option value="primary-grade6b-unit08">primary-grade6b-unit08</option><option value="primary-grade5-unit07">primary-grade5-unit07</option><option value="primary-grade6b-unit07">primary-grade6b-unit07</option><option value="primary-grade5-unit06">primary-grade5-unit06</option><option value="primary-grade6b-unit06">primary-grade6b-unit06</option><option value="primary-grade5-unit05">primary-grade5-unit05</option><option value="primary-grade6b-unit05">primary-grade6b-unit05</option><option value="primary-grade5-unit04">primary-grade5-unit04</option><option value="primary-grade6a-unit04">primary-grade6a-unit04</option><option value="primary-grade6b-unit04">primary-grade6b-unit04</option><option value="primary-grade5-unit03">primary-grade5-unit03</option><option value="primary-grade6a-unit03">primary-grade6a-unit03</option><option value="primary-grade6b-unit03">primary-grade6b-unit03</option><option value="primary-grade5-unit02">primary-grade5-unit02</option><option value="primary-grade6a-unit02">primary-grade6a-unit02</option><option value="primary-grade6b-unit02">primary-grade6b-unit02</option><option value="primary-grade5-unit01">primary-grade5-unit01</option><option value="primary-grade6a-unit01">primary-grade6a-unit01</option><option value="primary-grade6b-unit01">primary-grade6b-unit01</option><option value="starlight-lv3-unit0">starlight-lv3-unit0</option><option value="-mumy-tips-20240720">-mumy-tips-20240720</option><option value="-mumy-tips-20240714">-mumy-tips-20240714</option><option value="starlight-others-Yeki">starlight-others-Yeki</option><option value="starlight-others-Yeki-20240705">starlight-others-Yeki-20240705</option><option value="starlight-others-Yeki-20240629">starlight-others-Yeki-20240629</option><option value="starlight-others-Yeki-20240628">starlight-others-Yeki-20240628</option><option value="starlight-others-Yeki-20240622">starlight-others-Yeki-20240622</option><option value="starlight-others-Yeki-20240621">starlight-others-Yeki-20240621</option><option value="starlight-others-Yeki-20240615">starlight-others-Yeki-20240615</option><option value="starlight-others-Yeki-20240614">starlight-others-Yeki-20240614</option><option value="starlight-others-Yeki-20240609">starlight-others-Yeki-20240609</option><option value="starlight-others-Yeki-20240608">starlight-others-Yeki-20240608</option><option value="starlight-others-Yeki-20240601">starlight-others-Yeki-20240601</option><option value="starlight-others-Yeki-20240531">starlight-others-Yeki-20240531</option><option value="starlight-others-Yeki-20240525">starlight-others-Yeki-20240525</option><option value="starlight-others-Yeki-20240524">starlight-others-Yeki-20240524</option><option value="starlight-others-Yeki-20240518">starlight-others-Yeki-20240518</option><option value="starlight-others-Yeki-20240517">starlight-others-Yeki-20240517</option><option value="starlight-others-Yeki-20240510">starlight-others-Yeki-20240510</option><option value="starlight-others-Yeki-20240505">starlight-others-Yeki-20240505</option><!-- tag end -->
+                <!-- Options will be added here by JavaScript -->
             </select>
         </label>
-        <br>
         <label>
-            Practice Mode:
+            Practice Mode:<br>
             <select id="mode">
                 <option value="cn2en">Chinese to English</option>
                 <option value="en2cn">English to Chinese</option>
             </select>
         </label>
         <label>
-            Practice Content:
+            Practice Content:<br>
             <select id="content">
                 <option value="all">All</option>
                 <option value="commonlyWrong">Commonly Wrong</option>
@@ -115,21 +115,29 @@
 
         <div class="button-container">
             <!-- https://fontawesome.com/v5/search?ic=free -->
-            <button type="button" id="read" disabled><i class="fas fa-volume-up"></i></button>
             <button type="button" id="first" disabled><i class="fas fa-angle-double-left"></i></button>
+            <button type="button" id="read" disabled><i class="fas fa-volume-up"></i></button>
             <button type="button" id="prev" disabled><i class="fas fa-angle-left"></i></button>
             <button type="button" id="next" disabled><i class="fas fa-angle-right"></i></button>
-            <button type="button" id="last" disabled><i class="fas fa-angle-double-right"></i></button>
             <!-- <button type="button" id="right" disabled><i class="fas fa-check-circle"></i></button> -->
             <!-- <button type="button" id="wrong" disabled><i class="fas fa-times-circle"></i></button> -->
-            <button type="button" id="check" onclick="check()"><i class="fas fa-spell-check"></i></button>
+            <button type="button" id="check" ondblclick="check()"><i class="fas fa-spell-check"></i></button>
             <!-- <button type="button" id="save" disabled><i class="fas fa-save"></i></button> -->
+            <button type="button" id="last" disabled><i class="fas fa-angle-double-right"></i></button>
             <button type="button" id="reset" onclick="reset()"><i class="fas fa-redo"></i></button>
         </div>
     </div>
 
-    <script src="words-snnvs.js"></script>
+    <script src="words-axshv.js"></script>
     <script>
+        // Get the select element
+        const tagsSelect = document.getElementById('tags');
+
+        // Add options to the select element
+        newOptions.forEach(option => {
+            tagsSelect.appendChild(option);
+        });
+
         function filterTags() {
             const input = document.getElementById('tagSearch').value.toLowerCase();
             const options = document.getElementById('tags').options;
@@ -211,17 +219,17 @@
             window.speechSynthesis.speak(utterance);
         });
 
-        document.getElementById('right').addEventListener('click', function() {
-            practiceWords[currentIndex].right++;
-            showWord(practiceWords[currentIndex]);
-            check();
-        });
+        // document.getElementById('right').addEventListener('click', function() {
+        //     practiceWords[currentIndex].right++;
+        //     showWord(practiceWords[currentIndex]);
+        //     check();
+        // });
 
-        document.getElementById('wrong').addEventListener('click', function() {
-            practiceWords[currentIndex].wrong++;
-            showWord(practiceWords[currentIndex]);
-            check();
-        });
+        // document.getElementById('wrong').addEventListener('click', function() {
+        //     practiceWords[currentIndex].wrong++;
+        //     showWord(practiceWords[currentIndex]);
+        //     check();
+        // });
 
         function check() {
             var word = practiceWords[currentIndex];
@@ -237,11 +245,17 @@
             const floatingBox = document.getElementById('floatingBox');
             floatingBox.innerHTML = content;
             floatingBox.style.display = 'block';
+
+            // 设置定时器，n 秒后隐藏浮动框
+            const n = 10;
+            setTimeout(() => {
+                floatingBox.style.display = 'none';
+            }, n * 1000);
         }
 
-        document.getElementById('save').addEventListener('click', function() {
-            console.log(JSON.stringify(words, null, 2));
-        });
+        // document.getElementById('save').addEventListener('click', function() {
+        //     console.log(JSON.stringify(words, null, 2));
+        // });
 
         function nextWord() {
             if (currentIndex < practiceWords.length - 1) {
@@ -276,10 +290,13 @@
             document.getElementById('next').disabled = currentIndex === practiceWords.length - 1;
             document.getElementById('last').disabled = currentIndex === practiceWords.length - 1;
             document.getElementById('read').disabled = false;
-            document.getElementById('save').disabled = false;
+            // document.getElementById('save').disabled = false;
         }
 
         function reset() {
+            if (!confirm('确定要重置吗？')) {
+                return;
+            }
             document.getElementById('options').style.display = 'block';
             document.getElementById('workspace').style.display = 'none';
         }
