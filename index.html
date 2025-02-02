@@ -280,6 +280,9 @@
         }
 
         function reset() {
+            if (!confirm('确定要重置吗？')) {
+                return;
+            }
             document.getElementById('options').style.display = 'block';
             document.getElementById('workspace').style.display = 'none';
         }
