@@ -15,13 +15,16 @@ files.sort(key=lambda x: (os.path.dirname(x), os.path.basename(x)))
 
 words = []
 
-new_options = '<!-- Add your tags here -->'
+new_options = 'var newOptions = [];'
 # 遍历每个文件
 for file in files:
     # option 使用文件路径（不包括 words/），目录之间使用 - 分割
     option = os.path.dirname(file)[6:].replace('\\', '-').replace('/', '-') \
              + '-' + os.path.basename(file).replace('.json', '')
-    new_options += f'<option value="{option}">{option}</option>'
+    new_options += f'''var option = document.createElement('option');
+            option.value = '{option}';
+            option.textContent = '{option}';
+            newOptions.push(option);'''
     # Check if the file is empty
     if os.path.getsize(file) == 0:
         print(f"Skipping empty file: {file}")
@@ -38,7 +41,6 @@ for file in files:
         words.extend(json_arr)
     except json.JSONDecodeError as e:
         print(f"Error decoding JSON from {file}: {e}")
-new_options += '<!-- tag end -->'
 
 # 将 words 列表转换为 JSON 字符串
 json_str = json.dumps(words, indent=4, ensure_ascii=False)
@@ -50,6 +52,7 @@ words_file = f'words-{random_string}.js'
 # 将 JSON 字符串写入 words.js 文件
 with open(words_file, 'w', encoding='utf-8') as f:
     f.write('var words = ' + json_str + ';')
+    f.write(new_options)
 
 # 修改 index.html 文件中引用的 words-*.js 文件名
 with open('index.html', 'r', encoding='utf-8') as f:
@@ -58,11 +61,6 @@ with open('index.html', 'r', encoding='utf-8') as f:
     y = content.find('.js"', x)
     old_words_file = content[x:y+4]
     content = content.replace(old_words_file, f'"{words_file}"')
-
-    x = content.find('<!-- Add your tags here -->')
-    y = content.find('<!-- tag end -->', x)
-    old_options = content[x:y+16]
-    content = content.replace(old_options, new_options)
 
 with open('index.html', 'w', encoding='utf-8') as f:
     f.write(content)
