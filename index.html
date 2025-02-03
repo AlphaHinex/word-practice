@@ -104,7 +104,7 @@
             Practice Content:<br>
             <select id="content">
                 <option value="all">All</option>
-                <option value="commonlyWrong">Commonly Wrong</option>
+                <option value="bookmarked">Bookmarks</option>
             </select>
         </label>
         <button type="button" id="start"><i class="fas fa-play"></i></button>
@@ -119,10 +119,8 @@
             <button type="button" id="read" disabled><i class="fas fa-volume-up"></i></button>
             <button type="button" id="prev" disabled><i class="fas fa-angle-left"></i></button>
             <button type="button" id="next" disabled><i class="fas fa-angle-right"></i></button>
-            <!-- <button type="button" id="right" disabled><i class="fas fa-check-circle"></i></button> -->
-            <!-- <button type="button" id="wrong" disabled><i class="fas fa-times-circle"></i></button> -->
             <button type="button" id="check" onclick="check()"><i class="fas fa-spell-check"></i></button>
-            <!-- <button type="button" id="save" disabled><i class="fas fa-save"></i></button> -->
+            <button type="button" onclick="bookmark()"><i id="bookmark" style="color: white;" class="fas fa-bookmark"></i></button>
             <button type="button" id="last" disabled><i class="fas fa-angle-double-right"></i></button>
             <button type="button" id="reset" onclick="reset()"><i class="fas fa-redo"></i></button>
         </div>
@@ -160,8 +158,8 @@
             var selectedTags = Array.from(document.getElementById('tags').selectedOptions).map(option => option.value);
 
             practiceWords = words.filter(function(word) {
-                if (content === 'commonlyWrong' && word.wrong <= word.right) {
-                    return false;
+                if (content === 'bookmarked') {
+                    return word.bookmarked;
                 }
                 if (selectedTags.length > 0 && !selectedTags.includes(word.tag)) {
                     return false;
@@ -173,8 +171,6 @@
                 let found = acc.find(w => w.english === word.english);
                 if (found) {
                     found.chinese = [...new Set([found.chinese, word.chinese])];
-                    found.wrong += word.wrong;
-                    found.right += word.right;
                     found.tag = [...new Set([found.tag, word.tag])];
                     found.desc =  [...new Set([found.desc, word.desc])];
                 } else {
@@ -219,17 +215,17 @@
             window.speechSynthesis.speak(utterance);
         });
 
-        // document.getElementById('right').addEventListener('click', function() {
-        //     practiceWords[currentIndex].right++;
-        //     showWord(practiceWords[currentIndex]);
-        //     check();
-        // });
-
-        // document.getElementById('wrong').addEventListener('click', function() {
-        //     practiceWords[currentIndex].wrong++;
-        //     showWord(practiceWords[currentIndex]);
-        //     check();
-        // });
+        function bookmark() {
+            var bookmark = document.getElementById('bookmark');
+            var word = practiceWords[currentIndex];
+            if (word.bookmarked) {
+                word.bookmarked = false;
+                bookmark.style.color = 'white';
+            } else {
+                word.bookmarked = true;
+                bookmark.style.color = 'red';
+            }
+        }
 
         function check() {
             var word = practiceWords[currentIndex];
@@ -255,10 +251,6 @@
             } 
         }
 
-        // document.getElementById('save').addEventListener('click', function() {
-        //     console.log(JSON.stringify(words, null, 2));
-        // });
-
         function nextWord() {
             if (currentIndex < practiceWords.length - 1) {
                 currentIndex++;
@@ -280,11 +272,6 @@
                 practiceArea.innerHTML = `<span class="large">${word.chinese}</span> <br>`;
             }
 
-            if (content === 'commonlyWrong') {
-                practiceArea.innerHTML += `<span class="small">${word.right}</span><br>
-                                           <span class="small">${word.wrong}</span><br>`;
-            }
-
             practiceArea.innerHTML += `<span class="small">(${currentIndex + 1}/${practiceWords.length}) ${word.tag} ${word.desc}</span>`;
 
             document.getElementById('first').disabled = currentIndex === 0;
@@ -292,7 +279,7 @@
             document.getElementById('next').disabled = currentIndex === practiceWords.length - 1;
             document.getElementById('last').disabled = currentIndex === practiceWords.length - 1;
             document.getElementById('read').disabled = false;
-            // document.getElementById('save').disabled = false;
+            document.getElementById('bookmark').style.color = word.bookmarked ? 'red' : 'white';
         }
 
         function reset() {
