@@ -138,15 +138,18 @@
 
         function filterTags() {
             const input = document.getElementById('tagSearch').value.toLowerCase();
-            const options = document.getElementById('tags').options;
-            for (let i = 0; i < options.length; i++) {
-                const option = options[i];
-                if (option.text.toLowerCase().includes(input)) {
-                    option.style.display = '';
-                } else {
-                    option.style.display = 'none';
+            const filterdOptions = [];
+            newOptions.forEach(option => {
+                if (option.textContent.toLowerCase().includes(input)) {
+                    filterdOptions.push(option);
                 }
-            }
+            });
+            // 清理掉 tagSelect 中的所有 option
+            tagsSelect.innerHTML = '';
+            // 将过滤后的 option 添加到 tagSelect 中
+            filterdOptions.forEach(option => {
+                tagsSelect.appendChild(option);
+            });
         }
 
         var practiceWords = [];
