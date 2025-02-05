@@ -301,19 +301,29 @@
             searchResult.innerHTML = ''; // Clear previous results
 
             if (matchingWords.length > 0) {
-                const tags = [...new Set(matchingWords.map(word => word.tag))].join(', ');
-                const resultText = document.createElement('p');
-                resultText.textContent = `Tags: ${tags}`;
-                searchResult.appendChild(resultText);
+                matchingWords.forEach(word => {
+                    const resultRow = document.createElement('div');
+                    resultRow.style.display = 'flex';
+                    resultRow.style.alignItems = 'center';
+                    resultRow.style.marginBottom = '10px';
 
-                const bookmarkButton = document.createElement('button');
-                bookmarkButton.innerHTML = '<i class="fas fa-bookmark"></i>';
-                bookmarkButton.type = 'button'; // Prevent form submission
-                bookmarkButton.onclick = () => {
-                    matchingWords.forEach(word => word.bookmarked = true);
-                    alert('Word(s) added to bookmarks');
-                };
-                searchResult.appendChild(bookmarkButton);
+                    const wordText = document.createElement('span');
+                    wordText.textContent = `English: ${word.english}, Chinese: ${word.chinese}, Tag: ${word.tag}`;
+                    wordText.style.flexGrow = '1';
+
+                    const bookmarkButton = document.createElement('button');
+                    bookmarkButton.innerHTML = '<i class="fas fa-bookmark"></i>';
+                    bookmarkButton.type = 'button'; // Prevent form submission
+                    bookmarkButton.style.color = word.bookmarked ? 'red' : 'white';
+                    bookmarkButton.onclick = () => {
+                        word.bookmarked = !word.bookmarked;
+                        bookmarkButton.style.color = word.bookmarked ? 'red' : 'white';
+                    };
+
+                    resultRow.appendChild(wordText);
+                    resultRow.appendChild(bookmarkButton);
+                    searchResult.appendChild(resultRow);
+                });
             } else {
                 searchResult.textContent = 'Word not found';
             }
