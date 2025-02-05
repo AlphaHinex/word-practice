@@ -107,7 +107,8 @@
                 <option value="bookmarked">Bookmarks</option>
             </select>
         </label>
-        <button type="button" id="start"><i class="fas fa-play"></i></button>
+        <button type="button" id="start" title="Start Practice"><i class="fas fa-play"></i></button>
+        <button type="button" id="list" title="View List"><i class="fas fa-list"></i></button>
         <label for="wordSearch">
             Search Word:<br>
             <input type="text" id="wordSearch" onkeypress="if(event.key === 'Enter') searchWord()" placeholder="Search for word..." style="width: 220px;">
@@ -120,14 +121,14 @@
 
         <div class="button-container">
             <!-- https://fontawesome.com/v5/search?ic=free -->
-            <button type="button" id="first" disabled><i class="fas fa-angle-double-left"></i></button>
-            <button type="button" id="read" disabled><i class="fas fa-volume-up"></i></button>
-            <button type="button" id="prev" disabled><i class="fas fa-angle-left"></i></button>
-            <button type="button" id="next" disabled><i class="fas fa-angle-right"></i></button>
-            <button type="button" id="check" onclick="check()"><i class="fas fa-spell-check"></i></button>
-            <button type="button" onclick="bookmark()"><i id="bookmark" style="color: white;" class="fas fa-bookmark"></i></button>
-            <button type="button" id="last" disabled><i class="fas fa-angle-double-right"></i></button>
-            <button type="button" id="reset" onclick="reset()"><i class="fas fa-redo"></i></button>
+            <button type="button" id="first" disabled title="First"><i class="fas fa-angle-double-left"></i></button>
+            <button type="button" id="read" disabled title="Read Aloud"><i class="fas fa-volume-up"></i></button>
+            <button type="button" id="prev" disabled title="Previous"><i class="fas fa-angle-left"></i></button>
+            <button type="button" id="next" disabled title="Next"><i class="fas fa-angle-right"></i></button>
+            <button type="button" id="check" onclick="check()" title="Check"><i class="fas fa-spell-check"></i></button>
+            <button type="button" onclick="bookmark()" title="Bookmark"><i id="bookmark" style="color: white;" class="fas fa-bookmark"></i></button>
+            <button type="button" id="last" disabled title="Last"><i class="fas fa-angle-double-right"></i></button>
+            <button type="button" id="reset" onclick="reset()" title="Reset"><i class="fas fa-redo"></i></button>
         </div>
     </div>
 
@@ -283,7 +284,7 @@
         }
 
         function reset() {
-            if (!confirm('确定要重置吗？')) {
+            if (!confirm('Are you sure you want to reset? Resetting will clear current order.')) {
                 return;
             }
             document.getElementById('startPage').style.display = 'block';
@@ -314,6 +315,7 @@
 
                     const bookmarkButton = document.createElement('button');
                     bookmarkButton.innerHTML = '<i class="fas fa-bookmark"></i>';
+                    bookmarkButton.title = 'Bookmark';
                     bookmarkButton.type = 'button'; // Prevent form submission
                     bookmarkButton.style.color = word.bookmarked ? 'red' : 'white';
                     bookmarkButton.onclick = () => {
