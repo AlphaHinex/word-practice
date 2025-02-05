@@ -82,7 +82,7 @@
     </style>
 </head>
 <body>
-    <form id="options">
+    <form id="startPage">
         <label for="tagSearch">
             Search Tags:<br>
             <input type="text" id="tagSearch" onkeyup="filterTags()" placeholder="Search for tags..." style="width: 220px;">
@@ -108,6 +108,11 @@
             </select>
         </label>
         <button type="button" id="start"><i class="fas fa-play"></i></button>
+        <label for="wordSearch">
+            Search Word:<br>
+            <input type="text" id="wordSearch" onkeypress="if(event.key === 'Enter') searchWord()" placeholder="Search for word..." style="width: 220px;">
+        </label>
+        <div id="searchResult"></div>
     </form>
     <div id="workspace" style="display: none;">
         <div id="practiceArea"></div>
@@ -177,7 +182,7 @@
                     found.tag = [...new Set([found.tag, word.tag])];
                     found.desc =  [...new Set([found.desc, word.desc])];
                 } else {
-                    acc.push(word);
+                    acc.push({ ...word });
                 }
                 return acc;
             }, []);
@@ -186,7 +191,7 @@
                 return 0.5 - Math.random();
             });
 
-            document.getElementById('options').style.display = 'none';
+            document.getElementById('startPage').style.display = 'none';
             document.getElementById('workspace').style.display = 'block';
 
             currentIndex = -1;
@@ -281,10 +286,37 @@
             if (!confirm('确定要重置吗？')) {
                 return;
             }
-            document.getElementById('options').style.display = 'block';
+            document.getElementById('startPage').style.display = 'block';
+            document.getElementById('wordSearch').value = '';
+            document.getElementById('searchResult').innerHTML = '';
             document.getElementById('practiceArea').innerHTML = '';
             document.getElementById('bookmark').style.color = 'white';
             document.getElementById('workspace').style.display = 'none';
+        }
+
+        function searchWord() {
+            const input = document.getElementById('wordSearch').value.toLowerCase();
+            const matchingWords = words.filter(word => word.english.toLowerCase().includes(input) || word.chinese.toLowerCase().includes(input));
+            const searchResult = document.getElementById('searchResult');
+            searchResult.innerHTML = ''; // Clear previous results
+
+            if (matchingWords.length > 0) {
+                const tags = [...new Set(matchingWords.map(word => word.tag))].join(', ');
+                const resultText = document.createElement('p');
+                resultText.textContent = `Tags: ${tags}`;
+                searchResult.appendChild(resultText);
+
+                const bookmarkButton = document.createElement('button');
+                bookmarkButton.innerHTML = '<i class="fas fa-bookmark"></i>';
+                bookmarkButton.type = 'button'; // Prevent form submission
+                bookmarkButton.onclick = () => {
+                    matchingWords.forEach(word => word.bookmarked = true);
+                    alert('Word(s) added to bookmarks');
+                };
+                searchResult.appendChild(bookmarkButton);
+            } else {
+                searchResult.textContent = 'Word not found';
+            }
         }
     </script>
 </body>
