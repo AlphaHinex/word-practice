@@ -95,14 +95,14 @@
         </label>
         <label>
             Practice Mode:<br>
-            <select id="mode">
+            <select id="mode" style="width: 220px;">
                 <option value="cn2en">Chinese to English</option>
                 <option value="en2cn">English to Chinese</option>
             </select>
         </label>
         <label>
             Practice Content:<br>
-            <select id="content">
+            <select id="content" style="width: 220px;">
                 <option value="all">All</option>
                 <option value="bookmarked">Bookmarks</option>
             </select>
@@ -298,6 +298,7 @@
             const input = document.getElementById('wordSearch').value.toLowerCase();
             const matchingWords = words.filter(word => word.english.toLowerCase() === input || word.chinese.toLowerCase().includes(input));
             const searchResult = document.getElementById('searchResult');
+            searchResult.style.fontSize = '18px';
             searchResult.innerHTML = ''; // Clear previous results
 
             if (matchingWords.length > 0) {
@@ -323,6 +324,14 @@
                     resultRow.appendChild(wordText);
                     resultRow.appendChild(bookmarkButton);
                     searchResult.appendChild(resultRow);
+
+                    // Add a horizontal rule for spacing
+                    const hr = document.createElement('hr');
+                    hr.style.width = '100%';
+                    hr.style.border = '0';
+                    hr.style.borderTop = '1px solid #ccc';
+                    hr.style.margin = '10px 0';
+                    searchResult.appendChild(hr);
                 });
             } else {
                 searchResult.textContent = 'Word not found';
