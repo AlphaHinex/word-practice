@@ -180,11 +180,11 @@
             practiceWords = practiceWords.reduce((acc, word) => {
                 let found = acc.find(w => w.english === word.english);
                 if (found) {
-                    found.chinese = [...new Set([found.chinese, word.chinese])];
-                    found.tag = [...new Set([found.tag, word.tag])];
-                    found.desc =  [...new Set([found.desc, word.desc])];
+                    found.mergedChinese = [...new Set([found.chinese, word.chinese])];
+                    found.mergedTag = [...new Set([found.tag, word.tag])];
+                    found.mergedDesc =  [...new Set([found.desc, word.desc])];
                 } else {
-                    acc.push({ ...word });
+                    acc.push(word);
                 }
                 return acc;
             }, []);
@@ -291,10 +291,10 @@
                 practiceArea.innerHTML = `<span class="large">${word.english}</span> <br> 
                                           <span class="large">${word.phonetic}</span> <br>`; 
             } else {
-                practiceArea.innerHTML = `<span class="large">${word.chinese}</span> <br>`;
+                practiceArea.innerHTML = `<span class="large">${word.mergedChinese ? word.mergedChinese : word.chinese}</span> <br>`;
             }
 
-            practiceArea.innerHTML += `<span class="small">(${currentIndex + 1}/${practiceWords.length}) ${word.tag} ${word.desc ? word.desc : ''}</span>`;
+            practiceArea.innerHTML += `<span class="small">(${currentIndex + 1}/${practiceWords.length}) ${word.mergedTag ? word.mergedTag : word.tag} ${word.mergedDesc ? word.mergedDesc : (word.desc ? word.desc : '')}</span>`;
 
             document.getElementById('first').disabled = currentIndex === 0;
             document.getElementById('prev').disabled = currentIndex === 0;
@@ -359,7 +359,10 @@
         function searchWord() {
             document.getElementById('listArea').innerHTML = '';
             const input = document.getElementById('wordSearch').value.toLowerCase();
-            const matchingWords = words.filter(word => word.english.toLowerCase().includes(input) || word.chinese.toLowerCase().includes(input));
+            const matchingWords = words.filter(word => {
+                const chineseText = Array.isArray(word.chinese) ? word.chinese.join(' ') : word.chinese;
+                return word.english.toLowerCase().includes(input) || chineseText.toLowerCase().includes(input);
+            });
             const searchResult = document.getElementById('searchResult');
             searchResult.innerHTML = ''; // Clear previous results
 
