@@ -945,6 +945,219 @@ var words = [
         "phonetic": "/ˈhʌŋɡri/"
     },
     {
+        "english": "blame",
+        "chinese": "过失责备",
+        "desc": "vt.责备把..归咎于",
+        "phonetic": "/bleɪm/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "blank",
+        "chinese": "空白的茫然的全部的面无表情的未完工的",
+        "desc": "n.空白空隙空虚(有弹药而无弹头的)空弹vi.消失走神vt.使模糊不清删除封闭(比赛时连续得分)使对手得零分",
+        "phonetic": "/blæŋk/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "blanket",
+        "chinese": "毛毯羊毛毯覆盖物排字版",
+        "desc": "vt.用毯子裹扑灭挡风覆盖使包含adj.包含所有的适用于所有情形的",
+        "phonetic": "/ˈblæŋkɪt/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "blast",
+        "chinese": "爆炸冲击波气流一阵汽笛声",
+        "desc": "vi.爆破突然发出声音vt.喷射炸掉",
+        "phonetic": "/blæst/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "blaze",
+        "chinese": "火焰烈火闪光",
+        "desc": "vi.燃烧发光vt.燃烧宣布在树皮上刻痕领导开拓",
+        "phonetic": "/bleɪz/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "bleed",
+        "chinese": "出血流血泌脂(为事业祖国)负伤或牺性(花草树木等)流出汁液出大笔钱",
+        "desc": "vt.放血勒索钱财大大削弱使...流血n.印刷到纸边上去漏出",
+        "phonetic": "/bliːd/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "blend",
+        "chinese": "混合",
+        "desc": "vt.&vi.混合n.混合物",
+        "phonetic": "/blɛnd/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "bless",
+        "chinese": "为...祝福赐福祈佑称颂上帝使神圣赋予",
+        "phonetic": "/blɛs/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "blind",
+        "chinese": "瞎的盲目的未察觉的",
+        "desc": "n.百叶窗幌子vt.使失明隐藏adv.盲目地",
+        "phonetic": "/blaɪnd/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "block",
+        "chinese": "街区木块石块阻塞(物)障碍(物)",
+        "desc": "vt.堵塞拦阻",
+        "phonetic": "/blɑːk/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "blood",
+        "chinese": "血血液血统仇恨",
+        "desc": "vt.流血",
+        "phonetic": "/blʌd/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "bloom",
+        "chinese": "花开花开花期钢块兴旺",
+        "desc": "vt.使..开花vi.开花变得健康",
+        "phonetic": "/bluːm/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "blossom",
+        "chinese": "花开花全盛期",
+        "desc": "vi.开花成长",
+        "phonetic": "/ˈblɒsəm/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "blow",
+        "chinese": "吹吹动吹响打击殴打",
+        "desc": "v.吹风吹擤(鼻子)【口】浪费(机会)",
+        "phonetic": "/bloʊ/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "blue",
+        "chinese": "蓝色的沮丧的忧郁的(女人)有学问的",
+        "desc": "n.蓝色vt.使...变蓝vi.变蓝",
+        "phonetic": "/bluː/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "board",
+        "chinese": "板木板甲板董事会伙食舞台演员的职业船舷",
+        "desc": "vt.上(飞机、船、车等)有偿提供食宿用木板覆盖vi.搭伙",
+        "phonetic": "/bɔːrd/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "boast",
+        "chinese": "吹牛",
+        "desc": "n.吹牛vi.吹牛自夸vt.吹牛吹嘘",
+        "phonetic": "/boʊst/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "boat",
+        "chinese": "小船艇渔船船型物体",
+        "desc": "vt.放于船上vi.划船",
+        "phonetic": "/boʊt/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "body",
+        "chinese": "身体人主体尸体正文",
+        "desc": "vt.赋予形体体现",
+        "phonetic": "/ˈbɒdi/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "boil",
+        "chinese": "皮下脓肿沸腾",
+        "desc": "vi.沸腾汽化vt.煮沸",
+        "phonetic": "/boɪl/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "bold",
+        "chinese": "大胆的冒失的粗体的醒目的无礼的陡峭的",
+        "phonetic": "/boʊld/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "bolt",
+        "chinese": "螺栓螺钉插销门闩",
+        "desc": "vt.闩门闩住用螺栓固定在一起狼吞虎咽vi.冲出去急逃adv.背部挺直地坐或站",
+        "phonetic": "/boʊlt/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "bomb",
+        "chinese": "炸弹高压罐火山口喷出的熔岩",
+        "desc": "vt.轰炸大败长传vi.失败",
+        "phonetic": "/bɑːm/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "bond",
+        "chinese": "联结联系结合公债债券粘结剂粘合剂",
+        "phonetic": "/bɒnd/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "bone",
+        "chinese": "骨骨骼核心",
+        "desc": "vt.除去骨头往衣服里加撑条磨光表面vi.努力学习adv.非常地极其地",
+        "phonetic": "/boʊn/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "book",
+        "chinese": "书书籍",
+        "desc": "vt.预定登记vi.通过....预订",
+        "phonetic": "/bʊk/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "boot",
+        "chinese": "靴子长统靴(英)汽车行李箱猛踢锁扣",
+        "desc": "vt.踢穿靴子锁车vi.(计算机)启动在(通常为非法停放的汽车)车轮上装制动装置利用帮助",
+        "phonetic": "/buːt/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "booth",
+        "chinese": "货摊公用电话亭小间",
+        "phonetic": "/buːθ/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "border",
+        "chinese": "边边缘边界",
+        "desc": "vt.作..之疆界加边",
+        "phonetic": "/ˈbɔːrdər/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "bore",
+        "chinese": "令人讨厌的人枪膛孔井眼枪管口径涌潮",
+        "desc": "vt.使厌烦钻挖vi.挖掘开凿",
+        "phonetic": "/bɔːr/",
+        "tag": "lv4-11_of_113"
+    },
+    {
+        "english": "born",
+        "chinese": "天生的出生的与生俱来的",
+        "desc": "动词bear的过去分词adj.",
+        "phonetic": "/bɔːrn/",
+        "tag": "lv4-11_of_113"
+    },
+    {
         "english": "tidy",
         "chinese": "整理；整洁的",
         "tag": "primary-grade5-unit01",
@@ -15956,6 +16169,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = '-mumy-tips-20240720';
             option.textContent = '-mumy-tips-20240720';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'lv4-11_of_113';
+            option.textContent = 'lv4-11_of_113';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary-grade5-unit01';
             option.textContent = 'primary-grade5-unit01';
