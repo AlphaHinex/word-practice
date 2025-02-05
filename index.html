@@ -296,7 +296,7 @@
 
         function searchWord() {
             const input = document.getElementById('wordSearch').value.toLowerCase();
-            const matchingWords = words.filter(word => word.english.toLowerCase().includes(input) || word.chinese.toLowerCase().includes(input));
+            const matchingWords = words.filter(word => word.english.toLowerCase() === input || word.chinese.toLowerCase().includes(input));
             const searchResult = document.getElementById('searchResult');
             searchResult.innerHTML = ''; // Clear previous results
 
