@@ -161,7 +161,7 @@
             var selectedTags = Array.from(document.getElementById('tags').selectedOptions).map(option => option.value);
 
             practiceWords = words.filter(function(word) {
-                if (content === 'bookmarked') {
+                if (content === 'bookmarked' && (selectedTags.length === 0 || selectedTags.includes(word.tag))) {
                     return word.bookmarked;
                 }
                 if (selectedTags.length > 0 && !selectedTags.includes(word.tag)) {
@@ -282,6 +282,8 @@
                 return;
             }
             document.getElementById('options').style.display = 'block';
+            document.getElementById('practiceArea').innerHTML = '';
+            document.getElementById('bookmark').style.color = 'white';
             document.getElementById('workspace').style.display = 'none';
         }
     </script>
