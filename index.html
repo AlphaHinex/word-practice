@@ -111,7 +111,7 @@
     </form>
     <div id="workspace" style="display: none;">
         <div id="practiceArea"></div>
-        <div id="floatingBox" class="floating-box"></div>
+        <div id="floatingBox" class="floating-box" onclick="this.style.display='none'"></div>
 
         <div class="button-container">
             <!-- https://fontawesome.com/v5/search?ic=free -->
@@ -244,14 +244,6 @@
             const floatingBox = document.getElementById('floatingBox');
             floatingBox.innerHTML = content;
             floatingBox.style.display = 'block';
-
-            if (content.length > 100) {
-                // 设置定时器，n 秒后隐藏浮动框
-                const n = 10;
-                setTimeout(() => {
-                    floatingBox.style.display = 'none';
-                }, n * 1000);
-            } 
         }
 
         function nextWord() {
