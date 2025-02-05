@@ -108,12 +108,13 @@
             </select>
         </label>
         <button type="button" id="start" title="Start Practice"><i class="fas fa-play"></i></button>
-        <button type="button" id="list" title="View List"><i class="fas fa-list"></i></button>
+        <button type="button" id="list" title="Show in List"><i class="fas fa-list"></i></button>
         <label for="wordSearch">
             Search Word:<br>
             <input type="text" id="wordSearch" onkeypress="if(event.key === 'Enter') searchWord()" placeholder="Search for word..." style="width: 220px;">
         </label>
-        <div id="searchResult"></div>
+        <div id="searchResult" style="font-size: 18px;"></div>
+        <div id="listArea" style="font-size: 18px;"></div>
     </form>
     <div id="workspace" style="display: none;">
         <div id="practiceArea"></div>
@@ -161,7 +162,7 @@
         var practiceWords = [];
         var currentIndex = -1;
 
-        document.getElementById('start').addEventListener('click', function() {
+        function generatePracticeWords() {
             var mode = document.getElementById('mode').value;
             var content = document.getElementById('content').value;
             var selectedTags = Array.from(document.getElementById('tags').selectedOptions).map(option => option.value);
@@ -187,6 +188,10 @@
                 }
                 return acc;
             }, []);
+        }
+
+        document.getElementById('start').addEventListener('click', function() {
+            generatePracticeWords();
 
             practiceWords.sort(function() {
                 return 0.5 - Math.random();
@@ -197,6 +202,22 @@
 
             currentIndex = -1;
             nextWord();
+        });
+
+        document.getElementById('list').addEventListener('click', function() {
+            if (tagsSelect.selectedOptions.length < 1 || tagsSelect.selectedOptions.length > 10) {
+                alert('Please select 1 to 10 tag(s)');
+                return;
+            }
+
+            generatePracticeWords();
+            // Clear previous results
+            document.getElementById('listArea').innerHTML = '';
+            document.getElementById('searchResult').innerHTML = '';
+
+            practiceWords.map(function(word) {
+                showWordByLine('listArea', word);
+            });
         });
 
         document.getElementById('first').addEventListener('click', function() {
@@ -290,50 +311,61 @@
             document.getElementById('startPage').style.display = 'block';
             document.getElementById('wordSearch').value = '';
             document.getElementById('searchResult').innerHTML = '';
+            document.getElementById('listArea').innerHTML = '';
             document.getElementById('practiceArea').innerHTML = '';
             document.getElementById('bookmark').style.color = 'white';
             document.getElementById('workspace').style.display = 'none';
         }
 
+        function showWordByLine(areaId, word) {
+            const showArea = document.getElementById(areaId);
+
+            const resultRow = document.createElement('div');
+            resultRow.style.display = 'flex';
+            resultRow.style.alignItems = 'center';
+            resultRow.style.marginBottom = '10px';
+
+            const wordText = document.createElement('span');
+            wordText.innerHTML = `
+                <span>${word.english}</span><br>
+                <span>${word.chinese}</span><br>
+                <span class="small">${word.tag}</span>
+            `;
+            wordText.style.flexGrow = '1';
+
+            const bookmarkButton = document.createElement('button');
+            bookmarkButton.innerHTML = '<i class="fas fa-bookmark"></i>';
+            bookmarkButton.title = 'Bookmark';
+            bookmarkButton.type = 'button'; // Prevent form submission
+            bookmarkButton.style.color = word.bookmarked ? 'red' : 'white';
+            bookmarkButton.onclick = () => {
+                word.bookmarked = !word.bookmarked;
+                bookmarkButton.style.color = word.bookmarked ? 'red' : 'white';
+            };
+
+            resultRow.appendChild(wordText);
+            resultRow.appendChild(bookmarkButton);
+            showArea.appendChild(resultRow);
+
+            // Add a horizontal rule for spacing
+            const hr = document.createElement('hr');
+            hr.style.width = '100%';
+            hr.style.border = '0';
+            hr.style.borderTop = '1px solid #ccc';
+            hr.style.margin = '10px 0';
+            showArea.appendChild(hr);
+        }
+
         function searchWord() {
+            document.getElementById('listArea').innerHTML = '';
             const input = document.getElementById('wordSearch').value.toLowerCase();
-            const matchingWords = words.filter(word => word.english.toLowerCase() === input || word.chinese.toLowerCase().includes(input));
+            const matchingWords = words.filter(word => word.english.toLowerCase().includes(input) || word.chinese.toLowerCase().includes(input));
             const searchResult = document.getElementById('searchResult');
-            searchResult.style.fontSize = '18px';
             searchResult.innerHTML = ''; // Clear previous results
 
             if (matchingWords.length > 0) {
                 matchingWords.forEach(word => {
-                    const resultRow = document.createElement('div');
-                    resultRow.style.display = 'flex';
-                    resultRow.style.alignItems = 'center';
-                    resultRow.style.marginBottom = '10px';
-
-                    const wordText = document.createElement('span');
-                    wordText.textContent = `English: ${word.english}, Chinese: ${word.chinese}, Tag: ${word.tag}`;
-                    wordText.style.flexGrow = '1';
-
-                    const bookmarkButton = document.createElement('button');
-                    bookmarkButton.innerHTML = '<i class="fas fa-bookmark"></i>';
-                    bookmarkButton.title = 'Bookmark';
-                    bookmarkButton.type = 'button'; // Prevent form submission
-                    bookmarkButton.style.color = word.bookmarked ? 'red' : 'white';
-                    bookmarkButton.onclick = () => {
-                        word.bookmarked = !word.bookmarked;
-                        bookmarkButton.style.color = word.bookmarked ? 'red' : 'white';
-                    };
-
-                    resultRow.appendChild(wordText);
-                    resultRow.appendChild(bookmarkButton);
-                    searchResult.appendChild(resultRow);
-
-                    // Add a horizontal rule for spacing
-                    const hr = document.createElement('hr');
-                    hr.style.width = '100%';
-                    hr.style.border = '0';
-                    hr.style.borderTop = '1px solid #ccc';
-                    hr.style.margin = '10px 0';
-                    searchResult.appendChild(hr);
+                    showWordByLine('searchResult', word);
                 });
             } else {
                 searchResult.textContent = 'Word not found';
