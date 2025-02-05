@@ -267,7 +267,7 @@
                 practiceArea.innerHTML = `<span class="large">${word.chinese}</span> <br>`;
             }
 
-            practiceArea.innerHTML += `<span class="small">(${currentIndex + 1}/${practiceWords.length}) ${word.tag} ${word.desc}</span>`;
+            practiceArea.innerHTML += `<span class="small">(${currentIndex + 1}/${practiceWords.length}) ${word.tag} ${word.desc ? word.desc : ''}</span>`;
 
             document.getElementById('first').disabled = currentIndex === 0;
             document.getElementById('prev').disabled = currentIndex === 0;
