@@ -669,6 +669,246 @@ var words = [
         "tag": "lv4-63_of_113"
     },
     {
+        "chinese": "adv.先前;预先;仓促地",
+        "english": "previously",
+        "phonetic": "/ˈpriːviəsli/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.价格;价钱;代价;vt.定格;标价;比较价格",
+        "english": "price",
+        "phonetic": "/praɪs/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.骄傲;自豪;自尊;一群狮子;vt.自夸;以...自豪",
+        "english": "pride",
+        "phonetic": "/praɪd/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.教士;牧师;神父",
+        "english": "priest",
+        "phonetic": "/priːst/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "adv.首先;主要地",
+        "english": "primarily",
+        "phonetic": "/praɪˈmerəli/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "adj.最初的;基本的;主要的;根本的;初等教育的;n.最主要者;初选;原色;初级线圈",
+        "english": "primary",
+        "phonetic": "/ˈpraɪmeri/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "adj.首要的;最初的;最好的;典型的;n.春;青春;壮年;全盛时期;n.[数]质数;vt.事先指点;在(金属、木材等上)打底漆;vi.变得首要",
+        "english": "prime",
+        "phonetic": "/praɪm/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "adj.原始的;粗糙的;n.原始人;文艺复兴前的艺术家",
+        "english": "primitive",
+        "phonetic": "/ˈprɪmətɪv/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.王子;亲王;佼佼者",
+        "english": "prince",
+        "phonetic": "/prɪns/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.公主;王妃;贵妇;adj.(礼服)合身而好看的;有贵族气息的",
+        "english": "princess",
+        "phonetic": "/ˌprɪnˈses/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "adj.主要的;首要的;n.负责人;首要;校长",
+        "english": "principal",
+        "phonetic": "/ˈprɪnsəpl/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.原则;原理;主义;信念",
+        "english": "principle",
+        "phonetic": "/ˈprɪnsəpl/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "vt.印刷;出版;打印;n.印刷;正片;版;印刷物;印迹;adj.印刷的",
+        "english": "print",
+        "phonetic": "/prɪnt/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "adj.在先的;优先的;更重要的;较早的;adv.居先;n.小修道院院长;大修道院副院长",
+        "english": "prior",
+        "phonetic": "/ˈpraɪər/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.监狱;监禁",
+        "english": "prison",
+        "phonetic": "/ˈprɪzn/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.囚犯",
+        "english": "prisoner",
+        "phonetic": "/ˈprɪznər/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "adj.私人的;私下的;隐蔽的;n.士兵;列兵",
+        "english": "private",
+        "phonetic": "/ˈpraɪvət/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.特权;优惠;特别恩典;基本人权;荣幸;vt.给特权;免除",
+        "english": "privilege",
+        "phonetic": "/ˈprɪvəlɪdʒ/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.奖赏;奖金;奖品;珍品;战利品;vt.珍视;重视;adj.奖励的;杰出的",
+        "english": "prize",
+        "phonetic": "/praɪz/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.可能性;概率;机率",
+        "english": "probability",
+        "phonetic": "/ˌprɑːbəˈbɪləti/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "adj.或有的;大概的;很可能的;n.很可能的事",
+        "english": "probable",
+        "phonetic": "/ˈprɑːbəbl/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "adv.或许;大概",
+        "english": "probably",
+        "phonetic": "/ˈprɑːbəbli/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.问题;习题;adj.成问题的;难对付的",
+        "english": "problem",
+        "phonetic": "/ˈprɑːbləm/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.程序;手续;过程;步骤;常规的做法",
+        "english": "procedure",
+        "phonetic": "/prəˈsiːdʒər/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "vi.进行;开始;着手;继续进行",
+        "english": "proceed",
+        "phonetic": "/prəˈsiːd/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.过程;工序;vt.加工;处理;起诉;vi.列队前进;adj.经过加工的",
+        "english": "process",
+        "phonetic": "/ˈprɑːses/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.队伍;行列;v.列队行进",
+        "english": "procession",
+        "phonetic": "/prəˈseʃn/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "vt.宣告;宣布;表明;公布;赞扬;显示出",
+        "english": "proclaim",
+        "phonetic": "/prəˈkleɪm/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "vt.生产;产生;展现;提出;引起;分娩;制片;vi.生产;制造;n.产品;农作物",
+        "english": "produce",
+        "phonetic": "/prəˈduːs/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.产品;产物;(乘)积",
+        "english": "product",
+        "phonetic": "/ˈprɑːdʌkt/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.生产;产品;总产量;作品;成果",
+        "english": "production",
+        "phonetic": "/prəˈdʌkʃn/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "adj.生产的;丰饶的;有生产价值的;多产的",
+        "english": "productive",
+        "phonetic": "/prəˈdʌktɪv/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.职业;专业;声明;信仰",
+        "english": "profession",
+        "phonetic": "/prəˈfeʃn/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "adj.职业的;专业的;n.专业人员",
+        "english": "professional",
+        "phonetic": "/prəˈfeʃənl/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.教授;宣称者",
+        "english": "professor",
+        "phonetic": "/prəˈfesər/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.益处;利润;盈利比率;vi.得益;利用;获利;vt.有益于",
+        "english": "profit",
+        "phonetic": "/ˈprɑːfɪt/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.节目单;大纲;程序;计划;vt.规划;拟定计划;制作节目",
+        "english": "program",
+        "phonetic": "/ˈproʊɡræm/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "n.前进;进展;进步;vi.促进;进步;进行",
+        "english": "progress",
+        "phonetic": "/ˈprɑːɡres/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "adj.进步的;向前进的;渐进的;n.进步人士",
+        "english": "progressive",
+        "phonetic": "/prəˈɡresɪv/",
+        "tag": "lv4-74_of_113"
+    },
+    {
+        "chinese": "vt.禁止;阻止;妨碍",
+        "english": "prohibit",
+        "phonetic": "/prəˈhɪbɪt/",
+        "tag": "lv4-74_of_113"
+    },
+    {
         "english": "tidy",
         "chinese": "整理；整洁的",
         "tag": "primary-grade5-unit01",
@@ -17306,6 +17546,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4-63_of_113';
             option.textContent = 'lv4-63_of_113';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'lv4-74_of_113';
+            option.textContent = 'lv4-74_of_113';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary-grade5-unit01';
             option.textContent = 'primary-grade5-unit01';
