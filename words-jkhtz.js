@@ -459,6 +459,216 @@ var words = [
         "tag": "lv4-56_of_113"
     },
     {
+        "chinese": "adj.湿润的；潮湿的；多雨的；(果物)多汁的；[医]有分泌物的；湿性的；n.潮湿",
+        "english": "moist",
+        "phonetic": "/mɔɪst/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.潮湿；湿气；湿度",
+        "english": "moisture",
+        "phonetic": "/ˈmɔɪstʃər/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.分子；克分子",
+        "english": "molecule",
+        "phonetic": "/ˈmɑːlɪkjuːl/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.片刻；瞬间；时刻；准确时刻；非常重要的时机；力矩",
+        "english": "moment",
+        "phonetic": "/ˈmoʊmənt/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.星期一",
+        "english": "Monday",
+        "phonetic": "/ˈmʌndeɪ/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.货币；金钱；财富",
+        "english": "money",
+        "phonetic": "/ˈmʌni/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.班长；监视器；监听员；[计算机]显示器；监视器；v.监视；监听；监督",
+        "english": "monitor",
+        "phonetic": "/ˈmɑːnɪtər/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.猴子；猿；v.胡闹；乱弄",
+        "english": "monkey",
+        "phonetic": "/ˈmʌŋki/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.月；月份",
+        "english": "month",
+        "phonetic": "/mʌnθ/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "adj.每月的；持续一个月的；每月发生的；adv.每月；按月；n.月刊；(复数monthlies)月经",
+        "english": "monthly",
+        "phonetic": "/ˈmʌnθli/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.纪念碑；纪念馆；历史遗迹",
+        "english": "monument",
+        "phonetic": "/ˈmɑːnjumənt/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.心情；情绪；语气",
+        "english": "mood",
+        "phonetic": "/muːd/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.月球；月亮；卫星",
+        "english": "moon",
+        "phonetic": "/muːn/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "adj.道德(上)的；合乎道德的；n.品行；寓意；道德",
+        "english": "moral",
+        "phonetic": "/ˈmɔːrəl/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "a.更多的；程度较大的；更大的；adv.更多；更多地；进一步；n.更多",
+        "english": "more",
+        "phonetic": "/mɔːr/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "adv.再者；加之；此外；而且",
+        "english": "moreover",
+        "phonetic": "/mɔːrˈoʊvər/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.早晨；上午；开端",
+        "english": "morning",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "adj.终有一死的；人世间的；致命的；终有一死的；极度恐怖的；n.一个人",
+        "english": "mortal",
+        "phonetic": "/ˈmɔːrtl/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.蚊子",
+        "english": "mosquito",
+        "phonetic": "/məˈskiːtoʊ/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "adj.最多的；大多数的；几乎全部的；adv.最；很；最多；极其；n.最多；最大；pron.大多数",
+        "english": "most",
+        "phonetic": "/moʊst/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "adv.主要的；大部分；大概",
+        "english": "mostly",
+        "phonetic": "/ˈmoʊstli/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.母亲；妈妈；adj.母亲的；母体的；vt.生育；像母亲一样关爱",
+        "english": "mother",
+        "phonetic": "/ˈmʌðər/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.运动；打手势；提议；示意；移动；动作；大便；v.运动；向...打手势；示意",
+        "english": "motion",
+        "phonetic": "/ˈmoʊʃn/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "vt.促动；激励；激发(兴趣或欲望)；给与动机",
+        "english": "motivate",
+        "phonetic": "/ˈmoʊtɪveɪt/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.动机；目的；主题；adj.发动的；运动的；积极的；动机的；vt.促使；使有动机",
+        "english": "motive",
+        "phonetic": "/ˈmoʊtɪv/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.发动机；机动车；马达；汽车；adj.机动的；有引擎的；汽车的；v.(用引擎)驱动",
+        "english": "motor",
+        "phonetic": "/ˈmoʊtər/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.模子；(样板，形状，霉菌，土，类型)模型；vt.浇铸；模压；(铸造，发霉，形成轮廓相符合)；vi.发霉",
+        "english": "mould",
+        "phonetic": "/moʊld/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "vt.登上；爬上；提升；装备；vi.增长；骑上(马)；n.山峰；乘用马；框衬纸",
+        "english": "mount",
+        "phonetic": "/maʊnt/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.山；山岳；山脉；大量",
+        "english": "mountain",
+        "phonetic": "/ˈmaʊntn/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "vi.哀痛；哀悼；忧伤；服丧",
+        "english": "mourn",
+        "phonetic": "/mɔːrn/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.老鼠；耗子；鼠标；胆小如鼠的人；乌青色的肿块；vi.捕鼠；蹑脚行动；vt.仔细寻找",
+        "english": "mouse",
+        "phonetic": "/maʊs/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.嘴；口；口腔；开口；需要供养的人；夸张说话的趋势；(河流等)入口；容器的开口；vt.装腔作势说话；送进嘴里；喃喃自语；用唇语说；vi.傲慢地说；嘟嘴扮鬼脸",
+        "english": "mouth",
+        "phonetic": "/maʊθ/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.满口；一口；少量",
+        "english": "mouthful",
+        "phonetic": "/ˈmaʊθfʊl/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "vt.使移动；使...感动；推动；(有时也意译为“跳槽”)；n.移动；迁居；步骤；动作；[计算机]移动；vi.移动；搬家；采取行动",
+        "english": "move",
+        "phonetic": "/muːv/",
+        "tag": "lv4-63_of_113"
+    },
+    {
+        "chinese": "n.动作；活动；移动；运动；变动趋势；通便；运转装置；[音]乐章",
+        "english": "movement",
+        "phonetic": "/ˈmuːvmənt/",
+        "tag": "lv4-63_of_113"
+    },
+    {
         "english": "tidy",
         "chinese": "整理；整洁的",
         "tag": "primary-grade5-unit01",
@@ -17093,6 +17303,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4-56_of_113';
             option.textContent = 'lv4-56_of_113';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'lv4-63_of_113';
+            option.textContent = 'lv4-63_of_113';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary-grade5-unit01';
             option.textContent = 'primary-grade5-unit01';
