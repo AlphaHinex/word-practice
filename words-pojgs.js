@@ -11685,6 +11685,360 @@ var words = [
         "tag": "starlight-lv4-unit05"
     },
     {
+        "chinese": "服装",
+        "english": "costume",
+        "phonetic": "/ˈkɑːstuːm/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "风格",
+        "english": "style",
+        "phonetic": "/staɪl/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "水管",
+        "english": "hose",
+        "phonetic": "/hoʊz/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "比赛n",
+        "english": "competition",
+        "phonetic": "/ˌkɑːmpəˈtɪʃn/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "扫地",
+        "english": "Sweep the floor",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "公共的",
+        "english": "public",
+        "phonetic": "/ˈpʌblɪk/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "建筑师",
+        "english": "architect",
+        "phonetic": "/ˈɑːrkɪtekt/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "扔垃圾",
+        "english": "drop the trash",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "时间线",
+        "english": "timeline",
+        "phonetic": "/ˈtaɪmlaɪn/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "工程师",
+        "english": "engineer",
+        "phonetic": "/ˌendʒɪˈnɪr/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "调高(声音)",
+        "english": "turn up",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "计划",
+        "english": "plan",
+        "phonetic": "/plæn/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "机械师",
+        "english": "mechanic",
+        "phonetic": "/məˈkænɪk/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "调低(声音)",
+        "english": "turn down",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "家务活",
+        "english": "housework",
+        "phonetic": "/ˈhaʊswɜːrk/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "商人(男)",
+        "english": "bussinessman",
+        "phonetic": "/ˈbɪznəsmæn/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "触摸花瓶",
+        "english": "touch the vase",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "商人(女)",
+        "english": "businesswoman",
+        "phonetic": "/ˈbɪznəswʊmən/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "例如(词组)",
+        "english": "for example",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "各种各样的",
+        "english": "diverse",
+        "phonetic": "/daɪˈvɜːrs/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "设计",
+        "english": "design",
+        "phonetic": "/dɪˈzaɪn/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "消防员",
+        "english": "firefighter",
+        "phonetic": "/ˈfaɪərfaɪtər/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "蜡染",
+        "english": "batik",
+        "phonetic": "/bəˈtiːk/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "飞机乘务员",
+        "english": "flight attendant",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "水泵",
+        "english": "water pump",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "手工艺",
+        "english": "craft",
+        "phonetic": "/kræft/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "记者",
+        "english": "journalist",
+        "phonetic": "/ˈdʒɜːrnəlɪst/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "灭火",
+        "english": "put out fires",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "布料",
+        "english": "cloth",
+        "phonetic": "/klɔːθ/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "摄影师",
+        "english": "photographer",
+        "phonetic": "/fəˈtɑːɡrəfər/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "炎热的",
+        "english": "tropical",
+        "phonetic": "/ˈtrɑːpɪkl/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "飞行员",
+        "english": "pilot",
+        "phonetic": "/ˈpaɪlət/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "皇帝",
+        "english": "emperor",
+        "phonetic": "/ˈempərər/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "形成",
+        "english": "form",
+        "phonetic": "/fɔːrm/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "秘书",
+        "english": "secretary",
+        "phonetic": "/ˈsekrəteri/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "消防车",
+        "english": "fire engine",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "活跃的",
+        "english": "active",
+        "phonetic": "/ˈæktɪv/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "消防队",
+        "english": "fire brigade",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "电视主持人",
+        "english": "TV anchor",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "具有代表性的",
+        "english": "typical",
+        "phonetic": "/ˈtɪpɪkl/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "著名的",
+        "english": "famous",
+        "phonetic": "/ˈfeɪməs/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "桶水",
+        "english": "buckets of water",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "恐怖的",
+        "english": "horrible",
+        "phonetic": "/ˈhɔːrəbl/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "邀请函",
+        "english": "invitation",
+        "phonetic": "/ˌɪnvɪˈteɪʃn/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "沿着",
+        "english": "along",
+        "phonetic": "/əˈlɔːŋ/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "表演(词组)",
+        "english": "act out",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "金色假发",
+        "english": "blond wig",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "像..(词组)",
+        "english": "such as",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "从事,实践n.",
+        "english": "practice",
+        "phonetic": "/ˈpræktɪs/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "长大",
+        "english": "Grow up",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "私人的,个人的",
+        "english": "private",
+        "phonetic": "/ˈpraɪvət/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "木雕",
+        "english": "wooden carving",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "快点!",
+        "english": "Hurry up",
+        "phonetic": "/ˈhɜːri ʌp/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "发明V",
+        "english": "invent",
+        "phonetic": "/ɪnˈvent/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "雕刻",
+        "english": "carve",
+        "phonetic": "/kɑːrv/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "皮革",
+        "english": "leather",
+        "phonetic": "/ˈleðər/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "编织v",
+        "english": "weave",
+        "phonetic": "/wiːv/",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "来的正好",
+        "english": "Just in time",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
+        "chinese": "由..制成",
+        "english": "be made of/be made from",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit06"
+    },
+    {
         "english": "acorn",
         "chinese": "橡子",
         "desc": "",
@@ -16610,6 +16964,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'starlight-lv4-unit05';
             option.textContent = 'starlight-lv4-unit05';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'starlight-lv4-unit06';
+            option.textContent = 'starlight-lv4-unit06';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'starlight-lv4-unit1';
             option.textContent = 'starlight-lv4-unit1';
