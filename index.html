@@ -82,16 +82,13 @@
     </style>
 </head>
 <body>
-    <label>
-        <a href="https://www.coze.cn/store/agent/7462629917713268775?bid=6f44r173g4018">Add words with new tag</a>
-    </label>
     <form id="startPage">
         <label for="tagSearch">
             Search Tags:<br>
             <input type="text" id="tagSearch" onkeyup="filterTags()" placeholder="Search for tags..." style="width: 220px;">
         </label>
         <label>
-            Tags:<br>
+            Tags:<a href="https://www.coze.cn/store/agent/7462629917713268775?bid=6f44r173g4018" target="_blank" style="text-decoration: none;"><i class="fas fa-plus"></i></a><br>
             <select id="tags" multiple style="height: 150px; width: 220px;">
                 <!-- Options will be added here by JavaScript -->
             </select>
@@ -118,6 +115,9 @@
         </label>
         <div id="searchResult" style="font-size: 18px;"></div>
         <div id="listArea" style="font-size: 18px;"></div>
+        <a href="https://github.com/AlphaHinex/word-practice" target="_blank" title="github" style="display: flex; justify-content: center; align-items: center; text-decoration: none;">
+            <i class="fas fa-code-branch"></i>
+        </a>
     </form>
     <div id="workspace" style="display: none;">
         <div id="practiceArea"></div>
