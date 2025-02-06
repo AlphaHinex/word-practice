@@ -11361,6 +11361,330 @@ var words = [
         "phonetic": "/ˌɔːdɪˈtɔːriəm/"
     },
     {
+        "chinese": "片场",
+        "english": "movie set",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "模型",
+        "english": "model",
+        "phonetic": "/ˈmɑːdl/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "神秘的",
+        "english": "mystery",
+        "phonetic": "/ˈmɪstri/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "神秘的",
+        "english": "mysterious",
+        "phonetic": "/mɪˈstɪriəs/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "展示",
+        "english": "show",
+        "phonetic": "/ʃoʊ/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "野餐篮子",
+        "english": "picnic basket",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "风景,风景画",
+        "english": "landscape",
+        "phonetic": "/ˈlændskeɪp/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "奇怪的",
+        "english": "strange",
+        "phonetic": "/streɪndʒ/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "暴风",
+        "english": "storm",
+        "phonetic": "/stɔːrm/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "地形,地势",
+        "english": "landform",
+        "phonetic": "/ˈlændfɔːrm/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "别犯傻了",
+        "english": "Don't be silly.",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "植物",
+        "english": "plant",
+        "phonetic": "/plænt/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "突然",
+        "english": "suddenly",
+        "phonetic": "/ˈsʌdənli/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "使用",
+        "english": "use",
+        "phonetic": "/juːz/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "峡谷",
+        "english": "canyon",
+        "phonetic": "/ˈkænjən/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "山谷",
+        "english": "valley",
+        "phonetic": "/ˈvæli/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "恐龙",
+        "english": "dinosaur",
+        "phonetic": "/ˈdaɪnəsɔːr/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "周末",
+        "english": "weekend",
+        "phonetic": "/ˈwiːkend/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "城市",
+        "english": "city",
+        "phonetic": "/ˈsɪti/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "存在",
+        "english": "exist",
+        "phonetic": "/ɪɡˈzɪst/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "移动",
+        "english": "move",
+        "phonetic": "/muːv/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "森林",
+        "english": "forest",
+        "phonetic": "/ˈfɔːrɪst/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "正常的",
+        "english": "normal",
+        "phonetic": "/ˈnɔːrml/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "洞穴",
+        "english": "cave",
+        "phonetic": "/keɪv/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "沙漠",
+        "english": "desert",
+        "phonetic": "/ˈdezərt/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "冰川",
+        "english": "iceberg",
+        "phonetic": "/ˈaɪsbɜːrɡ/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "令人害怕的",
+        "english": "scary",
+        "phonetic": "/ˈskeəri/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "岛屿",
+        "english": "island",
+        "phonetic": "/ˈaɪlənd/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "假期",
+        "english": "vacation",
+        "phonetic": "/veɪˈkeɪʃn/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "海滩",
+        "english": "beach",
+        "phonetic": "/biːtʃ/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "高山",
+        "english": "mountain",
+        "phonetic": "/ˈmaʊntn/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "享受,喜欢",
+        "english": "enjoy",
+        "phonetic": "/ɪnˈdʒɔɪ/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "静物画",
+        "english": "stillif painting",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "海洋",
+        "english": "ocean",
+        "phonetic": "/ˈoʊʃn/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "方式,方法",
+        "english": "way",
+        "phonetic": "/weɪ/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "肖像画",
+        "english": "portrait",
+        "phonetic": "/ˈpɔːrtrət/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "平原",
+        "english": "plain",
+        "phonetic": "/pleɪn/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "诗歌",
+        "english": "poem",
+        "phonetic": "/ˈpoʊəm/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "抽象画",
+        "english": "abstract art",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "金字塔",
+        "english": "pyramid",
+        "phonetic": "/ˈpɪrəmɪd/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "前景",
+        "english": "foreground",
+        "phonetic": "/ˈfɔːrɡraʊnd/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "背景",
+        "english": "background",
+        "phonetic": "/ˈbækɡraʊnd/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "高原",
+        "english": "plateaus",
+        "phonetic": "/plæˈtoʊz/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "彩虹",
+        "english": "rainbow",
+        "phonetic": "/ˈreɪnboʊ/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "艺术家",
+        "english": "artist",
+        "phonetic": "/ˈɑːrtɪst/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "村镇,乡村",
+        "english": "village",
+        "phonetic": "/ˈvɪlɪdʒ/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "风暴的",
+        "english": "stormy",
+        "phonetic": "/ˈstɔːrmi/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "火山",
+        "english": "volcano",
+        "phonetic": "/vɑːlˈkeɪnoʊ/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "多彩的",
+        "english": "colorful",
+        "phonetic": "/ˈkʌlərfl/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "巨大的",
+        "english": "giant",
+        "phonetic": "/ˈdʒaɪənt/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "邮件",
+        "english": "email",
+        "phonetic": "/ˈiːmeɪl/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "钓鱼杆",
+        "english": "fishing rod",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "导演",
+        "english": "director",
+        "phonetic": "/dəˈrektər/",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
+        "chinese": "有趣的事情",
+        "english": "something interesting",
+        "phonetic": "",
+        "tag": "starlight-lv4-unit05"
+    },
+    {
         "english": "acorn",
         "chinese": "橡子",
         "desc": "",
@@ -16283,6 +16607,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'starlight-lv3-unit9';
             option.textContent = 'starlight-lv3-unit9';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'starlight-lv4-unit05';
+            option.textContent = 'starlight-lv4-unit05';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'starlight-lv4-unit06';
             option.textContent = 'starlight-lv4-unit06';
