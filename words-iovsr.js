@@ -1,89 +1,5 @@
 var words = [
     {
-        "chinese": "咳嗽",
-        "english": "I.cough",
-        "phonetic": "",
-        "tag": "-tips-20250207"
-    },
-    {
-        "chinese": "喉咙痛",
-        "english": "sie thoat",
-        "phonetic": "",
-        "tag": "-tips-20250207"
-    },
-    {
-        "chinese": "生病",
-        "english": "ISick",
-        "phonetic": "",
-        "tag": "-tips-20250207"
-    },
-    {
-        "chinese": "胃病",
-        "english": "sto madhahe",
-        "phonetic": "",
-        "tag": "-tips-20250207"
-    },
-    {
-        "chinese": "牙痛",
-        "english": "toothache",
-        "phonetic": "/ˈtuːθeɪk/",
-        "tag": "-tips-20250207"
-    },
-    {
-        "chinese": "受伤",
-        "english": "cut",
-        "phonetic": "/kʌt/",
-        "tag": "-tips-20250207"
-    },
-    {
-        "chinese": "感冒",
-        "english": "cold",
-        "phonetic": "/koʊld/",
-        "tag": "-tips-20250207"
-    },
-    {
-        "chinese": "晕",
-        "english": "dizz",
-        "phonetic": "",
-        "tag": "-tips-20250207"
-    },
-    {
-        "chinese": "青",
-        "english": "boae",
-        "phonetic": "",
-        "tag": "-tips-20250207"
-    },
-    {
-        "chinese": "",
-        "english": "iakeo",
-        "phonetic": "",
-        "tag": "-tips-20250207"
-    },
-    {
-        "chinese": "头痛",
-        "english": "led he",
-        "phonetic": "",
-        "tag": "-tips-20250207"
-    },
-    {
-        "chinese": "耿痛",
-        "english": "ceaache",
-        "phonetic": "",
-        "tag": "-tips-20250207"
-    },
-    {
-        "chinese": "受伤的复数",
-        "english": "inanes",
-        "phonetic": "",
-        "tag": "-tips-20250207"
-    },
-    {
-        "chinese": "受伤",
-        "english": "Hinur",
-        "phonetic": "",
-        "tag": "-tips-20250207"
-    },
-    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -17706,9 +17622,6 @@ var words = [
         "tag": "tips-20250207"
     }
 ];var newOptions = [];var option = document.createElement('option');
-            option.value = '-tips-20250207';
-            option.textContent = '-tips-20250207';
-            newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4-11_of_113';
             option.textContent = 'lv4-11_of_113';
             newOptions.push(option);var option = document.createElement('option');
