@@ -17620,6 +17620,90 @@ var words = [
         "right": 0,
         "wrong": 0,
         "phonetic": "/ˈhʌŋɡri/"
+    },
+    {
+        "chinese": "咳嗽",
+        "english": "cough",
+        "phonetic": "/kɔːf/",
+        "tag": "tips-20250207"
+    },
+    {
+        "chinese": "喉咙痛",
+        "english": "sore throat",
+        "phonetic": "",
+        "tag": "tips-20250207"
+    },
+    {
+        "chinese": "生病的",
+        "english": "sick",
+        "phonetic": "/sɪk/",
+        "tag": "tips-20250207"
+    },
+    {
+        "chinese": "胃痛",
+        "english": "stomachache",
+        "phonetic": "/ˈstʌməkeɪk/",
+        "tag": "tips-20250207"
+    },
+    {
+        "chinese": "牙痛",
+        "english": "toothache",
+        "phonetic": "/ˈtuːθeɪk/",
+        "tag": "tips-20250207"
+    },
+    {
+        "chinese": "伤口；割伤",
+        "english": "cut",
+        "phonetic": "/kʌt/",
+        "tag": "tips-20250207"
+    },
+    {
+        "chinese": "感冒；寒冷的",
+        "english": "cold",
+        "phonetic": "/koʊld/",
+        "tag": "tips-20250207"
+    },
+    {
+        "chinese": "头晕的",
+        "english": "dizzy",
+        "phonetic": "/ˈdɪzi/",
+        "tag": "tips-20250207"
+    },
+    {
+        "chinese": "瘀伤；擦伤",
+        "english": "bruise",
+        "phonetic": "/bruːz/",
+        "tag": "tips-20250207"
+    },
+    {
+        "chinese": "断腿",
+        "english": "broken leg",
+        "phonetic": "",
+        "tag": "tips-20250207"
+    },
+    {
+        "chinese": "头痛",
+        "english": "headache",
+        "phonetic": "/ˈhedeɪk/",
+        "tag": "tips-20250207"
+    },
+    {
+        "chinese": "耳痛",
+        "english": "earache",
+        "phonetic": "/ˈɪreɪk/",
+        "tag": "tips-20250207"
+    },
+    {
+        "chinese": "受伤；伤害（复数形式）",
+        "english": "injuries",
+        "phonetic": "/ˈɪndʒəriz/",
+        "tag": "tips-20250207"
+    },
+    {
+        "chinese": "受伤；伤害",
+        "english": "injury",
+        "phonetic": "/ˈɪndʒəri/",
+        "tag": "tips-20250207"
     }
 ];var newOptions = [];var option = document.createElement('option');
             option.value = '-tips-20250207';
@@ -17822,4 +17906,7 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'tips-20240720';
             option.textContent = 'tips-20240720';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'tips-20250207';
+            option.textContent = 'tips-20250207';
             newOptions.push(option);
