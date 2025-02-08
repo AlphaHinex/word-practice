@@ -19,8 +19,8 @@ new_options = 'var newOptions = [];'
 # 遍历每个文件
 for file in files:
     # option 使用文件路径（不包括 words/），目录之间使用 - 分割
-    option = os.path.dirname(file)[6:].replace('\\', '-').replace('/', '-') \
-             + '-' + os.path.basename(file).replace('.json', '')
+    option = os.path.dirname(file)[6:].replace('\\', '/') \
+             + '/' + os.path.basename(file).replace('.json', '')
     new_options += f'''var option = document.createElement('option');
             option.value = '{option}';
             option.textContent = '{option}';
