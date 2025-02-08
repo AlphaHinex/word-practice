@@ -1,5 +1,83 @@
 var words = [
     {
+        "chinese": "我咳嗽",
+        "english": "I cough",
+        "phonetic": "/aɪ kɔːf/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "喉咙痛",
+        "english": "sore throat",
+        "phonetic": "",
+        "tag": "-test"
+    },
+    {
+        "chinese": "生病",
+        "english": "be sick",
+        "phonetic": "/biː sɪk/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "胃痛",
+        "english": "stomachache",
+        "phonetic": "/ˈstʌməkeɪk/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "牙痛",
+        "english": "toothache",
+        "phonetic": "/ˈtuːθeɪk/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "割伤",
+        "english": "cut",
+        "phonetic": "/kʌt/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "感冒",
+        "english": "cold",
+        "phonetic": "/koʊld/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "头晕的",
+        "english": "dizzy",
+        "phonetic": "/ˈdɪzi/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "瘀伤",
+        "english": "bruise",
+        "phonetic": "/bruːz/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "受伤的",
+        "english": "injured",
+        "phonetic": "/ˈɪndʒərd/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "头痛",
+        "english": "headache",
+        "phonetic": "/ˈhedeɪk/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "胸痛",
+        "english": "chestache",
+        "phonetic": "",
+        "tag": "-test"
+    },
+    {
+        "chinese": "受伤（复数）",
+        "english": "injuries",
+        "phonetic": "/ˈɪndʒəriz/",
+        "tag": "-test"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -17622,6 +17700,9 @@ var words = [
         "tag": "tips-20250207"
     }
 ];var newOptions = [];var option = document.createElement('option');
+            option.value = '-test';
+            option.textContent = '-test';
+            newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4-11_of_113';
             option.textContent = 'lv4-11_of_113';
             newOptions.push(option);var option = document.createElement('option');
