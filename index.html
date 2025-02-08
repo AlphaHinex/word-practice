@@ -269,7 +269,7 @@
             } else {
                 showFloatingBox(`<span>${word.english}</span> <br> <span >${word.phonetic}</span>`);
             }
-            smallSpan.innerText += `  ${word.mergedDesc ? word.mergedDesc : (word.desc ? word.desc : '')}`;
+            smallSpan.innerText = `  ${word.mergedDesc ? word.mergedDesc : (word.desc ? word.desc : '')}`;
         };
         function showFloatingBox(content) {
             const floatingBox = document.getElementById('floatingBox');
@@ -298,7 +298,7 @@
                 practiceArea.innerHTML = `<span class="large">${word.mergedChinese ? word.mergedChinese : word.chinese}</span> <br>`;
             }
 
-            practiceArea.innerHTML += `<span id="smallSpan" class="small">(${currentIndex + 1}/${practiceWords.length}) ${word.mergedTag ? word.mergedTag : word.tag}</span>`;
+            practiceArea.innerHTML += `<span class="small">(${currentIndex + 1}/${practiceWords.length}) ${word.mergedTag ? word.mergedTag : word.tag}<span id="smallSpan"></span></span>`;
 
             document.getElementById('first').disabled = currentIndex === 0;
             document.getElementById('prev').disabled = currentIndex === 0;
