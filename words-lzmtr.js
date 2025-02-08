@@ -1,5 +1,96 @@
 var words = [
     {
+        "chinese": "我咳嗽",
+        "desc": "可通过联想咳嗽时的动作来记忆。",
+        "english": "I cough",
+        "phonetic": "",
+        "tag": "/test"
+    },
+    {
+        "chinese": "喉咙痛",
+        "desc": "sore表示疼痛的，throat是喉咙，联想记忆。",
+        "english": "sore throat",
+        "phonetic": "",
+        "tag": "/test"
+    },
+    {
+        "chinese": "生病",
+        "desc": "be表示状态，sick是生病的，整体记忆。",
+        "english": "be sick",
+        "phonetic": "",
+        "tag": "/test"
+    },
+    {
+        "chinese": "胃痛",
+        "desc": "stomach是胃，ache是疼痛后缀，组合记忆。",
+        "english": "stomachache",
+        "phonetic": "/ˈstʌməkeɪk/",
+        "tag": "/test"
+    },
+    {
+        "chinese": "牙痛",
+        "desc": "tooth是牙齿，ache是疼痛后缀，联系记忆。",
+        "english": "toothache",
+        "phonetic": "/ˈtuːθeɪk/",
+        "tag": "/test"
+    },
+    {
+        "chinese": "割伤",
+        "desc": "简单词，通过发音记忆。",
+        "english": "cut",
+        "phonetic": "/kʌt/",
+        "tag": "/test"
+    },
+    {
+        "chinese": "感冒",
+        "desc": "生活常见词，多运用就容易记忆。",
+        "english": "cold",
+        "phonetic": "/koʊld/",
+        "tag": "/test"
+    },
+    {
+        "chinese": "头晕的",
+        "desc": "根据发音记忆，d和z的发音较特殊。",
+        "english": "dizzy",
+        "phonetic": "/ˈdɪzi/",
+        "tag": "/test"
+    },
+    {
+        "chinese": "瘀伤",
+        "desc": "特殊发音，多读写记忆。",
+        "english": "bruise",
+        "phonetic": "/bruːz/",
+        "tag": "/test"
+    },
+    {
+        "chinese": "受伤的",
+        "desc": "in表状态，jure联想伤害，记忆拼写。",
+        "english": "injured",
+        "phonetic": "/ˈɪndʒərd/",
+        "tag": "/test"
+    },
+    {
+        "chinese": "头痛",
+        "desc": "head是头，ache是痛，联想记忆。",
+        "english": "headache",
+        "phonetic": "/ˈhedeɪk/",
+        "tag": "/test"
+    },
+    {
+        "chinese": "胸痛",
+        "desc": "chest是胸，ache是痛，联想记忆。",
+        "english": "chestache",
+        "phonetic": "",
+        "tag": "/test"
+    },
+    {
+        "chinese": "受伤（复数）",
+        "desc": "injure是受伤，变复数形式，整体记忆。",
+        "english": "injuries",
+        "phonetic": "",
+        "tag": "/test"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -17622,6 +17713,9 @@ var words = [
         "tag": "tips/20250207"
     }
 ];var newOptions = [];var option = document.createElement('option');
+            option.value = '/test';
+            option.textContent = '/test';
+            newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
             newOptions.push(option);var option = document.createElement('option');
