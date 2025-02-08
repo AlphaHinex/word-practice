@@ -3,7 +3,7 @@ README
 
 拍摄一张包含英文单词（词组、句子）的图片，通过 [扣子](https://www.coze.cn/) 中的智能体：[一图背单词](https://www.coze.cn/store/agent/7462629917713268775?bid=6f44r173g4018) 上传并设定 tag，之后在 [word-practice](https://alphahinex.github.io/word-practice) 中进行随机练习。
 
-![agent](./doc/agent.png)
+![agent](https://alphahinex.github.io/contents/word-practice/agent.png)
 
 ![workflow](./doc/workflow.png)
 
@@ -48,6 +48,7 @@ README
 - 模糊检索单词存在于哪些标签中
 - 浏览器语音合成朗读单词
 - 添加书签（页面刷新后书签重置）
+- 自动生成单词音标及记忆技巧
 
 
 ## 手动勘误
