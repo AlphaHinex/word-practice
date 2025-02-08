@@ -1,5 +1,376 @@
 var words = [
     {
+        "chinese": "片场",
+        "desc": "可以根据电影（movie）和场景（set）的组合来记忆",
+        "english": "movie set",
+        "phonetic": "",
+        "tag": "-test"
+    },
+    {
+        "chinese": "模型",
+        "desc": "通过联想实物模型来记忆",
+        "english": "model",
+        "phonetic": "/ˈmɑːdl/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "神秘的",
+        "desc": "神秘事物（mystery）的形容词形式，可关联记忆",
+        "english": "mystery/mysterious",
+        "phonetic": "/ˈmɪstri/ /mɪˈstɪriəs/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "展示",
+        "desc": "可以结合表演展示的画面来记忆",
+        "english": "show",
+        "phonetic": "/ʃoʊ/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "野餐篮子",
+        "desc": "野餐（picnic）和篮子（basket）组合记忆",
+        "english": "picnic basket",
+        "phonetic": "",
+        "tag": "-test"
+    },
+    {
+        "chinese": "风景,风景画",
+        "desc": "联想美丽的自然风景来记忆",
+        "english": "landscape",
+        "phonetic": "/ˈlændskeɪp/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "奇怪的",
+        "desc": "可根据奇特的事物来记忆这个单词",
+        "english": "strange",
+        "phonetic": "/streɪndʒ/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "暴风",
+        "desc": "联想风暴的画面来记忆",
+        "english": "storm",
+        "phonetic": "/stɔːrm/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "地形,地势",
+        "desc": "土地（land）和形状（form）组合记忆",
+        "english": "landform",
+        "phonetic": "/ˈlændfɔːrm/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "别犯傻了",
+        "desc": "根据日常表达的语境来记忆",
+        "english": "Don't be silly.",
+        "phonetic": "",
+        "tag": "-test"
+    },
+    {
+        "chinese": "植物",
+        "desc": "联想各种植物的样子来记忆",
+        "english": "plant",
+        "phonetic": "/plænt/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "突然",
+        "desc": "可以根据突然发生的事情来记忆",
+        "english": "suddenly",
+        "phonetic": "/ˈsʌdənli/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "使用",
+        "desc": "通过联想使用物品的动作来记忆",
+        "english": "use",
+        "phonetic": "/juːz/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "峡谷",
+        "desc": "联想峡谷的形状来记忆",
+        "english": "canyon",
+        "phonetic": "/ˈkænjən/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "山谷",
+        "desc": "可以根据山谷的地貌特征来记忆",
+        "english": "valley",
+        "phonetic": "/ˈvæli/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "恐龙",
+        "desc": "联想恐龙的形象来记忆",
+        "english": "dinosaur",
+        "phonetic": "/ˈdaɪnəsɔːr/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "周末",
+        "desc": "一周（week）的末尾（end）组合记忆",
+        "english": "weekend",
+        "phonetic": "/ˈwiːkend/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "城市",
+        "desc": "联想城市的建筑和街道来记忆",
+        "english": "city",
+        "phonetic": "/ˈsɪti/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "存在",
+        "desc": "可以根据事物的存在与否来记忆",
+        "english": "exist",
+        "phonetic": "/ɪɡˈzɪst/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "移动",
+        "desc": "联想物体移动的动作来记忆",
+        "english": "move",
+        "phonetic": "/muːv/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "森林",
+        "desc": "可以通过联想记忆，如for为了，rest休息，森林是为了让动物休息的地方。",
+        "english": "forest",
+        "phonetic": "/ˈfɔːrɪst/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "正常的",
+        "desc": "根据词根norm（规范）记忆，加上al形容词后缀，符合规范的就是正常的。",
+        "english": "normal",
+        "phonetic": "/ˈnɔːrml/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "洞穴",
+        "desc": "可结合c和ave（大街）来记忆，洞穴像大街的延伸。",
+        "english": "cave",
+        "phonetic": "/keɪv/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "沙漠",
+        "desc": "de可联想成‘得’，sert联想成‘晒它’，在沙漠得晒它。",
+        "english": "desert",
+        "phonetic": "/ˈdezərt/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "冰川",
+        "desc": "ice（冰）和berg（山）组合，有冰的山就是冰川。",
+        "english": "iceberg",
+        "phonetic": "/ˈaɪsbɜːrɡ/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "令人害怕的",
+        "desc": "scar（伤疤）联想恐怖画面，加上y形容词后缀。",
+        "english": "scary",
+        "phonetic": "/ˈskeəri/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "岛屿",
+        "desc": "is联想成‘是’，land陆地，是陆地的一部分就是岛屿。",
+        "english": "island",
+        "phonetic": "/ˈaɪlənd/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "假期",
+        "desc": "vaca联想成‘玩咖’，玩咖期待的就是假期。",
+        "english": "vacation",
+        "phonetic": "/veɪˈkeɪʃn/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "海滩",
+        "desc": "b联想成‘波’，eac联想成‘鹅岸’，有波浪的鹅岸就是海滩。",
+        "english": "beach",
+        "phonetic": "/biːtʃ/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "高山",
+        "desc": "moun联想成‘冒’，tain联想成‘天’，冒到天上的就是高山。",
+        "english": "mountain",
+        "phonetic": "/ˈmaʊntn/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "享受,喜欢",
+        "desc": "en表使动，joy欢乐，使欢乐就是享受。",
+        "english": "enjoy",
+        "phonetic": "/ɪnˈdʒɔɪ/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "静物画",
+        "desc": "still（静止）和if（如果）联想画面，再加上painting画。",
+        "english": "stillif painting",
+        "phonetic": "",
+        "tag": "-test"
+    },
+    {
+        "chinese": "海洋",
+        "desc": "o联想成‘哦’，cean联想成‘深’，哦，好深的就是海洋。",
+        "english": "ocean",
+        "phonetic": "/ˈoʊʃn/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "方式,方法",
+        "desc": "联想‘道路’，道路就是一种方式。",
+        "english": "way",
+        "phonetic": "/weɪ/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "肖像画",
+        "desc": "port联想港口，rait联想rait（对），港口对出的就是肖像画。",
+        "english": "portrait",
+        "phonetic": "/ˈpɔːrtrət/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "抽象画",
+        "desc": "abstract（抽象）和art（艺术）组合，记忆概念。",
+        "english": "abstract art",
+        "phonetic": "",
+        "tag": "-test"
+    },
+    {
+        "chinese": "平原",
+        "desc": "p联想‘平’，lain联想‘land陆地’，平的陆地就是平原。",
+        "english": "plain",
+        "phonetic": "/pleɪn/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "诗歌",
+        "desc": "联想‘婆母’爱读诗歌。",
+        "english": "poem",
+        "phonetic": "/ˈpoʊəm/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "金字塔",
+        "desc": "piri联想‘披日’，mid中间，披着日头在中间的就是金字塔。",
+        "english": "pyramid",
+        "phonetic": "/ˈpɪrəmɪd/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "前景",
+        "desc": "fore（前面）和ground（地面）组合。",
+        "english": "foreground",
+        "phonetic": "/ˈfɔːrɡraʊnd/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "背景",
+        "desc": "可以根据back（后面）和ground（地面）来记忆，背后的地面即背景。",
+        "english": "background",
+        "phonetic": "/ˈbækɡraʊnd/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "高原",
+        "desc": "可拆分为plate（盘子）和aus联想记忆。",
+        "english": "plateaus",
+        "phonetic": "/plæˈtoʊz/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "彩虹",
+        "desc": "rain（雨）和bow（弓），雨后像弓一样的东西即彩虹。",
+        "english": "rainbow",
+        "phonetic": "/ˈreɪnboʊ/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "艺术家",
+        "desc": "art（艺术）加上表示人的后缀ist。",
+        "english": "artist",
+        "phonetic": "/ˈɑːrtɪst/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "村镇,乡村",
+        "desc": "可根据villa（别墅）联想乡村有很多别墅。",
+        "english": "village",
+        "phonetic": "/ˈvɪlɪdʒ/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "风暴的",
+        "desc": "storm（风暴）加上形容词后缀y。",
+        "english": "stormy",
+        "phonetic": "/ˈstɔːrmi/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "火山",
+        "desc": "联想volcanic（火山的）来记忆。",
+        "english": "volcano",
+        "phonetic": "/vɑːlˈkeɪnoʊ/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "多彩的",
+        "desc": "color（颜色）加上形容词后缀ful。",
+        "english": "colorful",
+        "phonetic": "/ˈkʌlərfl/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "巨大的",
+        "desc": "可根据gi（大）的拼音联想记忆。",
+        "english": "giant",
+        "phonetic": "/ˈdʒaɪənt/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "邮件",
+        "desc": "e（电子）和mail（邮件）组合。",
+        "english": "email",
+        "phonetic": "/ˈiːmeɪl/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "钓鱼杆",
+        "desc": "fishing（钓鱼）和rod（杆）组合记忆。",
+        "english": "fishing rod",
+        "phonetic": "",
+        "tag": "-test"
+    },
+    {
+        "chinese": "导演",
+        "desc": "direct（指导）加上表示人的后缀or。",
+        "english": "director",
+        "phonetic": "/dəˈrektər/",
+        "tag": "-test"
+    },
+    {
+        "chinese": "有趣的事情",
+        "desc": "something（某事）和interesting（有趣的）组合。",
+        "english": "something interesting",
+        "phonetic": "",
+        "tag": "-test"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -17622,6 +17993,9 @@ var words = [
         "tag": "tips-20250207"
     }
 ];var newOptions = [];var option = document.createElement('option');
+            option.value = '-test';
+            option.textContent = '-test';
+            newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4-11_of_113';
             option.textContent = 'lv4-11_of_113';
             newOptions.push(option);var option = document.createElement('option');
