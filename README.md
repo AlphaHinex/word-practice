@@ -5,37 +5,37 @@ README
 
 ![agent](https://alphahinex.github.io/contents/word-practice/agent.png)
 
-![workflow](./doc/workflow.png)
+![workflow](https://alphahinex.github.io/contents/word-practice/workflow.png)
 
-![mode](./doc/mode.png)
+![mode](https://alphahinex.github.io/contents/word-practice/mode.png)
 
-![practice](./doc/practice.png)
+![practice](https://alphahinex.github.io/contents/word-practice/practice.png)
 
 
 ## 示例 1
 
 手写要练习的单词（手写体识别效果依据清晰程度有所区别），手机拍照后访问 [一图背单词](https://www.coze.cn/store/agent/7462629917713268775?bid=6f44r173g4018) 将其上传，设定 tag 为 `test`：
 
-![handwriting](./doc/handwriting_workflow.png)
+![handwriting](https://alphahinex.github.io/contents/word-practice/handwriting_workflow.png)
 
 **`一图背单词` 智能体中涉及多次大模型调用，因此执行时间较长，请耐心等待。**
 
 智能体流程执行结束后，稍等片刻，即可进行练习：
 
-![handwriting_practice1](./doc/handwriting_practice1.png)
+![handwriting_practice1](https://alphahinex.github.io/contents/word-practice/handwriting_practice1.png)
 
-![handwriting_practice2](./doc/handwriting_practice2.png)
+![handwriting_practice2](https://alphahinex.github.io/contents/word-practice/handwriting_practice2.png)
 
 
 ## 示例 2
 
 以 [大学英语四六级词汇完整版带音标（PDF下载版）](https://cet4-6.xdf.cn/201907/10954262.html) 中的 [大学英语四级词汇完整版带音标.pdf](https://file.xdf.cn/uploads/190703/675_190703172307eGJFooNR6JJMpUSB.pdf) 为例，截取其中某页图片，设定 tag 为 `lv4/8_of_113`：
 
-![lv4](./doc/lv4_workflow.png)
+![lv4](https://alphahinex.github.io/contents/word-practice/lv4_workflow.png)
 
 智能体流程执行结束后，稍等片刻，即可进行练习：
 
-![lv4_practice](./doc/lv4_practice.png)
+![lv4_practice](https://alphahinex.github.io/contents/word-practice/lv4_practice.png)
 
 
 ## 功能清单
