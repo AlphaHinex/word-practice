@@ -88,7 +88,7 @@
             <input type="text" id="tagSearch" onkeyup="filterTags()" placeholder="Search for tags..." style="width: 220px;">
         </label>
         <label>
-            Tags:<a href="https://www.coze.cn/store/agent/7462629917713268775?bid=6f44r173g4018" target="_blank" style="text-decoration: none;"><i class="fas fa-plus"></i></a><br>
+            Tags:<a href="https://www.coze.cn/store/agent/7462629917713268775?bid=6f44r173g4018" title="Add tag through coze agent ..." target="_blank" style="text-decoration: none;"><i class="fas fa-plus"></i></a><br>
             <select id="tags" multiple style="height: 150px; width: 220px;">
                 <!-- Options will be added here by JavaScript -->
             </select>
@@ -106,6 +106,9 @@
                 <option value="all">All</option>
                 <option value="bookmarked">Bookmarks</option>
             </select>
+            <a href="#" id="clearBookmarks" title="Clear all bookmarks" style="text-decoration: none; color: inherit;" onclick="clearBookmarks()">
+                <i class="fas fa-minus"></i>
+            </a>
         </label>
         <button type="button" id="start" title="Start Practice"><i class="fas fa-play"></i></button>
         <button type="button" id="list" title="Show in List"><i class="fas fa-list"></i></button>
@@ -138,6 +141,13 @@
 
     <script src="words-timvm.js"></script>
     <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const bookmarks = JSON.parse(localStorage.getItem('bookmarks')) || [];
+            words.forEach(word => {
+                word.bookmarked = bookmarks.includes(word.english);
+            });
+        });
+
         // Get the select element
         const tagsSelect = document.getElementById('tags');
 
@@ -183,14 +193,25 @@
             practiceWords = practiceWords.reduce((acc, word) => {
                 let found = acc.find(w => w.english === word.english);
                 if (found) {
-                    found.mergedChinese = [...new Set([found.chinese, word.chinese])];
-                    found.mergedTag = [...new Set([found.tag, word.tag])];
-                    found.mergedDesc =  [...new Set([found.desc, word.desc])];
+                    found.mergedChinese = [...new Set([found.chinese, word.chinese, ...(found.mergedChinese || [])])];
+                    found.mergedTag = [...new Set([found.tag, word.tag, ...(found.mergedTag || [])])];
+                    found.mergedDesc =  [...new Set([found.desc, word.desc, ...(found.mergedDesc || [])])];
                 } else {
                     acc.push(word);
                 }
                 return acc;
             }, []);
+        }
+
+        function clearBookmarks() {
+            if (confirm('Are you sure you want to clear all bookmarks?')) {
+                localStorage.removeItem('bookmarks');
+                words.forEach(word => word.bookmarked = false);
+                alert('All bookmarks have been cleared.');
+                // Clear previous results
+                document.getElementById('listArea').innerHTML = '';
+                document.getElementById('searchResult').innerHTML = '';
+            }
         }
 
         document.getElementById('start').addEventListener('click', function() {
@@ -258,6 +279,12 @@
                 word.bookmarked = true;
                 bookmark.style.color = 'red';
             }
+            saveBookmarks();
+        }
+
+        function saveBookmarks() {
+            const bookmarks = words.filter(word => word.bookmarked).map(word => word.english);
+            localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
         }
 
         function check() {
@@ -345,6 +372,7 @@
             bookmarkButton.onclick = () => {
                 word.bookmarked = !word.bookmarked;
                 bookmarkButton.style.color = word.bookmarked ? 'red' : 'white';
+                saveBookmarks();
             };
 
             resultRow.appendChild(wordText);
