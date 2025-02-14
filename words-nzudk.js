@@ -1,271 +1,5 @@
 var words = [
     {
-        "chinese": "在树下",
-        "desc": "可以通过联想树下的场景来记忆",
-        "english": "under the tree",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "一千",
-        "desc": "可根据发音规则记忆",
-        "english": "thousand",
-        "phonetic": "/ˈθaʊznd/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "明亮而美丽",
-        "desc": "拆分单词分别记忆含义后组合理解",
-        "english": "bright and beautiful",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "一百",
-        "desc": "与数字相关，多写多读记忆",
-        "english": "hundred",
-        "phonetic": "/ˈhʌndrəd/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "野生的",
-        "desc": "联想野生动物记忆",
-        "english": "wild",
-        "phonetic": "/waɪld/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "华南虎",
-        "desc": "根据地理位置和动物种类记忆",
-        "english": "South China tiger",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "蓝鲸",
-        "desc": "颜色加动物名称组合记忆",
-        "english": "blue whale",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "路;方式;方法",
-        "desc": "根据不同的搭配场景记忆",
-        "english": "way",
-        "phonetic": "/weɪ/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "死;死亡",
-        "desc": "与近义词对比记忆",
-        "english": "die",
-        "phonetic": "/daɪ/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "学会;学习",
-        "desc": "通过常见短语搭配记忆",
-        "english": "learn",
-        "phonetic": "/lɜːrn/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "安排去;寄;送",
-        "desc": "联想送东西的动作记忆",
-        "english": "send",
-        "phonetic": "/send/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "面临危险",
-        "desc": "理解短语含义记忆",
-        "english": "in danger",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "在过去",
-        "desc": "结合时间概念记忆",
-        "english": "in the past",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "在野外",
-        "desc": "联系野外场景记忆",
-        "english": "in the wild",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "在她回家的路上",
-        "desc": "分析结构记忆",
-        "english": "on her way home",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "照顾;照料",
-        "desc": "根据短语含义记忆",
-        "english": "take care of...",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "去散步",
-        "desc": "想象散步场景记忆",
-        "english": "go for a walk",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "赶走",
-        "desc": "根据动作含义记忆",
-        "english": "drive away",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "住在一起",
-        "desc": "理解短语含义记忆",
-        "english": "live together",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "长大",
-        "desc": "联想成长过程记忆",
-        "english": "grow up",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "学到很多",
-        "desc": "可根据单词'leam'和词组' a lot'的含义记忆，leam是学习，a lot表示很多，组合起来就是学到很多。",
-        "english": "leam a lot",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "送某人回到某处",
-        "desc": "send有送的意思，sb.是某人的缩写，back是返回，to表示方向，根据每个部分的含义记忆。",
-        "english": "send sb. back to...",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "三年后",
-        "desc": "three表示三，years是年的复数形式，later有之后的意思，按字面组合记忆。",
-        "english": "three years later",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "开心做某事",
-        "desc": "be表示状态，happy是开心，to do sth.表示做某事，根据各部分含义记忆。",
-        "english": "be happy to do sth.",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "在蓝天中",
-        "desc": "in表示在...里面，the表特指，blue是蓝色，sky是天空，按顺序理解记忆。",
-        "english": "in the blue sky",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "在海底",
-        "desc": "under是在...之下，the表特指，sea是大海，依据各词含义记忆。",
-        "english": "under the sea",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "在从林中",
-        "desc": "in表示在...里面，the表特指，jungle是丛林，按字面理解记忆。",
-        "english": "in the jungle",
-        "phonetic": "",
-        "tag": "/test"
-    },
-    {
-        "chinese": "工作 - 工作(过去式)",
-        "desc": "work是规则动词，过去式直接加 -ed，可通过规则记忆。",
-        "english": "work - worked",
-        "phonetic": "/wɜːrk/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "拯救 - 拯救(过去式)",
-        "desc": "save是规则动词，过去式直接加 -ed，根据规则来记忆。",
-        "english": "save - saved",
-        "phonetic": "/seɪv/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "生活 - 生活(过去式)",
-        "desc": "live是规则动词，过去式直接加 -ed，可按照动词变化规则记忆。",
-        "english": "live - lived",
-        "phonetic": "/lɪv/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "发现 - 发现(过去式)",
-        "desc": "find是不规则动词，过去式需要特殊记忆，可与其他不规则动词对比记忆。",
-        "english": "find - found",
-        "phonetic": "/faɪnd/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "拿 - 拿(过去式)",
-        "desc": "take是不规则动词，过去式took需要特殊记忆，可通过多读多写来记忆。",
-        "english": "take - took",
-        "phonetic": "/teɪk/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "去 - 去(过去式)",
-        "desc": "go是不规则动词，过去式went需要特殊记忆，可以结合句子来记忆。",
-        "english": "go - went",
-        "phonetic": "/ɡoʊ/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "看见 - 看见(过去式)",
-        "desc": "see是不规则动词，过去式saw需要特殊记忆，可联想相关场景记忆。",
-        "english": "see - saw",
-        "phonetic": "/siː/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "驱赶 - 驱赶(过去式)",
-        "desc": "drive是不规则动词，过去式drove需要特殊记忆，可与类似单词对比记忆。",
-        "english": "drive - drove",
-        "phonetic": "/draɪv/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "生长 - 生长(过去式)",
-        "desc": "grow是不规则动词，过去式grew需要特殊记忆，可根据发音特点记忆。",
-        "english": "grow - grew",
-        "phonetic": "/ɡroʊ/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "送 - 送(过去式)",
-        "desc": "send是不规则动词，过去式sent需要特殊记忆，可通过制作单词卡片记忆。",
-        "english": "send - sent",
-        "phonetic": "/send/",
-        "tag": "/test"
-    },
-    {
-        "chinese": "有 - 有(过去式)",
-        "desc": "have是不规则动词，过去式had需要特殊记忆，可多进行句型练习来记忆。",
-        "english": "have - had",
-        "phonetic": "/hæv/",
-        "tag": "/test"
-    },
-    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -7194,6 +6928,272 @@ var words = [
         "english": "It’s very quiet underground.",
         "phonetic": "",
         "tag": "primary/grade6a/unit04"
+    },
+    {
+        "chinese": "在树下",
+        "desc": "可以通过联想树下的场景来记忆",
+        "english": "under the tree",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "一千",
+        "desc": "可根据发音规则记忆",
+        "english": "thousand",
+        "phonetic": "/ˈθaʊznd/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "明亮而美丽",
+        "desc": "拆分单词分别记忆含义后组合理解",
+        "english": "bright and beautiful",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "一百",
+        "desc": "与数字相关，多写多读记忆",
+        "english": "hundred",
+        "phonetic": "/ˈhʌndrəd/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "野生的",
+        "desc": "联想野生动物记忆",
+        "english": "wild",
+        "phonetic": "/waɪld/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "华南虎",
+        "desc": "根据地理位置和动物种类记忆",
+        "english": "South China tiger",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "蓝鲸",
+        "desc": "颜色加动物名称组合记忆",
+        "english": "blue whale",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "路;方式;方法",
+        "desc": "根据不同的搭配场景记忆",
+        "english": "way",
+        "phonetic": "/weɪ/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "死;死亡",
+        "desc": "与近义词对比记忆",
+        "english": "die",
+        "phonetic": "/daɪ/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "学会;学习",
+        "desc": "通过常见短语搭配记忆",
+        "english": "learn",
+        "phonetic": "/lɜːrn/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "安排去;寄;送",
+        "desc": "联想送东西的动作记忆",
+        "english": "send",
+        "phonetic": "/send/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "面临危险",
+        "desc": "理解短语含义记忆",
+        "english": "in danger",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "在过去",
+        "desc": "结合时间概念记忆",
+        "english": "in the past",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "在野外",
+        "desc": "联系野外场景记忆",
+        "english": "in the wild",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "在她回家的路上",
+        "desc": "分析结构记忆",
+        "english": "on her way home",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "照顾;照料",
+        "desc": "根据短语含义记忆",
+        "english": "take care of...",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "去散步",
+        "desc": "想象散步场景记忆",
+        "english": "go for a walk",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "赶走",
+        "desc": "根据动作含义记忆",
+        "english": "drive away",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "住在一起",
+        "desc": "理解短语含义记忆",
+        "english": "live together",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "长大",
+        "desc": "联想成长过程记忆",
+        "english": "grow up",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "学到很多",
+        "desc": "可根据单词'leam'和词组' a lot'的含义记忆，leam是学习，a lot表示很多，组合起来就是学到很多。",
+        "english": "leam a lot",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "送某人回到某处",
+        "desc": "send有送的意思，sb.是某人的缩写，back是返回，to表示方向，根据每个部分的含义记忆。",
+        "english": "send sb. back to...",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "三年后",
+        "desc": "three表示三，years是年的复数形式，later有之后的意思，按字面组合记忆。",
+        "english": "three years later",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "开心做某事",
+        "desc": "be表示状态，happy是开心，to do sth.表示做某事，根据各部分含义记忆。",
+        "english": "be happy to do sth.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "在蓝天中",
+        "desc": "in表示在...里面，the表特指，blue是蓝色，sky是天空，按顺序理解记忆。",
+        "english": "in the blue sky",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "在海底",
+        "desc": "under是在...之下，the表特指，sea是大海，依据各词含义记忆。",
+        "english": "under the sea",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "在从林中",
+        "desc": "in表示在...里面，the表特指，jungle是丛林，按字面理解记忆。",
+        "english": "in the jungle",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "工作 - 工作(过去式)",
+        "desc": "work是规则动词，过去式直接加 -ed，可通过规则记忆。",
+        "english": "work - worked",
+        "phonetic": "/wɜːrk/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "拯救 - 拯救(过去式)",
+        "desc": "save是规则动词，过去式直接加 -ed，根据规则来记忆。",
+        "english": "save - saved",
+        "phonetic": "/seɪv/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "生活 - 生活(过去式)",
+        "desc": "live是规则动词，过去式直接加 -ed，可按照动词变化规则记忆。",
+        "english": "live - lived",
+        "phonetic": "/lɪv/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "发现 - 发现(过去式)",
+        "desc": "find是不规则动词，过去式需要特殊记忆，可与其他不规则动词对比记忆。",
+        "english": "find - found",
+        "phonetic": "/faɪnd/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "拿 - 拿(过去式)",
+        "desc": "take是不规则动词，过去式took需要特殊记忆，可通过多读多写来记忆。",
+        "english": "take - took",
+        "phonetic": "/teɪk/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "去 - 去(过去式)",
+        "desc": "go是不规则动词，过去式went需要特殊记忆，可以结合句子来记忆。",
+        "english": "go - went",
+        "phonetic": "/ɡoʊ/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "看见 - 看见(过去式)",
+        "desc": "see是不规则动词，过去式saw需要特殊记忆，可联想相关场景记忆。",
+        "english": "see - saw",
+        "phonetic": "/siː/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "驱赶 - 驱赶(过去式)",
+        "desc": "drive是不规则动词，过去式drove需要特殊记忆，可与类似单词对比记忆。",
+        "english": "drive - drove",
+        "phonetic": "/draɪv/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "生长 - 生长(过去式)",
+        "desc": "grow是不规则动词，过去式grew需要特殊记忆，可根据发音特点记忆。",
+        "english": "grow - grew",
+        "phonetic": "/ɡroʊ/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "送 - 送(过去式)",
+        "desc": "send是不规则动词，过去式sent需要特殊记忆，可通过制作单词卡片记忆。",
+        "english": "send - sent",
+        "phonetic": "/send/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "有 - 有(过去式)",
+        "desc": "have是不规则动词，过去式had需要特殊记忆，可多进行句型练习来记忆。",
+        "english": "have - had",
+        "phonetic": "/hæv/",
+        "tag": "primary/grade6a/unit05"
     },
     {
         "chinese": "地球",
@@ -18133,9 +18133,6 @@ var words = [
         "tag": "tips/20250207"
     }
 ];var newOptions = [];var option = document.createElement('option');
-            option.value = '/test';
-            option.textContent = '/test';
-            newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
             newOptions.push(option);var option = document.createElement('option');
@@ -18198,6 +18195,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary/grade6a/unit04';
             option.textContent = 'primary/grade6a/unit04';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'primary/grade6a/unit05';
+            option.textContent = 'primary/grade6a/unit05';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary/grade6a/unit12';
             option.textContent = 'primary/grade6a/unit12';
