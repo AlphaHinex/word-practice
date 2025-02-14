@@ -7266,13 +7266,6 @@ var words = [
         "tag": "primary/grade6a/unit05"
     },
     {
-        "chinese": "基础单词",
-        "desc": "可根据基础（basic）和单词（words）的原意记忆。",
-        "english": "basic words",
-        "phonetic": "/ˈbeɪsɪk wɜːrdz/",
-        "tag": "primary/grade6a/unit06"
-    },
-    {
         "chinese": "在六年级",
         "desc": "结合介词in和年级（Grade）、数字（Six）的用法记忆。",
         "english": "in Grade Six",
@@ -7282,7 +7275,7 @@ var words = [
     {
         "chinese": "网友",
         "desc": "e代表电子（electronic），结合friend记忆。",
-        "english": "e - friend",
+        "english": "e-friend",
         "phonetic": "/ˈiː frend/",
         "tag": "primary/grade6a/unit06"
     },
@@ -7315,6 +7308,13 @@ var words = [
         "tag": "primary/grade6a/unit06"
     },
     {
+        "chinese": "告诉我关于你自己的事情",
+        "desc": "",
+        "english": "tell me about yourself",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
         "chinese": "队",
         "desc": "联想球队等概念记忆。",
         "english": "team",
@@ -7340,6 +7340,13 @@ var words = [
         "desc": "hobby复数变形的记忆。",
         "english": "hobbies",
         "phonetic": "/ˈhɑːbiz/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "年级",
+        "desc": "",
+        "english": "grade",
+        "phonetic": "/ɡreɪd/",
         "tag": "primary/grade6a/unit06"
     },
     {
@@ -7379,8 +7386,8 @@ var words = [
     },
     {
         "chinese": "有一个网友",
-        "desc": "结合have和e - friend的用法记忆。",
-        "english": "have an e - friend",
+        "desc": "结合have和e-friend的用法记忆。",
+        "english": "have an e-friend",
         "phonetic": "",
         "tag": "primary/grade6a/unit06"
     },
@@ -7399,16 +7406,16 @@ var words = [
         "tag": "primary/grade6a/unit06"
     },
     {
-        "chinese": "谈论某事",
-        "desc": "固定搭配，牢记用法。",
-        "english": "talk about..",
+        "chinese": "在英国",
+        "desc": "",
+        "english": "in the UK",
         "phonetic": "",
         "tag": "primary/grade6a/unit06"
     },
     {
-        "chinese": "我在六年级",
-        "desc": "按照句子结构理解记忆，I是主语，am是be动词，in表示在某个范围里，Grade Six是六年级。",
-        "english": "I am in Grade Six.",
+        "chinese": "谈论某事",
+        "desc": "固定搭配，牢记用法。",
+        "english": "talk about..",
         "phonetic": "",
         "tag": "primary/grade6a/unit06"
     },
@@ -7420,9 +7427,16 @@ var words = [
         "tag": "primary/grade6a/unit06"
     },
     {
-        "chinese": "我最喜欢的学科是数学和音乐",
-        "desc": "分析句子结构，My favourite subjects是主语，are是be动词，Maths和Music是并列的学科名词。",
-        "english": "My favourite subjects are Maths and Music.",
+        "chinese": "在澳大利亚",
+        "desc": "",
+        "english": "in Australia",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "在美国",
+        "desc": "",
+        "english": "in the US",
         "phonetic": "",
         "tag": "primary/grade6a/unit06"
     },
@@ -7430,6 +7444,48 @@ var words = [
         "chinese": "了解…",
         "desc": "know是知道的意思，about有关于的意思，联想记忆。",
         "english": "know about...",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "你想在其他国家拥有一个网友吗？我愿意。/我不愿意。",
+        "desc": "",
+        "english": "Would you like to have an e-friend in other countries? Yes, I would. / No, I wouldn't",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "你想了解关于他/她的什么？",
+        "desc": "",
+        "english": "What would you like to know about him or her?",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "我想了解关于他的/她的家庭和业余爱好。",
+        "desc": "",
+        "english": "I would like to know about his or her family and hobbies.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "我想成为你的网友。",
+        "desc": "",
+        "english": "I'd like to be your e-friend.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "我在六年级",
+        "desc": "按照句子结构理解记忆，I是主语，am是be动词，in表示在某个范围里，Grade Six是六年级。",
+        "english": "I am in Grade Six.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "我最喜欢的学科是数学和音乐",
+        "desc": "分析句子结构，My favourite subjects是主语，are是be动词，Maths和Music是并列的学科名词。",
+        "english": "My favourite subjects are Maths and Music.",
         "phonetic": "",
         "tag": "primary/grade6a/unit06"
     },
@@ -7452,6 +7508,27 @@ var words = [
         "desc": "可根据在信件等场景中的使用来记忆。",
         "english": "salutation",
         "phonetic": "/ˌsæljuˈteɪʃn/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "祝愿",
+        "desc": "常用在书信结语",
+        "english": "Best wishes",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "最诚挚的友人",
+        "desc": "常用在书信结语",
+        "english": "Yours sincerely",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "问候",
+        "desc": "常用在书信结语",
+        "english": "Best regards",
+        "phonetic": "",
         "tag": "primary/grade6a/unit06"
     },
     {
