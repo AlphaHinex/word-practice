@@ -1,1 +1,230 @@
-[{"chinese": "基础单词", "desc": "可根据基础（basic）和单词（words）的原意记忆。", "english": "basic words", "phonetic": "/ˈbeɪsɪk wɜːrdz/"}, {"chinese": "在六年级", "desc": "结合介词in和年级（Grade）、数字（Six）的用法记忆。", "english": "in Grade Six", "phonetic": ""}, {"chinese": "网友", "desc": "e代表电子（electronic），结合friend记忆。", "english": "e - friend", "phonetic": "/ˈiː frend/"}, {"chinese": "速速回信", "desc": "write back表示回信，soon表示很快。", "english": "write back soon", "phonetic": ""}, {"chinese": "国家", "desc": "联想国家相关的概念记忆。", "english": "country", "phonetic": "/ˈkʌntri/"}, {"chinese": "国家（复数）", "desc": "country复数变形的记忆。", "english": "countries", "phonetic": "/ˈkʌntriz/"}, {"chinese": "其他的", "desc": "常见词汇，可通过语境记忆。", "english": "other", "phonetic": "/ˈʌðər/"}, {"chinese": "队", "desc": "联想球队等概念记忆。", "english": "team", "phonetic": "/tiːm/"}, {"chinese": "想要/愿意做某事", "desc": "固定搭配，牢记结构。", "english": "would like to do sth.", "phonetic": ""}, {"chinese": "业余爱好", "desc": "可联想自己的爱好记忆。", "english": "hobby", "phonetic": "/ˈhɑːbi/"}, {"chinese": "业余爱好（复数）", "desc": "hobby复数变形的记忆。", "english": "hobbies", "phonetic": "/ˈhɑːbiz/"}, {"chinese": "你自己", "desc": "结合you和self记忆。", "english": "yourself", "phonetic": "/jɔːrˈself/"}, {"chinese": "澳大利亚", "desc": "联想澳大利亚的地图形状、特色等记忆。", "english": "Australia", "phonetic": "/ɔːˈstreɪliə/"}, {"chinese": "加拿大", "desc": "联想加拿大的枫叶等特征记忆。", "english": "Canada", "phonetic": "/ˈkænədə/"}, {"chinese": "英国", "desc": "全称是the United Kingdom，记住缩写形式。", "english": "the UK", "phonetic": "/ðə ˌjuː ˈkeɪ/"}, {"chinese": "美国", "desc": "全称是the United States，记住缩写形式。", "english": "the US", "phonetic": "/ðə ˌjuː ˈes/"}, {"chinese": "有一个网友", "desc": "结合have和e - friend的用法记忆。", "english": "have an e - friend", "phonetic": ""}, {"chinese": "在不同的国家", "desc": "结合in、different和country的用法记忆。", "english": "in different countries", "phonetic": ""}, {"chinese": "在其他的国家", "desc": "结合in、other和country的用法记忆。", "english": "in other countries", "phonetic": ""}, {"chinese": "谈论某事", "desc": "固定搭配，牢记用法。", "english": "talk about..", "phonetic": ""}, {"chinese": "我在六年级", "desc": "按照句子结构理解记忆，I是主语，am是be动词，in表示在某个范围里，Grade Six是六年级。", "english": "I am in Grade Six.", "phonetic": ""}, {"chinese": "足球队", "desc": "football是足球的意思，team是团队的意思，组合起来记忆。", "english": "football team", "phonetic": ""}, {"chinese": "我最喜欢的学科是数学和音乐", "desc": "分析句子结构，My favourite subjects是主语，are是be动词，Maths和Music是并列的学科名词。", "english": "My favourite subjects are Maths and Music.", "phonetic": ""}, {"chinese": "了解…", "desc": "know是知道的意思，about有关于的意思，联想记忆。", "english": "know about...", "phonetic": ""}, {"chinese": "信头", "desc": "letter是信件，head是头部的意思，联想记忆。", "english": "letterhead", "phonetic": "/ˈletərhed/"}, {"chinese": "日期", "desc": "可以通过日历等日常事物来记忆。", "english": "date", "phonetic": "/deɪt/"}, {"chinese": "称呼", "desc": "可根据在信件等场景中的使用来记忆。", "english": "salutation", "phonetic": "/ˌsæljuˈteɪʃn/"}]
+[
+    {
+        "chinese": "在六年级",
+        "desc": "结合介词in和年级（Grade）、数字（Six）的用法记忆。",
+        "english": "in Grade Six",
+        "phonetic": ""
+    },
+    {
+        "chinese": "网友",
+        "desc": "e代表电子（electronic），结合friend记忆。",
+        "english": "e-friend",
+        "phonetic": "/ˈiː frend/"
+    },
+    {
+        "chinese": "速速回信",
+        "desc": "write back表示回信，soon表示很快。",
+        "english": "write back soon",
+        "phonetic": ""
+    },
+    {
+        "chinese": "国家",
+        "desc": "联想国家相关的概念记忆。",
+        "english": "country",
+        "phonetic": "/ˈkʌntri/"
+    },
+    {
+        "chinese": "国家（复数）",
+        "desc": "country复数变形的记忆。",
+        "english": "countries",
+        "phonetic": "/ˈkʌntriz/"
+    },
+    {
+        "chinese": "其他的",
+        "desc": "常见词汇，可通过语境记忆。",
+        "english": "other",
+        "phonetic": "/ˈʌðər/"
+    },
+    {
+        "chinese": "告诉我关于你自己的事情",
+        "desc": "",
+        "english": "tell me about yourself",
+        "phonetic": ""
+    },
+    {
+        "chinese": "队",
+        "desc": "联想球队等概念记忆。",
+        "english": "team",
+        "phonetic": "/tiːm/"
+    },
+    {
+        "chinese": "想要/愿意做某事",
+        "desc": "固定搭配，牢记结构。",
+        "english": "would like to do sth.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "业余爱好",
+        "desc": "可联想自己的爱好记忆。",
+        "english": "hobby",
+        "phonetic": "/ˈhɑːbi/"
+    },
+    {
+        "chinese": "业余爱好（复数）",
+        "desc": "hobby复数变形的记忆。",
+        "english": "hobbies",
+        "phonetic": "/ˈhɑːbiz/"
+    },
+    {
+        "chinese": "年级",
+        "desc": "",
+        "english": "grade",
+        "phonetic": "/ɡreɪd/"
+    },
+    {
+        "chinese": "你自己",
+        "desc": "结合you和self记忆。",
+        "english": "yourself",
+        "phonetic": "/jɔːrˈself/"
+    },
+    {
+        "chinese": "澳大利亚",
+        "desc": "联想澳大利亚的地图形状、特色等记忆。",
+        "english": "Australia",
+        "phonetic": "/ɔːˈstreɪliə/"
+    },
+    {
+        "chinese": "加拿大",
+        "desc": "联想加拿大的枫叶等特征记忆。",
+        "english": "Canada",
+        "phonetic": "/ˈkænədə/"
+    },
+    {
+        "chinese": "英国",
+        "desc": "全称是the United Kingdom，记住缩写形式。",
+        "english": "the UK",
+        "phonetic": "/ðə ˌjuː ˈkeɪ/"
+    },
+    {
+        "chinese": "美国",
+        "desc": "全称是the United States，记住缩写形式。",
+        "english": "the US",
+        "phonetic": "/ðə ˌjuː ˈes/"
+    },
+    {
+        "chinese": "有一个网友",
+        "desc": "结合have和e-friend的用法记忆。",
+        "english": "have an e-friend",
+        "phonetic": ""
+    },
+    {
+        "chinese": "在不同的国家",
+        "desc": "结合in、different和country的用法记忆。",
+        "english": "in different countries",
+        "phonetic": ""
+    },
+    {
+        "chinese": "在其他的国家",
+        "desc": "结合in、other和country的用法记忆。",
+        "english": "in other countries",
+        "phonetic": ""
+    },
+    {
+        "chinese": "在英国",
+        "desc": "",
+        "english": "in the UK",
+        "phonetic": ""
+    },
+    {
+        "chinese": "谈论某事",
+        "desc": "固定搭配，牢记用法。",
+        "english": "talk about..",
+        "phonetic": ""
+    },
+    {
+        "chinese": "足球队",
+        "desc": "football是足球的意思，team是团队的意思，组合起来记忆。",
+        "english": "football team",
+        "phonetic": ""
+    },
+    {
+        "chinese": "在澳大利亚",
+        "desc": "",
+        "english": "in Australia",
+        "phonetic": ""
+    },
+    {
+        "chinese": "在美国",
+        "desc": "",
+        "english": "in the US",
+        "phonetic": ""
+    },
+    {
+        "chinese": "了解…",
+        "desc": "know是知道的意思，about有关于的意思，联想记忆。",
+        "english": "know about...",
+        "phonetic": ""
+    },
+    {
+        "chinese": "你想在其他国家拥有一个网友吗？我愿意。/我不愿意。",
+        "desc": "",
+        "english": "Would you like to have an e-friend in other countries? Yes, I would. / No, I wouldn't",
+        "phonetic": ""
+    },
+    {
+        "chinese": "你想了解关于他/她的什么？",
+        "desc": "",
+        "english": "What would you like to know about him or her?",
+        "phonetic": ""
+    },
+    {
+        "chinese": "我想了解关于他的/她的家庭和业余爱好。",
+        "desc": "",
+        "english": "I would like to know about his or her family and hobbies.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "我想成为你的网友。",
+        "desc": "",
+        "english": "I'd like to be your e-friend.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "我在六年级",
+        "desc": "按照句子结构理解记忆，I是主语，am是be动词，in表示在某个范围里，Grade Six是六年级。",
+        "english": "I am in Grade Six.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "我最喜欢的学科是数学和音乐",
+        "desc": "分析句子结构，My favourite subjects是主语，are是be动词，Maths和Music是并列的学科名词。",
+        "english": "My favourite subjects are Maths and Music.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "信头",
+        "desc": "letter是信件，head是头部的意思，联想记忆。",
+        "english": "letterhead",
+        "phonetic": "/ˈletərhed/"
+    },
+    {
+        "chinese": "日期",
+        "desc": "可以通过日历等日常事物来记忆。",
+        "english": "date",
+        "phonetic": "/deɪt/"
+    },
+    {
+        "chinese": "称呼",
+        "desc": "可根据在信件等场景中的使用来记忆。",
+        "english": "salutation",
+        "phonetic": "/ˌsæljuˈteɪʃn/"
+    },
+    {
+        "chinese": "祝愿",
+        "desc": "常用在书信结语",
+        "english": "Best wishes",
+        "phonetic": ""
+    },
+    {
+        "chinese": "最诚挚的友人",
+        "desc": "常用在书信结语",
+        "english": "Yours sincerely",
+        "phonetic": ""
+    },
+    {
+        "chinese": "问候",
+        "desc": "常用在书信结语",
+        "english": "Best regards",
+        "phonetic": ""
+    }
+]
