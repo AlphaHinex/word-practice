@@ -6993,6 +6993,20 @@ var words = [
         "tag": "primary/grade6a/unit05"
     },
     {
+        "chinese": "死;死亡（过去式）",
+        "desc": "",
+        "english": "died",
+        "phonetic": "/daɪd/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "犀牛",
+        "desc": "",
+        "english": "rhino",
+        "phonetic": "/ˈraɪnoʊ/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
         "chinese": "学会;学习",
         "desc": "通过常见短语搭配记忆",
         "english": "learn",
@@ -7000,10 +7014,24 @@ var words = [
         "tag": "primary/grade6a/unit05"
     },
     {
+        "chinese": "学会;学习（过去式）",
+        "desc": "",
+        "english": "learnt",
+        "phonetic": "/lɜːrnt/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
         "chinese": "安排去;寄;送",
         "desc": "联想送东西的动作记忆",
         "english": "send",
         "phonetic": "/send/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "安排去;寄;送（过去式）",
+        "desc": "",
+        "english": "sent",
+        "phonetic": "/sent/",
         "tag": "primary/grade6a/unit05"
     },
     {
@@ -7071,8 +7099,8 @@ var words = [
     },
     {
         "chinese": "学到很多",
-        "desc": "可根据单词'leam'和词组' a lot'的含义记忆，leam是学习，a lot表示很多，组合起来就是学到很多。",
-        "english": "leam a lot",
+        "desc": "可根据单词'learn'和词组' a lot'的含义记忆，learn是学习，a lot表示很多，组合起来就是学到很多。",
+        "english": "learn a lot",
         "phonetic": "",
         "tag": "primary/grade6a/unit05"
     },
@@ -7193,6 +7221,48 @@ var words = [
         "desc": "have是不规则动词，过去式had需要特殊记忆，可多进行句型练习来记忆。",
         "english": "have - had",
         "phonetic": "/hæv/",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "在过去，有很多熊猫，但是现在在野外只有大约 1,600 只。",
+        "desc": "",
+        "english": "In the past, there were many pandas, but now there are only one thousand six hundred pandas in the wild.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "在过去，有很多华南虎，但是现在在野外只有大约 30 只。",
+        "desc": "",
+        "english": "In the past, there were many South China tigers, but now there are only about thirty in the wild.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "在过去，有很多蓝鲸，但是现在在野外只有大约 10,000 头。",
+        "desc": "",
+        "english": "In the past, there were many blue whales, but now there are only about ten thousand in the wild.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "这些动物面临危险。",
+        "desc": "",
+        "english": "These animals are in danger.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "她在她回家的路上发现了 Elsa。",
+        "desc": "",
+        "english": "She found Elsa on her way home.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit05"
+    },
+    {
+        "chinese": "然后 Joy 送她回到了野外。",
+        "desc": "",
+        "english": "Then Joy sent her back to the wild.",
+        "phonetic": "",
         "tag": "primary/grade6a/unit05"
     },
     {
