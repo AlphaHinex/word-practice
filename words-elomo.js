@@ -7266,6 +7266,195 @@ var words = [
         "tag": "primary/grade6a/unit05"
     },
     {
+        "chinese": "基础单词",
+        "desc": "可根据基础（basic）和单词（words）的原意记忆。",
+        "english": "basic words",
+        "phonetic": "/ˈbeɪsɪk wɜːrdz/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "在六年级",
+        "desc": "结合介词in和年级（Grade）、数字（Six）的用法记忆。",
+        "english": "in Grade Six",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "网友",
+        "desc": "e代表电子（electronic），结合friend记忆。",
+        "english": "e - friend",
+        "phonetic": "/ˈiː frend/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "速速回信",
+        "desc": "write back表示回信，soon表示很快。",
+        "english": "write back soon",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "国家",
+        "desc": "联想国家相关的概念记忆。",
+        "english": "country",
+        "phonetic": "/ˈkʌntri/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "国家（复数）",
+        "desc": "country复数变形的记忆。",
+        "english": "countries",
+        "phonetic": "/ˈkʌntriz/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "其他的",
+        "desc": "常见词汇，可通过语境记忆。",
+        "english": "other",
+        "phonetic": "/ˈʌðər/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "队",
+        "desc": "联想球队等概念记忆。",
+        "english": "team",
+        "phonetic": "/tiːm/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "想要/愿意做某事",
+        "desc": "固定搭配，牢记结构。",
+        "english": "would like to do sth.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "业余爱好",
+        "desc": "可联想自己的爱好记忆。",
+        "english": "hobby",
+        "phonetic": "/ˈhɑːbi/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "业余爱好（复数）",
+        "desc": "hobby复数变形的记忆。",
+        "english": "hobbies",
+        "phonetic": "/ˈhɑːbiz/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "你自己",
+        "desc": "结合you和self记忆。",
+        "english": "yourself",
+        "phonetic": "/jɔːrˈself/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "澳大利亚",
+        "desc": "联想澳大利亚的地图形状、特色等记忆。",
+        "english": "Australia",
+        "phonetic": "/ɔːˈstreɪliə/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "加拿大",
+        "desc": "联想加拿大的枫叶等特征记忆。",
+        "english": "Canada",
+        "phonetic": "/ˈkænədə/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "英国",
+        "desc": "全称是the United Kingdom，记住缩写形式。",
+        "english": "the UK",
+        "phonetic": "/ðə ˌjuː ˈkeɪ/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "美国",
+        "desc": "全称是the United States，记住缩写形式。",
+        "english": "the US",
+        "phonetic": "/ðə ˌjuː ˈes/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "有一个网友",
+        "desc": "结合have和e - friend的用法记忆。",
+        "english": "have an e - friend",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "在不同的国家",
+        "desc": "结合in、different和country的用法记忆。",
+        "english": "in different countries",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "在其他的国家",
+        "desc": "结合in、other和country的用法记忆。",
+        "english": "in other countries",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "谈论某事",
+        "desc": "固定搭配，牢记用法。",
+        "english": "talk about..",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "我在六年级",
+        "desc": "按照句子结构理解记忆，I是主语，am是be动词，in表示在某个范围里，Grade Six是六年级。",
+        "english": "I am in Grade Six.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "足球队",
+        "desc": "football是足球的意思，team是团队的意思，组合起来记忆。",
+        "english": "football team",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "我最喜欢的学科是数学和音乐",
+        "desc": "分析句子结构，My favourite subjects是主语，are是be动词，Maths和Music是并列的学科名词。",
+        "english": "My favourite subjects are Maths and Music.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "了解…",
+        "desc": "know是知道的意思，about有关于的意思，联想记忆。",
+        "english": "know about...",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "信头",
+        "desc": "letter是信件，head是头部的意思，联想记忆。",
+        "english": "letterhead",
+        "phonetic": "/ˈletərhed/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "日期",
+        "desc": "可以通过日历等日常事物来记忆。",
+        "english": "date",
+        "phonetic": "/deɪt/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
+        "chinese": "称呼",
+        "desc": "可根据在信件等场景中的使用来记忆。",
+        "english": "salutation",
+        "phonetic": "/ˌsæljuˈteɪʃn/",
+        "tag": "primary/grade6a/unit06"
+    },
+    {
         "chinese": "地球",
         "desc": "",
         "english": "Earth",
@@ -18268,6 +18457,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary/grade6a/unit05';
             option.textContent = 'primary/grade6a/unit05';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'primary/grade6a/unit06';
+            option.textContent = 'primary/grade6a/unit06';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary/grade6a/unit12';
             option.textContent = 'primary/grade6a/unit12';
