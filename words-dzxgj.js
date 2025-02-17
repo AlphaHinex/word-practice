@@ -1,5 +1,19 @@
 var words = [
     {
+        "chinese": "升级",
+        "desc": "可以根据up（向上）和grade（等级）来记忆，有向上提升等级的意思。",
+        "english": "upgrade",
+        "phonetic": "/ˌʌpˈɡreɪd/",
+        "tag": "/提供人形"
+    },
+    {
+        "chinese": "上所向",
+        "desc": "可通过拆分每个单词来记忆，the表示特指，above表示在...之上，place表示地方。",
+        "english": "The above place",
+        "phonetic": "",
+        "tag": "/提供人形"
+    },
+    {
         "chinese": "",
         "desc": "可根据字母读音记忆",
         "english": "U",
@@ -18714,6 +18728,9 @@ var words = [
         "tag": "tips/20250207"
     }
 ];var newOptions = [];var option = document.createElement('option');
+            option.value = '/提供人形';
+            option.textContent = '/提供人形';
+            newOptions.push(option);var option = document.createElement('option');
             option.value = '/答案';
             option.textContent = '/答案';
             newOptions.push(option);var option = document.createElement('option');
