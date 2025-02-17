@@ -1,5 +1,152 @@
 var words = [
     {
+        "chinese": "",
+        "desc": "可根据字母读音记忆",
+        "english": "U",
+        "phonetic": "/juː/",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "凯特在厨房做了咖啡（make应改为made）",
+        "desc": "可通过分析语法错误来加深对正确表达的记忆",
+        "english": "Kate js in the kitchen made coffee. (make)",
+        "phonetic": "",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "完成工作后，她回家了（have应改为having）",
+        "desc": "从语法修正角度记忆正确用法",
+        "english": "Had finished her work, she went home. (have)",
+        "phonetic": "",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "",
+        "desc": "可以根据可能的单词拼写错误来记忆正确形式",
+        "english": "She was tryin nt po",
+        "phonetic": "",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "艾米坐在普通椅子上（nrmchair应为armchair）",
+        "desc": "通过识别拼写错误记忆正确单词",
+        "english": "Amy was sitting in nrmchair.",
+        "phonetic": "",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "她寻找她的猫",
+        "desc": "可根据短语结构记忆",
+        "english": "She looked for her cat.",
+        "phonetic": "",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "苏打开门去买牛奶（coflu e应为to buy）",
+        "desc": "从修正错误表达记忆正确用法",
+        "english": "Sue opened the door crofu e milk. (coflu e应为to buy)",
+        "phonetic": "",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "她说她会买一些",
+        "desc": "通过句子结构记忆",
+        "english": "She said she would buy some",
+        "phonetic": "",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "莎拉出去了",
+        "desc": "根据常用表达记忆",
+        "english": "Sarah went out.",
+        "phonetic": "",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "她正在读书",
+        "desc": "根据句子时态结构记忆",
+        "english": "She was reading a book.",
+        "phonetic": "",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "丽萨在伦敦待了两年",
+        "desc": "根据句子的语义和结构记忆",
+        "english": "Lisa was in London for two years.",
+        "phonetic": "",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "她正在煮咖啡（coffe应为coffee）",
+        "desc": "从拼写错误记忆正确单词",
+        "english": "She was making coffe, (coffe应为coffee)",
+        "phonetic": "",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "安娜在镇上四处走动",
+        "desc": "根据短语搭配记忆",
+        "english": "Anna walked around the town.",
+        "phonetic": "",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "她在一家书店工作（booshop应为bookshop）",
+        "desc": "从错误拼写记忆正确单词",
+        "english": "She worked in a booshop (booshop应为bookshop)",
+        "phonetic": "",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "听",
+        "desc": "联想与之相关的动词原形记忆",
+        "english": "Listening",
+        "phonetic": "/ˈlɪsnɪŋ/",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "看",
+        "desc": "与相关单词对比记忆",
+        "english": "Looking",
+        "phonetic": "/ˈlʊkɪŋ/",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "",
+        "desc": "根据字母读音记忆",
+        "english": "Y",
+        "phonetic": "/waɪ/",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "知道",
+        "desc": "联系动词原形记忆",
+        "english": "Knowing",
+        "phonetic": "/ˈnoʊɪŋ/",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "保持",
+        "desc": "与相关动词对比记忆",
+        "english": "Keeping",
+        "phonetic": "/ˈkiːpɪŋ/",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "转向",
+        "desc": "联想其动词原形记忆",
+        "english": "Turning",
+        "phonetic": "/ˈtɜːrnɪŋ/",
+        "tag": "/答案"
+    },
+    {
+        "chinese": "购物",
+        "desc": "可通过shop（商店）这个基础单词记忆，shop加上 -ing后缀表示购物这个动作。",
+        "english": "Shopping",
+        "phonetic": "/ˈʃɑːpɪŋ/",
+        "tag": "/答案"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -18469,6 +18616,9 @@ var words = [
         "tag": "tips/20250207"
     }
 ];var newOptions = [];var option = document.createElement('option');
+            option.value = '/答案';
+            option.textContent = '/答案';
+            newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
             newOptions.push(option);var option = document.createElement('option');
