@@ -7791,6 +7791,216 @@ var words = [
         "tag": "primary/grade6a/unit06"
     },
     {
+        "chinese": "将要；会；可以（用于第一人称表示将来或征求意见）",
+        "desc": "联想记忆：与will类似，都是表示将来的助动词，可对比记忆",
+        "english": "shall",
+        "phonetic": "/ʃæl/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "我们这周去看电影好吗？",
+        "desc": "结合场景记忆，这是一个常用的表示提议的句子",
+        "english": "Shall we go and see a film this weekend?",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "公主",
+        "desc": "可根据prince（王子）联想记忆，公主是女性，加 -ess后缀常表示女性名词",
+        "english": "princess",
+        "phonetic": "/ˈprɪnses/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "王子",
+        "desc": "与princess（公主）对比记忆",
+        "english": "prince",
+        "phonetic": "/prɪns/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "警方；警察部门",
+        "desc": "联想警察的形象或者与policeman、policewoman等相关词汇联系起来记忆",
+        "english": "police",
+        "phonetic": "/pəˈliːs/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "警察局",
+        "desc": "由police（警察）加上表示场所的station或office组合记忆",
+        "english": "police station/office",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "警察（男）",
+        "desc": "由police（警察）和man（男人）组合记忆",
+        "english": "policeman",
+        "phonetic": "/pəˈliːsmən/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "警察（女）",
+        "desc": "由police（警察）和woman（女人）组合记忆",
+        "english": "policewoman",
+        "phonetic": "/pəˈliːswʊmən/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "(物)令人激动的",
+        "desc": "与excited对比记忆，-ing结尾形容物，-ed结尾形容人",
+        "english": "exciting",
+        "phonetic": "/ɪkˈsaɪtɪŋ/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "(人)感到激动的",
+        "desc": "与exciting对比记忆，-ing结尾形容物，-ed结尾形容人",
+        "english": "excited",
+        "phonetic": "/ɪkˈsaɪtɪd/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "(物)令人无聊的",
+        "desc": "与bored对比记忆，-ing结尾形容物，-ed结尾形容人",
+        "english": "boring",
+        "phonetic": "/ˈbɔːrɪŋ/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "(人)感到无聊的",
+        "desc": "与boring对比记忆，-ing结尾形容物，-ed结尾形容人",
+        "english": "bored",
+        "phonetic": "/bɔːrd/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "勇敢的",
+        "desc": "联想勇敢的人或者故事来记忆",
+        "english": "brave",
+        "phonetic": "/breɪv/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "王后",
+        "desc": "可与king（国王）对比记忆",
+        "english": "queen",
+        "phonetic": "/kwiːn/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "镜子",
+        "desc": "可联想照镜子的动作来记忆",
+        "english": "mirror",
+        "phonetic": "/ˈmɪrəʊ/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "最美丽的",
+        "desc": "由fair（美丽的）的最高级形式，可结合比较级记忆",
+        "english": "the fairest",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "杀死",
+        "desc": "联想暴力场景或者相关的电影情节来记忆",
+        "english": "kill",
+        "phonetic": "/kɪl/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "睡着的",
+        "desc": "联想睡觉的场景，与sleep相关联记忆",
+        "english": "asleep",
+        "phonetic": "/əˈsliːp/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "抓住",
+        "desc": "可联想抓住东西的动作来记忆",
+        "english": "catch",
+        "phonetic": "/kætʃ/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "看电影",
+        "desc": "可将see和watch的用法联系起来记忆",
+        "english": "see a film = watch a movie",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "一个有趣的电影",
+        "desc": "可以根据词根interest记忆interesting，film比较简单直接记忆",
+        "english": "an interesting film",
+        "phonetic": "/ən ˈɪntrəstɪŋ fɪlm/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "一个令人激动的电影",
+        "desc": "exciting由excite变形而来，film按常见词记忆",
+        "english": "an exciting film",
+        "phonetic": "/ən ɪkˈsaɪtɪŋ fɪlm/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "一个勇敢的警察",
+        "desc": "brave可联想b和v的形状有勇敢的感觉，policeman按组合词记忆",
+        "english": "a brave policeman",
+        "phonetic": "/ə breɪv pəˈliːsmən/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "抓坏人",
+        "desc": "catch可以通过短语catch up记忆，bad和people都是常见词",
+        "english": "catch bad people",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "下次",
+        "desc": "next和time都是简单常用词，直接记忆",
+        "english": "next time",
+        "phonetic": "/nekst taɪm/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "在周日下午",
+        "desc": "on是常见介词，Sunday和afternoon都是常见表示时间的词",
+        "english": "on Sunday afternoon",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "下个周六或周日",
+        "desc": "next是常见词，Saturday和Sunday按星期词汇记忆，or是连词比较好记",
+        "english": "next Saturday or Sunday",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "从前",
+        "desc": "这是固定短语，整体记忆",
+        "english": "once upon a time",
+        "phonetic": "/wʌns əˈpɒn ə taɪm/",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "品尝这个苹果",
+        "desc": "taste可通过联想食物的味道来记忆，the和apple按常用词记忆",
+        "english": "taste the apple",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "睡着",
+        "desc": "fall有倒下的意思，联想倒下就睡着，asleep是形容词可联想a字母像睡觉的样子",
+        "english": "fall asleep",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
         "chinese": "地球",
         "desc": "",
         "english": "Earth",
@@ -18805,6 +19015,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary/grade6a/unit06';
             option.textContent = 'primary/grade6a/unit06';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'primary/grade6a/unit07';
+            option.textContent = 'primary/grade6a/unit07';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary/grade6a/unit12';
             option.textContent = 'primary/grade6a/unit12';
