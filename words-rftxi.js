@@ -147,6 +147,104 @@ var words = [
         "tag": "/答案"
     },
     {
+        "chinese": "无（单独字母U无法准确翻译，需更多语境）",
+        "desc": "",
+        "english": "U",
+        "phonetic": "",
+        "tag": "/翻译"
+    },
+    {
+        "chinese": "凯特正在厨房煮咖啡。",
+        "desc": "",
+        "english": "Kate was in the kitchen making coffee.",
+        "phonetic": "",
+        "tag": "/翻译"
+    },
+    {
+        "chinese": "完成工作后，她回家了。",
+        "desc": "",
+        "english": "Had finished her work, she went home.",
+        "phonetic": "",
+        "tag": "/翻译"
+    },
+    {
+        "chinese": "她正在尝试",
+        "desc": "",
+        "english": "She was trying",
+        "phonetic": "",
+        "tag": "/翻译"
+    },
+    {
+        "chinese": "她寻找她的猫。",
+        "desc": "",
+        "english": "She looked for her cat.",
+        "phonetic": "",
+        "tag": "/翻译"
+    },
+    {
+        "chinese": "她说她将买一些",
+        "desc": "",
+        "english": "She said she would buy some",
+        "phonetic": "",
+        "tag": "/翻译"
+    },
+    {
+        "chinese": "她正在读一本书。",
+        "desc": "",
+        "english": "She was reading a book.",
+        "phonetic": "",
+        "tag": "/翻译"
+    },
+    {
+        "chinese": "她在一家书店工作。",
+        "desc": "",
+        "english": "She worked in a bookshop.",
+        "phonetic": "",
+        "tag": "/翻译"
+    },
+    {
+        "chinese": "听",
+        "desc": "",
+        "english": "Listening",
+        "phonetic": "/ˈlɪsnɪŋ/",
+        "tag": "/翻译"
+    },
+    {
+        "chinese": "看",
+        "desc": "",
+        "english": "Looking",
+        "phonetic": "/ˈlʊkɪŋ/",
+        "tag": "/翻译"
+    },
+    {
+        "chinese": "知道",
+        "desc": "",
+        "english": "Knowing",
+        "phonetic": "/ˈnoʊɪŋ/",
+        "tag": "/翻译"
+    },
+    {
+        "chinese": "保持",
+        "desc": "",
+        "english": "Keeping",
+        "phonetic": "/ˈkiːpɪŋ/",
+        "tag": "/翻译"
+    },
+    {
+        "chinese": "转动",
+        "desc": "",
+        "english": "Turning",
+        "phonetic": "/ˈtɜːrnɪŋ/",
+        "tag": "/翻译"
+    },
+    {
+        "chinese": "购物",
+        "desc": "",
+        "english": "Shopping",
+        "phonetic": "/ˈʃɑːpɪŋ/",
+        "tag": "/翻译"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -18618,6 +18716,9 @@ var words = [
 ];var newOptions = [];var option = document.createElement('option');
             option.value = '/答案';
             option.textContent = '/答案';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = '/翻译';
+            option.textContent = '/翻译';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
