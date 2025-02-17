@@ -10752,7 +10752,7 @@ var words = [
         "tag": "primary/grade6b/unit10"
     },
     {
-        "english": "We can usually learn something from these storie",
+        "english": "We can usually learn something from these stories.",
         "chinese": "我们通常能从这些故事中学到一些东西。",
         "desc": "",
         "phonetic": "",
