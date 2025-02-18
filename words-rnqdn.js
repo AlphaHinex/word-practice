@@ -7532,16 +7532,16 @@ var words = [
         "tag": "primary/grade6a/unit06"
     },
     {
-        "chinese": "将要；会；可以（用于第一人称表示将来或征求意见）",
+        "chinese": "提出或征求意见",
         "desc": "联想记忆：与will类似，都是表示将来的助动词，可对比记忆",
         "english": "shall",
         "phonetic": "/ʃæl/",
         "tag": "primary/grade6a/unit07"
     },
     {
-        "chinese": "我们这周去看电影好吗？",
+        "chinese": "我们要不要这周末去看个电影？当然可以。",
         "desc": "结合场景记忆，这是一个常用的表示提议的句子",
-        "english": "Shall we go and see a film this weekend?",
+        "english": "Shall we go and see a film this weekend? Sure.",
         "phonetic": "",
         "tag": "primary/grade6a/unit07"
     },
@@ -7576,14 +7576,14 @@ var words = [
     {
         "chinese": "警察（男）",
         "desc": "由police（警察）和man（男人）组合记忆",
-        "english": "policeman",
+        "english": "policeman 复数：policemen",
         "phonetic": "/pəˈliːsmən/",
         "tag": "primary/grade6a/unit07"
     },
     {
         "chinese": "警察（女）",
         "desc": "由police（警察）和woman（女人）组合记忆",
-        "english": "policewoman",
+        "english": "policewoman 复数：policewomen",
         "phonetic": "/pəˈliːswʊmən/",
         "tag": "primary/grade6a/unit07"
     },
@@ -7639,7 +7639,7 @@ var words = [
     {
         "chinese": "最美丽的",
         "desc": "由fair（美丽的）的最高级形式，可结合比较级记忆",
-        "english": "the fairest",
+        "english": "(the) fairest",
         "phonetic": "",
         "tag": "primary/grade6a/unit07"
     },
@@ -7665,7 +7665,7 @@ var words = [
         "tag": "primary/grade6a/unit07"
     },
     {
-        "chinese": "看电影",
+        "chinese": "看电影（两种说法）",
         "desc": "可将see和watch的用法联系起来记忆",
         "english": "see a film = watch a movie",
         "phonetic": "",
@@ -7742,6 +7742,223 @@ var words = [
         "tag": "primary/grade6a/unit07"
     },
     {
+        "chinese": "你想看什么？我想看《白雪公主》。",
+        "desc": "",
+        "english": "What would you like to see? I'd like to see Snow White.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "它是一个关于一位美丽公主的故事。",
+        "desc": "",
+        "english": "It's a story about a beautiful princess.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "它是一个有趣的电影。",
+        "desc": "",
+        "english": "It's an interesting film.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "但是我想去看警察故事。",
+        "desc": "",
+        "english": "But I'd like to see Police Story.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "它是一个令人激动的电影。",
+        "desc": "",
+        "english": "It's an exciting film.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "它是关于一位勇敢的警察。",
+        "desc": "",
+        "english": "It's about a brave policeman.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "我们下次看《警察故事》好吗？",
+        "desc": "",
+        "english": "Shall we see Police Story next time?",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "从前，有一个女王。",
+        "desc": "",
+        "english": "Once upon a time, there was a queen.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "魔镜魔镜，谁是最美丽的女人？",
+        "desc": "",
+        "english": "Mirror, mirror, on the wall, who's the fairest of all?",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "白雪公主尝了这个苹果然后睡着了。",
+        "desc": "",
+        "english": "Snow White tasted the apple and then fell asleep.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "要不要我帮你拿包？",
+        "desc": "",
+        "english": "Shall I carry your bag?",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "要不要我今晚再打一次电话？",
+        "desc": "",
+        "english": "Shall I call again this evening?",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "我们应该怎么办？",
+        "desc": "",
+        "english": "What shall we do?",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "动作片",
+        "desc": "",
+        "english": "action film",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "恐怖片",
+        "desc": "",
+        "english": "horror film",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "喜剧片",
+        "desc": "",
+        "english": "comedy",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "科幻片",
+        "desc": "",
+        "english": "science fiction film",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "歌舞片",
+        "desc": "",
+        "english": "musical film",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "电影票",
+        "desc": "",
+        "english": "film ticket",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "售票处",
+        "desc": "",
+        "english": "ticket office",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "入口",
+        "desc": "",
+        "english": "entrance",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "出口",
+        "desc": "",
+        "english": "exit",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "座位",
+        "desc": "",
+        "english": "seat",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "荧屏",
+        "desc": "",
+        "english": "screen",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "感到无聊的",
+        "desc": "",
+        "english": "bored",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "感到兴奋的",
+        "desc": "",
+        "english": "exited",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "对……感到兴奋",
+        "desc": "",
+        "english": "be excited about",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "感兴趣的",
+        "desc": "",
+        "english": "interested",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "对……感兴趣",
+        "desc": "",
+        "english": "be interested in",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "动人的，令人同情的",
+        "desc": "",
+        "english": "touching",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "可笑的",
+        "desc": "",
+        "english": "funny",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit07"
+    },
+    {
         "chinese": "演奏歌曲",
         "desc": "可联想play的多种用法，如play+球类，play+乐器等，song为歌曲，组合记忆。",
         "english": "play songs",
@@ -7784,7 +8001,7 @@ var words = [
         "tag": "primary/grade6a/unit08"
     },
     {
-        "chinese": "任何东西(过)",
+        "chinese": "任何东西",
         "desc": "any表示任何，thing是东西，组合理解记忆。",
         "english": "anything",
         "phonetic": "/ˈeniθɪŋ/",
@@ -7868,6 +8085,13 @@ var words = [
         "tag": "primary/grade6a/unit08"
     },
     {
+        "chinese": "丑陋的",
+        "desc": "",
+        "english": "ugly",
+        "phonetic": "/ˈʌɡli/",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
         "chinese": "玩得开心(过)",
         "desc": "have a great time是玩得开心，had是have的过去式，根据语法和语义记忆。",
         "english": "had a great time",
@@ -7884,7 +8108,7 @@ var words = [
     {
         "chinese": "一次去一家电影博物馆的参观",
         "desc": "可根据visit的常见用法来记忆，a visit to表示去某地参观",
-        "english": "a visit to a ilm museum",
+        "english": "a visit to a film museum",
         "phonetic": "",
         "tag": "primary/grade6a/unit08"
     },
@@ -7919,7 +8143,7 @@ var words = [
     {
         "chinese": "他们中的一些",
         "desc": "可根据some of的用法来记忆，表示其中一些",
-        "english": "someo f them",
+        "english": "someo of them",
         "phonetic": "",
         "tag": "primary/grade6a/unit08"
     },
@@ -7932,8 +8156,8 @@ var words = [
     },
     {
         "chinese": "学到很多关于他们的知识(过)",
-        "desc": "leamt是learn的过去式，a lot表示很多，about表示关于，整体理解记忆",
-        "english": "leamt a lot about them",
+        "desc": "learnt是learn的过去式，a lot表示很多，about表示关于，整体理解记忆",
+        "english": "learnt a lot about them",
         "phonetic": "",
         "tag": "primary/grade6a/unit08"
     },
@@ -7967,8 +8191,8 @@ var words = [
     },
     {
         "chinese": "在早上十点整开门(2种)",
-        "desc": "open表示开门，ten o' clock in the morning和10 a.m都表示早上十点，整体记忆两种表达方式",
-        "english": "open at ten o' clock in the morning =open at 10 a.m",
+        "desc": "open表示开门，ten o'clock in the morning和10 a.m都表示早上十点，整体记忆两种表达方式",
+        "english": "open at ten o'clock in the morning = open at 10 a.m",
         "phonetic": "",
         "tag": "primary/grade6a/unit08"
     },
@@ -8004,6 +8228,62 @@ var words = [
         "chinese": "在钢琴旁",
         "desc": "at表示在……位置，piano是钢琴，组合记忆",
         "english": "at the piano",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "很多种类的机器人",
+        "desc": "",
+        "english": "many kinds of robots",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "对某人友好",
+        "desc": "",
+        "english": "be kind to sb.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "（某人）做某事是善良的",
+        "desc": "",
+        "english": "be kind (of sb.) to do sth.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "各种各样的……",
+        "desc": "",
+        "english": "many/a lot of kinds of ...",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "不同种类的……",
+        "desc": "",
+        "english": "different kinds of ..",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "你喜欢哪种音乐？",
+        "desc": "",
+        "english": "What kind of music do you like?",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "故宫博物院在北京，它闻名世界。",
+        "desc": "",
+        "english": "The Palace Museum is in Beijing. It is famous around the world.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "卢浮宫在巴黎。它是一座伟大的艺术博物馆。",
+        "desc": "",
+        "english": "The Louvre is in Paris. It is a great art museum.",
         "phonetic": "",
         "tag": "primary/grade6a/unit08"
     },
@@ -8148,17 +8428,108 @@ var words = [
         "tag": "primary/grade6a/unit09"
     },
     {
-        "chinese": "大多数游客喜欢游览这些地方。",
-        "desc": "可通过拆分单词记忆，如Most是'大多数'，tourist表示'游客'，like表示'喜欢'，visit有'游览'之意。",
-        "english": "Most tourists like visiting these places.",
-        "phonetic": "",
-        "tag": "primary/grade6a/unit09"
-    },
-    {
         "chinese": "多久,多长时间",
         "desc": "可根据发音记忆，how的发音较为简单，long的发音[lɔːŋ]比较有特点。",
         "english": "how long",
         "phonetic": "/haʊ lɔːŋ/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "到达（三种）",
+        "desc": "可以通过对比记忆这几个表示'到达'的词组。",
+        "english": "get to = arrive in/at = reach",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "从北京到达上海",
+        "desc": "",
+        "english": "get to Shanghai from Beijing",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "乘飞机旅行",
+        "desc": "",
+        "english": "travel by plane",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "大多数的游客",
+        "desc": "",
+        "english": "most tourists",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "大量的高楼大厦",
+        "desc": "",
+        "english": "a lot of tall buildings",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "享受购物的快乐",
+        "desc": "",
+        "english": "enjoy shopping",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "一座钟塔",
+        "desc": "",
+        "english": "a clock tower",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "在英国伦敦",
+        "desc": "London（伦敦）和the UK（英国）分别记忆，in表示'在...里'。",
+        "english": "in London, the UK",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "从北京乘火车到达上海花费多长时间？",
+        "desc": "",
+        "english": "How long does it take to get to Shanghai from Beijing by train?",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "大约花费五小时。",
+        "desc": "",
+        "english": "It takes about five hours.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "乘飞机去旅行花费多长时间？",
+        "desc": "",
+        "english": "How long does it take to travel by plane?",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "坐飞机仅仅花费大约两小时。",
+        "desc": "",
+        "english": "It only takes about two hours by plane.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "这两个城市距离彼此很远吗？是的。",
+        "desc": "",
+        "english": "Are the two cities far away from each other? Yes, they are.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "大多数游客喜欢游览这些地方。",
+        "desc": "可通过拆分单词记忆，如Most是'大多数'，tourist表示'游客'，like表示'喜欢'，visit有'游览'之意。",
+        "english": "Most tourists like visiting these places.",
+        "phonetic": "",
         "tag": "primary/grade6a/unit09"
     },
     {
@@ -8169,16 +8540,9 @@ var words = [
         "tag": "primary/grade6a/unit09"
     },
     {
-        "chinese": "到达",
-        "desc": "可以通过对比记忆这几个表示'到达'的词组。",
-        "english": "get to =arrive in/lat =reach",
-        "phonetic": "",
-        "tag": "primary/grade6a/unit09"
-    },
-    {
-        "chinese": "大量的游客享受乘飞机旅行",
+        "chinese": "大量的游客享受在东京购物的快乐。",
         "desc": "先记忆各个单词的含义，如a lot of（大量）、tourist（游客）、enjoy（享受）等，再理解句子结构。",
-        "english": "A lot of tourists enjoy travel by plane.",
+        "english": "A lot of tourists enjoy shopping in Tokyo.",
         "phonetic": "",
         "tag": "primary/grade6a/unit09"
     },
@@ -8186,13 +8550,6 @@ var words = [
         "chinese": "在东京的人喜欢吃寿司。",
         "desc": "分部分记忆，People（人）、Tokyo（东京）、love（喜欢）、sushi（寿司）。",
         "english": "People in Tokyo love eating sushi.",
-        "phonetic": "",
-        "tag": "primary/grade6a/unit09"
-    },
-    {
-        "chinese": "在英国伦敦",
-        "desc": "London（伦敦）和the UK（英国）分别记忆，in表示'在...里'。",
-        "english": "in London, the UK",
         "phonetic": "",
         "tag": "primary/grade6a/unit09"
     },
@@ -8256,6 +8613,41 @@ var words = [
         "chinese": "它无处不在。",
         "desc": "理解句子含义来记忆",
         "english": "It is everywhere.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "它对所有人都重要。",
+        "desc": "",
+        "english": "It is important to all people.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "我们都需要它来让我们活着。",
+        "desc": "",
+        "english": "We all need it to keep us alive.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "它让他们高高的在空中。",
+        "desc": "",
+        "english": "It keeps them high in the sky.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "烟来自哪里？",
+        "desc": "",
+        "english": "Where is the smoke from?",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "它来自小汽车、公交汽车和工厂。",
+        "desc": "",
+        "english": "It is from the cars, buses and factories.",
         "phonetic": "",
         "tag": "primary/grade6a/unit10"
     },
@@ -8442,6 +8834,13 @@ var words = [
         "tag": "primary/grade6a/unit11"
     },
     {
+        "chinese": "使用",
+        "desc": "",
+        "english": "use",
+        "phonetic": "/juːz/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
         "chinese": "cut的过去式",
         "desc": "不规则动词，特殊记忆",
         "english": "cut",
@@ -8519,6 +8918,48 @@ var words = [
         "tag": "primary/grade6a/unit11"
     },
     {
+        "chinese": "我们从树上获得木头。",
+        "desc": "",
+        "english": "We get wood from trees.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "我们使用木头去制造铅笔、桌子、椅子和纸。",
+        "desc": "",
+        "english": "We use wood to make pencils, desks, chairs and paper.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "我们应该种更多的树。",
+        "desc": "",
+        "english": "We should plant more trees.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "工人们把它砍成了木头。",
+        "desc": "",
+        "english": "The workers cut him into wood.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "他们用木头去制造火柴。",
+        "desc": "",
+        "english": "They used the wood to make matches.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "我用了最后一根去生火。",
+        "desc": "",
+        "english": "I used the last one to make the fire.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
         "chinese": "回来",
         "desc": "get的用法加上back的含义记忆",
         "english": "get back",
@@ -8558,6 +8999,20 @@ var words = [
         "desc": "up有向上的意思，起床是从躺着到起来的向上动作",
         "english": "get up",
         "phonetic": "/ɡet ʌp/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "萨利上周五去了超市，我也去了。",
+        "desc": "also 和 too 两者都用于肯定句，但在句子中的位置不同。also 通常用在句中动词前，too 则用在句尾。",
+        "english": "Sally went to the supermarket last Friday. I also went there.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "这周末布朗一家也将举行野餐。",
+        "desc": "also 和 too 两者都用于肯定句，但在句子中的位置不同。also 通常用在句中动词前，too 则用在句尾。",
+        "english": "This weekend, the Browns will have a picnic too.",
+        "phonetic": "",
         "tag": "primary/grade6a/unit11"
     },
     {
