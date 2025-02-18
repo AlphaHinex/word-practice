@@ -8393,6 +8393,174 @@ var words = [
         "tag": "primary/grade6a/unit10"
     },
     {
+        "chinese": "让空气变凉",
+        "desc": "可以联想空调制冷来记忆",
+        "english": "cool the air",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "木头;木材",
+        "desc": "注意和would的区别来记忆",
+        "english": "wood",
+        "phonetic": "/wʊd/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "飞向南方",
+        "desc": "结合fly的基本义及方位词south来记忆",
+        "english": "fly to the south",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "生火",
+        "desc": "通过make的用法和fire的含义记忆",
+        "english": "make a fire",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "下一个春天",
+        "desc": "next表示下一个，spring表示春天，联想记忆",
+        "english": "next spring",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "火柴",
+        "desc": "复数形式特殊，单独记忆",
+        "english": "match(es)",
+        "phonetic": "/mætʃ(ɪz)/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "想念",
+        "desc": "结合miss的其他含义如错过对比记忆",
+        "english": "miss",
+        "phonetic": "/mɪs/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "cut的过去式",
+        "desc": "不规则动词，特殊记忆",
+        "english": "cut",
+        "phonetic": "/kʌt/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "take的过去式",
+        "desc": "不规则动词，单独记忆",
+        "english": "took",
+        "phonetic": "/tʊk/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "use的过去式",
+        "desc": "不规则动词，注意读音",
+        "english": "used",
+        "phonetic": "/juːzd/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "不得不",
+        "desc": "整体记忆短语的含义",
+        "english": "have to",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "把…··倒",
+        "desc": "cut和down的组合含义记忆",
+        "english": "cut down",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "寻找",
+        "desc": "固定搭配记忆",
+        "english": "look for",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "让我们的城市美 丽",
+        "desc": "make的用法加上city和beautiful的含义记忆",
+        "english": "make our city beautful",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "从树上获得很多东西",
+        "desc": "get的用法加上tree的含义整体记忆",
+        "english": "get a lot of things from trees",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "从树上获得水果",
+        "desc": "get和from的用法加上fruit和tree的含义记忆",
+        "english": "get fruit from trees",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "从树上获得木头",
+        "desc": "get和from的用法加上wood和tree的含义记忆",
+        "english": "get wood from trees",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "让空气保持干净",
+        "desc": "keep的用法加上air和clean的含义记忆",
+        "english": "keep the air clean",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "回来",
+        "desc": "get的用法加上back的含义记忆",
+        "english": "get back",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "出去",
+        "desc": "get的用法加上out的含义记忆",
+        "english": "get out",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "到达···",
+        "desc": "可根据get的基本含义和to的指向性来记忆",
+        "english": "get to...",
+        "phonetic": "/ɡet tuː/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "上车",
+        "desc": "联想上车这个动作与get和on的联系来记忆",
+        "english": "get on",
+        "phonetic": "/ɡet ɑːn/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "下车",
+        "desc": "与上车的表达对比记忆，off有离开的感觉",
+        "english": "get off",
+        "phonetic": "/ɡet ɔːf/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "起床",
+        "desc": "up有向上的意思，起床是从躺着到起来的向上动作",
+        "english": "get up",
+        "phonetic": "/ɡet ʌp/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
         "chinese": "地球",
         "desc": "",
         "english": "Earth",
@@ -19410,6 +19578,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary/grade6a/unit10';
             option.textContent = 'primary/grade6a/unit10';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'primary/grade6a/unit11';
+            option.textContent = 'primary/grade6a/unit11';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary/grade6a/unit12';
             option.textContent = 'primary/grade6a/unit12';
