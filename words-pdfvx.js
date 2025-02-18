@@ -1,264 +1,5 @@
 var words = [
     {
-        "chinese": "升级",
-        "desc": "可以根据up（向上）和grade（等级）来记忆，有向上提升等级的意思。",
-        "english": "upgrade",
-        "phonetic": "/ˌʌpˈɡreɪd/",
-        "tag": "/提供人形"
-    },
-    {
-        "chinese": "上所向",
-        "desc": "可通过拆分每个单词来记忆，the表示特指，above表示在...之上，place表示地方。",
-        "english": "The above place",
-        "phonetic": "",
-        "tag": "/提供人形"
-    },
-    {
-        "chinese": "",
-        "desc": "可根据字母读音记忆",
-        "english": "U",
-        "phonetic": "/juː/",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "凯特在厨房做了咖啡（make应改为made）",
-        "desc": "可通过分析语法错误来加深对正确表达的记忆",
-        "english": "Kate js in the kitchen made coffee. (make)",
-        "phonetic": "",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "完成工作后，她回家了（have应改为having）",
-        "desc": "从语法修正角度记忆正确用法",
-        "english": "Had finished her work, she went home. (have)",
-        "phonetic": "",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "",
-        "desc": "可以根据可能的单词拼写错误来记忆正确形式",
-        "english": "She was tryin nt po",
-        "phonetic": "",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "艾米坐在普通椅子上（nrmchair应为armchair）",
-        "desc": "通过识别拼写错误记忆正确单词",
-        "english": "Amy was sitting in nrmchair.",
-        "phonetic": "",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "她寻找她的猫",
-        "desc": "可根据短语结构记忆",
-        "english": "She looked for her cat.",
-        "phonetic": "",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "苏打开门去买牛奶（coflu e应为to buy）",
-        "desc": "从修正错误表达记忆正确用法",
-        "english": "Sue opened the door crofu e milk. (coflu e应为to buy)",
-        "phonetic": "",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "她说她会买一些",
-        "desc": "通过句子结构记忆",
-        "english": "She said she would buy some",
-        "phonetic": "",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "莎拉出去了",
-        "desc": "根据常用表达记忆",
-        "english": "Sarah went out.",
-        "phonetic": "",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "她正在读书",
-        "desc": "根据句子时态结构记忆",
-        "english": "She was reading a book.",
-        "phonetic": "",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "丽萨在伦敦待了两年",
-        "desc": "根据句子的语义和结构记忆",
-        "english": "Lisa was in London for two years.",
-        "phonetic": "",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "她正在煮咖啡（coffe应为coffee）",
-        "desc": "从拼写错误记忆正确单词",
-        "english": "She was making coffe, (coffe应为coffee)",
-        "phonetic": "",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "安娜在镇上四处走动",
-        "desc": "根据短语搭配记忆",
-        "english": "Anna walked around the town.",
-        "phonetic": "",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "她在一家书店工作（booshop应为bookshop）",
-        "desc": "从错误拼写记忆正确单词",
-        "english": "She worked in a booshop (booshop应为bookshop)",
-        "phonetic": "",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "听",
-        "desc": "联想与之相关的动词原形记忆",
-        "english": "Listening",
-        "phonetic": "/ˈlɪsnɪŋ/",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "看",
-        "desc": "与相关单词对比记忆",
-        "english": "Looking",
-        "phonetic": "/ˈlʊkɪŋ/",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "",
-        "desc": "根据字母读音记忆",
-        "english": "Y",
-        "phonetic": "/waɪ/",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "知道",
-        "desc": "联系动词原形记忆",
-        "english": "Knowing",
-        "phonetic": "/ˈnoʊɪŋ/",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "保持",
-        "desc": "与相关动词对比记忆",
-        "english": "Keeping",
-        "phonetic": "/ˈkiːpɪŋ/",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "转向",
-        "desc": "联想其动词原形记忆",
-        "english": "Turning",
-        "phonetic": "/ˈtɜːrnɪŋ/",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "购物",
-        "desc": "可通过shop（商店）这个基础单词记忆，shop加上 -ing后缀表示购物这个动作。",
-        "english": "Shopping",
-        "phonetic": "/ˈʃɑːpɪŋ/",
-        "tag": "/答案"
-    },
-    {
-        "chinese": "无（单独字母U无法准确翻译，需更多语境）",
-        "desc": "",
-        "english": "U",
-        "phonetic": "",
-        "tag": "/翻译"
-    },
-    {
-        "chinese": "凯特正在厨房煮咖啡。",
-        "desc": "",
-        "english": "Kate was in the kitchen making coffee.",
-        "phonetic": "",
-        "tag": "/翻译"
-    },
-    {
-        "chinese": "完成工作后，她回家了。",
-        "desc": "",
-        "english": "Had finished her work, she went home.",
-        "phonetic": "",
-        "tag": "/翻译"
-    },
-    {
-        "chinese": "她正在尝试",
-        "desc": "",
-        "english": "She was trying",
-        "phonetic": "",
-        "tag": "/翻译"
-    },
-    {
-        "chinese": "她寻找她的猫。",
-        "desc": "",
-        "english": "She looked for her cat.",
-        "phonetic": "",
-        "tag": "/翻译"
-    },
-    {
-        "chinese": "她说她将买一些",
-        "desc": "",
-        "english": "She said she would buy some",
-        "phonetic": "",
-        "tag": "/翻译"
-    },
-    {
-        "chinese": "她正在读一本书。",
-        "desc": "",
-        "english": "She was reading a book.",
-        "phonetic": "",
-        "tag": "/翻译"
-    },
-    {
-        "chinese": "她在一家书店工作。",
-        "desc": "",
-        "english": "She worked in a bookshop.",
-        "phonetic": "",
-        "tag": "/翻译"
-    },
-    {
-        "chinese": "听",
-        "desc": "",
-        "english": "Listening",
-        "phonetic": "/ˈlɪsnɪŋ/",
-        "tag": "/翻译"
-    },
-    {
-        "chinese": "看",
-        "desc": "",
-        "english": "Looking",
-        "phonetic": "/ˈlʊkɪŋ/",
-        "tag": "/翻译"
-    },
-    {
-        "chinese": "知道",
-        "desc": "",
-        "english": "Knowing",
-        "phonetic": "/ˈnoʊɪŋ/",
-        "tag": "/翻译"
-    },
-    {
-        "chinese": "保持",
-        "desc": "",
-        "english": "Keeping",
-        "phonetic": "/ˈkiːpɪŋ/",
-        "tag": "/翻译"
-    },
-    {
-        "chinese": "转动",
-        "desc": "",
-        "english": "Turning",
-        "phonetic": "/ˈtɜːrnɪŋ/",
-        "tag": "/翻译"
-    },
-    {
-        "chinese": "购物",
-        "desc": "",
-        "english": "Shopping",
-        "phonetic": "/ˈʃɑːpɪŋ/",
-        "tag": "/翻译"
-    },
-    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -7999,6 +7740,825 @@ var words = [
         "english": "fall asleep",
         "phonetic": "",
         "tag": "primary/grade6a/unit07"
+    },
+    {
+        "chinese": "演奏歌曲",
+        "desc": "可联想play的多种用法，如play+球类，play+乐器等，song为歌曲，组合记忆。",
+        "english": "play songs",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "蜜蜂",
+        "desc": "bee的发音类似字母b，蜜蜂飞行轨迹像字母b，可据此记忆。",
+        "english": "bee",
+        "phonetic": "/biː/",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "快速移动(过)",
+        "desc": "move有移动的意思，very fast表示非常快，根据语义记忆。",
+        "english": "moved very fast",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "昆虫",
+        "desc": "in - 在里面，sect - 部分，昆虫是生物里的一部分，这样联想记忆。",
+        "english": "insect",
+        "phonetic": "/ˈɪnsekt/",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "站在钢琴旁边",
+        "desc": "stand是站立，beside是在旁边，piano是钢琴，根据语义组合记忆。",
+        "english": "stood beside the piano",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "蚂蚁",
+        "desc": "ant单词简短，可直接记忆其拼写，联想蚂蚁小小的形象。",
+        "english": "ant",
+        "phonetic": "/ænt/",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "任何东西(过)",
+        "desc": "any表示任何，thing是东西，组合理解记忆。",
+        "english": "anything",
+        "phonetic": "/ˈeniθɪŋ/",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "种类",
+        "desc": "可与同类词sort一起记忆，联想不同种类的事物。",
+        "english": "kind",
+        "phonetic": "/kaɪnd/",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "手指",
+        "desc": "可联想五个手指，对应单词的字母数量。",
+        "english": "finger",
+        "phonetic": "/ˈfɪŋɡər/",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "听了半个小时(过)",
+        "desc": "listen是听，half an hour是半小时，根据语义记忆。",
+        "english": "listened for half an hour",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "跳舞者;舞蹈演员",
+        "desc": "dance是跳舞，加上表示人的后缀 - er，就表示跳舞的人。",
+        "english": "dancer",
+        "phonetic": "/ˈdænsər/",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "一个昆虫博物馆",
+        "desc": "insect是昆虫，museum是博物馆，根据语义组合记忆。",
+        "english": "an insect museum",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "一个机器人舞者",
+        "desc": "robot是机器人，dancer是舞者，组合理解记忆。",
+        "english": "a robot dancer",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "汽车博物馆",
+        "desc": "car是汽车，museum是博物馆，根据语义组合记忆。",
+        "english": "car museum",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "汽车模型",
+        "desc": "model有模型的意思，car是汽车，组合记忆。",
+        "english": "model car",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "在博物馆里",
+        "desc": "in表示在里面，museum是博物馆，根据语义记忆。",
+        "english": "in the museum",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "科学博物馆",
+        "desc": "science是科学，museum是博物馆，根据语义组合记忆。",
+        "english": "science museum",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "漂亮的",
+        "desc": "beauty是美丽，加上 - ful形容词后缀，联想美丽的事物记忆。",
+        "english": "beautiful",
+        "phonetic": "/ˈbjuːtɪfl/",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "玩得开心(过)",
+        "desc": "have a great time是玩得开心，had是have的过去式，根据语法和语义记忆。",
+        "english": "had a great time",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "一只玩具蜜蜂",
+        "desc": "toy是玩具，bee是蜜蜂，根据语义组合记忆。",
+        "english": "a toy bee",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "一次去一家电影博物馆的参观",
+        "desc": "可根据visit的常见用法来记忆，a visit to表示去某地参观",
+        "english": "a visit to a ilm museum",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "在一家昆虫博物馆",
+        "desc": "at表示在某个地点，insect museum为昆虫博物馆，整体记忆即可",
+        "english": "at an insect museum",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "上周六",
+        "desc": "last表示上一个，Saturday是周六，直接记忆词组",
+        "english": "last Saturday",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "全世界",
+        "desc": "around表示围绕、在周围，可理解为在世界周围，即全世界",
+        "english": "around the world",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "其他的昆虫",
+        "desc": "other表示其他的，insects是昆虫的复数形式，组合记忆",
+        "english": "other insects",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "他们中的一些",
+        "desc": "可根据some of的用法来记忆，表示其中一些",
+        "english": "someo f them",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "你在这家博物馆里看到了什么?",
+        "desc": "这是一个特殊疑问句，根据句式结构记忆，what表示什么，did是助动词，see表示看，at the museum表示在博物馆",
+        "english": "What did you see at the museum?",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "学到很多关于他们的知识(过)",
+        "desc": "leamt是learn的过去式，a lot表示很多，about表示关于，整体理解记忆",
+        "english": "leamt a lot about them",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "我看到了蚂蚁、蜜蜂、蝴蝶和其他昆虫。",
+        "desc": "I是主语我，saw是see的过去式表示看到，后面列举的是昆虫名称，整体记忆句子结构和词汇",
+        "english": "I saw ants, bees, butterflies and other insects.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "去了一家汽车博物馆",
+        "desc": "went是go的过去式，to表示去，a car museum是汽车博物馆",
+        "english": "went to a car museum",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "很多有趣的汽车",
+        "desc": "a lot of表示很多，interesting表示有趣的，cars是汽车复数，按词组结构记忆",
+        "english": "a lot of interesting cars",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "你在汽车博物馆买东西了吗?",
+        "desc": "Did是助动词，you是你，buy是买，anything是任何东西，at the car museum表示在汽车博物馆，根据句式结构记忆",
+        "english": "Did you buy anything at the car museum?",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "在早上十点整开门(2种)",
+        "desc": "open表示开门，ten o' clock in the morning和10 a.m都表示早上十点，整体记忆两种表达方式",
+        "english": "open at ten o' clock in the morning =open at 10 a.m",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "我买了一个汽车模型。",
+        "desc": "I是我，bought是buy的过去式，a model car表示一个汽车模型，按句子结构记忆",
+        "english": "I bought a model car",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "机器人世界",
+        "desc": "The World表示世界，of表示所属关系，Robots是机器人复数，组合记忆",
+        "english": "The World of Robots",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "在二楼",
+        "desc": "on表示在……上面，second表示第二，fioor应为floor表示楼层，按词组记忆",
+        "english": "on the second fioor",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "他们在那看到了很多种类的机器人。",
+        "desc": "They是他们，saw是see的过去式，many kinds of表示很多种类，robots是机器人复数，there表示那里，整体记忆句子结构和词汇",
+        "english": "They saw many kinds of robots there.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "在钢琴旁",
+        "desc": "at表示在……位置，piano是钢琴，组合记忆",
+        "english": "at the piano",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit08"
+    },
+    {
+        "chinese": "发出美妙的声音",
+        "desc": "可根据make和song的常用搭配记忆",
+        "english": "make beautiful songs",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "首都",
+        "desc": "cap作为词根有头的意思，首都也是一个国家的头部",
+        "english": "capital",
+        "phonetic": "/ˈkæpɪtl/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "北;北部",
+        "desc": "联想北极North Pole来记忆",
+        "english": "north",
+        "phonetic": "/nɔːrθ/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "东;东部",
+        "desc": "与太阳升起方向联系记忆",
+        "english": "east",
+        "phonetic": "/iːst/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "西;西部",
+        "desc": "联想西方的国家来记忆",
+        "english": "west",
+        "phonetic": "/west/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "南;南部",
+        "desc": "联想南极South Pole",
+        "english": "south",
+        "phonetic": "/saʊθ/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "西北;西北部",
+        "desc": "north和west组合记忆",
+        "english": "northwest",
+        "phonetic": "/ˌnɔːrθˈwest/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "东北;东北部",
+        "desc": "north和east组合记忆",
+        "english": "northeast",
+        "phonetic": "/ˌnɔːrθˈiːst/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "西南;西南部",
+        "desc": "south和west组合记忆",
+        "english": "southwest",
+        "phonetic": "/ˌsaʊθˈwest/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "东南;东南部",
+        "desc": "south和east组合记忆",
+        "english": "southeast",
+        "phonetic": "/ˌsaʊθˈiːst/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "王宫;宫殿",
+        "desc": "联想palace里的豪华场景记忆",
+        "english": "palace",
+        "phonetic": "/ˈpæləs/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "大多数",
+        "desc": "与more对比记忆",
+        "english": "most",
+        "phonetic": "/moʊst/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "游客",
+        "desc": "tour旅行加上ist表示人",
+        "english": "tourist",
+        "phonetic": "/ˈtʊrɪst/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "建筑物;楼房",
+        "desc": "build的动名词形式",
+        "english": "building",
+        "phonetic": "/ˈbɪldɪŋ/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "寿司(日本食物)",
+        "desc": "联想寿司的形状和颜色记忆",
+        "english": "sushi",
+        "phonetic": "/ˈsuːʃi/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "世界上的大城市",
+        "desc": "拆分记忆great、cities和world",
+        "english": "great cities of the world",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "是··的首都",
+        "desc": "根据capital的用法记忆",
+        "english": "be the capital of....",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "在中国的北部",
+        "desc": "根据方位词和地点的搭配记忆",
+        "english": "in the north of China",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "在中国的东部",
+        "desc": "根据方位词和地点的搭配记忆",
+        "english": "in the east of China",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "距离彼此很远",
+        "desc": "far away表示远的组合记忆",
+        "english": "be far away from each other",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "大多数游客喜欢游览这些地方。",
+        "desc": "可通过拆分单词记忆，如Most是'大多数'，tourist表示'游客'，like表示'喜欢'，visit有'游览'之意。",
+        "english": "Most tourists like visiting these places.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "多久,多长时间",
+        "desc": "可根据发音记忆，how的发音较为简单，long的发音[lɔːŋ]比较有特点。",
+        "english": "how long",
+        "phonetic": "/haʊ lɔːŋ/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "东京是日本的首都。",
+        "desc": "Tokyo（东京）、capital（首都）、Japan（日本）可分别记忆，再组合句子。",
+        "english": "Tokyo is the capital of Japan.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "到达",
+        "desc": "可以通过对比记忆这几个表示'到达'的词组。",
+        "english": "get to =arrive in/lat =reach",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "大量的游客享受乘飞机旅行",
+        "desc": "先记忆各个单词的含义，如a lot of（大量）、tourist（游客）、enjoy（享受）等，再理解句子结构。",
+        "english": "A lot of tourists enjoy travel by plane.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "在东京的人喜欢吃寿司。",
+        "desc": "分部分记忆，People（人）、Tokyo（东京）、love（喜欢）、sushi（寿司）。",
+        "english": "People in Tokyo love eating sushi.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "在英国伦敦",
+        "desc": "London（伦敦）和the UK（英国）分别记忆，in表示'在...里'。",
+        "english": "in London, the UK",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "空气",
+        "desc": "联想记忆，a像一个气球，ir像空气在气球里",
+        "english": "air",
+        "phonetic": "/er/",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "它无色无形。",
+        "desc": "根据句子结构和关键词记忆",
+        "english": "It has no colour or shape.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "处处;到处",
+        "desc": "拆分记忆，every每个+where地方",
+        "english": "everywhere",
+        "phonetic": "/ˈevriwer/",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "活着的",
+        "desc": "结合live记忆，a表示状态",
+        "english": "alive",
+        "phonetic": "/əˈlaɪv/",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "气球",
+        "desc": "联想气球的形状记忆单词拼写",
+        "english": "balloon",
+        "phonetic": "/bəˈluːn/",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "它没有气味和味道。",
+        "desc": "通过句子表达的含义记忆",
+        "english": "It has no smell or taste.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "工厂",
+        "desc": "根据发音规则记忆",
+        "english": "factory",
+        "phonetic": "/ˈfæktri/",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "烟",
+        "desc": "联想冒烟的场景记忆",
+        "english": "smoke",
+        "phonetic": "/smoʊk/",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "它无处不在。",
+        "desc": "理解句子含义来记忆",
+        "english": "It is everywhere.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "脏的",
+        "desc": "对比记忆，和clean相反",
+        "english": "dirty",
+        "phonetic": "/ˈdɜːrti/",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "干净的;洁净的",
+        "desc": "联想干净的环境记忆",
+        "english": "clean",
+        "phonetic": "/kliːn/",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "感到痛",
+        "desc": "根据发音记忆，同时联想受伤的感觉",
+        "english": "hurt",
+        "phonetic": "/hɜːrt/",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "清新的",
+        "desc": "联想新鲜的空气等记忆",
+        "english": "fresh",
+        "phonetic": "/freʃ/",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "种植",
+        "desc": "联想植物和种植的动作记忆",
+        "english": "plant",
+        "phonetic": "/plænt/",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "让··活着",
+        "desc": "结合alive的用法记忆",
+        "english": "keep...alive",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "种树",
+        "desc": "根据词组含义记忆",
+        "english": "plant trees",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "对某人很重要",
+        "desc": "根据结构和关键词记忆",
+        "english": "be important to sb.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "看··",
+        "desc": "根据常用搭配记忆",
+        "english": "look at...",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "让·高高的",
+        "desc": "根据结构和关键词记忆",
+        "english": "keep··high",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "在天空中",
+        "desc": "根据词组含义记忆",
+        "english": "in the sky",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "使空气很脏",
+        "desc": "可通过拆分词组记忆，make表示使...，air是空气，dirty为脏的",
+        "english": "make the air dirty",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "一片,一块",
+        "desc": "整体记忆这个词组即可",
+        "english": "a piece of",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "空气污染",
+        "desc": "由air（空气）和pollution（污染）组成，直接记忆单词组合",
+        "english": "air pollution",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "雾霾",
+        "desc": "fog（雾）和haze（霾）两个单词组合起来记忆",
+        "english": "fog and haze",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "建筑粉尘",
+        "desc": "construction（建筑）与dust（粉尘）组合记忆",
+        "english": "construction dust",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "碳排放",
+        "desc": "carbon（碳）加上emission（排放）进行记忆",
+        "english": "carbon emission",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "汽车尾气",
+        "desc": "vehicle（汽车）和exhaust（尾气）组合记忆",
+        "english": "vehicle exhaust",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "有害物质",
+        "desc": "harmful（有害的）和substances（物质）组合记忆",
+        "english": "harmful substances",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit10"
+    },
+    {
+        "chinese": "让空气变凉",
+        "desc": "可以联想空调制冷来记忆",
+        "english": "cool the air",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "木头;木材",
+        "desc": "注意和would的区别来记忆",
+        "english": "wood",
+        "phonetic": "/wʊd/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "飞向南方",
+        "desc": "结合fly的基本义及方位词south来记忆",
+        "english": "fly to the south",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "生火",
+        "desc": "通过make的用法和fire的含义记忆",
+        "english": "make a fire",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "下一个春天",
+        "desc": "next表示下一个，spring表示春天，联想记忆",
+        "english": "next spring",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "火柴",
+        "desc": "复数形式特殊，单独记忆",
+        "english": "match(es)",
+        "phonetic": "/mætʃ(ɪz)/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "想念",
+        "desc": "结合miss的其他含义如错过对比记忆",
+        "english": "miss",
+        "phonetic": "/mɪs/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "cut的过去式",
+        "desc": "不规则动词，特殊记忆",
+        "english": "cut",
+        "phonetic": "/kʌt/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "take的过去式",
+        "desc": "不规则动词，单独记忆",
+        "english": "took",
+        "phonetic": "/tʊk/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "use的过去式",
+        "desc": "不规则动词，注意读音",
+        "english": "used",
+        "phonetic": "/juːzd/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "不得不",
+        "desc": "整体记忆短语的含义",
+        "english": "have to",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "把…··倒",
+        "desc": "cut和down的组合含义记忆",
+        "english": "cut down",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "寻找",
+        "desc": "固定搭配记忆",
+        "english": "look for",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "让我们的城市美 丽",
+        "desc": "make的用法加上city和beautiful的含义记忆",
+        "english": "make our city beautful",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "从树上获得很多东西",
+        "desc": "get的用法加上tree的含义整体记忆",
+        "english": "get a lot of things from trees",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "从树上获得水果",
+        "desc": "get和from的用法加上fruit和tree的含义记忆",
+        "english": "get fruit from trees",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "从树上获得木头",
+        "desc": "get和from的用法加上wood和tree的含义记忆",
+        "english": "get wood from trees",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "让空气保持干净",
+        "desc": "keep的用法加上air和clean的含义记忆",
+        "english": "keep the air clean",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "回来",
+        "desc": "get的用法加上back的含义记忆",
+        "english": "get back",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "出去",
+        "desc": "get的用法加上out的含义记忆",
+        "english": "get out",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "到达···",
+        "desc": "可根据get的基本含义和to的指向性来记忆",
+        "english": "get to...",
+        "phonetic": "/ɡet tuː/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "上车",
+        "desc": "联想上车这个动作与get和on的联系来记忆",
+        "english": "get on",
+        "phonetic": "/ɡet ɑːn/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "下车",
+        "desc": "与上车的表达对比记忆，off有离开的感觉",
+        "english": "get off",
+        "phonetic": "/ɡet ɔːf/",
+        "tag": "primary/grade6a/unit11"
+    },
+    {
+        "chinese": "起床",
+        "desc": "up有向上的意思，起床是从躺着到起来的向上动作",
+        "english": "get up",
+        "phonetic": "/ɡet ʌp/",
+        "tag": "primary/grade6a/unit11"
     },
     {
         "chinese": "地球",
@@ -18938,15 +19498,6 @@ var words = [
         "tag": "tips/20250207"
     }
 ];var newOptions = [];var option = document.createElement('option');
-            option.value = '/提供人形';
-            option.textContent = '/提供人形';
-            newOptions.push(option);var option = document.createElement('option');
-            option.value = '/答案';
-            option.textContent = '/答案';
-            newOptions.push(option);var option = document.createElement('option');
-            option.value = '/翻译';
-            option.textContent = '/翻译';
-            newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
             newOptions.push(option);var option = document.createElement('option');
@@ -19018,6 +19569,18 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary/grade6a/unit07';
             option.textContent = 'primary/grade6a/unit07';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'primary/grade6a/unit08';
+            option.textContent = 'primary/grade6a/unit08';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'primary/grade6a/unit09';
+            option.textContent = 'primary/grade6a/unit09';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'primary/grade6a/unit10';
+            option.textContent = 'primary/grade6a/unit10';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'primary/grade6a/unit11';
+            option.textContent = 'primary/grade6a/unit11';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary/grade6a/unit12';
             option.textContent = 'primary/grade6a/unit12';
