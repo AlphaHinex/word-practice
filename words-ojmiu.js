@@ -7742,6 +7742,195 @@ var words = [
         "tag": "primary/grade6a/unit07"
     },
     {
+        "chinese": "发出美妙的声音",
+        "desc": "可根据make和song的常用搭配记忆",
+        "english": "make beautiful songs",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "首都",
+        "desc": "cap作为词根有头的意思，首都也是一个国家的头部",
+        "english": "capital",
+        "phonetic": "/ˈkæpɪtl/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "北;北部",
+        "desc": "联想北极North Pole来记忆",
+        "english": "north",
+        "phonetic": "/nɔːrθ/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "东;东部",
+        "desc": "与太阳升起方向联系记忆",
+        "english": "east",
+        "phonetic": "/iːst/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "西;西部",
+        "desc": "联想西方的国家来记忆",
+        "english": "west",
+        "phonetic": "/west/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "南;南部",
+        "desc": "联想南极South Pole",
+        "english": "south",
+        "phonetic": "/saʊθ/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "西北;西北部",
+        "desc": "north和west组合记忆",
+        "english": "northwest",
+        "phonetic": "/ˌnɔːrθˈwest/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "东北;东北部",
+        "desc": "north和east组合记忆",
+        "english": "northeast",
+        "phonetic": "/ˌnɔːrθˈiːst/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "西南;西南部",
+        "desc": "south和west组合记忆",
+        "english": "southwest",
+        "phonetic": "/ˌsaʊθˈwest/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "东南;东南部",
+        "desc": "south和east组合记忆",
+        "english": "southeast",
+        "phonetic": "/ˌsaʊθˈiːst/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "王宫;宫殿",
+        "desc": "联想palace里的豪华场景记忆",
+        "english": "palace",
+        "phonetic": "/ˈpæləs/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "大多数",
+        "desc": "与more对比记忆",
+        "english": "most",
+        "phonetic": "/moʊst/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "游客",
+        "desc": "tour旅行加上ist表示人",
+        "english": "tourist",
+        "phonetic": "/ˈtʊrɪst/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "建筑物;楼房",
+        "desc": "build的动名词形式",
+        "english": "building",
+        "phonetic": "/ˈbɪldɪŋ/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "寿司(日本食物)",
+        "desc": "联想寿司的形状和颜色记忆",
+        "english": "sushi",
+        "phonetic": "/ˈsuːʃi/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "世界上的大城市",
+        "desc": "拆分记忆great、cities和world",
+        "english": "great cities of the world",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "是··的首都",
+        "desc": "根据capital的用法记忆",
+        "english": "be the capital of....",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "在中国的北部",
+        "desc": "根据方位词和地点的搭配记忆",
+        "english": "in the north of China",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "在中国的东部",
+        "desc": "根据方位词和地点的搭配记忆",
+        "english": "in the east of China",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "距离彼此很远",
+        "desc": "far away表示远的组合记忆",
+        "english": "be far away from each other",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "大多数游客喜欢游览这些地方。",
+        "desc": "可通过拆分单词记忆，如Most是'大多数'，tourist表示'游客'，like表示'喜欢'，visit有'游览'之意。",
+        "english": "Most tourists like visiting these places.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "多久,多长时间",
+        "desc": "可根据发音记忆，how的发音较为简单，long的发音[lɔːŋ]比较有特点。",
+        "english": "how long",
+        "phonetic": "/haʊ lɔːŋ/",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "东京是日本的首都。",
+        "desc": "Tokyo（东京）、capital（首都）、Japan（日本）可分别记忆，再组合句子。",
+        "english": "Tokyo is the capital of Japan.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "到达",
+        "desc": "可以通过对比记忆这几个表示'到达'的词组。",
+        "english": "get to =arrive in/lat =reach",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "大量的游客享受乘飞机旅行",
+        "desc": "先记忆各个单词的含义，如a lot of（大量）、tourist（游客）、enjoy（享受）等，再理解句子结构。",
+        "english": "A lot of tourists enjoy travel by plane.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "在东京的人喜欢吃寿司。",
+        "desc": "分部分记忆，People（人）、Tokyo（东京）、love（喜欢）、sushi（寿司）。",
+        "english": "People in Tokyo love eating sushi.",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
+        "chinese": "在英国伦敦",
+        "desc": "London（伦敦）和the UK（英国）分别记忆，in表示'在...里'。",
+        "english": "in London, the UK",
+        "phonetic": "",
+        "tag": "primary/grade6a/unit09"
+    },
+    {
         "chinese": "地球",
         "desc": "",
         "english": "Earth",
@@ -18750,6 +18939,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary/grade6a/unit07';
             option.textContent = 'primary/grade6a/unit07';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'primary/grade6a/unit09';
+            option.textContent = 'primary/grade6a/unit09';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'primary/grade6a/unit12';
             option.textContent = 'primary/grade6a/unit12';
