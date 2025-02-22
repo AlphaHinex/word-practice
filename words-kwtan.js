@@ -1,5 +1,341 @@
 var words = [
     {
+        "chinese": "",
+        "desc": "",
+        "english": "Wive+",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "ne sink",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "pick u",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "the tay's",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "折叠",
+        "desc": "",
+        "english": "Fold",
+        "phonetic": "/foʊld/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "aniy",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "June's",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "make the nch",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "Xs",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "Read and complete the req",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "曲调",
+        "desc": "",
+        "english": "Tune",
+        "phonetic": "/tuːn/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "修理自行车",
+        "desc": "",
+        "english": "fix the bike",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "Fred is picking up up his toys. C",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "Put away the dides",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "I'm putting away y the dishes",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "hng the dohes",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "Mom and I are making the lazy",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "Maria i stign ould g the table.C",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "kit ch",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "Tom and Sall are fxing h kitchen",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "dzzy",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "有",
+        "desc": "",
+        "english": "has",
+        "phonetic": "/hæz/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "内容",
+        "desc": "",
+        "english": "CONTENTS:",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "日期",
+        "desc": "",
+        "english": "DATE:",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "/h",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "另一个",
+        "desc": "",
+        "english": "another",
+        "phonetic": "/əˈnʌðər/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "er",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "课程",
+        "desc": "",
+        "english": "lesson",
+        "phonetic": "/ˈlesn/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "最喜欢的",
+        "desc": "",
+        "english": "favorite",
+        "phonetic": "/ˈfeɪvərɪt/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "te",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "惊喜",
+        "desc": "",
+        "english": "Surprise",
+        "phonetic": "/sərˈpraɪz/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "通过",
+        "desc": "",
+        "english": "by",
+        "phonetic": "/baɪ/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "票",
+        "desc": "",
+        "english": "ticket",
+        "phonetic": "/ˈtɪkɪt/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "OIV",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "秀",
+        "desc": "",
+        "english": "show",
+        "phonetic": "/ʃoʊ/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "星期五",
+        "desc": "",
+        "english": "Friday",
+        "phonetic": "/ˈfraɪdeɪ/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "星期三",
+        "desc": "",
+        "english": "Wednesday",
+        "phonetic": "/ˈwenzdeɪ/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "八月",
+        "desc": "",
+        "english": "August",
+        "phonetic": "/ˈɔːɡəst/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "受伤",
+        "desc": "",
+        "english": "injury",
+        "phonetic": "/ˈɪndʒəri/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "咳嗽",
+        "desc": "",
+        "english": "cough",
+        "phonetic": "/kɔːf/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "医生",
+        "desc": "可根据发音记忆，'doc'可联想文档，有知识的人如同拥有很多文档知识的人，即为医生。",
+        "english": "doctor",
+        "phonetic": "/ˈdɑːktər/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "胃疼",
+        "desc": "stomach是胃的意思，ache有疼痛的意思，整体记忆即可。",
+        "english": "stomach ache",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "页",
+        "desc": "可根据发音记忆，'p'音类似拍纸的声音，纸有页的概念。",
+        "english": "page",
+        "phonetic": "/peɪdʒ/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "",
+        "desc": "这是字母，按字母发音记忆。",
+        "english": "C",
+        "phonetic": "/siː/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "断腿",
+        "desc": "broken是破碎、坏掉的意思，leg是腿，组合起来理解记忆。",
+        "english": "broken leg",
+        "phonetic": "",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "头晕的",
+        "desc": "发音类似'笛子'，头晕的时候感觉周围像有笛子声在转。",
+        "english": "dizzy",
+        "phonetic": "/ˈdɪzi/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "超级的",
+        "desc": "可联想超人（Superman），超人是超级的，这样记忆。",
+        "english": "Super",
+        "phonetic": "/ˈsuːpər/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
+        "chinese": "城堡",
+        "desc": "可根据发音记忆，'cas'可联想'卡死'，城堡是坚固的像能卡死敌人的地方。",
+        "english": "castle",
+        "phonetic": "/ˈkæsl/",
+        "tag": "/Yeki 2025 1"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -19953,6 +20289,9 @@ var words = [
         "tag": "tips/20250207"
     }
 ];var newOptions = [];var option = document.createElement('option');
+            option.value = '/Yeki 2025 1';
+            option.textContent = '/Yeki 2025 1';
+            newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
             newOptions.push(option);var option = document.createElement('option');
