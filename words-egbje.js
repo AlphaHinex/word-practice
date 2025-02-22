@@ -609,6 +609,202 @@ var words = [
         "tag": "/Yeki 2025 1"
     },
     {
+        "chinese": "城堡",
+        "desc": "可根据发音记忆，cas类似'卡司'，tle是常见的单词结尾",
+        "english": "castle",
+        "phonetic": "/ˈkæsl/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "探索",
+        "desc": "ex表示向外，plore可联想为'plore'这个类似词根的部分，向外寻找即探索",
+        "english": "explore",
+        "phonetic": "/ɪkˈsplɔːr/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "页",
+        "desc": "大写的PAGE可根据常见的用法来记忆，如书本中的页码",
+        "english": "PAGE",
+        "phonetic": "",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "日期",
+        "desc": "日常生活中经常用到，可联系日历来记忆",
+        "english": "DATE",
+        "phonetic": "",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "最喜欢的",
+        "desc": "favor有喜爱的意思，ite为形容词后缀",
+        "english": "favorite",
+        "phonetic": "/ˈfeɪvərɪt/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "摆桌子",
+        "desc": "根据动作含义来记忆，set有放置的意思",
+        "english": "Set the table",
+        "phonetic": "",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "惊喜",
+        "desc": "sur可联想为突然，突然的事情带来惊喜",
+        "english": "surprise",
+        "phonetic": "/sərˈpraɪz/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "擦拭水槽",
+        "desc": "wipe有擦的意思，sink表示水槽，根据动作和对象来记忆",
+        "english": "wipe the sink",
+        "phonetic": "",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "票",
+        "desc": "日常生活中常见，可根据用途来记忆",
+        "english": "ticket",
+        "phonetic": "/ˈtɪkɪt/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "捡起玩具",
+        "desc": "pick up有捡起的意思，toys是玩具，根据动作和对象记忆",
+        "english": "pick up the toys",
+        "phonetic": "",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "星期五",
+        "desc": "按一周七天的顺序记忆",
+        "english": "Friday",
+        "phonetic": "/ˈfraɪdeɪ/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "做午餐",
+        "desc": "make有制作的意思，lunch是午餐，根据动作和对象记忆",
+        "english": "make the lunch",
+        "phonetic": "",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "星期三",
+        "desc": "按一周七天的顺序记忆",
+        "english": "Wednesday",
+        "phonetic": "/ˈwenzdeɪ/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "修理自行车",
+        "desc": "fix有修理的意思，bike是自行车，根据动作和对象记忆",
+        "english": "fix the bike",
+        "phonetic": "",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "八月",
+        "desc": "按一年12个月的顺序记忆",
+        "english": "August",
+        "phonetic": "/ˈɔːɡəst/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "收拾餐具",
+        "desc": "put away有收拾的意思，dishes是餐具，根据动作和对象记忆",
+        "english": "put away the dishes",
+        "phonetic": "",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "咳嗽",
+        "desc": "联想记忆：cough的发音类似“靠扶”，咳嗽的时候需要靠着扶着东西。",
+        "english": "cough",
+        "phonetic": "/kɔːf/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "无确切意义，无法准确翻译",
+        "desc": "由于该词可能是生僻或错误单词，难以给出记忆技巧。",
+        "english": "fazy",
+        "phonetic": "",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "药",
+        "desc": "拆分记忆：medi中间+cine看作cine ma（电影马，联想电影里神药的作用）。",
+        "english": "medicine",
+        "phonetic": "/ˈmedɪsn/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "厨房",
+        "desc": "联想记忆：kitchen里有很多炊具（kit），像小盒子一样。",
+        "english": "kitchen",
+        "phonetic": "/ˈkɪtʃɪn/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "医生",
+        "desc": "联想记忆：doc看作文档（医生经常看病例文档），tor看作tower（医生像高塔一样给人依靠）。",
+        "english": "doctor",
+        "phonetic": "/ˈdɑːktər/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "头晕的",
+        "desc": "联想记忆：dizzy发音类似“笛子”，头晕的时候看旋转的笛子会更晕。",
+        "english": "dizzy",
+        "phonetic": "/ˈdɪzi/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "此英文单词存在拼写错误，无法准确翻译",
+        "desc": "由于是错误拼写单词，无法提供记忆技巧。",
+        "english": "shamrchache",
+        "phonetic": "",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "漫画",
+        "desc": "联想记忆：comi看作come（漫画像故事来到眼前），c像一本打开的书。",
+        "english": "comic",
+        "phonetic": "/ˈkɑːmɪk/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "无确切意义，无法准确翻译",
+        "desc": "由于是无意义组合，无法提供记忆技巧。",
+        "english": "boken.1tag",
+        "phonetic": "",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "另一个",
+        "desc": "联想记忆：an一个+other其他，就是另一个的意思。",
+        "english": "another",
+        "phonetic": "/əˈnʌðər/",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "无确切意义，无法准确翻译",
+        "desc": "由于是无意义单词，无法提供记忆技巧。",
+        "english": "abume",
+        "phonetic": "",
+        "tag": "/Yeki-0222"
+    },
+    {
+        "chinese": "无确切英文可对应",
+        "desc": "这不是英文内容，无法提供记忆技巧。",
+        "english": "的西的",
+        "phonetic": "",
+        "tag": "/Yeki-0222"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -20570,6 +20766,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = '/Yeki 2025 1';
             option.textContent = '/Yeki 2025 1';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = '/Yeki-0222';
+            option.textContent = '/Yeki-0222';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
