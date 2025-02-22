@@ -1,5 +1,201 @@
 var words = [
     {
+        "chinese": "摆桌子",
+        "desc": "可通过动作场景联想记忆，想象布置餐桌的场景，摆放餐具等动作与Set the table对应。",
+        "english": "Set the table",
+        "phonetic": "",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "擦；拭",
+        "desc": "与wipe的发音相关联，[waɪ]可想象成类似用抹布擦东西时发出的声音。",
+        "english": "Wipe",
+        "phonetic": "/waɪp/",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "水槽",
+        "desc": "结合厨房场景记忆，sink是厨房中常见的物品。",
+        "english": "the sink",
+        "phonetic": "",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "捡起玩具",
+        "desc": "通过动作来记忆，想象弯腰捡起玩具的动作与这个词组对应。",
+        "english": "pick up the toys",
+        "phonetic": "",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "",
+        "desc": "可以根据短语结构记忆，fold表示折叠的动作，后面通常接被折叠的对象。",
+        "english": "fold the",
+        "phonetic": "",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "",
+        "desc": "该单词疑似拼写错误，若为jaundice（黄疸），可根据发音或者病症特征记忆。",
+        "english": "Jaundiy",
+        "phonetic": "",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "做午餐（luch应为lunch）",
+        "desc": "先纠正单词拼写为make the lunch，可通过联想做饭的动作来记忆。",
+        "english": "make the luch",
+        "phonetic": "",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "修理自行车",
+        "desc": "根据动作场景记忆，想象对自行车进行维修的场景与fix the bike对应。",
+        "english": "fix the bike",
+        "phonetic": "",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "收拾盘子（dises应为dishes）",
+        "desc": "先纠正为put away the dishes，可联想把盘子收起来的动作来记忆。",
+        "english": "put away the dises",
+        "phonetic": "",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "",
+        "desc": "该词组疑似拼写错误，难以准确给出记忆技巧。",
+        "english": "hag he dotes",
+        "phonetic": "",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "懒惰的",
+        "desc": "可根据发音记忆，[leɪ]类似中文‘累’，懒惰的人总是觉得累不想动。",
+        "english": "lazy",
+        "phonetic": "/ˈleɪzi/",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "",
+        "desc": "该单词疑似拼写错误，若为commit（承诺、犯罪等意），可根据词意联想记忆。",
+        "english": "comit",
+        "phonetic": "",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "另一个",
+        "desc": "根据发音记忆，[əˈnʌð]部分有独特的发音特点。",
+        "english": "another",
+        "phonetic": "/əˈnʌðər/",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "课程",
+        "desc": "可与class进行关联记忆，都表示课程相关的意思。",
+        "english": "lesson",
+        "phonetic": "/ˈlesn/",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "最喜欢的",
+        "desc": "可根据发音记忆，[feɪv]可联想为‘非常（favor）’，最喜欢的就是非常喜欢的。",
+        "english": "favorite",
+        "phonetic": "/ˈfeɪvərɪt/",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "惊喜",
+        "desc": "可根据发音记忆，[praɪz]部分有惊喜的感觉。",
+        "english": "Surprise",
+        "phonetic": "/sərˈpraɪz/",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "票",
+        "desc": "根据发音记忆，[tɪk]可联想ticket的形状或者和买票的动作联系起来。",
+        "english": "ticket",
+        "phonetic": "/ˈtɪkɪt/",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "",
+        "desc": "该单词疑似拼写错误，若为Friday（星期五），可根据一周的顺序记忆。",
+        "english": "Friddy",
+        "phonetic": "",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "星期三（应为Wednesday）",
+        "desc": "先纠正为Wednesday，可根据一周七天的顺序记忆。",
+        "english": "Wed nesay",
+        "phonetic": "",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "八月",
+        "desc": "可根据发音记忆，[ɔː]的发音比较有特点。",
+        "english": "August",
+        "phonetic": "/ˈɔːɡəst/",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "伤害；受伤处",
+        "desc": "可根据词根injur联想记忆，injure有伤害之意，加上y变成名词形式",
+        "english": "injury",
+        "phonetic": "/ˈɪndʒəri/",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "咳嗽",
+        "desc": "可以通过模仿咳嗽的声音来辅助记忆",
+        "english": "cough",
+        "phonetic": "/kɔːf/",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "医生",
+        "desc": "根据常见的职业词汇记忆",
+        "english": "doctor",
+        "phonetic": "/ˈdɑːktər/",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "肚子疼",
+        "desc": "stomach表示胃，ache表示疼痛，组合起来记忆",
+        "english": "stomach ache",
+        "phonetic": "",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "断腿",
+        "desc": "broken表示断了的，leg表示腿，根据词义组合记忆",
+        "english": "broken leg",
+        "phonetic": "",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "头晕的",
+        "desc": "联想头晕时的感觉来记忆",
+        "english": "dizzy",
+        "phonetic": "/ˈdɪzi/",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "超级的",
+        "desc": "常见的表示超级的单词，多读多写记忆",
+        "english": "Super",
+        "phonetic": "/ˈsuːpər/",
+        "tag": "/Yeki 1"
+    },
+    {
+        "chinese": "城堡",
+        "desc": "可以联想童话故事中的城堡形象来记忆",
+        "english": "castle",
+        "phonetic": "/ˈkæsl/",
+        "tag": "/Yeki 1"
+    },
+    {
         "chinese": "",
         "desc": "",
         "english": "Wive+",
@@ -20289,6 +20485,9 @@ var words = [
         "tag": "tips/20250207"
     }
 ];var newOptions = [];var option = document.createElement('option');
+            option.value = '/Yeki 1';
+            option.textContent = '/Yeki 1';
+            newOptions.push(option);var option = document.createElement('option');
             option.value = '/Yeki 2025 1';
             option.textContent = '/Yeki 2025 1';
             newOptions.push(option);var option = document.createElement('option');
