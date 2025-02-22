@@ -1,5 +1,82 @@
 var words = [
     {
+        "chinese": "六月的",
+        "desc": "联想记忆，June是六月，'s表示所属关系",
+        "english": "June's",
+        "phonetic": "/dʒuːnz/",
+        "tag": "/P94"
+    },
+    {
+        "chinese": "曲调",
+        "desc": "根据发音记忆，tuːn比较有节奏感",
+        "english": "Tune",
+        "phonetic": "/tuːn/",
+        "tag": "/P94"
+    },
+    {
+        "chinese": "我正在放置",
+        "desc": "I'm是I am的缩写，put的现在分词形式需要牢记",
+        "english": "I'm putting",
+        "phonetic": "",
+        "tag": "/P94"
+    },
+    {
+        "chinese": "妈妈和",
+        "desc": "and是常见连词，Mom比较简单易记",
+        "english": "Mom and",
+        "phonetic": "",
+        "tag": "/P94"
+    },
+    {
+        "chinese": "捡起",
+        "desc": "pick是挑选，加up表示拿起、捡起这个动作",
+        "english": "pick up",
+        "phonetic": "",
+        "tag": "/P94"
+    },
+    {
+        "chinese": "摆桌子",
+        "desc": "set有设置的意思，用于摆桌子这个动作",
+        "english": "set the table",
+        "phonetic": "",
+        "tag": "/P94"
+    },
+    {
+        "chinese": "擦水槽",
+        "desc": "wipe是擦拭，sink是水槽",
+        "english": "wipe the sink",
+        "phonetic": "",
+        "tag": "/P94"
+    },
+    {
+        "chinese": "叠衣服",
+        "desc": "fold是折叠，laundry是待洗的衣物，整体表示叠衣服",
+        "english": "fold the laundry",
+        "phonetic": "",
+        "tag": "/P94"
+    },
+    {
+        "chinese": "挂衣服",
+        "desc": "hang有悬挂的意思，clothes是衣服",
+        "english": "hang the clothes",
+        "phonetic": "",
+        "tag": "/P94"
+    },
+    {
+        "chinese": "修理自行车",
+        "desc": "fix有修理的意思，bike是自行车",
+        "english": "fix the bike",
+        "phonetic": "",
+        "tag": "/P94"
+    },
+    {
+        "chinese": "做午餐",
+        "desc": "make有制作的意思，lunch是午餐",
+        "english": "make the lunch",
+        "phonetic": "",
+        "tag": "/P94"
+    },
+    {
         "chinese": "摆桌子",
         "desc": "可通过动作场景联想记忆，想象布置餐桌的场景，摆放餐具等动作与Set the table对应。",
         "english": "Set the table",
@@ -20485,6 +20562,9 @@ var words = [
         "tag": "tips/20250207"
     }
 ];var newOptions = [];var option = document.createElement('option');
+            option.value = '/P94';
+            option.textContent = '/P94';
+            newOptions.push(option);var option = document.createElement('option');
             option.value = '/Yeki 1';
             option.textContent = '/Yeki 1';
             newOptions.push(option);var option = document.createElement('option');
