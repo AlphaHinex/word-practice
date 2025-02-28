@@ -15871,6 +15871,384 @@ var words = [
         "tag": "starlight/lv4/unit06"
     },
     {
+        "chinese": "家务",
+        "desc": "可拆分为house和work来记忆，house是房子，在房子里做的工作就是家务。",
+        "english": "housework",
+        "phonetic": "/ˈhaʊswɜːrk/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "受伤",
+        "desc": "in-否定前缀，jur联想jury（陪审团），没有陪审团就没有伤害判定，可辅助记忆。",
+        "english": "injury",
+        "phonetic": "/ˈɪndʒəri/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "闪耀,明亮",
+        "desc": "shine（闪耀）的形容词形式，y结尾表示具有某种性质。",
+        "english": "shiny",
+        "phonetic": "/ˈʃaɪni/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "疾病",
+        "desc": "dis-否定前缀，ease表示舒适，不舒适就是生病。",
+        "english": "disease",
+        "phonetic": "/dɪˈziːz/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "暗淡",
+        "desc": "可联想dumb（哑的、愚笨的），愚笨的、暗淡无光的感觉。",
+        "english": "dull",
+        "phonetic": "/dʌl/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "漫画书",
+        "desc": "com-共同，ic联想到ice（冰），共同像冰一样有趣的东西就是漫画。",
+        "english": "comic",
+        "phonetic": "/ˈkɑːmɪk/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "音波",
+        "desc": "sound是声音，wave是波，直接组合记忆。",
+        "english": "sound wave",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "游乐场",
+        "desc": "可联想fair有公平、集市的意思，游乐场也是一个充满公平竞争和热闹集市氛围的地方。",
+        "english": "fair",
+        "phonetic": "/fer/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "好的听觉",
+        "desc": "good表示好的，sense是感觉，hearing是听力，按字面组合理解。",
+        "english": "good sense of hearing",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "头疼",
+        "desc": "head是头，ache是疼痛，组合记忆。",
+        "english": "headache",
+        "phonetic": "/ˈhedeɪk/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "视觉",
+        "desc": "sense是感觉，sight是视力，字面组合记忆。",
+        "english": "sense of sight",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "修理自行车",
+        "desc": "fix是修理，bike是自行车，直接理解记忆。",
+        "english": "fix the bike",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "淤青",
+        "desc": "可联想blue（蓝色），淤青是偏蓝色的。",
+        "english": "bruise",
+        "phonetic": "/bruːz/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "走向…",
+        "desc": "walk是走，towards是朝向，按字面理解记忆。",
+        "english": "walk towards",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "味觉",
+        "desc": "sense是感觉，taste是味道，字面组合记忆。",
+        "english": "sense of taste",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "口味",
+        "desc": "可联想favor（喜爱），喜爱的口味。",
+        "english": "flavor",
+        "phonetic": "/ˈfleɪvər/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "病的",
+        "desc": "可联想sick和thick（厚的）对比，生病的人感觉头脑不清醒像东西变厚了。",
+        "english": "sick",
+        "phonetic": "/sɪk/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "开心,乐意",
+        "desc": "please（使高兴）的形容词形式，-ed表示感到。",
+        "english": "pleased",
+        "phonetic": "/pliːzd/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "气味",
+        "desc": "可联想sent（send的过去式），送过来的气味。",
+        "english": "scent",
+        "phonetic": "/sent/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "感冒(词组)",
+        "desc": "have有，cold冷的，着凉了就感冒。",
+        "english": "have a cold",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "应该",
+        "desc": "联想记忆：should发音类似'树的'，可以想象大树应该是坚强的。",
+        "english": "should",
+        "phonetic": "/ʃʊd/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "喉咙痛",
+        "desc": "sore可联想为'烧'，喉咙像火烧一样痛。",
+        "english": "sore throat",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "摆放餐具",
+        "desc": "set有放置的意思，the table是桌子，联想为在桌子上放置餐具。",
+        "english": "set the table",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "甜的",
+        "desc": "对比记忆：和bitter（苦的）对比。",
+        "english": "sweet",
+        "phonetic": "/swiːt/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "苦的",
+        "desc": "联想记忆：bit（一点）+ter，一点就很苦。",
+        "english": "bitter",
+        "phonetic": "/ˈbɪtər/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "咳嗽",
+        "desc": "have有拥有的意思，cough是咳嗽声，联想为拥有咳嗽。",
+        "english": "have a cough",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "清洁水池",
+        "desc": "wipe是擦拭的意思，sink是水池，联想为擦拭水池。",
+        "english": "wipe the sink",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "肚子疼",
+        "desc": "stomach是胃、肚子的意思，ache是疼痛，组合记忆。",
+        "english": "stomachache",
+        "phonetic": "/ˈstʌməkeɪk/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "叠衣服",
+        "desc": "fold是折叠的意思，laundry是待洗的衣物，联想为折叠衣物。",
+        "english": "fold the laundry",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "酸的",
+        "desc": "联想记忆：sour的发音类似'馊啊'，馊的东西是酸的。",
+        "english": "sour",
+        "phonetic": "/saʊər/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "割伤",
+        "desc": "疑似拼写错误，正确为cut，cut联想为刀割的动作。",
+        "english": "cuf",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "做午饭",
+        "desc": "make有制作的意思，lunch是午饭，联想为制作午饭。",
+        "english": "make the lunch",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "咸的",
+        "desc": "salt（盐）+y（形容词后缀），联想盐是咸的。",
+        "english": "salty",
+        "phonetic": "/ˈsɔːlti/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "头晕",
+        "desc": "联想记忆：di（低）+zzy，低头就头晕。",
+        "english": "dizzy",
+        "phonetic": "/ˈdɪzi/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "整理玩具",
+        "desc": "pick up有捡起、收拾的意思，toys是玩具，联想为收拾玩具。",
+        "english": "pick up the toys",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "辣的",
+        "desc": "联想记忆：spice（香料）+y，辣的食物像香料的刺激感。",
+        "english": "spicy",
+        "phonetic": "/ˈspaɪsi/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "牙疼",
+        "desc": "tooth是牙齿，ache是疼痛，组合记忆。",
+        "english": "toothache",
+        "phonetic": "/ˈtuːθeɪk/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "晾衣服",
+        "desc": "hang有悬挂的意思，clothes是衣服，联想为悬挂衣服。",
+        "english": "hang the clothes",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "干燥的",
+        "desc": "联想记忆：dr（谐音'着'）+y，着火的地方是干燥的。",
+        "english": "dry",
+        "phonetic": "/draɪ/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "潮湿的",
+        "desc": "联想记忆：we（我们）+t（踢），我们在潮湿的地方踢水。",
+        "english": "wet",
+        "phonetic": "/wet/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "耳朵疼",
+        "desc": "联想记忆：ear（耳朵）+ache（疼痛）",
+        "english": "earache",
+        "phonetic": "/ˈɪreɪk/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "整理餐具",
+        "desc": "put away（放置好）这个词组记忆，dishies（餐具复数）",
+        "english": "put away the dishies",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "硬的",
+        "desc": "对比记忆：与soft（软的）相对",
+        "english": "hard",
+        "phonetic": "/hɑːrd/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "懒惰的",
+        "desc": "联想记忆：laz（懒散的）+y（形容词后缀）",
+        "english": "lazy",
+        "phonetic": "/ˈleɪzi/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "感官",
+        "desc": "sense（感觉）+organ（器官）组合记忆",
+        "english": "sense organ",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "说谎",
+        "desc": "与lay（放置）区分记忆",
+        "english": "lie",
+        "phonetic": "/laɪ/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "神经",
+        "desc": "词根记忆：nerv-表示神经",
+        "english": "nerve",
+        "phonetic": "/nɜːrv/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "光滑的",
+        "desc": "对比记忆：与rough（粗糙的）相对",
+        "english": "smooth",
+        "phonetic": "/smuːð/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "结局,结束",
+        "desc": "简单词汇，联想记忆：begin（开始）的反义词",
+        "english": "end",
+        "phonetic": "/end/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "舌头",
+        "desc": "联想记忆：与口腔相关的词汇一起记忆",
+        "english": "tongue",
+        "phonetic": "/tʌŋ/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "进入",
+        "desc": "对比记忆：与exit（出去）相反",
+        "english": "enter",
+        "phonetic": "/ˈentər/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "放松的",
+        "desc": "relax（放松）的形容词形式，后缀 -ing表示令人...的",
+        "english": "relaxing",
+        "phonetic": "/rɪˈlæksɪŋ/",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "一个惊喜!",
+        "desc": "what引导的感叹句结构记忆",
+        "english": "What a surprise!",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
+        "chinese": "家务清单",
+        "desc": "list（清单）+of（...的）+chores（家务复数）",
+        "english": "list of chores",
+        "phonetic": "",
+        "tag": "starlight/lv4/unit07"
+    },
+    {
         "english": "acorn",
         "chinese": "橡子",
         "desc": "",
@@ -20928,6 +21306,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'starlight/lv4/unit06';
             option.textContent = 'starlight/lv4/unit06';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'starlight/lv4/unit07';
+            option.textContent = 'starlight/lv4/unit07';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'starlight/lv4/unit1';
             option.textContent = 'starlight/lv4/unit1';
