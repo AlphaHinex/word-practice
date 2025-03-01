@@ -812,10 +812,17 @@ var words = [
         "tag": "/Yeki"
     },
     {
-        "chinese": "去皮，添加",
-        "desc": "peel联想peel off（剥落），与去皮相关；add直接记忆其基本含义，将两者组合记忆。",
-        "english": "peel add",
-        "phonetic": "",
+        "chinese": "去皮",
+        "desc": "peel联想peel off（剥落），与去皮相关",
+        "english": "peel",
+        "phonetic": "/piːl/",
+        "tag": "/Yeki"
+    },
+    {
+        "chinese": "添加",
+        "desc": "add直接记忆其基本含义",
+        "english": "add",
+        "phonetic": "/æd/",
         "tag": "/Yeki"
     },
     {
@@ -826,31 +833,59 @@ var words = [
         "tag": "/Yeki"
     },
     {
-        "chinese": "切碎糖",
-        "desc": "sugar直接记忆，chop可联想chopsticks（筷子），用筷子切碎糖（一种奇特想象）。",
-        "english": "sugar chop",
-        "phonetic": "",
+        "chinese": "切碎",
+        "desc": "chop可联想chopsticks（筷子）",
+        "english": "chop",
+        "phonetic": "/tʃɒp/",
         "tag": "/Yeki"
     },
     {
-        "chinese": "煮牛奶",
-        "desc": "boil联想沸腾的声音，milk是常见单词，组合起来记忆煮牛奶这个动作。",
-        "english": "boil milk",
-        "phonetic": "",
+        "chinese": "糖",
+        "desc": "sugar直接记忆",
+        "english": "sugar",
+        "phonetic": "/ˈʃʊɡər/",
         "tag": "/Yeki"
     },
     {
-        "chinese": "油炸混合",
-        "desc": "fry记忆油炸食物的场景，mix联想将不同食材混合，两者组合记忆。",
-        "english": "fry mix",
-        "phonetic": "",
+        "chinese": "煮",
+        "desc": "boil联想沸腾的声音",
+        "english": "boil",
+        "phonetic": "/bɔɪl/",
         "tag": "/Yeki"
     },
     {
-        "chinese": "称量面粉",
-        "desc": "flour记忆面粉的质感，weigh联想称重的工具，从而记住这个词组。",
-        "english": "flour weigh",
-        "phonetic": "",
+        "chinese": "牛奶",
+        "desc": "milk是常见单词",
+        "english": "milk",
+        "phonetic": "/mɪlk/",
+        "tag": "/Yeki"
+    },
+    {
+        "chinese": "油炸",
+        "desc": "fry记忆油炸食物的场景",
+        "english": "fry",
+        "phonetic": "/fraɪ/",
+        "tag": "/Yeki"
+    },
+    {
+        "chinese": "混合",
+        "desc": "mix联想将不同食材混合",
+        "english": "mix",
+        "phonetic": "/mɪks/",
+        "tag": "/Yeki"
+    },
+    {
+        "chinese": "面粉",
+        "desc": "flour记忆面粉的质感",
+        "english": "flour",
+        "phonetic": "/ˈflaʊər/",
+        "tag": "/Yeki"
+    },
+    {
+        "chinese": "称量",
+        "desc": "weigh联想称重的工具",
+        "english": "weigh",
+        "phonetic": "/weɪ/",
         "tag": "/Yeki"
     },
     {
