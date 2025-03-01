@@ -805,6 +805,55 @@ var words = [
         "tag": "/Yeki-0222"
     },
     {
+        "chinese": "黄油",
+        "desc": "联想记忆：but（但是）+ ter（联想terrible，糟糕的），黄油吃多了但是对身体可能糟糕。",
+        "english": "butter",
+        "phonetic": "/ˈbʌtər/",
+        "tag": "/Yeki"
+    },
+    {
+        "chinese": "去皮，添加",
+        "desc": "peel联想peel off（剥落），与去皮相关；add直接记忆其基本含义，将两者组合记忆。",
+        "english": "peel add",
+        "phonetic": "",
+        "tag": "/Yeki"
+    },
+    {
+        "chinese": "盐",
+        "desc": "可通过品尝咸的东西来记忆这个单词。",
+        "english": "salt",
+        "phonetic": "/sɔːlt/",
+        "tag": "/Yeki"
+    },
+    {
+        "chinese": "切碎糖",
+        "desc": "sugar直接记忆，chop可联想chopsticks（筷子），用筷子切碎糖（一种奇特想象）。",
+        "english": "sugar chop",
+        "phonetic": "",
+        "tag": "/Yeki"
+    },
+    {
+        "chinese": "煮牛奶",
+        "desc": "boil联想沸腾的声音，milk是常见单词，组合起来记忆煮牛奶这个动作。",
+        "english": "boil milk",
+        "phonetic": "",
+        "tag": "/Yeki"
+    },
+    {
+        "chinese": "油炸混合",
+        "desc": "fry记忆油炸食物的场景，mix联想将不同食材混合，两者组合记忆。",
+        "english": "fry mix",
+        "phonetic": "",
+        "tag": "/Yeki"
+    },
+    {
+        "chinese": "称量面粉",
+        "desc": "flour记忆面粉的质感，weigh联想称重的工具，从而记住这个词组。",
+        "english": "flour weigh",
+        "phonetic": "",
+        "tag": "/Yeki"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -21147,6 +21196,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = '/Yeki-0222';
             option.textContent = '/Yeki-0222';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = '/Yeki';
+            option.textContent = '/Yeki';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
