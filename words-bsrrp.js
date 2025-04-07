@@ -1,30 +1,9 @@
 var words = [
     {
-        "chinese": "六月的",
-        "desc": "联想记忆，June是六月，'s表示所属关系",
-        "english": "June's",
-        "phonetic": "/dʒuːnz/",
-        "tag": "/P94"
-    },
-    {
         "chinese": "曲调",
         "desc": "根据发音记忆，tuːn比较有节奏感",
-        "english": "Tune",
+        "english": "tune",
         "phonetic": "/tuːn/",
-        "tag": "/P94"
-    },
-    {
-        "chinese": "我正在放置",
-        "desc": "I'm是I am的缩写，put的现在分词形式需要牢记",
-        "english": "I'm putting",
-        "phonetic": "",
-        "tag": "/P94"
-    },
-    {
-        "chinese": "妈妈和",
-        "desc": "and是常见连词，Mom比较简单易记",
-        "english": "Mom and",
-        "phonetic": "",
         "tag": "/P94"
     },
     {
@@ -79,14 +58,14 @@ var words = [
     {
         "chinese": "摆桌子",
         "desc": "可通过动作场景联想记忆，想象布置餐桌的场景，摆放餐具等动作与Set the table对应。",
-        "english": "Set the table",
+        "english": "set the table",
         "phonetic": "",
         "tag": "/Yeki 1"
     },
     {
         "chinese": "擦；拭",
         "desc": "与wipe的发音相关联，[waɪ]可想象成类似用抹布擦东西时发出的声音。",
-        "english": "Wipe",
+        "english": "wipe",
         "phonetic": "/waɪp/",
         "tag": "/Yeki 1"
     },
@@ -105,27 +84,6 @@ var words = [
         "tag": "/Yeki 1"
     },
     {
-        "chinese": "",
-        "desc": "可以根据短语结构记忆，fold表示折叠的动作，后面通常接被折叠的对象。",
-        "english": "fold the",
-        "phonetic": "",
-        "tag": "/Yeki 1"
-    },
-    {
-        "chinese": "",
-        "desc": "该单词疑似拼写错误，若为jaundice（黄疸），可根据发音或者病症特征记忆。",
-        "english": "Jaundiy",
-        "phonetic": "",
-        "tag": "/Yeki 1"
-    },
-    {
-        "chinese": "做午餐（luch应为lunch）",
-        "desc": "先纠正单词拼写为make the lunch，可通过联想做饭的动作来记忆。",
-        "english": "make the luch",
-        "phonetic": "",
-        "tag": "/Yeki 1"
-    },
-    {
         "chinese": "修理自行车",
         "desc": "根据动作场景记忆，想象对自行车进行维修的场景与fix the bike对应。",
         "english": "fix the bike",
@@ -133,16 +91,9 @@ var words = [
         "tag": "/Yeki 1"
     },
     {
-        "chinese": "收拾盘子（dises应为dishes）",
-        "desc": "先纠正为put away the dishes，可联想把盘子收起来的动作来记忆。",
-        "english": "put away the dises",
-        "phonetic": "",
-        "tag": "/Yeki 1"
-    },
-    {
-        "chinese": "",
-        "desc": "该词组疑似拼写错误，难以准确给出记忆技巧。",
-        "english": "hag he dotes",
+        "chinese": "收拾盘子",
+        "desc": "可联想把盘子收起来的动作来记忆。",
+        "english": "put away the dishes",
         "phonetic": "",
         "tag": "/Yeki 1"
     },
@@ -151,13 +102,6 @@ var words = [
         "desc": "可根据发音记忆，[leɪ]类似中文‘累’，懒惰的人总是觉得累不想动。",
         "english": "lazy",
         "phonetic": "/ˈleɪzi/",
-        "tag": "/Yeki 1"
-    },
-    {
-        "chinese": "",
-        "desc": "该单词疑似拼写错误，若为commit（承诺、犯罪等意），可根据词意联想记忆。",
-        "english": "comit",
-        "phonetic": "",
         "tag": "/Yeki 1"
     },
     {
@@ -184,7 +128,7 @@ var words = [
     {
         "chinese": "惊喜",
         "desc": "可根据发音记忆，[praɪz]部分有惊喜的感觉。",
-        "english": "Surprise",
+        "english": "surprise",
         "phonetic": "/sərˈpraɪz/",
         "tag": "/Yeki 1"
     },
@@ -196,16 +140,9 @@ var words = [
         "tag": "/Yeki 1"
     },
     {
-        "chinese": "",
-        "desc": "该单词疑似拼写错误，若为Friday（星期五），可根据一周的顺序记忆。",
-        "english": "Friddy",
-        "phonetic": "",
-        "tag": "/Yeki 1"
-    },
-    {
-        "chinese": "星期三（应为Wednesday）",
-        "desc": "先纠正为Wednesday，可根据一周七天的顺序记忆。",
-        "english": "Wed nesay",
+        "chinese": "星期三",
+        "desc": "可根据一周七天的顺序记忆。",
+        "english": "Wednesay",
         "phonetic": "",
         "tag": "/Yeki 1"
     },
@@ -240,7 +177,7 @@ var words = [
     {
         "chinese": "肚子疼",
         "desc": "stomach表示胃，ache表示疼痛，组合起来记忆",
-        "english": "stomach ache",
+        "english": "stomachache",
         "phonetic": "",
         "tag": "/Yeki 1"
     },
@@ -261,7 +198,7 @@ var words = [
     {
         "chinese": "超级的",
         "desc": "常见的表示超级的单词，多读多写记忆",
-        "english": "Super",
+        "english": "super",
         "phonetic": "/ˈsuːpər/",
         "tag": "/Yeki 1"
     },
