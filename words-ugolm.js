@@ -826,6 +826,62 @@ var words = [
         "tag": "/Yeki"
     },
     {
+        "chinese": "休闲服",
+        "desc": "可根据casual（随意的）和clothes（衣服）的词义组合记忆",
+        "english": "casual clothes",
+        "phonetic": "",
+        "tag": "/p120"
+    },
+    {
+        "chinese": "护肘",
+        "desc": "elbow（肘部）+ pads（护垫）来记忆",
+        "english": "elbow pads",
+        "phonetic": "",
+        "tag": "/p120"
+    },
+    {
+        "chinese": "手套",
+        "desc": "联想glove（给爱），手套是给予爱的物品",
+        "english": "gloves",
+        "phonetic": "/ɡlʌvz/",
+        "tag": "/p120"
+    },
+    {
+        "chinese": "围裙",
+        "desc": "根据发音记忆，a-（诶）+pron（近似pran）",
+        "english": "apron",
+        "phonetic": "/ˈeɪprən/",
+        "tag": "/p120"
+    },
+    {
+        "chinese": "精致的衣服",
+        "desc": "smart（聪明的、精致的）+clothes（衣服）组合记忆",
+        "english": "smart clothes",
+        "phonetic": "",
+        "tag": "/p120"
+    },
+    {
+        "chinese": "护膝",
+        "desc": "knee（膝盖）+ pads（护垫）来记忆",
+        "english": "knee pads",
+        "phonetic": "",
+        "tag": "/p120"
+    },
+    {
+        "chinese": "",
+        "desc": "可能是拼写错误，无记忆技巧可言",
+        "english": "wetsuif",
+        "phonetic": "",
+        "tag": "/p120"
+    },
+    {
+        "chinese": "步行靴",
+        "desc": "walking（步行）+ boots（靴子）组合记忆",
+        "english": "walking boots",
+        "phonetic": "",
+        "tag": "/p120"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -21171,6 +21227,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = '/Yeki';
             option.textContent = '/Yeki';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = '/p120';
+            option.textContent = '/p120';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
