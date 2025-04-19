@@ -1,5 +1,418 @@
 var words = [
     {
+        "chinese": "添加",
+        "desc": "联想记忆：a（一个）+d（弟弟），一个弟弟在添加东西。",
+        "english": "add",
+        "phonetic": "/æd/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "做蛋糕",
+        "desc": "短语记忆：make表示制作，a cake表示一个蛋糕，联想制作一个蛋糕的场景。",
+        "english": "Make a cake",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "细节",
+        "desc": "拆分记忆：de（得）+tail（尾巴），要得到尾巴得注意细节。",
+        "english": "detail",
+        "phonetic": "/ˈdiːteɪl/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "见朋友",
+        "desc": "短语记忆：meet表示见面，a friend表示一个朋友，想象与朋友见面的情景。",
+        "english": "Meet a friend",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "原因",
+        "desc": "词根记忆：caus（原因）+e，类似的单词有because。",
+        "english": "cause",
+        "phonetic": "/kɔːz/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "散步",
+        "desc": "短语记忆：go表示去，for a walk表示为了散步，理解为出去散步。",
+        "english": "Go for a walk",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "制造工艺",
+        "desc": "短语记忆：manufacturing表示制造，process表示过程，联想制造过程中的工艺。",
+        "english": "manufacturing process",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "过程",
+        "desc": "对比记忆：与progress（进步）对比，process更强调过程。",
+        "english": "process",
+        "phonetic": "/ˈprɑːses/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "拉链",
+        "desc": "拟声记忆：拉链拉上的声音类似zip。",
+        "english": "zip",
+        "phonetic": "/zɪp/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "读书",
+        "desc": "短语记忆：read表示阅读，a book表示一本书，想象读书的画面。",
+        "english": "Read a book",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "生产n",
+        "desc": "词形记忆：produce（生产v）的名词形式，去掉e加tion。",
+        "english": "production",
+        "phonetic": "/prəˈdʌkʃn/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "橡胶",
+        "desc": "联想记忆：rub（摩擦）+b+er，橡胶有摩擦力。",
+        "english": "rubber",
+        "phonetic": "/ˈrʌbər/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "看电影",
+        "desc": "短语记忆：see表示看，a movie表示一部电影，理解为看一部电影。",
+        "english": "See a movie",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "生产v",
+        "desc": "词根记忆：pro（向前）+duce（引导），向前引导即生产。",
+        "english": "produce",
+        "phonetic": "/prəˈduːs/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "底部",
+        "desc": "联想记忆：bot（瓶子）+tom（汤姆），瓶子底部有汤姆。",
+        "english": "bottom",
+        "phonetic": "/ˈbɑːtəm/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "看演出",
+        "desc": "短语记忆：see表示看，a play表示一场演出，想象看演出的场景。",
+        "english": "See a play",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "产品n",
+        "desc": "对比记忆：与production对比，product更强调产品本身。",
+        "english": "product",
+        "phonetic": "/ˈprɑːdʌkt/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "结实",
+        "desc": "联想记忆：str（石头人）+ong，石头人很结实。",
+        "english": "strong",
+        "phonetic": "/strɔːŋ/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "看展览",
+        "desc": "短语记忆：see表示看，an exhibition表示一个展览，想象看展览的情景。",
+        "english": "See an exhibition",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "描述n",
+        "desc": "词缀记忆：de（向下）+script（写）+ion，写下来即描述。",
+        "english": "description",
+        "phonetic": "/dɪˈskrɪpʃn/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "剪下来",
+        "desc": "可以根据cut（切、割）的含义来联想记忆，out表示出去，割下来也就是剪下来。",
+        "english": "Cut out",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "家庭聚会",
+        "desc": "meet有见面、会面的意思，your family是你的家人，合起来就是家庭聚会。",
+        "english": "Meet your family",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "形容v.",
+        "desc": "de - 向下，scribe - 写，把特征等写下来就是形容。",
+        "english": "describe",
+        "phonetic": "/dɪˈskraɪb/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "皮革",
+        "desc": "根据读音来记忆，le - 乐，ther - 泽，联想成快乐的皮革。",
+        "english": "leather",
+        "phonetic": "/ˈleðər/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "购物中心",
+        "desc": "shopping是购物，mall有商场的意思，组合起来就是购物中心。",
+        "english": "Shopping mall",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "不同的",
+        "desc": "dif - 表示分开，fer - 带来，带来分开的东西就是不同的。",
+        "english": "different",
+        "phonetic": "/ˈdɪfrənt/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "围裙",
+        "desc": "a - 一个，pr - 美人，on - 在上面，联想一个美人穿上围裙。",
+        "english": "apron",
+        "phonetic": "/ˈeɪprən/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "了解(词组)",
+        "desc": "know是知道，about是关于，知道关于某事就是了解。",
+        "english": "know about",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "休闲装",
+        "desc": "casual有休闲的意思，clothes是衣服，合起来就是休闲装。",
+        "english": "casual clothes",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "幸运n",
+        "desc": "可根据读音记忆，luck读起来朗朗上口。",
+        "english": "luck",
+        "phonetic": "/lʌk/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "目的",
+        "desc": "pur - 迫，pose - 姿势，为了某种目的被迫摆出某种姿势。",
+        "english": "purpose",
+        "phonetic": "/ˈpɜːrpəs/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "护肘",
+        "desc": "elbow是肘部，pad有垫的意思，肘部的垫子就是护肘。",
+        "english": "elbow pads",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "纽扣",
+        "desc": "but - 但是，ton - 吨，联想纽扣虽小但是很重要。",
+        "english": "button",
+        "phonetic": "/ˈbʌtn/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "材料",
+        "desc": "ma - 马，ter - 特，ial - 形容词后缀，像马一样特别的材料。",
+        "english": "material",
+        "phonetic": "/məˈtɪriəl/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "护腿板",
+        "desc": "shin是胫、小腿，pad是垫，小腿上的垫子就是护腿板。",
+        "english": "shin pads",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "食材",
+        "desc": "in - 在里面，gredi - 可联想成grade（等级），ents - 东西，在食物里面分等级的东西就是食材。",
+        "english": "ingredients",
+        "phonetic": "/ɪnˈɡriːdiənts/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "护膝",
+        "desc": "knee是膝盖，pad是垫，膝盖上的垫子就是护膝。",
+        "english": "knee pads",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "功能",
+        "desc": "fun - 有趣，ct - 可联想成cat（猫），有功能的猫很有趣。",
+        "english": "function",
+        "phonetic": "/ˈfʌŋkʃn/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "手套",
+        "desc": "g - 哥，love - 爱，s - 手，哥哥爱手所以戴手套。",
+        "english": "gloves",
+        "phonetic": "/ɡlʌvz/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "柔韧的",
+        "desc": "f - 服，lex - 联想成leak（漏），ible - 能，能服软不漏气就是柔韧的。",
+        "english": "flexible",
+        "phonetic": "/ˈfleksəbl/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "登山鞋",
+        "desc": "可根据'walking'（行走）和'boots'（靴子）的组合记忆。",
+        "english": "walking boots",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "防水",
+        "desc": "由'water'（水）和'proof'（防止的）组成，联想防水的意思。",
+        "english": "waterproof",
+        "phonetic": "/ˈwɔːtərpruːf/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "时髦的衣服",
+        "desc": "结合'smart'（时髦的）和'clothes'（衣服）记忆。",
+        "english": "smart clothes",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "潜水服",
+        "desc": "根据'wet'（湿的）和'suit'（衣服）来记忆。",
+        "english": "wetsuit",
+        "phonetic": "/ˈwet.suːt/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "模型,样品",
+        "desc": "拆分为'proto'（原始的）和'type'（类型）记忆。",
+        "english": "prototype",
+        "phonetic": "/ˈproʊtətaɪp/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "产品示例",
+        "desc": "根据字面意思记忆。",
+        "english": "example of the product",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "场景",
+        "desc": "可联想电影场景等记忆。",
+        "english": "scene",
+        "phonetic": "/siːn/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "工程师",
+        "desc": "可以从'engine'（引擎）联想与工程相关的职业。",
+        "english": "engineer",
+        "phonetic": "/ˌendʒɪˈnɪr/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "剧本",
+        "desc": "由'play'（戏剧）和'script'（脚本）组成。",
+        "english": "playscript",
+        "phonetic": "/ˈpleɪskrɪpt/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "设计师",
+        "desc": "从'design'（设计）联想职业。",
+        "english": "designer",
+        "phonetic": "/dɪˈzaɪnər/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "工人",
+        "desc": "直接记忆。",
+        "english": "worker",
+        "phonetic": "/ˈwɜːrkər/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "工",
+        "desc": "联想工厂的场景记忆。",
+        "english": "factory",
+        "phonetic": "/ˈfæktri/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "买衣服",
+        "desc": "根据字面意思记忆。",
+        "english": "buy clothes",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "机器",
+        "desc": "联想各种机器的样子记忆。",
+        "english": "machine",
+        "phonetic": "/məˈʃiːn/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "玩电脑游戏",
+        "desc": "按照字面组合记忆。",
+        "english": "play computer games",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "步骤,阶段",
+        "desc": "联想舞台的不同阶段来记忆。",
+        "english": "stage",
+        "phonetic": "/steɪdʒ/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "购物",
+        "desc": "根据日常行为记忆。",
+        "english": "go shopping",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "片...碎片",
+        "desc": "联想破碎成一片片的情景。",
+        "english": "piece",
+        "phonetic": "/piːs/",
+        "tag": "/G4U9"
+    },
+    {
+        "chinese": "聚会",
+        "desc": "根据日常活动记忆。",
+        "english": "have a party",
+        "phonetic": "",
+        "tag": "/G4U9"
+    },
+    {
         "chinese": "曲调",
         "desc": "根据发音记忆，tuːn比较有节奏感",
         "english": "tune",
@@ -21213,6 +21626,9 @@ var words = [
         "tag": "tips/20250207"
     }
 ];var newOptions = [];var option = document.createElement('option');
+            option.value = '/G4U9';
+            option.textContent = '/G4U9';
+            newOptions.push(option);var option = document.createElement('option');
             option.value = '/P94';
             option.textContent = '/P94';
             newOptions.push(option);var option = document.createElement('option');
