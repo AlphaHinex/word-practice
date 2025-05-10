@@ -1295,6 +1295,153 @@ var words = [
         "tag": "/p120"
     },
     {
+        "chinese": "墨西哥",
+        "desc": "联想记忆：Mexi可联想Mexico，co可联想国家的结尾部分",
+        "english": "Mexico",
+        "phonetic": "/ˈmeksɪkoʊ/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "墨西哥的；墨西哥人",
+        "desc": "根据Mexico记忆，加上 -an后缀表示人或形容词",
+        "english": "Mexican",
+        "phonetic": "/ˈmeksɪkən/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "西班牙",
+        "desc": "可通过西班牙的特色事物来记忆",
+        "english": "Spain",
+        "phonetic": "/speɪn/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "土耳其",
+        "desc": "结合土耳其的地理位置或文化特点记忆",
+        "english": "Turkey",
+        "phonetic": "/ˈtɜːrki/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "巴西",
+        "desc": "联想巴西的足球等特色记忆",
+        "english": "Brazil",
+        "phonetic": "/brəˈzɪl/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "巴西的；巴西人",
+        "desc": "由Brazil加上 -ian后缀记忆",
+        "english": "Brazilian",
+        "phonetic": "/brəˈzɪliən/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "意大利",
+        "desc": "可联系意大利的美食、艺术等记忆",
+        "english": "Italy",
+        "phonetic": "/ˈɪtəli/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "意大利的；意大利人",
+        "desc": "由Italy加上 -an后缀记忆",
+        "english": "Italian",
+        "phonetic": "/ɪˈtæliən/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "哥伦比亚",
+        "desc": "通过联想哥伦比亚的咖啡等特色记忆",
+        "english": "Colombia",
+        "phonetic": "/kəˈlʌmbiə/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "中国",
+        "desc": "可以从中国的传统文化等方面记忆",
+        "english": "China",
+        "phonetic": "/ˈtʃaɪnə/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "中国的；中国人",
+        "desc": "根据China记忆，加上 -ese后缀表示人或形容词",
+        "english": "Chinese",
+        "phonetic": "/ˌtʃaɪˈniːz/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "阿根廷",
+        "desc": "可联想阿根廷的足球、探戈等记忆",
+        "english": "Argentina",
+        "phonetic": "/ˌɑːrdʒənˈtiːnə/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "阿根廷的；阿根廷人",
+        "desc": "由Argentina衍生记忆",
+        "english": "Argentine",
+        "phonetic": "/ˈɑːrdʒəntaɪn/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "俄罗斯",
+        "desc": "结合俄罗斯的建筑、文学等记忆",
+        "english": "Russia",
+        "phonetic": "/ˈrʌʃə/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "俄罗斯的；俄罗斯人",
+        "desc": "根据Russia加上 -an后缀记忆",
+        "english": "Russian",
+        "phonetic": "/ˈrʌʃn/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "英国",
+        "desc": "可从组成国家的部分记忆",
+        "english": "the United Kingdom",
+        "phonetic": "",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "美国",
+        "desc": "从州的联合这个概念记忆",
+        "english": "the United States",
+        "phonetic": "",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "美国；美洲",
+        "desc": "可联系美洲大陆的特点记忆",
+        "english": "America",
+        "phonetic": "/əˈmerɪkə/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "美国的；美洲的；美国人",
+        "desc": "由America加上 -an后缀记忆",
+        "english": "American",
+        "phonetic": "/əˈmerɪkən/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "荷兰",
+        "desc": "联想荷兰的风车、郁金香等记忆",
+        "english": "the Netherlands",
+        "phonetic": "/ðə ˈneðərləndz/",
+        "tag": "A2/0/nationalities"
+    },
+    {
+        "chinese": "荷兰的；荷兰人",
+        "desc": "可根据国家名荷兰（Netherlands）联想记忆，Dutch是与荷兰相关的形容词和名词。",
+        "english": "Dutch",
+        "phonetic": "/dʌtʃ/",
+        "tag": "A2/0/nationalities"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -21646,6 +21793,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = '/p120';
             option.textContent = '/p120';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/0/nationalities';
+            option.textContent = 'A2/0/nationalities';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
