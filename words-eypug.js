@@ -1296,6 +1296,524 @@ var words = [
     },
     {
         "chinese": "墨西哥",
+        "desc": "联想记忆：Me（我）+xi（西）+co（可），我去西可（类似音译）的地方就是墨西哥。",
+        "english": "Mexico",
+        "phonetic": "/ˈmek.sɪ.koʊ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "英国",
+        "desc": "记忆词组中的每个单词含义，united是联合的，kingdom是王国，联合的王国即英国。",
+        "english": "the United Kingdom",
+        "phonetic": "/ðə juˈnaɪtɪd ˈkɪŋ.dəm/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "语言",
+        "desc": "拆分成lan（蓝）+guage（近似gage盖奇），蓝色盖奇（联想）与语言有关。",
+        "english": "language",
+        "phonetic": "/ˈlæŋ.ɡwɪdʒ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "在……前面",
+        "desc": "根据短语含义记忆，front本身就有前面的意思。",
+        "english": "in front of",
+        "phonetic": "",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "英国",
+        "desc": "联想英国的一些标志性事物，如大本钟来记忆。",
+        "english": "Britain",
+        "phonetic": "/ˈbrɪt.ən/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "在……后面",
+        "desc": "be（是）+hind（后面的部分，联想hind腿在后面）。",
+        "english": "behind",
+        "phonetic": "/bɪˈhaɪnd/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "墨西哥的；墨西哥人",
+        "desc": "与Mexico相关联记忆，加 -an表示人或……的。",
+        "english": "Mexican",
+        "phonetic": "/ˈmek.sɪ.kən/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "乘客",
+        "desc": "pass（通过）+eng（类似enger），通过的人即乘客。",
+        "english": "passenger",
+        "phonetic": "/ˈpæs.ɪn.dʒɚ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "西班牙",
+        "desc": "联想西班牙的斗牛场景来记忆。",
+        "english": "Spain",
+        "phonetic": "/speɪn/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "英国的；英国人",
+        "desc": "与Britain相关，-ish表示……的或……人。",
+        "english": "British",
+        "phonetic": "/ˈbrɪt.ɪʃ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "三十",
+        "desc": "联想three（三），thirty是三十。",
+        "english": "thirty",
+        "phonetic": "/ˈθɜːr.ti/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "个人的",
+        "desc": "person（人）+al（形容词后缀）。",
+        "english": "personal",
+        "phonetic": "/ˈpɜːrsənl/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "西班牙的；西班牙人",
+        "desc": "与Spain相关，加 -ish表示……的或……人。",
+        "english": "Spanish",
+        "phonetic": "/ˈspæn.ɪʃ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "美国",
+        "desc": "united表示联合，states是州，联合的州即美国。",
+        "english": "the United States",
+        "phonetic": "/ðə juˈnaɪtɪd steɪts/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "十三",
+        "desc": "three（三）+teen（十几的后缀）。",
+        "english": "thirteen",
+        "phonetic": "/ˌθɜːrˈtiːn/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "信息",
+        "desc": "联想inform（通知），通知包含信息。",
+        "english": "information",
+        "phonetic": "/ˌɪnfərˈmeɪʃn/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "美国；美洲",
+        "desc": "联想美国的一些著名城市或景点来记忆。",
+        "english": "America",
+        "phonetic": "/əˈmer.ɪ.kə/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "……的数量",
+        "desc": "根据短语含义记忆。",
+        "english": "number of",
+        "phonetic": "",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "土耳其",
+        "desc": "联想土耳其的火鸡（turkey本身也有火鸡的意思）。",
+        "english": "Turkey",
+        "phonetic": "/ˈtɜːr.ki/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "大街",
+        "desc": "联想avenue两边的建筑和街道的样子来记忆。",
+        "english": "avenue",
+        "phonetic": "/ˈæv.ə.nuː/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "土耳其的；土耳其人",
+        "desc": "联想记忆：Turk（土耳其人）+ ish（形容词后缀）",
+        "english": "Turkish",
+        "phonetic": "/ˈtɜːrkɪʃ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "美国的；美国人",
+        "desc": "根据America（美国）联想，添加 -an表示人或形容词",
+        "english": "American",
+        "phonetic": "/əˈmerɪkən/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "星期一",
+        "desc": "结合记忆星期的顺序，首字母大写",
+        "english": "Monday",
+        "phonetic": "/ˈmʌndeɪ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "首都；省会；大写字母",
+        "desc": "可通过cap（帽子，有首要的含义）+ ital联想",
+        "english": "capital",
+        "phonetic": "/ˈkæpɪtl/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "巴西",
+        "desc": "多重复几遍，根据发音记忆",
+        "english": "Brazil",
+        "phonetic": "/brəˈzɪl/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "荷兰",
+        "desc": "整体记忆",
+        "english": "the Netherlands",
+        "phonetic": "",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "星期二",
+        "desc": "和星期顺序联系起来，注意拼写",
+        "english": "Tuesday",
+        "phonetic": "/ˈtuːzdeɪ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "比利时",
+        "desc": "按发音分段记忆",
+        "english": "Belgium",
+        "phonetic": "/ˈbeldʒəm/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "巴西的；巴西人",
+        "desc": "由Brazil联想，添加 -ian后缀",
+        "english": "Brazilian",
+        "phonetic": "/brəˈzɪliən/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "荷兰的；荷兰人",
+        "desc": "特殊的发音需要多练习",
+        "english": "Dutch",
+        "phonetic": "/dʌtʃ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "星期三",
+        "desc": "记忆星期顺序，注意拼写",
+        "english": "Wednesday",
+        "phonetic": "/ˈwenzdeɪ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "比利时的；比利时人",
+        "desc": "由Belgium联想，改变后缀",
+        "english": "Belgian",
+        "phonetic": "/ˈbeldʒən/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "意大利",
+        "desc": "根据发音记忆",
+        "english": "Italy",
+        "phonetic": "/ˈɪtəli/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "星期四",
+        "desc": "按星期顺序记忆，注意拼写",
+        "english": "Thursday",
+        "phonetic": "/ˈθɜːrzdeɪ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "喉咙痛",
+        "desc": "sore（疼痛的）和throat（喉咙）组合记忆",
+        "english": "sore throat",
+        "phonetic": "",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "国籍",
+        "desc": "nation（国家）+ ality（名词后缀）联想",
+        "english": "nationality",
+        "phonetic": "/ˌnæʃəˈnæləti/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "意大利的；意大利人",
+        "desc": "由Italy联想，添加 -an后缀",
+        "english": "Italian",
+        "phonetic": "/ɪˈtæliən/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "星期五",
+        "desc": "和星期顺序联系记忆",
+        "english": "Friday",
+        "phonetic": "/ˈfraɪdeɪ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "胃痛",
+        "desc": "stomach（胃）+ ache（疼痛）组合记忆",
+        "english": "stomach ache",
+        "phonetic": "",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "对话",
+        "desc": "dia（对）+ logue（说话）联想",
+        "english": "dialogue",
+        "phonetic": "/ˈdaɪəlɔːɡ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "哥伦比亚",
+        "desc": "可联想哥伦比亚的特产或著名景点来记忆。",
+        "english": "Colombia",
+        "phonetic": "/kəˈlʌmbiə/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "澳大利亚",
+        "desc": "根据澳大利亚的地图形状或者其独特的动物来记忆。",
+        "english": "Australia",
+        "phonetic": "/ɔːˈstreɪliə/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "星期六",
+        "desc": "结合一周七天的顺序记忆。",
+        "english": "Saturday",
+        "phonetic": "/ˈsætərdeɪ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "牙痛",
+        "desc": "tooth（牙齿）+ache（疼痛）组合记忆。",
+        "english": "toothache",
+        "phonetic": "/ˈtuːθeɪk/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "哥伦比亚的；哥伦比亚人",
+        "desc": "与Colombia对比记忆，-ian结尾表示人或与国家相关。",
+        "english": "Colombian",
+        "phonetic": "/kəˈlʌmbiən/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "埃及",
+        "desc": "联想埃及的金字塔等标志性事物。",
+        "english": "Egypt",
+        "phonetic": "/ˈiːdʒɪpt/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "盐",
+        "desc": "通过生活中的盐的样子或用途记忆。",
+        "english": "salt",
+        "phonetic": "/sɔːlt/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "咳嗽",
+        "desc": "模拟咳嗽的声音来记忆。",
+        "english": "cough",
+        "phonetic": "/kɔːf/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "中国",
+        "desc": "这是常见的国家名称，多接触即可记住。",
+        "english": "China",
+        "phonetic": "/ˈtʃaɪnə/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "捡起；接载；学会",
+        "desc": "根据不同的场景记忆这几个意思。",
+        "english": "pick up",
+        "phonetic": "",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "断腿",
+        "desc": "broken（断的）+leg（腿）组合记忆。",
+        "english": "broken leg",
+        "phonetic": "",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "买衣服",
+        "desc": "结合购物场景记忆。",
+        "english": "buy clothes",
+        "phonetic": "",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "中国的；中国人；汉语",
+        "desc": "与China联系记忆。",
+        "english": "Chinese",
+        "phonetic": "/ˌtʃaɪˈniːz/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "这个单词可能拼写有误，正确的可能是spell（拼写），翻译为：拼写",
+        "desc": "注意与正确单词spell的区别记忆。",
+        "english": "spe11",
+        "phonetic": "/spel/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "散步",
+        "desc": "想象散步的情景来记忆。",
+        "english": "take a walk",
+        "phonetic": "",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "黄油",
+        "desc": "联想黄油的颜色和味道记忆。",
+        "english": "butter",
+        "phonetic": "/ˈbʌtər/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "阿根廷",
+        "desc": "联想阿根廷的足球等特色。",
+        "english": "Argentina",
+        "phonetic": "/ˌɑːdʒənˈtiːnə/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "预订表格",
+        "desc": "结合预订的场景记忆。",
+        "english": "booking form",
+        "phonetic": "",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "煮沸；沸腾",
+        "desc": "联想水煮沸的样子记忆。",
+        "english": "boil",
+        "phonetic": "/bɔɪl/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "意思是；意味着；卑鄙的",
+        "desc": "根据不同词性下的用法来记忆。",
+        "english": "mean",
+        "phonetic": "/miːn/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "阿根廷的；阿根廷人",
+        "desc": "联想记忆：Argentina（阿根廷）+ean（表示人或…的）",
+        "english": "Argentinean",
+        "phonetic": "/ˌɑːrdʒənˈtiːniən/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "理解",
+        "desc": "拆词记忆：under（在…下）+stand（站），站在下面能更好理解",
+        "english": "understand",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "砍；剁",
+        "desc": "对比记忆：与shop（商店）对比，砍东西的动作和商店里卖东西区分开",
+        "english": "chop",
+        "phonetic": "/tʃɑːp/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "完成；完整的",
+        "desc": "词根记忆：com（表加强）+plete（满），使满就是完成",
+        "english": "complete",
+        "phonetic": "/kəmˈpliːt/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "俄罗斯",
+        "desc": "联想记忆：与Russian（俄罗斯人）一起记忆",
+        "english": "Russia",
+        "phonetic": "/ˈrʌʃə/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "完全地",
+        "desc": "由complete（完成、完整的）派生而来，加ly变副词",
+        "english": "completely",
+        "phonetic": "/kəmˈpliːtli/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "问题",
+        "desc": "词根记忆：quest（寻求）+ion（名词后缀），寻求答案的就是问题",
+        "english": "question",
+        "phonetic": "/ˈkwestʃən/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "混合",
+        "desc": "联想记忆：与fix（修理）对比，一个是混合一个是修理",
+        "english": "mix",
+        "phonetic": "/mɪks/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "俄罗斯的；俄罗斯人",
+        "desc": "联想记忆：Russia（俄罗斯）+n（表示人或…的）",
+        "english": "Russian",
+        "phonetic": "/ˈrʌʃn/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "开玩笑",
+        "desc": "由kid（小孩、开玩笑）+ding（进行时），小孩经常开玩笑",
+        "english": "kidding",
+        "phonetic": "/ˈkɪdɪŋ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "面粉",
+        "desc": "联想记忆：与flower（花）对比，面粉和花都是白色的",
+        "english": "flour",
+        "phonetic": "/ˈflaʊər/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "糖",
+        "desc": "联想记忆：与sweet（甜的）相关，糖是甜的",
+        "english": "sugar",
+        "phonetic": "/ˈʃʊɡər/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "星期日",
+        "desc": "联想记忆：Sun（太阳）+day（天），星期日是太阳日",
+        "english": "Sunday",
+        "phonetic": "/ˈsʌndeɪ/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "在……之间",
+        "desc": "联想记忆：be（是）+tween（二），在二者之间",
+        "english": "between",
+        "phonetic": "/bɪˈtwiːn/",
+        "tag": "A2/0/lesson1"
+    },
+    {
+        "chinese": "墨西哥",
         "desc": "🇲🇽联想记忆：Mexi可联想Mexico，co可联想国家的结尾部分",
         "english": "Mexico",
         "phonetic": "/ˈmeksɪkoʊ/",
@@ -21821,6 +22339,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = '/p120';
             option.textContent = '/p120';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/0/lesson1';
+            option.textContent = 'A2/0/lesson1';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/nationalities';
             option.textContent = 'A2/0/nationalities';
