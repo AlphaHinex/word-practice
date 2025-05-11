@@ -1666,9 +1666,9 @@ var words = [
         "tag": "A2/0/lesson1"
     },
     {
-        "chinese": "这个单词可能拼写有误，正确的可能是spell（拼写），翻译为：拼写",
-        "desc": "注意与正确单词spell的区别记忆。",
-        "english": "spe11",
+        "chinese": "拼写",
+        "desc": "",
+        "english": "spell",
         "phonetic": "/spel/",
         "tag": "A2/0/lesson1"
     },
