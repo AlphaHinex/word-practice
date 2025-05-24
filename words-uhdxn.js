@@ -1988,6 +1988,370 @@ var words = [
         "tag": "A2/0/nationalities"
     },
     {
+        "chinese": "不",
+        "desc": "可联想记忆，N像一扇门，o像一个洞，门和洞都表示否定，就像No表示不的意思。",
+        "english": "No",
+        "phonetic": "/noʊ/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "日期",
+        "desc": "d和day（天）发音相似，ate是常见的单词后缀，联想记忆为日期是记录每一天的。",
+        "english": "Date",
+        "phonetic": "/deɪt/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "滑板",
+        "desc": "Skate有滑冰、溜冰的意思，board有木板的意思，组合起来联想滑板是在木板上滑行的东西。",
+        "english": "Skateboard",
+        "phonetic": "/ˈskeɪtbɔːrd/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "自行车",
+        "desc": "b字母发音与‘骑’的声母相似，ike联想为I like，合起来记忆为我喜欢骑自行车。",
+        "english": "bike",
+        "phonetic": "/baɪk/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "由于可能是拼写错误难以提供记忆技巧。",
+        "english": "Ret",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "由于可能是拼写错误难以提供记忆技巧。",
+        "english": "Swoter",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "电话",
+        "desc": "ph发音为/f/，one是一的意思，联想为一个可以通话的东西即电话。",
+        "english": "phone",
+        "phonetic": "/foʊn/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "做运动",
+        "desc": "do是做的意思，exercise是运动的意思，直接组合记忆。",
+        "english": "do exercise",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "消息传递",
+        "desc": "message是消息的意思，ing是动名词后缀，联想为传递消息这个动作。",
+        "english": "messaging",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "由于可能是拼写错误难以提供记忆技巧。",
+        "english": "living nou",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "卧室",
+        "desc": "bed是床的意思，room是房间的意思，有床的房间就是卧室。",
+        "english": "bedroom",
+        "phonetic": "/ˈbedruːm/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "由于可能是拼写错误难以提供记忆技巧。",
+        "english": "reully",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "厨房",
+        "desc": "可联想记忆，kit与烹饪相关的kitchenware（厨房用具）的kit相似，chen联想为吃饭的地方。",
+        "english": "kitchen",
+        "phonetic": "/ˈkɪtʃɪn/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "蜥蜴",
+        "desc": "li联想为立着，zard联想为zoo（动物园）中的动物，蜥蜴是立着在动物园中爬行的动物。",
+        "english": "lizard",
+        "phonetic": "/ˈlɪzərd/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "有时",
+        "desc": "Some是一些的意思，times是时间的复数形式，一些时间就是有时。",
+        "english": "Sometimes",
+        "phonetic": "/ˈsʌmtaɪmz/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "由于可能是拼写错误难以提供记忆技巧。",
+        "english": "ediffiult",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "不寻常的",
+        "desc": "un是否定前缀，usual是平常的意思，否定平常的就是不寻常的。",
+        "english": "unusual",
+        "phonetic": "/ʌnˈjuːʒuəl/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "由于可能是拼写错误难以提供记忆技巧。",
+        "english": "mpte",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "由于可能是拼写错误难以提供记忆技巧。",
+        "english": "Shaws",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "由于可能是拼写错误难以提供记忆技巧。",
+        "english": "grtbsy yuse",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "",
+        "english": "tahlt",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "因为",
+        "desc": "",
+        "english": "because",
+        "phonetic": "/bɪˈkɔːz/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "幸运的",
+        "desc": "",
+        "english": "Lucky",
+        "phonetic": "/ˈlʌki/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "重要的",
+        "desc": "",
+        "english": "important",
+        "phonetic": "/ɪmˈpɔːrtnt/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "",
+        "english": "cre watc",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似网球应为tennis）",
+        "desc": "",
+        "english": "tnnis",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "果汁",
+        "desc": "",
+        "english": "Juice",
+        "phonetic": "/dʒuːs/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似健康的应为healthy）",
+        "desc": "",
+        "english": "kealthy",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "",
+        "english": "stnwberny",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "",
+        "english": "instrumet",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "是否",
+        "desc": "",
+        "english": "whether",
+        "phonetic": "/ˈweðər/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "",
+        "english": "ourceives",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似鸡肉芝士三明治应为chicken cheese sandwich）",
+        "desc": "",
+        "english": "chickenchese sndwich",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "",
+        "english": "haby /ubbos",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "在线的",
+        "desc": "",
+        "english": "online",
+        "phonetic": "/ˌɑːnˈlaɪn/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "谜题",
+        "desc": "",
+        "english": "puzzles",
+        "phonetic": "/ˈpʌzlz/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "喜剧",
+        "desc": "",
+        "english": "comedy",
+        "phonetic": "/ˈkɑːmədi/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "",
+        "english": "Langh",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "电影",
+        "desc": "",
+        "english": "film",
+        "phonetic": "/fɪlm/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "最好的",
+        "desc": "",
+        "english": "best",
+        "phonetic": "/best/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "度假",
+        "desc": "可以联想记忆，on表示处于某种状态，holiday是假期，处于假期的状态即度假。",
+        "english": "on holiday",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "积极的",
+        "desc": "可以通过词根posit（放置）来记忆，积极的态度是将事情往好的方面放置。",
+        "english": "positive",
+        "phonetic": "/ˈpɑːzətɪv/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "饥饿的",
+        "desc": "starve是饥饿的动词形式，加ing变成形容词，联想饥饿的人饥饿的状态来记忆。",
+        "english": "starving",
+        "phonetic": "/ˈstɑːrvɪŋ/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "",
+        "english": "hous",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "大脑",
+        "desc": "可以通过形象记忆，大脑的形状像核桃，与brain这个单词联系起来。",
+        "english": "brain",
+        "phonetic": "/breɪn/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "电的",
+        "desc": "electr表示电的词根，加上ic形容词后缀，联想电学相关知识来记忆。",
+        "english": "electric",
+        "phonetic": "/ɪˈlektrɪk/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "",
+        "english": "sentenc",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "消极的",
+        "desc": "neg表示否定的词根，消极就是否定性的态度，加上ative后缀变成形容词。",
+        "english": "negative",
+        "phonetic": "/ˈneɡətɪv/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "发生",
+        "desc": "可以拆分记忆，hap有运气、偶然的意思，事情偶然发生。",
+        "english": "happen",
+        "phonetic": "/ˈhæpən/",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "",
+        "english": "basesimple",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "",
+        "english": "aux ilinrng",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
+        "chinese": "未查询到准确释义（疑似拼写错误）",
+        "desc": "",
+        "english": "JirA",
+        "phonetic": "",
+        "tag": "Yeki/lesson2"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -22345,6 +22709,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/nationalities';
             option.textContent = 'A2/0/nationalities';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'Yeki/lesson2';
+            option.textContent = 'Yeki/lesson2';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
