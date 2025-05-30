@@ -1813,6 +1813,447 @@ var words = [
         "tag": "A2/0/lesson1"
     },
     {
+        "chinese": "蜥蜴",
+        "desc": "可根据读音联想记忆，字母组合的发音来辅助。",
+        "english": "lizard",
+        "phonetic": "/ˈlɪzərd/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "电话",
+        "desc": "与日常生活联系起来记忆。",
+        "english": "phone",
+        "phonetic": "/foʊn/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "滑板",
+        "desc": "将skate（滑冰）和board（板）组合起来理解记忆。",
+        "english": "skateboard",
+        "phonetic": "",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "自行车",
+        "desc": "简单单词可通过多重复来记忆。",
+        "english": "bike",
+        "phonetic": "/baɪk/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "宠物",
+        "desc": "联想常见宠物的形象辅助记忆。",
+        "english": "pet",
+        "phonetic": "/pet/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "厨房",
+        "desc": "结合厨房的场景记忆单词拼写。",
+        "english": "kitchen",
+        "phonetic": "/ˈkɪtʃɪn/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "小型摩托车",
+        "desc": "根据读音拆分记忆。",
+        "english": "scooter",
+        "phonetic": "/ˈskuːtər/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "平板电脑",
+        "desc": "可以和table（桌子）联想，它形状像小桌子。",
+        "english": "tablet",
+        "phonetic": "/ˈtæblət/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "幸运的",
+        "desc": "与luck（运气）联系起来，加y变成形容词。",
+        "english": "lucky",
+        "phonetic": "/ˈlʌki/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "不寻常的",
+        "desc": "un - 表示否定，usual是寻常的，组合起来理解。",
+        "english": "unusual",
+        "phonetic": "/ʌnˈjuːʒuəl/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "淋浴",
+        "desc": "联想淋浴的场景记忆。",
+        "english": "shower",
+        "phonetic": "/ˈʃaʊər/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "冰淇淋",
+        "desc": "由ice（冰）和cream（奶油）组合记忆。",
+        "english": "ice cream",
+        "phonetic": "",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "草莓",
+        "desc": "可拆分straw（稻草）和berry（浆果）来记忆。",
+        "english": "strawberry",
+        "phonetic": "/ˈstrɔːberi/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "计算机",
+        "desc": "com - 一起，pute - 计算，联想记忆。",
+        "english": "computer",
+        "phonetic": "/kəmˈpjuːtər/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "鸡；鸡肉",
+        "desc": "结合食物或者动物的形象记忆。",
+        "english": "chicken",
+        "phonetic": "/ˈtʃɪkɪn/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "奶酪",
+        "desc": "多接触相关食物，自然记住单词。",
+        "english": "cheese",
+        "phonetic": "/tʃiːz/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "三明治",
+        "desc": "可联想吃三明治的场景记忆。",
+        "english": "sandwich",
+        "phonetic": "/ˈsænwɪtʃ/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "日期；约会",
+        "desc": "根据不同含义分别记忆，比如和时间有关的日期。",
+        "english": "date",
+        "phonetic": "/deɪt/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "电的；电动的",
+        "desc": "与electron（电子）联系起来。",
+        "english": "electric",
+        "phonetic": "/ɪˈlektrɪk/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "喜剧",
+        "desc": "联想喜剧作品记忆单词。",
+        "english": "comedy",
+        "phonetic": "/ˈkɑːmədi/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "饥饿的",
+        "desc": "联想记忆：star（星星）+v（联想为胃）+ing，想象望着星星肚子饿瘪的样子",
+        "english": "starving",
+        "phonetic": "/ˈstɑːrvɪŋ/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "阅读",
+        "desc": "根据读音规则记忆，ea发[iː]音",
+        "english": "read",
+        "phonetic": "/riːd/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "困难的",
+        "desc": "词根记忆：dif（不）+fic（做）+ult，不容易做就是困难的",
+        "english": "difficult",
+        "phonetic": "/ˈdɪfɪkəlt/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "做运动",
+        "desc": "词组记忆：do表示做，exercise表示运动",
+        "english": "do exercise",
+        "phonetic": "",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "消息传递",
+        "desc": "词源记忆：message（消息）的动名词形式",
+        "english": "messaging",
+        "phonetic": "",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "无聊的",
+        "desc": "联想记忆：bore（使厌烦）+ing，令人厌烦就是无聊的",
+        "english": "boring",
+        "phonetic": "/ˈbɔːrɪŋ/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "有趣的",
+        "desc": "拆分记忆：inter（在...之间）+est（最高级）+ing，在很多事物中最吸引人的就是有趣的",
+        "english": "interesting",
+        "phonetic": "/ˈɪntrəstɪŋ/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "容易的",
+        "desc": "根据读音记忆，ea发[iː]，sy发[zi]",
+        "english": "easy",
+        "phonetic": "/ˈiːzi/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "仪器；乐器",
+        "desc": "词根记忆：in（里面）+stru（建造）+ment，内部构造精密的东西如仪器或乐器",
+        "english": "instrument",
+        "phonetic": "/ˈɪnstrəmənt/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "你自己",
+        "desc": "合成记忆：your（你的）+self（自己）",
+        "english": "yourself",
+        "phonetic": "/jɔːrˈself/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "忙碌的",
+        "desc": "联想记忆：bus（公共汽车），像公共汽车一样跑来跑去就是忙碌的",
+        "english": "busy",
+        "phonetic": "/ˈbɪzi/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "我们自己",
+        "desc": "合成记忆：our（我们的）+selves（自己的复数）",
+        "english": "ourselves",
+        "phonetic": "/ɑːrˈselvz/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "是否",
+        "desc": "对比记忆：与weather（天气）对比，只差一个字母",
+        "english": "whether",
+        "phonetic": "/ˈweðər/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "健康的",
+        "desc": "词根记忆：health（健康）+y，变成形容词",
+        "english": "healthy",
+        "phonetic": "/ˈhelθi/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "伟大的；很棒的",
+        "desc": "联想记忆：gr（工人）+eat（吃），工人有饭吃是很棒的事情，伟大的工人创造伟大的成果",
+        "english": "great",
+        "phonetic": "/ɡreɪt/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "最好的",
+        "desc": "联想记忆：be（是）+st（最高级后缀）",
+        "english": "best",
+        "phonetic": "/best/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "爱好（复数）",
+        "desc": "单数hobby，变复数加s",
+        "english": "hobbies",
+        "phonetic": "",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "在线的",
+        "desc": "组合记忆：on（在...上）+line（线）",
+        "english": "online",
+        "phonetic": "/ˌɑːnˈlaɪn/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "大脑",
+        "desc": "联想记忆：b（脑袋的形状）+rain（雨），脑袋像容器装知识如装雨水",
+        "english": "brain",
+        "phonetic": "/breɪn/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "电影",
+        "desc": "联想记忆：f（胶片形状）+ilm，胶片与电影相关",
+        "english": "film",
+        "phonetic": "/fɪlm/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "小时（复数）",
+        "desc": "联想记忆：hour（小时）复数形式加s",
+        "english": "hours",
+        "phonetic": "/ˈaʊərz/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "积极的",
+        "desc": "词根记忆：posit（放置）+ive，放置积极的东西",
+        "english": "positive",
+        "phonetic": "/ˈpɑːzətɪv/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "重要的",
+        "desc": "拆分记忆：im（不）+port（港口）+ant（蚂蚁），港口对于蚂蚁很重要",
+        "english": "important",
+        "phonetic": "/ɪmˈpɔːrtnt/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "辅助的",
+        "desc": "对比记忆：与help（帮助）对比，都有辅助的意思",
+        "english": "auxiliary",
+        "phonetic": "/ɔːɡˈzɪliəri/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "发生",
+        "desc": "联想记忆：h（和）+ap（苹果）+pen（钢笔），和苹果钢笔有关的事情发生了",
+        "english": "happen",
+        "phonetic": "/ˈhæpən/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "爱好",
+        "desc": "谐音记忆：好逼（近似音），好的爱好",
+        "english": "hobby",
+        "phonetic": "/ˈhɑːbi/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "消极的",
+        "desc": "词缀记忆：neg（否定）+ative，否定的就是消极的",
+        "english": "negative",
+        "phonetic": "/ˈneɡətɪv/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "句子",
+        "desc": "词根记忆：sent（感觉）+ence，表达感觉的句子",
+        "english": "sentence",
+        "phonetic": "/ˈsentəns/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "消息",
+        "desc": "联想记忆：me（我）+ss（两个s像蛇）+age（年龄），我和蛇年龄有关的消息",
+        "english": "message",
+        "phonetic": "/ˈmesɪdʒ/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "在度假",
+        "desc": "短语记忆：直接记忆on和holiday的搭配",
+        "english": "on holiday",
+        "phonetic": "",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "谜题（复数）",
+        "desc": "联想记忆：puzzle（谜题）复数加s",
+        "english": "puzzles",
+        "phonetic": "/ˈpʌzlz/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "客厅",
+        "desc": "短语记忆：living（生活）+room（房间），生活的房间即客厅",
+        "english": "living room",
+        "phonetic": "",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "网球",
+        "desc": "联想记忆：ten（十）+nis（近似nice），十个很棒的网球",
+        "english": "tennis",
+        "phonetic": "/ˈtenɪs/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "因为",
+        "desc": "谐音记忆：笔扣子（近似音），因为笔有扣子",
+        "english": "because",
+        "phonetic": "/bɪˈkɔːz/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "简单的",
+        "desc": "词根记忆：sim（相似）+ple，相似的就是简单的",
+        "english": "simple",
+        "phonetic": "/ˈsɪmpl/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "真正地",
+        "desc": "联想记忆：real（真实的）+ly，真实地就是真正地",
+        "english": "really",
+        "phonetic": "/ˈriːəli/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "笑",
+        "desc": "联想记忆：l（乐）+augh，乐了就笑",
+        "english": "laugh",
+        "phonetic": "/læf/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "果汁",
+        "desc": "联想记忆：ju（橘）+ice（冰），橘汁加冰就是果汁",
+        "english": "juice",
+        "phonetic": "/dʒuːs/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "基础",
+        "desc": "词根记忆：bas（底部）+e，底部就是基础",
+        "english": "base",
+        "phonetic": "/beɪs/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "回家",
+        "desc": "短语记忆：get（到达）+home（家），到达家即回家",
+        "english": "get home",
+        "phonetic": "",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "观看；手表",
+        "desc": "可根据单词的发音和拼写记忆，'wa'的发音近似'我'，'tch'的发音比较独特。",
+        "english": "watch",
+        "phonetic": "/wɑːtʃ/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "卧室",
+        "desc": "由'bed（床）'和'room（房间）'组合而成，记忆起来比较直观。",
+        "english": "bedroom",
+        "phonetic": "/ˈbedruːm/",
+        "tag": "A2/0/lesson2"
+    },
+    {
+        "chinese": "有时",
+        "desc": "可拆分为'some（一些）'和'time（时间）'再加上's'，联想记忆。",
+        "english": "sometimes",
+        "phonetic": "/ˈsʌmtaɪmz/",
+        "tag": "A2/0/lesson2"
+    },
+    {
         "chinese": "墨西哥",
         "desc": "🇲🇽联想记忆：Mexi可联想Mexico，co可联想国家的结尾部分",
         "english": "Mexico",
@@ -22706,6 +23147,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/lesson1';
             option.textContent = 'A2/0/lesson1';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/0/lesson2';
+            option.textContent = 'A2/0/lesson2';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/nationalities';
             option.textContent = 'A2/0/nationalities';
