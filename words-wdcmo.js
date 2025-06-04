@@ -2254,6 +2254,251 @@ var words = [
         "tag": "A2/0/lesson2"
     },
     {
+        "chinese": "",
+        "desc": "",
+        "english": "A2.1.Pu=Ps",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "现在",
+        "desc": "",
+        "english": "present",
+        "phonetic": "/ˈpreznt/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "Dato",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "form",
+        "phonetic": "/fɔːrm/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "恐怖",
+        "desc": "",
+        "english": "horror",
+        "phonetic": "/ˈhɔːrər/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "电影",
+        "desc": "",
+        "english": "movie",
+        "phonetic": "/ˈmuːvi/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "Scareod",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "旅行",
+        "desc": "",
+        "english": "travel",
+        "phonetic": "/ˈtrævl/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "更喜欢",
+        "desc": "",
+        "english": "pre fer",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "其他的",
+        "desc": "",
+        "english": "else",
+        "phonetic": "/els/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "演奏乐器",
+        "desc": "",
+        "english": "play an instrunert",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "在俱乐部",
+        "desc": "",
+        "english": "bein a clus",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "写博客",
+        "desc": "",
+        "english": "write a blog",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "收集东西",
+        "desc": "",
+        "english": "colect thngs",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "拍照",
+        "desc": "",
+        "english": "take photos",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "养宠物",
+        "desc": "",
+        "english": "keep a pet",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "addresshabby",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "jnolo",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "力量",
+        "desc": "",
+        "english": "strength",
+        "phonetic": "/streŋθ/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "地理",
+        "desc": "",
+        "english": "Geogapy",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "课程",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "lasson",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "谜语",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "puzzle",
+        "phonetic": "/ˈpʌzl/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "填字游戏",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "crosswords",
+        "phonetic": "/ˈkrɔːswɜːdz/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "hugry",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "休息",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "love a rest",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "hare fin",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "a wkil",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "过得愉快",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "hove a gd tine",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "pruct ise",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "弹钢琴",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "play the piano",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "wpy",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "邮票",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "stamp",
+        "phonetic": "/stæmp/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "加入网球俱乐部放松",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "Join a tennis club relax",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "玩网络游戏",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "ply online games",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "天赋",
+        "desc": "未提供记忆技巧相关内容",
+        "english": "talent",
+        "phonetic": "/ˈtælənt/",
+        "tag": "A2/1/0"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -22611,6 +22856,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/lesson2';
             option.textContent = 'A2/0/lesson2';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/1/0';
+            option.textContent = 'A2/1/0';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
