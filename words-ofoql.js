@@ -2331,9 +2331,9 @@ var words = [
         "tag": "A2/1/0"
     },
     {
-        "chinese": "未查询到准确释义，可能存在拼写错误（正确应为cross swords），如果是cross swords，可译为“交锋；争论”",
-        "desc": "如果是拼写错误，可先纠正为cross swords，然后根据交锋、争论的场景记忆。",
-        "english": "cros swords",
+        "chinese": "填字游戏",
+        "desc": "",
+        "english": "crosswords",
         "phonetic": "",
         "tag": "A2/1/0"
     },
