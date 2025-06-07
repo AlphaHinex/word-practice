@@ -2254,6 +2254,251 @@ var words = [
         "tag": "A2/0/lesson2"
     },
     {
+        "chinese": "形式；表格",
+        "desc": "可通过联想记忆，如表格有固定的格式（form）。",
+        "english": "form",
+        "phonetic": "/fɔːrm/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "恐怖；惊恐",
+        "desc": "可与horrible一起记忆，horrible是horror的形容词形式。",
+        "english": "horror",
+        "phonetic": "/ˈhɔːrər/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "电影",
+        "desc": "结合常见电影场景来记忆。",
+        "english": "movie",
+        "phonetic": "/ˈmuːvi/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "演奏乐器",
+        "desc": "将play和instrument分开记忆，play表示进行某种活动，instrument表示乐器。",
+        "english": "play an instrument",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "目前；现在；礼物；赠送",
+        "desc": "可通过不同词性的用法来记忆，名词和动词的含义不同。",
+        "english": "present",
+        "phonetic": "/ˈpreznt/或/prɪˈzent/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "旅行",
+        "desc": "可根据旅行的经历来记忆相关单词。",
+        "english": "travel",
+        "phonetic": "/ˈtrævl/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "其他；别的",
+        "desc": "可通过与other对比记忆。",
+        "english": "else",
+        "phonetic": "/els/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "害怕的",
+        "desc": "与scare相关，scare是动词，scared是形容词。",
+        "english": "scared",
+        "phonetic": "/skeəd/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "更喜欢；宁愿",
+        "desc": "可通过比较不同事物时使用来记忆。",
+        "english": "prefer",
+        "phonetic": "/prɪˈfɜːr/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "写博客",
+        "desc": "write表示写，blog是博客，结合起来记忆。",
+        "english": "write a blog",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "柔道",
+        "desc": "可联想柔道的一些动作或者运动员来记忆。",
+        "english": "judo",
+        "phonetic": "/ˈdʒuːdoʊ/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "未查询到准确释义，可能存在拼写错误（正确应为cross swords），如果是cross swords，可译为“交锋；争论”",
+        "desc": "如果是拼写错误，可先纠正为cross swords，然后根据交锋、争论的场景记忆。",
+        "english": "cros swords",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "爱好；嗜好",
+        "desc": "可通过自己的爱好来记忆这个单词。",
+        "english": "hobby",
+        "phonetic": "/ˈhɑːbi/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "参加俱乐部；在俱乐部里",
+        "desc": "be表示状态，in表示在里面，club是俱乐部，结合起来记忆。",
+        "english": "be in a club",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "地址；演讲；称呼",
+        "desc": "根据不同词性的用法分别记忆。",
+        "english": "address",
+        "phonetic": "/əˈdres/或ˈædres/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "力量；力气；长处",
+        "desc": "可通过比较不同事物的力量、自己的长处来记忆。",
+        "english": "strength",
+        "phonetic": "/streŋθ/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "课程；教训",
+        "desc": "可根据上课的经历和从事情中得到的教训来记忆。",
+        "english": "lesson",
+        "phonetic": "/ˈlesn/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "难题；谜；使困惑",
+        "desc": "可通过解谜题的过程来记忆。",
+        "english": "puzzle",
+        "phonetic": "/ˈpʌzl/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "地理学",
+        "desc": "可联想地理学科的内容来记忆。",
+        "english": "Geography",
+        "phonetic": "/dʒiˈɑːɡrəfi/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "收集东西",
+        "desc": "collect表示收集，things表示东西，直接组合记忆。",
+        "english": "collect things",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "饥饿的",
+        "desc": "可根据读音规则记忆，hun类似'哼'，gry联想'格瑞'。",
+        "english": "hungry",
+        "phonetic": "/ˈhʌŋɡri/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "一会儿；一段时间",
+        "desc": "整体记忆，while有'当...时候'的意思，a while表示一段时间。",
+        "english": "a while",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "玩得开心",
+        "desc": "have表示有，fun表示乐趣，联想有乐趣就是玩得开心。",
+        "english": "have fun",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "弹钢琴",
+        "desc": "play有玩耍、演奏的意思，piano是钢琴，直接记忆。",
+        "english": "play the piano",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "邮票；跺脚；盖章",
+        "desc": "可通过形象记忆，邮票是方方正正的，stamp的字母形状也较方正。",
+        "english": "stamp",
+        "phonetic": "/stæmp/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "放松；休息",
+        "desc": "re有再一次的意思，lax联想'拉稀'，放松后可能会拉稀，方便记忆。",
+        "english": "relax",
+        "phonetic": "/rɪˈlæks/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "才能；天赋",
+        "desc": "ta联想'他'，lent联想'借出'，他借出才能。",
+        "english": "talent",
+        "phonetic": "/ˈtælənt/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "练习；实践",
+        "desc": "可拆分为prac和tise，prac联想'普拉克'，tise联想'踢死'，普拉克不断练习踢死动作。",
+        "english": "practise",
+        "phonetic": "/ˈpræktɪs/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "玩网络游戏",
+        "desc": "play是玩，online是在线，games是游戏，组合记忆。",
+        "english": "play online games",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "复制；副本",
+        "desc": "co联想'可'，py联想'排印'，可排印就是复制。",
+        "english": "copy",
+        "phonetic": "/ˈkɑːpi/",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "拍照",
+        "desc": "take有拿、取的意思，photos是照片，拿着相机取照片就是拍照。",
+        "english": "take photos",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "休息一下",
+        "desc": "have有进行的意思，a rest是休息，进行休息就是休息一下。",
+        "english": "have a rest",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "玩得愉快",
+        "desc": "have有拥有的意思，a good time是美好时光，拥有美好时光就是玩得愉快。",
+        "english": "have a good time",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "加入一个网球俱乐部",
+        "desc": "join是加入，tennis是网球，club是俱乐部，组合记忆。",
+        "english": "join a tennis club",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
+        "chinese": "养宠物",
+        "desc": "keep有保持、饲养的意思，a pet是一个宠物，保持饲养一个宠物就是养宠物。",
+        "english": "keep a pet",
+        "phonetic": "",
+        "tag": "A2/1/0"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -22611,6 +22856,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/lesson2';
             option.textContent = 'A2/0/lesson2';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/1/0';
+            option.textContent = 'A2/1/0';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
