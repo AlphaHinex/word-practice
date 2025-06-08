@@ -14709,7 +14709,7 @@ var words = [
     {
         "chinese": "离开，出发",
         "desc": "",
-        "english": "leave left",
+        "english": "leave",
         "phonetic": "",
         "tag": "primary/grade6b/unit12"
     },
