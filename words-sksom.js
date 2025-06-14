@@ -2557,7 +2557,7 @@ var words = [
     {
         "chinese": "T恤衫",
         "desc": "",
-        "english": "T - shirt",
+        "english": "T-shirt",
         "phonetic": "",
         "tag": "A2/1/1"
     },
@@ -2608,13 +2608,6 @@ var words = [
         "desc": "",
         "english": "matter",
         "phonetic": "/ˈmætər/",
-        "tag": "A2/1/1"
-    },
-    {
-        "chinese": "",
-        "desc": "",
-        "english": "PIO",
-        "phonetic": "",
         "tag": "A2/1/1"
     },
     {
