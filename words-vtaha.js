@@ -3066,9 +3066,9 @@ var words = [
         "tag": "A2/1/2"
     },
     {
-        "chinese": "飞机（aeroplane的复数形式）",
-        "desc": "先记住单数形式，再记忆复数变化规则。",
-        "english": "aeroplanes",
+        "chinese": "飞机",
+        "desc": "先记住单数形式，再记忆复数变化规则 aeroplanes。",
+        "english": "aeroplane",
         "phonetic": "",
         "tag": "A2/1/2"
     },
@@ -3122,9 +3122,9 @@ var words = [
         "tag": "A2/1/2"
     },
     {
-        "chinese": "时刻（moment的复数形式）",
-        "desc": "先记住单数形式再记忆复数。",
-        "english": "moments",
+        "chinese": "时刻",
+        "desc": "先记住单数形式再记忆复数 moments。",
+        "english": "moment",
         "phonetic": "",
         "tag": "A2/1/2"
     },
@@ -3297,10 +3297,10 @@ var words = [
         "tag": "A2/1/2"
     },
     {
-        "chinese": "能力（competency的复数形式）",
-        "desc": "compet - 竞争，-ency为名词后缀，在竞争中需要的就是能力，复数形式类似变形。",
-        "english": "competencies",
-        "phonetic": "/kəmˈpetənsiz/",
+        "chinese": "能力",
+        "desc": "compet - 竞争，-ency为名词后缀，在竞争中需要的就是能力，复数形式 competencies 类似变形。",
+        "english": "competency",
+        "phonetic": "/kəmˈpetənsi/",
         "tag": "A2/1/2"
     },
     {
@@ -3311,9 +3311,9 @@ var words = [
         "tag": "A2/1/2"
     },
     {
-        "chinese": "情况；形势（situation的复数形式）",
+        "chinese": "情况；形势",
         "desc": "先记住situation，-s为复数形式的常见添加方式。可根据词根sit（坐）联想，坐在某个场景中面对各种情况。",
-        "english": "situations",
+        "english": "situation",
         "phonetic": "",
         "tag": "A2/1/2"
     },
@@ -3346,9 +3346,9 @@ var words = [
         "tag": "A2/1/2"
     },
     {
-        "chinese": "如果是cross则为‘穿过；交叉’，此处单词大写有误",
+        "chinese": "穿过；交叉",
         "desc": "可根据单词的形状，中间的o想象成交叉的中心。",
-        "english": "CrOSS",
+        "english": "cross",
         "phonetic": "/krɔːs/",
         "tag": "A2/1/2"
     },
