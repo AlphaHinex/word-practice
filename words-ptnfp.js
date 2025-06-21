@@ -3024,6 +3024,335 @@ var words = [
         "tag": "A2/1/1"
     },
     {
+        "chinese": "请",
+        "desc": "可结合情景记忆，如礼貌请求别人做事时使用。",
+        "english": "please",
+        "phonetic": "/pliːz/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "模型",
+        "desc": "根据模型的用途或者外观联想记忆。",
+        "english": "model",
+        "phonetic": "/ˈmɑːdl/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "酷的；凉爽的",
+        "desc": "发音近似，可通过联想凉爽的感觉记忆。",
+        "english": "cool",
+        "phonetic": "/kuːl/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "声音；听起来",
+        "desc": "与发出声音的动作相联系记忆。",
+        "english": "sound",
+        "phonetic": "/saʊnd/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "实际上",
+        "desc": "通过例句理解其在语境中的用法来记忆。",
+        "english": "actually",
+        "phonetic": "/ˈæk.tʃu.ə.li/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "真正地",
+        "desc": "可对比近义词的用法差异记忆。",
+        "english": "really",
+        "phonetic": "/ˈriː.ə.li/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "飞机（aeroplane的复数形式）",
+        "desc": "先记住单数形式，再记忆复数变化规则。",
+        "english": "aeroplanes",
+        "phonetic": "",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "楼上；在楼上",
+        "desc": "根据方位概念来记忆。",
+        "english": "upstairs",
+        "phonetic": "/ˌʌpˈsterz/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "正确的；右边的",
+        "desc": "结合左右方向和正确错误的概念记忆。",
+        "english": "right",
+        "phonetic": "/raɪt/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "后来；稍后",
+        "desc": "与时间顺序相关联记忆。",
+        "english": "later",
+        "phonetic": "/ˈleɪ.t̬ɚ/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "挑选；采摘",
+        "desc": "通过动作联想记忆。",
+        "english": "pick",
+        "phonetic": "/pɪk/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "小心的",
+        "desc": "拆分记忆，care和ful的组合。",
+        "english": "careful",
+        "phonetic": "/ˈker.fl/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "飞；飞行",
+        "desc": "想象飞行的画面记忆。",
+        "english": "fly",
+        "phonetic": "/flaɪ/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "最喜欢的",
+        "desc": "与喜欢的程度相联系记忆。",
+        "english": "favourite",
+        "phonetic": "/ˈfeɪ.və.rɪt/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "时刻（moment的复数形式）",
+        "desc": "先记住单数形式再记忆复数。",
+        "english": "moments",
+        "phonetic": "",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "对不起的",
+        "desc": "根据道歉的场景记忆。",
+        "english": "sorry",
+        "phonetic": "/ˈsɑːri/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "晚餐",
+        "desc": "与一日三餐的概念联系记忆。",
+        "english": "dinner",
+        "phonetic": "/ˈdɪn.ɚ/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "几乎",
+        "desc": "通过例句理解用法记忆。",
+        "english": "almost",
+        "phonetic": "/ˈɔːl.moʊst/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "准备好的",
+        "desc": "联想准备的状态记忆。",
+        "english": "ready",
+        "phonetic": "/ˈre.di/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "破碎的；坏掉的",
+        "desc": "联想破碎的物品记忆。",
+        "english": "broken",
+        "phonetic": "/ˈbroʊ.kən/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "事故",
+        "desc": "可以根据词根词缀记忆，ac-表加强，cid-落下，-ent为名词后缀，意外突然降临的事情即事故。",
+        "english": "accident",
+        "phonetic": "/ˈæksɪdənt/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "修理",
+        "desc": "联想记忆，fix与six相似，修理六个东西，便于记忆。",
+        "english": "fix",
+        "phonetic": "/fɪks/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "赶快",
+        "desc": "hurry本身有匆忙的意思，up有向上、加快的感觉，整体联想记忆。",
+        "english": "hurry up",
+        "phonetic": "",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "当然；确定的",
+        "desc": "根据发音记忆，[ʃ]的音类似‘是’，联想为确定、当然的意思。",
+        "english": "sure",
+        "phonetic": "/ʃʊr/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "感觉；觉得",
+        "desc": "联想记忆，feet是脚，用脚去感受地面，从而记忆feel的感觉之意。",
+        "english": "feel",
+        "phonetic": "/fiːl/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "小心；留神",
+        "desc": "look有看的意思，out有向外的意思，向外看就是要小心、留神。",
+        "english": "look out",
+        "phonetic": "",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "伟大的；很棒的",
+        "desc": "根据发音记忆，[ɡreɪt]的发音比较响亮，联想为很棒、伟大的。",
+        "english": "great",
+        "phonetic": "/ɡreɪt/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "只是；刚刚",
+        "desc": "可以通过简单的例句来记忆，如I'm just here. 来理解其意思。",
+        "english": "just",
+        "phonetic": "/dʒʌst/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "一起",
+        "desc": "to - 向，get - 得到，her - 她，向得到她就在一起，联想记忆。",
+        "english": "together",
+        "phonetic": "/təˈɡeðər/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "睡着的",
+        "desc": "a - 一个，sleep - 睡觉，一个正在睡觉的状态即睡着的。",
+        "english": "asleep",
+        "phonetic": "/əˈsliːp/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "正确的；纠正",
+        "desc": "cor - 共同，rect - 直，共同使之变直就是纠正、正确的意思。",
+        "english": "correct",
+        "phonetic": "/kəˈrekt/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "快点；加油",
+        "desc": "come有来的意思，on有继续、向前的感觉，组合起来联想记忆。",
+        "english": "come on",
+        "phonetic": "",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "道路",
+        "desc": "联想记忆，road与load相似，道路上有负载，便于记忆。",
+        "english": "road",
+        "phonetic": "/roʊd/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "小心；注意",
+        "desc": "be是，care关心、在乎，ful充满，充满关心就是小心、注意。",
+        "english": "be careful",
+        "phonetic": "",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "能够",
+        "desc": "be是，able有能力的，组合起来就是能够的意思。",
+        "english": "be able to",
+        "phonetic": "",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "分享",
+        "desc": "联想记忆，share与care发音类似，分享是一种关心的表现。",
+        "english": "share",
+        "phonetic": "/ʃer/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "同理心；共鸣",
+        "desc": "em - 进入，path - 感情，y - 名词后缀，进入到别人的感情里即同理心、共鸣。",
+        "english": "empathy",
+        "phonetic": "/ˈempəθi/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "理解",
+        "desc": "under - 在下面，stand - 站，站在下面去体会就是理解。",
+        "english": "understand",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "感情；情感",
+        "desc": "feel有感觉的意思，-ings为名词复数形式，感觉的东西就是感情、情感。",
+        "english": "feelings",
+        "phonetic": "/ˈfiːlɪŋz/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "能力（competency的复数形式）",
+        "desc": "compet - 竞争，-ency为名词后缀，在竞争中需要的就是能力，复数形式类似变形。",
+        "english": "competencies",
+        "phonetic": "/kəmˈpetənsiz/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "心烦的；沮丧的",
+        "desc": "可根据up（向上）和set（放置）联想记忆，东西向上放置而乱了，可表示心烦的。",
+        "english": "upset",
+        "phonetic": "/ʌpˈset/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "情况；形势（situation的复数形式）",
+        "desc": "先记住situation，-s为复数形式的常见添加方式。可根据词根sit（坐）联想，坐在某个场景中面对各种情况。",
+        "english": "situations",
+        "phonetic": "",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "决定",
+        "desc": "de（向下）+ cide（切），向下切，可理解为下决定切断犹豫。",
+        "english": "decide",
+        "phonetic": "/dɪˈsaɪd/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "卧室",
+        "desc": "bed（床）+ room（房间），有床的房间就是卧室。",
+        "english": "bedroom",
+        "phonetic": "",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "没有什么",
+        "desc": "no（不）+ thing（东西），没有东西即没有什么。",
+        "english": "nothing",
+        "phonetic": "/ˈnʌθɪŋ/",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "快点",
+        "desc": "be为系动词，quick为形容词，简单组合表达快点的意思，可联想be后面加快速相关的形容词表示快点。",
+        "english": "be quick",
+        "phonetic": "",
+        "tag": "A2/1/2"
+    },
+    {
+        "chinese": "如果是cross则为‘穿过；交叉’，此处单词大写有误",
+        "desc": "可根据单词的形状，中间的o想象成交叉的中心。",
+        "english": "CrOSS",
+        "phonetic": "/krɔːs/",
+        "tag": "A2/1/2"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -23387,6 +23716,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/1/1';
             option.textContent = 'A2/1/1';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/1/2';
+            option.textContent = 'A2/1/2';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
