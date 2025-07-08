@@ -3705,7 +3705,7 @@ var words = [
     {
         "chinese": "二手的",
         "desc": "second是第二，hand是手，二手的东西经过了第二个人的手。",
-        "english": "second - hand",
+        "english": "second-hand",
         "phonetic": "",
         "tag": "A2/2/1"
     },
@@ -3873,7 +3873,7 @@ var words = [
     {
         "chinese": "老式的；过时的",
         "desc": "从单词组合的字面意义记忆",
-        "english": "old - fashioned",
+        "english": "old-fashioned",
         "phonetic": "",
         "tag": "A2/2/1"
     },
@@ -4053,9 +4053,9 @@ var words = [
         "tag": "A2/2/2"
     },
     {
-        "chinese": "这个词可能是拼写错误，无法准确翻译",
-        "desc": "由于可能是错误拼写，无法提供记忆技巧",
-        "english": "sme11",
+        "chinese": "闻；气味",
+        "desc": "",
+        "english": "smell",
         "phonetic": "",
         "tag": "A2/2/2"
     },
@@ -4279,7 +4279,7 @@ var words = [
     {
         "chinese": "老式的；过时的",
         "desc": "old是老的，fashion是时尚，加ed表示有…特点的，联想记忆",
-        "english": "old - fashioned",
+        "english": "old-fashioned",
         "phonetic": "",
         "tag": "A2/2/2"
     },
