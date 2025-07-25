@@ -4655,6 +4655,363 @@ var words = [
         "tag": "junior/grade7a/unit1"
     },
     {
+        "chinese": "杂志",
+        "desc": "可通过联想记忆，比如将其拆分成'mag'（联想魔法）和'azine'（类似某种东西的后缀），想象杂志里有很多神奇的内容。",
+        "english": "magazine",
+        "phonetic": "/ˌmæɡəˈziːn/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "(13至19岁之间的)青少年",
+        "desc": "拆分为'teen'（十几岁）和'ager'（表示人的后缀）来记忆。",
+        "english": "teenager",
+        "phonetic": "/ˈtiːneɪdʒər/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "潮湿的",
+        "desc": "可以通过与'water'（水）联系起来记忆，有水的地方就会潮湿。",
+        "english": "wet",
+        "phonetic": "/wet/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "深的",
+        "desc": "联想'dig'（挖），挖得深就会有深的感觉。",
+        "english": "deep",
+        "phonetic": "/diːp/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "问候;招呼",
+        "desc": "与'greet'（动词问候）相关联，加上'ing'形式名词化。",
+        "english": "greeting",
+        "phonetic": "/ˈɡriːtɪŋ/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "年级",
+        "desc": "可根据学校里不同的年级层次来记忆。",
+        "english": "grade",
+        "phonetic": "/ɡreɪd/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "精力;活力",
+        "desc": "可以想象'en'（使）和'ergy'（能量），使有能量就是精力。",
+        "english": "energy",
+        "phonetic": "/ˈenərdʒi/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "戏;剧",
+        "desc": "与'dramatic'（戏剧性的）联系起来，有戏剧就会有戏剧性。",
+        "english": "drama",
+        "phonetic": "/ˈdrɑːmə/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "真诚地;诚实地",
+        "desc": "由'sincere'（真诚的）加上'ly'变成副词形式来记忆。",
+        "english": "sincerely",
+        "phonetic": "/sɪnˈsɪrli/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "特色;特征",
+        "desc": "可拆分为'fea'（联想'face'脸有特征）和'ture'来记忆。",
+        "english": "feature",
+        "phonetic": "/ˈfiːtʃər/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "南;南方",
+        "desc": "与地图上的方向联系起来记忆。",
+        "english": "south",
+        "phonetic": "/saʊθ/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "日记;日记簿",
+        "desc": "可以想象每天'daily'记录的东西就是日记。",
+        "english": "diary",
+        "phonetic": "/ˈdaɪəri/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "课题",
+        "desc": "与'pro'（向前）和'ject'（投掷）联想，向前投掷出的就是课题。",
+        "english": "project",
+        "phonetic": "/ˈprɑːdʒekt/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "大声地",
+        "desc": "由'loud'（大声的）加上'ly'变成副词形式来记忆。",
+        "english": "loudly",
+        "phonetic": "/ˈlaʊdli/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "海报",
+        "desc": "可通过看到海报上的图片'post'（张贴）来记忆。",
+        "english": "poster",
+        "phonetic": "/ˈpoʊstər/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "意识到",
+        "desc": "拆分为'real'（真实的）和'ize'（使），使真实就是意识到。",
+        "english": "realize",
+        "phonetic": "/ˈriːəlaɪz/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "雷",
+        "desc": "听到打雷的声音来记忆。",
+        "english": "thunder",
+        "phonetic": "/ˈθʌndər/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "闪电",
+        "desc": "看到闪电的光亮来记忆。",
+        "english": "lightning",
+        "phonetic": "/ˈlaɪtnɪŋ/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "幸运地;幸好",
+        "desc": "由'lucky'（幸运的）加上'ly'变成副词形式来记忆。",
+        "english": "luckily",
+        "phonetic": "/ˈlʌkəli/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "新鲜的",
+        "desc": "可以联想新摘的水果是新鲜的。",
+        "english": "fresh",
+        "phonetic": "/freʃ/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "恰好",
+        "desc": "可根据发音记忆，ju发/dʒʌ/，st发/st/。",
+        "english": "just",
+        "phonetic": "/dʒʌst/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "采集(植物、水果等)",
+        "desc": "联想记忆，gath联想为gate（大门），在大门附近采集东西。",
+        "english": "gather",
+        "phonetic": "/ˈɡæðər/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "演示",
+        "desc": "根据词根记忆，present有呈现的意思，加上ation名词后缀。",
+        "english": "presentation",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "情绪;心情",
+        "desc": "通过短语in a good mood（好心情）来记忆。",
+        "english": "mood",
+        "phonetic": "/muːd/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "介意",
+        "desc": "联想记忆，与find（发现）对比，一个是发现，一个是介意。",
+        "english": "mind",
+        "phonetic": "/maɪnd/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "(把……)打包",
+        "desc": "根据发音记忆，pa发/pæ/，ck发/k/。",
+        "english": "pack",
+        "phonetic": "/pæk/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "蛇",
+        "desc": "象形记忆，s像蛇的形状。",
+        "english": "snake",
+        "phonetic": "/sneɪk/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "自始至终;从头到尾",
+        "desc": "联想记忆，th发音/θ/，rough发音/ruː/，可联想走过一条崎岖的路从头到尾。",
+        "english": "through",
+        "phonetic": "/θruː/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "困难的",
+        "desc": "联想记忆，rock是岩石，像在岩石上行走很困难。",
+        "english": "rocky",
+        "phonetic": "/ˈrɑːki/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "区域;地区",
+        "desc": "联想记忆，与art（艺术）对比，不同的艺术分区。",
+        "english": "part",
+        "phonetic": "/pɑːrt/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "文章",
+        "desc": "根据词根记忆，art有艺术、技艺的意思，文章也是一种技艺。",
+        "english": "article",
+        "phonetic": "/ˈɑːrtɪkl/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "洗碗",
+        "desc": "整体记忆这个短语。",
+        "english": "do the dishes",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "初级中学",
+        "desc": "整体记忆这个短语。",
+        "english": "junior high school",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "参与",
+        "desc": "整体记忆这个短语。",
+        "english": "take part in",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "期待;盼望",
+        "desc": "整体记忆这个短语。",
+        "english": "look forward to",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "按……式发展",
+        "desc": "联想记忆，fo发音/fɔː/，llow发音/loʊ/，跟着发展。",
+        "english": "follow",
+        "phonetic": "/ˈfɑːloʊ/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "日常生活",
+        "desc": "整体记忆这个短语。",
+        "english": "daily life",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "去睡觉",
+        "desc": "整体记忆这个短语。",
+        "english": "go to bed",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "起床",
+        "desc": "整体记忆这个短语。",
+        "english": "get up",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "步行",
+        "desc": "整体记忆这个短语。",
+        "english": "on foot",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "庄稼;作物",
+        "desc": "可根据发音联想记忆，cro像cross（穿过），p想象成一片田地，穿过田地的是庄稼。",
+        "english": "crop",
+        "phonetic": "/krɑːp/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "文化;文明",
+        "desc": "可以拆分成cult（崇拜）+ure，对文化文明有崇拜之情。",
+        "english": "culture",
+        "phonetic": "/ˈkʌltʃər/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "地方的;当地的",
+        "desc": "loc联想locate（位于），地方的就是位于某地的。",
+        "english": "local",
+        "phonetic": "/ˈloʊkl/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "传统",
+        "desc": "tra谐音“传”，dition联想dictionary（字典），传承下来被记载在字典里的就是传统。",
+        "english": "tradition",
+        "phonetic": "/trəˈdɪʃn/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "持续;继续存在",
+        "desc": "con联想come（来），tinue联想tin（罐头），不断有罐头来就是持续。",
+        "english": "continue",
+        "phonetic": "/kənˈtɪnjuː/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "打扫干净",
+        "desc": "clean本身就有打扫干净的意思，up表示彻底，组合起来记忆。",
+        "english": "clean up",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "取(某物)",
+        "desc": "pick有挑选、采摘的意思，up表示向上、拿起，合起来联想取东西的动作。",
+        "english": "pick up",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "庆祝;庆贺",
+        "desc": "cele联想cell（细胞），brate联想brave（勇敢），细胞都变得勇敢欢快就像在庆祝。",
+        "english": "celebrate",
+        "phonetic": "/ˈselɪbreɪt/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "成功",
+        "desc": "suc联想suck（吸），cess联想access（接近），吸引着不断接近的就是成功。",
+        "english": "success",
+        "phonetic": "/səkˈses/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "沙堡",
+        "desc": "sand是沙子，castle是城堡，组合起来就是沙堡。",
+        "english": "sandcastle",
+        "phonetic": "/ˈsændkæsl/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "(使)分开",
+        "desc": "di谐音“底”，vide联想video（视频），从底部把视频分开。",
+        "english": "divide",
+        "phonetic": "/dɪˈvaɪd/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -25030,6 +25387,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7a/unit1';
             option.textContent = 'junior/grade7a/unit1';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7a/unit2';
+            option.textContent = 'junior/grade7a/unit2';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
