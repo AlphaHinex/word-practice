@@ -2233,6 +2233,363 @@ var words = [
         "tag": "A2/21-23"
     },
     {
+        "chinese": "腰带",
+        "desc": "可联想为'be'（是）+ 'lt'（类似'let'，让），腰带是让衣服更合身的东西",
+        "english": "belt",
+        "phonetic": "/belt/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "连衣裙",
+        "desc": "可根据发音记忆，'dr'类似'拽'，连衣裙可以拽起来",
+        "english": "dress",
+        "phonetic": "/dres/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "无袖连衣裙；套头毛衣",
+        "desc": "可以拆分为'jump'（跳）+ 'er'，想象穿着它跳起来的样子",
+        "english": "jumper",
+        "phonetic": "/ˈdʒʌmpər/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "鞋子",
+        "desc": "复数形式，'sh'的发音比较特殊，联想鞋子的形状来记忆",
+        "english": "shoes",
+        "phonetic": "/ʃuːz/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "寻求帮助",
+        "desc": "整体记忆，'ask'（问）+ 'for'（为了）+ 'help'（帮助）",
+        "english": "asking for help",
+        "phonetic": "",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "靴子",
+        "desc": "发音和'boot'（启动）类似，想象穿着靴子启动行走",
+        "english": "boots",
+        "phonetic": "/buːts/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "运动鞋",
+        "desc": "可联想'train'（训练），运动鞋用于训练",
+        "english": "trainers",
+        "phonetic": "/ˈtreɪnərz/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "夹克衫",
+        "desc": "根据发音记忆，'ja'类似'夹'的音",
+        "english": "jacket",
+        "phonetic": "/ˈdʒækɪt/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "短裤",
+        "desc": "复数形式，'short'（短的）+ 's'，很容易理解记忆",
+        "english": "shorts",
+        "phonetic": "/ʃɔːrts/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "靠自己；独自",
+        "desc": "字面理解记忆，'on'（在...上）+ 'my'（我的）+ 'own'（自己的）",
+        "english": "on my own",
+        "phonetic": "",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "牛仔裤",
+        "desc": "根据发音记忆，'je'类似'吉'，可以联想某个品牌牛仔裤",
+        "english": "jeans",
+        "phonetic": "/dʒiːnz/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "一些；几个",
+        "desc": "固定短语，直接记忆",
+        "english": "a few",
+        "phonetic": "",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "长裤",
+        "desc": "复数形式，'trou'类似'潮'，想象长裤很潮",
+        "english": "trousers",
+        "phonetic": "/ˈtraʊzərz/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "裤子",
+        "desc": "根据发音记忆，'pan'类似'盘'，可以联想裤子的形状像盘子",
+        "english": "pants",
+        "phonetic": "/pænts/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "伙伴；搭档",
+        "desc": "可拆分为'part'（部分）+ 'ner'，伙伴是自己的一部分",
+        "english": "partner",
+        "phonetic": "/ˈpɑːrtnər/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "有价值的；贵重的",
+        "desc": "可联想'value'（价值）+ 'able'（能够），有价值的能够体现价值",
+        "english": "valuable",
+        "phonetic": "/ˈvæljuəbl/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "此刻；当时",
+        "desc": "固定短语，直接记忆",
+        "english": "at the moment",
+        "phonetic": "",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "文本；课文",
+        "desc": "根据发音记忆，'te'类似'特'，特别的文本",
+        "english": "text",
+        "phonetic": "/tekst/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "组；群",
+        "desc": "根据发音记忆，'grou'类似'鼓'，一群人就像鼓起来的形状",
+        "english": "group",
+        "phonetic": "/ɡruːp/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "比较；对比",
+        "desc": "可拆分为'com'（一起）+ 'pare'（类似'pair'，一对），一起比较一对事物",
+        "english": "compare",
+        "phonetic": "/kəmˈper/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "每周的；周刊",
+        "desc": "可根据week（周）联想记忆，加上 -ly后缀表示形容词或副词相关含义。",
+        "english": "weekly",
+        "phonetic": "/ˈwiːkli/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "自由的；免费的",
+        "desc": "可以通过free的常见用法来记忆，如free time（空闲时间）等。",
+        "english": "free",
+        "phonetic": "/friː/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "查看；检验",
+        "desc": "可拆分为check（检查）和out（出去），联想检查出来的意思。",
+        "english": "check out",
+        "phonetic": "",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "忘记",
+        "desc": "for - 为了，get - 得到，联想为了得到新的记忆而忘记旧的。",
+        "english": "forget",
+        "phonetic": "/fərˈɡet/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "正常地；通常地",
+        "desc": "normal（正常的）加 -ly后缀变成副词，可联想normal的用法来记忆。",
+        "english": "normally",
+        "phonetic": "/ˈnɔːrməli/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "上传",
+        "desc": "up - 向上，load - 加载，联想向上加载即上传。",
+        "english": "upload",
+        "phonetic": "/ˌʌpˈloʊd/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "博客",
+        "desc": "根据发音记忆。",
+        "english": "blog",
+        "phonetic": "/blɑːɡ/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "至少",
+        "desc": "at表示在，least表示最少的，联想在最少的程度即至少。",
+        "english": "at least",
+        "phonetic": "",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "诗歌",
+        "desc": "可联想著名诗人的作品来记忆这个单词。",
+        "english": "poetry",
+        "phonetic": "/ˈpoʊətri/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "邮政；帖子；发布",
+        "desc": "可以通过post的不同词性用法来记忆，如post office（邮局）。",
+        "english": "post",
+        "phonetic": "/poʊst/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "杂志",
+        "desc": "可根据常见杂志的名字来记忆这个单词。",
+        "english": "magazine",
+        "phonetic": "/ˌmæɡəˈziːn/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "网站",
+        "desc": "web - 网，site - 地点，联想网络上的地点即网站。",
+        "english": "website",
+        "phonetic": "/ˈwebsaɪt/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "相信；认为",
+        "desc": "be - 是，lie - 谎言，ve - 我（联想），联想不要相信谎言。",
+        "english": "believe",
+        "phonetic": "/bɪˈliːv/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "去散步",
+        "desc": "go表示去，walk表示走路，for a表示一种目的。",
+        "english": "go for a walk",
+        "phonetic": "",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "暂时的；临时的",
+        "desc": "temper - 脾气，联想脾气是暂时的，加 -ary后缀。",
+        "english": "temporary",
+        "phonetic": "/ˈtempəreri/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "记得；记住",
+        "desc": "re - 再次，member - 成员，联想再次成为成员需要记住某些东西。",
+        "english": "remember",
+        "phonetic": "/rɪˈmembər/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "制服",
+        "desc": "uni - 单一，form - 形式，联想统一的形式即制服。",
+        "english": "uniform",
+        "phonetic": "/ˈjuːnɪfɔːrm/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "不喜欢；厌恶",
+        "desc": "dis - 否定前缀，like - 喜欢，否定喜欢就是不喜欢。",
+        "english": "dislike",
+        "phonetic": "/dɪsˈlaɪk/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "可怕的；糟糕的",
+        "desc": "terr - 恐怖（联想）， -ble后缀，联想恐怖的事情是可怕的。",
+        "english": "terrible",
+        "phonetic": "/ˈterəbl/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "二月",
+        "desc": "根据发音记忆。",
+        "english": "February",
+        "phonetic": "/ˈfebruːeri/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "花费；度过",
+        "desc": "可通过例句记忆，如I spend two hours on my homework.",
+        "english": "spend",
+        "phonetic": "/spend/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "也许",
+        "desc": "与may和be联想记忆，may表示可能，be是系动词。",
+        "english": "maybe",
+        "phonetic": "/ˈmeɪbi/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "想象力",
+        "desc": "拆分成imagine（想象）和后缀 -ation。",
+        "english": "imagination",
+        "phonetic": "/ɪˌmædʒɪˈneɪʃn/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "诗",
+        "desc": "联想记忆一些著名的诗歌。",
+        "english": "poem",
+        "phonetic": "/ˈpoʊəm/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "月",
+        "desc": "与其他时间单位对比记忆。",
+        "english": "month",
+        "phonetic": "/mʌnθ/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "习惯",
+        "desc": "可根据常见的习惯来记忆。",
+        "english": "habits",
+        "phonetic": "/ˈhæbɪts/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "昆虫",
+        "desc": "结合昆虫的图片或特征记忆。",
+        "english": "insect",
+        "phonetic": "/ˈɪnsekt/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "带来；拿来",
+        "desc": "与take对比记忆，bring是带来，take是带走。",
+        "english": "bring",
+        "phonetic": "/brɪŋ/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "常规；例行公事",
+        "desc": "联想日常的例行事务。",
+        "english": "routines",
+        "phonetic": "/ruːˈtiːnz/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "问题",
+        "desc": "可通过解决问题的场景记忆。",
+        "english": "problem",
+        "phonetic": "/ˈprɑːbləm/",
+        "tag": "A2/24-25"
+    },
+    {
+        "chinese": "一般地；通常",
+        "desc": "与general联系起来，-ly为副词后缀。",
+        "english": "generally",
+        "phonetic": "/ˈdʒenrəli/",
+        "tag": "A2/24-25"
+    },
+    {
         "chinese": "墨西哥",
         "desc": "联想记忆：Me（我）+xi（西）+co（可），我去西可（类似音译）的地方就是墨西哥。",
         "english": "Mexico",
@@ -26307,6 +26664,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/21-23';
             option.textContent = 'A2/21-23';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/24-25';
+            option.textContent = 'A2/24-25';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/lesson1';
             option.textContent = 'A2/0/lesson1';
