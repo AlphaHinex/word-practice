@@ -1295,6 +1295,538 @@ var words = [
         "tag": "/p120"
     },
     {
+        "chinese": "批评的；关键的；严重的",
+        "desc": "可根据词根crit（判断）来记忆，ical为形容词后缀",
+        "english": "critical",
+        "phonetic": "/ˈkrɪtɪkl/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "建议",
+        "desc": "可联想advise（动词形式），词尾ce为名词后缀",
+        "english": "advice",
+        "phonetic": "/ədˈvaɪs/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "理解",
+        "desc": "under表示在下方，stand表示站立，可理解为站在下面去理解",
+        "english": "understand",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "电子邮件",
+        "desc": "e代表电子，mail是邮件的意思",
+        "english": "email",
+        "phonetic": "/ˈiːmeɪl/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "数学",
+        "desc": "可通过多做数学题来加深记忆",
+        "english": "Maths",
+        "phonetic": "/mæθs/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "其余的；剩下的",
+        "desc": "rest表示剩余，of为介词，整体记忆",
+        "english": "the rest of",
+        "phonetic": "",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "问题",
+        "desc": "可拆分为pro和blem，联想处理问题的过程",
+        "english": "problem",
+        "phonetic": "/ˈprɑːbləm/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "解释",
+        "desc": "ex表示向外，plain表示平坦的，向外把事情说平坦即解释",
+        "english": "explain",
+        "phonetic": "/ɪkˈspleɪn/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "足够的",
+        "desc": "可通过词组have enough of来记忆",
+        "english": "enough",
+        "phonetic": "/ɪˈnʌf/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "主要地；通常",
+        "desc": "most为大部分，ly为副词后缀",
+        "english": "mostly",
+        "phonetic": "/ˈmoʊstli/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "必要的",
+        "desc": "可根据其反义词unnecessary一起记忆",
+        "english": "necessary",
+        "phonetic": "/ˈnesəseri/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "似乎；好像",
+        "desc": "联想其近义词appear来记忆",
+        "english": "seem",
+        "phonetic": "/siːm/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "问题；疑问",
+        "desc": "可通过question mark（问号）来联想记忆",
+        "english": "question",
+        "phonetic": "/ˈkwestʃən/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "感兴趣的",
+        "desc": "interest是兴趣，ed为形容词后缀",
+        "english": "interested",
+        "phonetic": "/ˈɪntrəstɪd/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "幸运地",
+        "desc": "luck是幸运，ly为副词后缀",
+        "english": "luckily",
+        "phonetic": "/ˈlʌkɪli/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "移动的；可移动的；手机",
+        "desc": "可联想手机可以移动的特点来记忆",
+        "english": "mobile",
+        "phonetic": "/ˈmoʊbl/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "花费；度过",
+        "desc": "可通过spend time/money的用法来记忆",
+        "english": "spend",
+        "phonetic": "/spend/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "打破；休息",
+        "desc": "可联想break的多种短语搭配来记忆",
+        "english": "break",
+        "phonetic": "/breɪk/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "通过；经过",
+        "desc": "可结合短语pass by记忆，想象一个人从旁边经过的画面。",
+        "english": "pass",
+        "phonetic": "/pæs/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "考试",
+        "desc": "联想examination，它们意思相同，通过熟悉的examination来记忆exam。",
+        "english": "exam",
+        "phonetic": "/ɪɡˈzæm/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "（不再；再也不）",
+        "desc": "可拆分为any和more，记忆不再有更多，就表示不再的意思。",
+        "english": "anymore",
+        "phonetic": "/ˌeniˈmɔːr/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "一组；一群",
+        "desc": "group本身有群、组的意思，加上of表示所属关系，可通过词组搭配记忆。",
+        "english": "group of",
+        "phonetic": "",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "没有人",
+        "desc": "no表示没有，body有身体、人的意思，组合起来就是没有人。",
+        "english": "nobody",
+        "phonetic": "/ˈnoʊbədi/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "自由的；免费的；空闲的",
+        "desc": "可联想free time表示空闲时间，免费的东西会让人感觉自由。",
+        "english": "free",
+        "phonetic": "/friː/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "周末",
+        "desc": "week表示星期，end表示末尾，一星期的末尾就是周末。",
+        "english": "weekend",
+        "phonetic": "/ˈwiːkend/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "讨论",
+        "desc": "dis可理解为分散，cuss像cause原因，大家分散说原因，就是讨论。",
+        "english": "discuss",
+        "phonetic": "/dɪˈskʌs/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "想象",
+        "desc": "image有图像的意思，想象就是在脑海里形成图像。",
+        "english": "imagine",
+        "phonetic": "/ɪˈmædʒɪn/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "不快乐的",
+        "desc": "un是否定前缀，happy是快乐的，加起来就是不快乐的。",
+        "english": "unhappy",
+        "phonetic": "/ʌnˈhæpi/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "拥抱",
+        "desc": "可以想象两个人拥抱时发出hug的声音。",
+        "english": "hug",
+        "phonetic": "/hʌɡ/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "价格",
+        "desc": "联想pricy昂贵的，有价格才会有昂贵与否的概念。",
+        "english": "price",
+        "phonetic": "/praɪs/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "检查；核对",
+        "desc": "可联系check list检查表，记忆与检查核对相关。",
+        "english": "check",
+        "phonetic": "/tʃek/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "老式的；过时的",
+        "desc": "old是老的，fashion是时尚，加ed表示过去的时尚，即老式的过时的。",
+        "english": "old - fashioned",
+        "phonetic": "",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "移动；搬家",
+        "desc": "可联想moving car正在移动的汽车，帮助记忆移动的意思。",
+        "english": "move",
+        "phonetic": "/muːv/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "伙伴；合伙人",
+        "desc": "part有部分的意思，伙伴是自己的一部分，可这样记忆。",
+        "english": "partner",
+        "phonetic": "/ˈpɑːrtnər/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "便宜的",
+        "desc": "可联想cheap things，多记忆一些便宜的东西来加深印象。",
+        "english": "cheap",
+        "phonetic": "/tʃiːp/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "昂贵的",
+        "desc": "ex可理解为向外，pens联想spend花费，向外花费很多就是昂贵的。",
+        "english": "expensive",
+        "phonetic": "/ɪkˈspensɪv/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "梦想；做梦",
+        "desc": "可联想sweet dream美梦，从常见的词组记忆。",
+        "english": "dream",
+        "phonetic": "/driːm/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "极好的；了不起的",
+        "desc": "可拆分为fan和tastic，像粉丝看到偶像时觉得极好的。",
+        "english": "fantastic",
+        "phonetic": "/fænˈtæstɪk/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "分钟",
+        "desc": "可根据词根min（小的）来记忆，ute是常见后缀。",
+        "english": "minutes",
+        "phonetic": "/ˈmɪnɪts/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "到达",
+        "desc": "可拆分为ar+rive，rive有河流的意思，想象到达河边。",
+        "english": "arrive",
+        "phonetic": "/əˈraɪv/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "夹克衫",
+        "desc": "联想记忆，和常见的夹克款式联系起来。",
+        "english": "jacket",
+        "phonetic": "/ˈdʒækɪt/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "虽然；尽管",
+        "desc": "和thought（想法）对比记忆。",
+        "english": "though",
+        "phonetic": "/ðoʊ/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "衣服",
+        "desc": "复数形式，可按常见衣物种类来记忆。",
+        "english": "clothes",
+        "phonetic": "/kloʊðz/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "真正地；确实",
+        "desc": "real（真实的）+ly后缀，根据词性转换记忆。",
+        "english": "really",
+        "phonetic": "/ˈriːəli/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "当然",
+        "desc": "整体记忆这个常用词组。",
+        "english": "of course",
+        "phonetic": "",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "意思是；意味着",
+        "desc": "可根据其不同词性的用法来记忆。",
+        "english": "mean",
+        "phonetic": "/miːn/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "开玩笑",
+        "desc": "joke（笑话）+ing形式，根据词性转换记忆。",
+        "english": "joking",
+        "phonetic": "/ˈdʒoʊkɪŋ/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "化学家；药剂师",
+        "desc": "可联想化学相关知识来记忆。",
+        "english": "Chemist",
+        "phonetic": "/ˈkemɪst/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "东西；材料",
+        "desc": "可通过列举常见的stuff来记忆。",
+        "english": "stuff",
+        "phonetic": "/stʌf/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "雨；下雨",
+        "desc": "联想下雨的场景记忆。",
+        "english": "rain",
+        "phonetic": "/reɪn/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "雨伞",
+        "desc": "可根据其形状和用途记忆。",
+        "english": "umbrella",
+        "phonetic": "/ʌmˈbrelə/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "拥挤的",
+        "desc": "crowd（人群）+ed形式，根据词性转换记忆。",
+        "english": "crowded",
+        "phonetic": "/ˈkraʊdɪd/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "因为",
+        "desc": "常用连词，根据其引导的句子类型记忆。",
+        "english": "because",
+        "phonetic": "/bɪˈkɔːz/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "也许；可能",
+        "desc": "可根据其语义进行记忆。",
+        "english": "maybe",
+        "phonetic": "/ˈmeɪbi/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "二手的",
+        "desc": "整体记忆这个词组。",
+        "english": "second - hand",
+        "phonetic": "",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "穿；戴",
+        "desc": "可根据不同的穿戴对象来记忆。",
+        "english": "wear",
+        "phonetic": "/wer/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "猜测",
+        "desc": "根据其在句子中的用法记忆。",
+        "english": "guess",
+        "phonetic": "/ɡes/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "糟糕的；可怕的",
+        "desc": "联想记忆：aw（看作awe，敬畏）+ ful（充满…的）→ 充满敬畏的 → 可怕的",
+        "english": "awful",
+        "phonetic": "/ˈɔːfl/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "明亮的；聪明的",
+        "desc": "对比记忆：light（光）→ bright（明亮的）；联想记忆：b（不）+ right（正确的）→ 不正确但很聪明的",
+        "english": "bright",
+        "phonetic": "/braɪt/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "颜色",
+        "desc": "联想记忆：col（共同）+ our（我们的）→ 我们共同拥有的（东西）→ 颜色",
+        "english": "colour",
+        "phonetic": "/ˈkʌlər/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "主意；想法",
+        "desc": "谐音记忆：爱帝儿 → 有爱的想法；联想记忆：i（我）+ dea（看作deal，处理）→ 我处理事情的想法",
+        "english": "idea",
+        "phonetic": "/aɪˈdiːə/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "（促销；廉价出售）",
+        "desc": "拆分记忆：sale（销售）+ on（进行中）→ 正在销售（促销）",
+        "english": "sale on",
+        "phonetic": "",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "完美的",
+        "desc": "词根记忆：per（完全）+ fect（做）→ 完全做好的 → 完美的",
+        "english": "perfect",
+        "phonetic": "/ˈpɜːrfɪkt/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "浪费；废物",
+        "desc": "联想记忆：wa（哇）+ ste（看作stew，炖）→ 哇，炖这么多吃不完是浪费",
+        "english": "waste",
+        "phonetic": "/weɪst/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "更好的",
+        "desc": "对比记忆：good（好的）→ better（更好的）；联想记忆：be（是）+ tt（像两个加号，表示更）+ er（比较级后缀）→ 是更好的",
+        "english": "better",
+        "phonetic": "/ˈbetər/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "听起来；声音",
+        "desc": "联想记忆：so（如此）+ und（看作under，在…下）→ 声音如此低沉像是在下面传来的",
+        "english": "sound",
+        "phonetic": "/saʊnd/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "记得；记住",
+        "desc": "拆分记忆：re（再）+ member（成员）→ 再次成为成员（记忆）→ 记得",
+        "english": "remember",
+        "phonetic": "/rɪˈmembər/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "钱",
+        "desc": "联想记忆：mon（看作moon，月亮）+ ey（看作eye，眼睛）→ 月亮代表钱，眼睛盯着钱",
+        "english": "money",
+        "phonetic": "/ˈmʌni/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "无论如何；不管怎样",
+        "desc": "拆分记忆：any（任何）+ way（方式）→ 任何方式（无论如何）",
+        "english": "anyway",
+        "phonetic": "/ˈeniweɪ/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "可怕的；极讨厌的",
+        "desc": "词根记忆：horr（害怕）+ ible（可…的）→ 可怕的",
+        "english": "horrible",
+        "phonetic": "/ˈhɔːrəbl/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "物体；对象；目标",
+        "desc": "词根记忆：ob（反）+ ject（扔）→ 反着扔（目标）→ 目标；联想记忆：ob（欧巴）+ ject（看作ject，喷射）→ 欧巴喷射出物体",
+        "english": "object",
+        "phonetic": "/ˈɑːbdʒekt/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "富有的",
+        "desc": "联想记忆：ri（日）+ ch（吃）→ 每日吃山珍海味 → 富有的",
+        "english": "rich",
+        "phonetic": "/rɪtʃ/",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "寻找",
+        "desc": "拆分记忆：look（看）+ for（为了）→ 为了看到而（寻找）",
+        "english": "look for",
+        "phonetic": "",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "原价",
+        "desc": "拆分记忆：original（原始的）+ price（价格）→ 原始价格（原价）",
+        "english": "original price",
+        "phonetic": "",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "此刻；目前",
+        "desc": "拆分记忆：at（在）+ the（这）+ moment（时刻）→ 在这个时刻（此刻）",
+        "english": "at the moment",
+        "phonetic": "",
+        "tag": "A2/19-20"
+    },
+    {
+        "chinese": "生气的",
+        "desc": "联想记忆：an（一）+ gry（看作cry，哭）→ 一生气就哭",
+        "english": "angry",
+        "phonetic": "/ˈæŋɡri/",
+        "tag": "A2/19-20"
+    },
+    {
         "chinese": "墨西哥",
         "desc": "联想记忆：Me（我）+xi（西）+co（可），我去西可（类似音译）的地方就是墨西哥。",
         "english": "Mexico",
@@ -25363,6 +25895,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = '/p120';
             option.textContent = '/p120';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/19-20';
+            option.textContent = 'A2/19-20';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/lesson1';
             option.textContent = 'A2/0/lesson1';
