@@ -2590,6 +2590,377 @@ var words = [
         "tag": "A2/24-25"
     },
     {
+        "chinese": "纸币",
+        "desc": "bank（银行）+ note（纸币）联想记忆",
+        "english": "banknote",
+        "phonetic": "/ˈbæŋknoʊt/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "领导者",
+        "desc": "lead（领导）+ er（表示人）构词记忆",
+        "english": "leader",
+        "phonetic": "/ˈliːdər/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "完全相同的",
+        "desc": "iden（相同的词根）+ tical形容词后缀记忆",
+        "english": "identical",
+        "phonetic": "/aɪˈdentɪkl/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "信用卡",
+        "desc": "credit（信用）+ card（卡片）组合记忆",
+        "english": "credit card",
+        "phonetic": "",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "大门",
+        "desc": "与gateway（入口）联系记忆",
+        "english": "gate",
+        "phonetic": "/ɡeɪt/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "硬币",
+        "desc": "发音记忆",
+        "english": "coin",
+        "phonetic": "/kɔɪn/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "设计",
+        "desc": "de（表强调）+ sign（标记）联想记忆",
+        "english": "design",
+        "phonetic": "/dɪˈzaɪn/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "庆祝",
+        "desc": "celebr（著名的）+ ate（动词后缀）联想记忆",
+        "english": "celebrate",
+        "phonetic": "/ˈselɪbreɪt/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "著名的",
+        "desc": "well（好的）+ known（知道的）组合记忆",
+        "english": "well - known",
+        "phonetic": "",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "例子",
+        "desc": "ex（出）+ ample（拿）联想记忆",
+        "english": "example",
+        "phonetic": "/ɪɡˈzæmpl/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "肖像",
+        "desc": "port（携带）+ rait（画）联想记忆",
+        "english": "portrait",
+        "phonetic": "/ˈpɔːrtrət/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "市场",
+        "desc": "与supermarket（超市）联系记忆",
+        "english": "market",
+        "phonetic": "/ˈmɑːrkɪt/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "货币",
+        "desc": "curr（跑）+ ency（名词后缀）联想记忆",
+        "english": "currency",
+        "phonetic": "/ˈkɜːrənsi/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "比索",
+        "desc": "直接记忆",
+        "english": "peso",
+        "phonetic": "/ˈpeɪsoʊ/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "里拉",
+        "desc": "直接记忆",
+        "english": "lira",
+        "phonetic": "/ˈlɪrə/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "创始人",
+        "desc": "found（建立）+ er（表示人）构词记忆",
+        "english": "founder",
+        "phonetic": "/ˈfaʊndər/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "人物；数字",
+        "desc": "与digit（数字）区别记忆",
+        "english": "figure",
+        "phonetic": "/ˈfɪɡjər/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "足球场",
+        "desc": "football（足球）+ stadium（体育场）组合记忆",
+        "english": "football stadium",
+        "phonetic": "",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "入口",
+        "desc": "enter（进入）+ ance（名词后缀）联想记忆",
+        "english": "entrance",
+        "phonetic": "/ˈentrəns/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "建筑",
+        "desc": "archi（主要的）+ tect（建造）+ ure（名词后缀）联想记忆",
+        "english": "architecture",
+        "phonetic": "/ˈɑːrkɪtektʃər/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "雕像",
+        "desc": "可以根据发音记忆，e-f-f-i-g-y，联想与雕像相关的形象。",
+        "english": "effigy",
+        "phonetic": "/ˈefɪdʒi/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "各种各样的",
+        "desc": "var-y-ous，将单词拆分开来记忆，var有变化的意思，加上后缀表示多种的。",
+        "english": "various",
+        "phonetic": "/ˈveriəs/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "寻找",
+        "desc": "look表示看，for表示为了，为了某个东西去看，联想寻找的动作。",
+        "english": "looking for",
+        "phonetic": "",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "代表",
+        "desc": "re-再次，present呈现，再次呈现某种意义，可理解为代表。",
+        "english": "represent",
+        "phonetic": "/ˌriːprɪˈzent/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "有趣的",
+        "desc": "interest兴趣，加上 -ing 后缀表示令人有兴趣的，即有趣的。",
+        "english": "interesting",
+        "phonetic": "/ˈɪntrəstɪŋ/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "美丽的",
+        "desc": "beau-可以联想为beauty美，加上 -ful 表示充满美的，即美丽的。",
+        "english": "beautiful",
+        "phonetic": "/ˈbjuːtɪfl/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "历史",
+        "desc": "his - tory，联想历史是关于人类他的故事。",
+        "english": "history",
+        "phonetic": "/ˈhɪstri/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "类型",
+        "desc": "根据发音记忆，t-y-p-e，联想不同类型的东西。",
+        "english": "type",
+        "phonetic": "/taɪp/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "建议",
+        "desc": "suggest有提议的意思，加上 -ion 名词后缀表示建议。",
+        "english": "suggestion",
+        "phonetic": "/səˈdʒestʃən/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "地理",
+        "desc": "geo - graph - y，geo表示地球，graph表示写、画，关于地球的描述就是地理。",
+        "english": "geography",
+        "phonetic": "/dʒiˈɑːɡrəfi/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "动物",
+        "desc": "ani - mal，将单词拆分开来记忆，联想各种动物的形象。",
+        "english": "animal",
+        "phonetic": "/ˈænɪml/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "墨西哥",
+        "desc": "按发音记忆，m - e - x - i - c - o。",
+        "english": "Mexico",
+        "phonetic": "/ˈmeksɪkoʊ/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "著名的",
+        "desc": "fa - mous，联想名声 fame 加上后缀 -ous 表示具有名声的，即著名的。",
+        "english": "famous",
+        "phonetic": "/ˈfeɪməs/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "艺术家",
+        "desc": "art艺术，加上 -ist表示人，从事艺术的人即艺术家。",
+        "english": "artist",
+        "phonetic": "/ˈɑːrtɪst/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "土耳其",
+        "desc": "按发音记忆，t - u - r - k - y。",
+        "english": "Turkey",
+        "phonetic": "/ˈtɜːrki/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "另一个",
+        "desc": "an - other，一个和另一个的关系，容易记忆。",
+        "english": "another",
+        "phonetic": "/əˈnʌðər/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "人",
+        "desc": "per - son，将单词拆分开来记忆。",
+        "english": "person",
+        "phonetic": "/ˈpɜːrsn/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "确切地",
+        "desc": "ex - act - ly，ex表示强调，act表示行动、事实，强调事实地即确切地。",
+        "english": "exactly",
+        "phonetic": "/ɪɡˈzæktli/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "每个",
+        "desc": "根据发音记忆，e - a - c - h。",
+        "english": "each",
+        "phonetic": "/iːtʃ/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "桥",
+        "desc": "b - r - i - d - g - e，联想桥的形状来记忆。",
+        "english": "bridge",
+        "phonetic": "/brɪdʒ/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "巴西",
+        "desc": "联想记忆：B（形似：6）+ ra（拼音：热爱）+zil（联想：紫了），6个热爱巴西的人皮肤都紫了（巴西阳光强）。",
+        "english": "Brazil",
+        "phonetic": "/brəˈzɪl/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "共和国",
+        "desc": "词根记忆：re（再，又）+ public（公众的），公众的再组合，即共和国。",
+        "english": "republic",
+        "phonetic": "/rɪˈpʌblɪk/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "美洲豹",
+        "desc": "谐音记忆：加个儿，想象美洲豹的身上加了个小崽儿。",
+        "english": "jaguar",
+        "phonetic": "/ˈdʒæɡjuːr/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "文化",
+        "desc": "拆分记忆：cult（崇拜）+ ure（名词后缀），崇拜的东西体现文化。",
+        "english": "culture",
+        "phonetic": "/ˈkʌltʃər/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "也许",
+        "desc": "对比记忆：和permit（允许）对比，也许（perhaps）被允许（permit）。",
+        "english": "perhaps",
+        "phonetic": "/pərˈhæps/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "美元",
+        "desc": "联想记忆：do（做）+llar（联想：拉拉），做事情得到美元可以拉拉（表示开心）。",
+        "english": "dollar",
+        "phonetic": "/ˈdɑːlər/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "时期",
+        "desc": "谐音记忆：皮儿藕的，皮儿藕的时期（想象古代用皮儿包着藕吃的时期）。",
+        "english": "period",
+        "phonetic": "/ˈpɪriəd/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "国家的；民族的",
+        "desc": "词根记忆：nation（国家，民族）+ al（形容词后缀）。",
+        "english": "national",
+        "phonetic": "/ˈnæʃnəl/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "范围",
+        "desc": "联想记忆：ran（跑）+ ge（哥），哥哥跑的范围。",
+        "english": "range",
+        "phonetic": "/reɪndʒ/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "私人的",
+        "desc": "联想记忆：pri（拼音：仆人）+vate（联想：围他），仆人围他是私人的事情。",
+        "english": "private",
+        "phonetic": "/ˈpraɪvət/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "功能",
+        "desc": "词根记忆：funct（做，执行）+ ion（名词后缀），做事情的能力即功能。",
+        "english": "function",
+        "phonetic": "/ˈfʌŋkʃn/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "计划",
+        "desc": "联想记忆：p（拼音：扑）+lan（拼音：揽），扑过去揽住计划。",
+        "english": "plan",
+        "phonetic": "/plæn/",
+        "tag": "A2/26-27"
+    },
+    {
+        "chinese": "描述",
+        "desc": "词根记忆：de（向下，完全）+ script（写）+ ion（名词后缀），完全写下来即描述。",
+        "english": "description",
+        "phonetic": "/dɪˈskrɪpʃn/",
+        "tag": "A2/26-27"
+    },
+    {
         "chinese": "墨西哥",
         "desc": "联想记忆：Me（我）+xi（西）+co（可），我去西可（类似音译）的地方就是墨西哥。",
         "english": "Mexico",
@@ -26667,6 +27038,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/24-25';
             option.textContent = 'A2/24-25';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/26-27';
+            option.textContent = 'A2/26-27';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/lesson1';
             option.textContent = 'A2/0/lesson1';
