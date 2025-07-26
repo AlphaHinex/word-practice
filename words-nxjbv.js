@@ -1827,6 +1827,412 @@ var words = [
         "tag": "A2/19-20"
     },
     {
+        "chinese": "舒适的",
+        "desc": "可以拆分为comfort（舒适）和able（能...的）来记忆",
+        "english": "comfortable",
+        "phonetic": "/ˈkʌmftəbl/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "设计师",
+        "desc": "design（设计）加上表示人的后缀er",
+        "english": "designer",
+        "phonetic": "/dɪˈzaɪnər/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "点；要点",
+        "desc": "根据发音记忆，p发[p]，oi发[ɔɪ]，nt发[nt]",
+        "english": "point",
+        "phonetic": "/pɔɪnt/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "重要的",
+        "desc": "im看作是in的变形，port（港口），重要的东西要运进港口",
+        "english": "important",
+        "phonetic": "/ɪmˈpɔːrtnt/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "现在进行时",
+        "desc": "present（现在）和continuous（持续的）组合记忆",
+        "english": "present continuous",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "失去；丢失",
+        "desc": "联想记忆：loose（松的），东西松了容易丢失",
+        "english": "lose",
+        "phonetic": "/luːz/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "整洁的",
+        "desc": "tide（潮汐），潮汐过后沙滩很整洁",
+        "english": "tidy",
+        "phonetic": "/ˈtaɪdi/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "拼写错误，应为present simple，一般现在时",
+        "desc": "无，因为是拼写错误的内容",
+        "english": "presnet simple",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "节目；程序",
+        "desc": "pro（向前）+gram（写），写出来向前播放的就是节目",
+        "english": "programme",
+        "phonetic": "/ˈproʊɡræm/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "车库；汽车修理厂",
+        "desc": "联想记忆：car（汽车），汽车停的地方或修的地方",
+        "english": "garage",
+        "phonetic": "/ɡəˈrɑːʒ/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "无匹配内容，疑似拼写错误，无法提供准确翻译",
+        "desc": "无，因为是疑似拼写错误的内容",
+        "english": "sme11",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "披萨",
+        "desc": "根据发音记忆，pi发[piː]，zz发[ts]，a发[ə]",
+        "english": "pizza",
+        "phonetic": "/ˈpiːtsə/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "味道；品尝",
+        "desc": "联想记忆：test（测试），品尝也是一种测试",
+        "english": "taste",
+        "phonetic": "/teɪst/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "意见；看法",
+        "desc": "opin（看作open，打开）+ion（名词后缀），打开心扉说出的就是意见",
+        "english": "opinion",
+        "phonetic": "/əˈpɪnjən/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "客厅",
+        "desc": "living（生活）+room（房间），生活起居的房间",
+        "english": "living room",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "极好的；了不起的",
+        "desc": "fan（粉丝）+tastic（看作astic，像...的），像粉丝看到偶像时那种极好的感觉",
+        "english": "fantastic",
+        "phonetic": "/fænˈtæstɪk/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "尺寸；大小",
+        "desc": "根据发音记忆，s发[s]，i发[aɪ]，z发[z]",
+        "english": "size",
+        "phonetic": "/saɪz/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "顾客",
+        "desc": "custom（习惯）+er（人），有消费习惯的人",
+        "english": "customer",
+        "phonetic": "/ˈkʌstəmər/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "电脑游戏",
+        "desc": "computer（电脑）+game（游戏），组合记忆",
+        "english": "computer game",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "富有的；丰富的",
+        "desc": "联想记忆：rice（大米），有很多大米表示富有",
+        "english": "rich",
+        "phonetic": "/rɪtʃ/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "可怕的；极讨厌的",
+        "desc": "可根据horror（恐怖）记忆，加上-ible后缀表示‘可…的’",
+        "english": "horrible",
+        "phonetic": "/ˈhɔːrəbl/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "声音；听起来",
+        "desc": "可通过发音记忆，[saʊ]对应‘扫’，nd可联想‘脑袋’，扫脑袋发出声音",
+        "english": "sound",
+        "phonetic": "/saʊnd/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "电子游戏",
+        "desc": "video（视频）+game（游戏）组合记忆",
+        "english": "video game",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "城镇",
+        "desc": "可根据读音记忆，[taʊ]对应‘涛’，n联想‘恩’，涛恩的城镇",
+        "english": "town",
+        "phonetic": "/taʊn/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "主要的",
+        "desc": "可联想mainland（大陆），大陆是主要的部分",
+        "english": "main",
+        "phonetic": "/meɪn/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "虽然；尽管",
+        "desc": "注意和thought（想法）区分，根据发音记忆",
+        "english": "though",
+        "phonetic": "/ðoʊ/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "果汁",
+        "desc": "联想juicy（多汁的），去y变ice，冰的果汁",
+        "english": "juice",
+        "phonetic": "/dʒuːs/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "原始的；最初的",
+        "desc": "origin（起源）+al后缀表示‘…的’",
+        "english": "original",
+        "phonetic": "/əˈrɪdʒənl/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "服装店",
+        "desc": "clothes（衣服）+shop（商店）组合记忆",
+        "english": "clothes shop",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "一点；少量",
+        "desc": "发音简单易记，也可联想a bit of（一点）短语",
+        "english": "bit",
+        "phonetic": "/bɪt/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "面包",
+        "desc": "联想读音和吃面包的声音相似",
+        "english": "bread",
+        "phonetic": "/bred/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "便宜的",
+        "desc": "可和cheep（吱吱叫）对比记忆，便宜的东西吱吱叫着被售卖",
+        "english": "cheap",
+        "phonetic": "/tʃiːp/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "发生",
+        "desc": "happen的词根是hap（机会；运气），事情发生是有运气成分的",
+        "english": "happen",
+        "phonetic": "/ˈhæpən/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "咖啡店",
+        "desc": "coffee（咖啡）+shop（商店）组合记忆",
+        "english": "coffee shop",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "形容词",
+        "desc": "可根据ad+ject（扔）+ive，扔到名词前形容名词的词",
+        "english": "adjective",
+        "phonetic": "/ˈædʒɪktɪv/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "百货商店",
+        "desc": "department（部门）+store（商店），有很多部门的商店",
+        "english": "department store",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "片刻；瞬间",
+        "desc": "联想短语at the moment（此刻）记忆",
+        "english": "moment",
+        "phonetic": "/ˈmoʊmənt/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "超市",
+        "desc": "super（超级）+market（市场）组合记忆",
+        "english": "supermarket",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "无匹配内容，疑似拼写错误，无法提供准确翻译",
+        "desc": "疑似拼写错误无法提供记忆技巧",
+        "english": "cose",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "衬衫",
+        "desc": "可根据读音记忆，[ʃɜː]对应‘舍’，t对应‘特’，舍特的衬衫",
+        "english": "shirt",
+        "phonetic": "/ʃɜːrt/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "药店",
+        "desc": "可以通过联想记忆，chem-与化学有关，药店会售卖化学制品",
+        "english": "Chemist's",
+        "phonetic": "/ˈkemɪsts/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "价格",
+        "desc": "p联想为'扑'，rice是大米，扑向大米是因为它的价格有吸引力",
+        "english": "price",
+        "phonetic": "/praɪs/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "感知；看法",
+        "desc": "per-表示贯穿，cept-表示拿，贯穿地拿住一种观点就是感知",
+        "english": "perception",
+        "phonetic": "/pərˈsepʃn/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "手机店",
+        "desc": "mobile是移动的，phone是电话，组合起来就是卖移动电话的店",
+        "english": "mobile phone shop",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "夹克衫",
+        "desc": "ja联想为'夹'，可帮助记忆这是夹克衫",
+        "english": "jacket",
+        "phonetic": "/ˈdʒækɪt/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "书店",
+        "desc": "book是书，shop是商店，组合起来就是书店",
+        "english": "bookshop",
+        "phonetic": "/ˈbʊkʃɑːp/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "糟糕的；极坏的",
+        "desc": "a-一个，w-歪，ful-满，一个歪歪扭扭满是问题的就是糟糕的",
+        "english": "awful",
+        "phonetic": "/ˈɔːfl/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "英镑；磅",
+        "desc": "pou-可以联想为'抛'，抛出去一磅重的东西",
+        "english": "pound",
+        "phonetic": "/paʊnd/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "体育用品店",
+        "desc": "sports是体育，shop是商店，组合起来就是体育用品店",
+        "english": "sports shop",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "东西；物品",
+        "desc": "s-是，tuff-联想为'tough'难的，是难描述的东西就是物品",
+        "english": "stuff",
+        "phonetic": "/stʌf/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "周围；大约",
+        "desc": "a-一个，round-圆的，一个圆的周围",
+        "english": "around",
+        "phonetic": "/əˈraʊnd/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "过时的；老式的",
+        "desc": "old是老的，fashion是时尚，老的时尚就是过时的",
+        "english": "old - fashioned",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "比较",
+        "desc": "com-共同，pare-联想为'pair'一对，共同一对就是比较",
+        "english": "compare",
+        "phonetic": "/kəmˈper/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "名词",
+        "desc": "n联想为'名'，可帮助记忆是名词",
+        "english": "nouns",
+        "phonetic": "/naʊnz/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "收据",
+        "desc": "re-再，ceipt-联想为'cept'拿，再次拿到的东西是收据",
+        "english": "receipt",
+        "phonetic": "/rɪˈsiːt/",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "非接触式卡",
+        "desc": "contact是接触，less是否定，card是卡，组合起来就是非接触式卡",
+        "english": "contactless card",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "当然",
+        "desc": "直接记忆这个常用短语",
+        "english": "of course",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
+        "chinese": "试穿",
+        "desc": "try是尝试，on是穿上，尝试穿上就是试穿",
+        "english": "try on",
+        "phonetic": "",
+        "tag": "A2/21-23"
+    },
+    {
         "chinese": "墨西哥",
         "desc": "联想记忆：Me（我）+xi（西）+co（可），我去西可（类似音译）的地方就是墨西哥。",
         "english": "Mexico",
@@ -25898,6 +26304,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/19-20';
             option.textContent = 'A2/19-20';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/21-23';
+            option.textContent = 'A2/21-23';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/lesson1';
             option.textContent = 'A2/0/lesson1';
