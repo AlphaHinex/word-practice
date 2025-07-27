@@ -5978,6 +5978,83 @@ var words = [
         "tag": "A2/2/2"
     },
     {
+        "chinese": "解答",
+        "desc": "与solution（解答、解决方案）联系起来记忆。",
+        "english": "solve",
+        "phonetic": "/sɑːlv/",
+        "tag": "junior/grade7a/0727"
+    },
+    {
+        "chinese": "加强;增强",
+        "desc": "根据词根velop（包裹、覆盖），de表强调，逐渐包裹变强。",
+        "english": "develop",
+        "phonetic": "/dɪˈveləp/",
+        "tag": "junior/grade7a/0727"
+    },
+    {
+        "chinese": "技术;技能",
+        "desc": "可以联想skilled（有技能的）来记忆。",
+        "english": "skill",
+        "phonetic": "/skɪl/",
+        "tag": "junior/grade7a/0727"
+    },
+    {
+        "chinese": "青少年的",
+        "desc": "与teenager（青少年）相关联记忆。",
+        "english": "teen",
+        "phonetic": "/tiːn/",
+        "tag": "junior/grade7a/0727"
+    },
+    {
+        "chinese": "杂志",
+        "desc": "可通过联想记忆，比如将其拆分成'mag'（联想魔法）和'azine'（类似某种东西的后缀），想象杂志里有很多神奇的内容。",
+        "english": "magazine",
+        "phonetic": "/ˌmæɡəˈziːn/",
+        "tag": "junior/grade7a/0727"
+    },
+    {
+        "chinese": "(13至19岁之间的)青少年",
+        "desc": "拆分为'teen'（十几岁）和'ager'（表示人的后缀）来记忆。",
+        "english": "teenager",
+        "phonetic": "/ˈtiːneɪdʒər/",
+        "tag": "junior/grade7a/0727"
+    },
+    {
+        "chinese": "问候;招呼",
+        "desc": "与'greet'（动词问候）相关联，加上'ing'形式名词化。",
+        "english": "greeting",
+        "phonetic": "/ˈɡriːtɪŋ/",
+        "tag": "junior/grade7a/0727"
+    },
+    {
+        "chinese": "年级",
+        "desc": "可根据学校里不同的年级层次来记忆。",
+        "english": "grade",
+        "phonetic": "/ɡreɪd/",
+        "tag": "junior/grade7a/0727"
+    },
+    {
+        "chinese": "精力;活力",
+        "desc": "可以想象'en'（使）和'ergy'（能量），使有能量就是精力。",
+        "english": "energy",
+        "phonetic": "/ˈenərdʒi/",
+        "tag": "junior/grade7a/0727"
+    },
+    {
+        "chinese": "戏;剧",
+        "desc": "与'dramatic'（戏剧性的）联系起来，有戏剧就会有戏剧性。",
+        "english": "drama",
+        "phonetic": "/ˈdrɑːmə/",
+        "tag": "junior/grade7a/0727"
+    },
+    {
+        "chinese": "真诚地;诚实地",
+        "desc": "由'sincere'（真诚的）加上'ly'变成副词形式来记忆。",
+        "english": "sincerely",
+        "phonetic": "/sɪnˈsɪrli/",
+        "tag": "junior/grade7a/0727"
+    },
+    {
         "chinese": "心",
         "desc": "联想记忆：h(联想为'好')+ear(耳朵)+t(联想为'跳')，好耳朵能听到心跳。",
         "english": "heart",
@@ -27062,6 +27139,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/2/2';
             option.textContent = 'A2/2/2';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7a/0727';
+            option.textContent = 'junior/grade7a/0727';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7a/unit1';
             option.textContent = 'junior/grade7a/unit1';
