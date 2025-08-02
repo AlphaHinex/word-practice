@@ -2961,6 +2961,398 @@ var words = [
         "tag": "A2/26-27"
     },
     {
+        "chinese": "牛奶",
+        "desc": "联想记忆：mi（音似：眯）+lk（联想look看），眯着眼看牛奶。",
+        "english": "milk",
+        "phonetic": "/mɪlk/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "谷类食物",
+        "desc": "分音节记忆：ce-re-al，根据发音记忆。",
+        "english": "cereal",
+        "phonetic": "/ˈsɪriəl/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "维生素",
+        "desc": "联想记忆：vi（音似：维）+ta（音似：他）+min（音似：命），维他命即维生素。",
+        "english": "vitamin",
+        "phonetic": "/ˈvaɪtəmɪn/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "增加",
+        "desc": "词缀记忆：in-表示向内、进入，crease增长，向内增长即增加。",
+        "english": "increase",
+        "phonetic": "/ɪnˈkriːs/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "奶酪",
+        "desc": "联想记忆：chee（音似：起）+se（音似：司），起司即奶酪。",
+        "english": "cheese",
+        "phonetic": "/tʃiːz/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "果汁",
+        "desc": "联想记忆：ju（音似：桔）+ice冰，桔子冰即果汁。",
+        "english": "juice",
+        "phonetic": "/dʒuːs/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "蛋白质",
+        "desc": "联想记忆：pro（向前）+tein（看作tain拿住），向前拿住的物质即蛋白质。",
+        "english": "protein",
+        "phonetic": "/ˈproʊtiːn/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "牛肉汉堡",
+        "desc": "整体记忆：beef牛肉，burger汉堡，组合起来就是牛肉汉堡。",
+        "english": "beef burger",
+        "phonetic": "",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "能量",
+        "desc": "联想记忆：en（使）+erg（工作）+y，使工作的东西即能量。",
+        "english": "energy",
+        "phonetic": "/ˈenərdʒi/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "鸡蛋",
+        "desc": "联想记忆：e（音似：一）+gg（联想两个蛋的形状）+s复数，一个一个的蛋即鸡蛋。",
+        "english": "eggs",
+        "phonetic": "/eɡz/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "牛排",
+        "desc": "联想记忆：s（联想形状：刀）+tea（茶）+k（联想吃的动作），用刀叉吃牛排配茶。",
+        "english": "steak",
+        "phonetic": "/steɪk/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "生产",
+        "desc": "词缀记忆：pro向前，duce引导，向前引导出即生产。",
+        "english": "produce",
+        "phonetic": "/prəˈduːs/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "影响",
+        "desc": "联想记忆：im（进入）+pact（契约），进入契约会产生影响。",
+        "english": "impact",
+        "phonetic": "/ˈɪmpækt/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "小爬虫",
+        "desc": "联想记忆：crawl爬行，-ies复数，爬行的小东西即小爬虫。",
+        "english": "crawlies",
+        "phonetic": "/ˈkrɔːliz/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "行星",
+        "desc": "联想记忆：plan（计划）+et（小），计划探索小的星球即行星。",
+        "english": "planet",
+        "phonetic": "/ˈplænɪt/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "皮肤",
+        "desc": "联想记忆：s（联想：丝）+kin（亲），丝一样亲的东西即皮肤。",
+        "english": "skin",
+        "phonetic": "/skɪn/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "拉丁美洲",
+        "desc": "整体记忆：Latin拉丁，America美洲，组合起来就是拉丁美洲。",
+        "english": "Latin America",
+        "phonetic": "",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "温室",
+        "desc": "整体记忆：green绿色，house房子，绿色的房子即温室。",
+        "english": "greenhouse",
+        "phonetic": "",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "蚱蜢",
+        "desc": "联想记忆：grass草，hopper跳跃者，在草里跳跃的就是蚱蜢。",
+        "english": "grasshopper",
+        "phonetic": "/ˈɡræshɑːpər/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "令人毛骨悚然的",
+        "desc": "联想记忆：creep爬行，-y形容词后缀，像爬行的东西一样令人毛骨悚然。",
+        "english": "creepy",
+        "phonetic": "/ˈkriːpi/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "肌肉",
+        "desc": "联想记忆：mus（肌肉）+cle（小），小肌肉",
+        "english": "muscle",
+        "phonetic": "/ˈmʌsl/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "农场",
+        "desc": "联想记忆：far（远）+m（亩），远处的田亩即农场",
+        "english": "farm",
+        "phonetic": "/fɑːrm/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "影响",
+        "desc": "词根记忆：af（加强）+fect（做），做了就会有影响",
+        "english": "affect",
+        "phonetic": "/əˈfekt/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "健康的",
+        "desc": "联想记忆：heal（治愈）+thy（形容词后缀），能被治愈的就是健康的",
+        "english": "healthy",
+        "phonetic": "/ˈhelθi/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "环境",
+        "desc": "拆分记忆：en（进入）+viron（圆）+ment（名词后缀），进入一个圆的地方即环境",
+        "english": "environment",
+        "phonetic": "/ɪnˈvaɪrənmənt/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "骨头",
+        "desc": "联想记忆：b（形状像骨头）+one（一个），一个骨头",
+        "english": "bone",
+        "phonetic": "/boʊn/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "问题",
+        "desc": "拆分记忆：pro（前面）+blem（谐音：不乐目），前面出现不乐目的事就是问题",
+        "english": "problem",
+        "phonetic": "/ˈprɑːbləm/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "不健康的",
+        "desc": "词根记忆：un（不）+healthy（健康的），不健康的",
+        "english": "unhealthy",
+        "phonetic": "/ʌnˈhelθi/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "胭脂虫",
+        "desc": "整体记忆：特殊名词直接记忆",
+        "english": "cochineal beetle",
+        "phonetic": "",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "覆盖",
+        "desc": "联想记忆：c（覆盖的形状）+over（在...之上），在上面覆盖",
+        "english": "cover",
+        "phonetic": "/ˈkʌvər/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "将；会；想要",
+        "desc": "联想记忆：和will类似，多在虚拟语气等用法中记忆",
+        "english": "would",
+        "phonetic": "/wʊd/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "不寻常的",
+        "desc": "词根记忆：un（不）+usual（寻常的），不寻常的",
+        "english": "unusual",
+        "phonetic": "/ʌnˈjuːʒuəl/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "选择",
+        "desc": "联想记忆：cho（谐音：巧）+ice（冰），巧妙地选择像冰一样纯净的",
+        "english": "choice",
+        "phonetic": "/tʃɔɪs/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "百万",
+        "desc": "联想记忆：mi（谐音：米）+llion（联想成很多个零），像米一样多的零即百万",
+        "english": "million",
+        "phonetic": "/ˈmɪljən/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "也许",
+        "desc": "联想记忆：per（每）+haps（机会），每个机会都有可能，即也许",
+        "english": "perhaps",
+        "phonetic": "/pərˈhæps/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "问题",
+        "desc": "联想记忆：quest（探寻）+ion（名词后缀），探寻的东西就是问题",
+        "english": "question",
+        "phonetic": "/ˈkwestʃən/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "足够的",
+        "desc": "联想记忆：en（使）+ough（联想成：呕），使到呕的程度就是足够的",
+        "english": "enough",
+        "phonetic": "/ɪˈnʌf/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "生长",
+        "desc": "联想记忆：gr（联想成：根）+ow（联想成：藕），根和藕生长",
+        "english": "grow",
+        "phonetic": "/ɡroʊ/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "空间",
+        "desc": "联想记忆：s（形状像空间的轮廓）+pace（步幅），步幅的空间",
+        "english": "space",
+        "phonetic": "/speɪs/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "未来",
+        "desc": "联想记忆：fu（谐音：富）+ture（名词后缀），富裕的未来",
+        "english": "future",
+        "phonetic": "/ˈfjuːtʃər/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "已经",
+        "desc": "可根据al-表示全部，ready表示准备好，全部都准备好，就是已经的状态来记忆。",
+        "english": "already",
+        "phonetic": "/ɔːlˈredi/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "创造",
+        "desc": "cre-可联想grow（生长），-ate为动词后缀，生长出新东西，就是创造。",
+        "english": "create",
+        "phonetic": "/kriˈeɪt/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "然而",
+        "desc": "how表示怎样，ever表示曾经、无论，无论怎样，表转折，就是然而的意思。",
+        "english": "however",
+        "phonetic": "/haʊˈevər/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "蔬菜",
+        "desc": "可拆分为veg（蔬菜的简写）+ -etable名词后缀来记忆。",
+        "english": "vegetable",
+        "phonetic": "/ˈvedʒtəbl/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "超级食物",
+        "desc": "super表示超级，food表示食物，组合起来就是超级食物。",
+        "english": "superfood",
+        "phonetic": "",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "重要的",
+        "desc": "im-表示向内，port表示港口，-ant为形容词后缀，对于一个国家来说港口是向内发展很重要的部分。",
+        "english": "important",
+        "phonetic": "/ɪmˈpɔːrtnt/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "类型",
+        "desc": "根据发音记忆。",
+        "english": "type",
+        "phonetic": "/taɪp/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "蠕虫",
+        "desc": "根据单词形状记忆，w和m像蠕虫弯曲的身体。",
+        "english": "worm",
+        "phonetic": "/wɜːrm/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "条件",
+        "desc": "con-表示共同，dit可联想do it，-ion为名词后缀，共同做一件事需要的东西就是条件。",
+        "english": "condition",
+        "phonetic": "/kənˈdɪʃn/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "亚洲",
+        "desc": "直接记忆。",
+        "english": "Asia",
+        "phonetic": "/ˈeɪʒə/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "欧洲",
+        "desc": "根据发音记忆。",
+        "english": "Europe",
+        "phonetic": "/ˈjʊrəp/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "也许",
+        "desc": "may表示可能，be表示是，可能是的，就是也许。",
+        "english": "maybe",
+        "phonetic": "/ˈmeɪbi/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "原因",
+        "desc": "re-表示再次，ason可联想ask，再次询问就是找原因。",
+        "english": "reason",
+        "phonetic": "/ˈriːzn/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "奇怪的",
+        "desc": "根据发音记忆。",
+        "english": "strange",
+        "phonetic": "/streɪndʒ/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "似乎",
+        "desc": "根据发音记忆。",
+        "english": "seem",
+        "phonetic": "/siːm/",
+        "tag": "A2/30-31"
+    },
+    {
+        "chinese": "错误的",
+        "desc": "根据发音记忆。",
+        "english": "wrong",
+        "phonetic": "/rɔːŋ/",
+        "tag": "A2/30-31"
+    },
+    {
         "chinese": "墨西哥",
         "desc": "联想记忆：Me（我）+xi（西）+co（可），我去西可（类似音译）的地方就是墨西哥。",
         "english": "Mexico",
@@ -27118,6 +27510,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/26-27';
             option.textContent = 'A2/26-27';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/30-31';
+            option.textContent = 'A2/30-31';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/lesson1';
             option.textContent = 'A2/0/lesson1';
