@@ -7175,6 +7175,398 @@ var words = [
         "tag": "junior/grade7a/unit2"
     },
     {
+        "chinese": "野餐",
+        "desc": "picnic作为名词有野餐的意思，have表示进行，进行野餐就是have picnics。",
+        "english": "have picnics",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "耕种土地",
+        "desc": "work有劳作的意思，land是土地，某人劳作自己的土地即耕种土地。",
+        "english": "work one's land",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "节气",
+        "desc": "solar表示太阳的，term有术语、时期的意思，与太阳有关的时期，就是节气。",
+        "english": "solar term",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "去旅行",
+        "desc": "take有进行、从事的意思，trip是旅行，进行一次旅行就是take a trip。",
+        "english": "take a trip",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "燃烧;烧",
+        "desc": "动词，可通过联想火燃烧的画面来记忆。",
+        "english": "burn",
+        "phonetic": "/bɜːrn/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "事实上",
+        "desc": "in表示在……里面，fact是事实，在事实里面即事实上。",
+        "english": "in fact",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "被划分成……",
+        "desc": "be表示被动，divide有划分的意思，into表示进入、成为，被划分成为即被划分成……",
+        "english": "be divided into",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "有害的",
+        "desc": "形容词，harm是伤害，ful是形容词后缀，表示充满……的，充满伤害的即有害的。",
+        "english": "harmful",
+        "phonetic": "/ˈhɑːrmfl/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "基于……",
+        "desc": "be表示是，base有基础的意思，on表示在……之上，是基于……之上的，即基于……",
+        "english": "be based on",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "网站",
+        "desc": "名词，web是网络，site是地点，网络上的地点即网站。",
+        "english": "website",
+        "phonetic": "/ˈwebsaɪt/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "发挥重要作用",
+        "desc": "play有扮演、发挥的意思，important是重要的，part是部分，在……中发挥重要的部分即发挥重要作用。",
+        "english": "play an important part in",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "皇帝",
+        "desc": "名词，可通过历史故事中皇帝的形象来记忆。",
+        "english": "emperor",
+        "phonetic": "/ˈempərər/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "打猎",
+        "desc": "动词，可联想猎人打猎的场景来记忆。",
+        "english": "hunt",
+        "phonetic": "/hʌnt/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "战争",
+        "desc": "名词，可通过战争的电影画面来记忆。",
+        "english": "war",
+        "phonetic": "/wɔːr/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "系统",
+        "desc": "名词，可联想电脑系统等相关概念来记忆。",
+        "english": "system",
+        "phonetic": "/ˈsɪstəm/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "沙暴",
+        "desc": "sand是沙子，storm是风暴，沙子的风暴即沙暴。",
+        "english": "sandstorm",
+        "phonetic": "/ˈsændstɔːrm/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "解决办法",
+        "desc": "名词，solve是解决，tion是名词后缀，解决的东西即解决办法。",
+        "english": "solution",
+        "phonetic": "/səˈluːʃn/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "令人大为惊奇的",
+        "desc": "形容词，a - 一个，maze迷宫，进入一个迷宫是令人惊奇的，ing形容词后缀。",
+        "english": "amazing",
+        "phonetic": "/əˈmeɪzɪŋ/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "刮;吹",
+        "desc": "动词，可联想风吹的感觉来记忆。",
+        "english": "blow",
+        "phonetic": "/bloʊ/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "一代人",
+        "desc": "名词，generate产生，ion名词后缀，产生的一代人。",
+        "english": "generation",
+        "phonetic": "/ˌdʒenəˈreɪʃn/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "十亿",
+        "desc": "名词，可联想记忆：bill（账单）+ion（离子，可视为名词后缀），巨额的账单就像十亿那么多。",
+        "english": "billion",
+        "phonetic": "/ˈbɪljən/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "盖;覆盖",
+        "desc": "动词，可根据其发音记忆，类似“卡我”，就像被东西盖住卡住了。",
+        "english": "cover",
+        "phonetic": "/ˈkʌvər/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "太阳系",
+        "desc": "solar表示太阳的，system表示系统，整体记忆。",
+        "english": "solar system",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "地区;地域",
+        "desc": "名词，a（一）+re（热）+a（一），一个热的地方可以是一个地区。",
+        "english": "area",
+        "phonetic": "/ˈeriə/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "极冷的",
+        "desc": "形容词，freeze（冻结）的动名词形式，冻结的感觉就是极冷的。",
+        "english": "freezing",
+        "phonetic": "/ˈfriːzɪŋ/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "被……覆盖",
+        "desc": "这是个词组，根据cover的含义理解。",
+        "english": "be covered by",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "北;北方",
+        "desc": "名词，可联想北极（North Pole）来记忆。",
+        "english": "north",
+        "phonetic": "/nɔːrθ/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "据我们所知",
+        "desc": "这是个句子，按字面理解记忆。",
+        "english": "as far as we know",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "（行星的）极;地极",
+        "desc": "名词，可联想地球的南北极记忆。",
+        "english": "pole",
+        "phonetic": "/poʊl/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "海平面",
+        "desc": "这是个词组，根据sea（海）和level（水平）的含义理解。",
+        "english": "sea level",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "沙漠;荒漠",
+        "desc": "名词，de（的）+ser（色）+t（特），沙漠的颜色很特别。",
+        "english": "desert",
+        "phonetic": "/ˈdezərt/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "更重要的是",
+        "desc": "这是个句子，按字面理解记忆。",
+        "english": "what's more",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "提供;供应;给予",
+        "desc": "这是个词组，根据provide的含义理解。",
+        "english": "provide..with..",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "米",
+        "desc": "名词，可根据长度单位记忆。",
+        "english": "metre",
+        "phonetic": "/ˈmiːtər/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "塑料污染",
+        "desc": "这是个词组，根据plastic（塑料）和pollution（污染）的含义理解。",
+        "english": "plastic pollution",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "足够达到",
+        "desc": "动词，可联想够着东西来记忆。",
+        "english": "reach",
+        "phonetic": "/riːtʃ/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "砍倒",
+        "desc": "这是个词组，根据cut（切、砍）和down（向下）的含义理解。",
+        "english": "cut down",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "谷粒",
+        "desc": "名词，可联想g（哥）+rain（雨），谷粒在雨中生长。",
+        "english": "grain",
+        "phonetic": "/ɡreɪn/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "数以百计",
+        "desc": "这是个词组，按字面理解记忆。",
+        "english": "hundreds of",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "宽的;宽阔的",
+        "desc": "形容词，可联想wide（宽的）和narrow（窄的）对比记忆。",
+        "english": "wide",
+        "phonetic": "/waɪd/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "吹走",
+        "desc": "",
+        "english": "blow away",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "鲸",
+        "desc": "名词，可联想巨大的身形来记忆。",
+        "english": "whale",
+        "phonetic": "/weɪl/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "蝴蝶",
+        "desc": "名词，可拆分成butter（黄油）和fly（飞）来记忆。",
+        "english": "butterfly",
+        "phonetic": "/ˈbʌtərflaɪ/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "提供;供应",
+        "desc": "动词，可根据pro - vide的结构记忆。",
+        "english": "provide",
+        "phonetic": "/prəˈvaɪd/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "航天服;宇航服",
+        "desc": "名词，space（太空）+suit（衣服）组合记忆。",
+        "english": "spacesuit",
+        "phonetic": "/ˈspeɪssuːt/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "探索",
+        "desc": "动词，ex - plore结构记忆。",
+        "english": "explore",
+        "phonetic": "/ɪkˈsplɔːr/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "消失;不见",
+        "desc": "动词，dis - appear结构记忆。",
+        "english": "disappear",
+        "phonetic": "/ˌdɪsəˈpɪr/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "收集;采集",
+        "desc": "动词，co - llect结构记忆。",
+        "english": "collect",
+        "phonetic": "/kəˈlekt/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "塑料",
+        "desc": "名词，可联想塑料制品来记忆。",
+        "english": "plastic",
+        "phonetic": "/ˈplæstɪk/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "离开",
+        "desc": "动词，可根据leave的常用搭配记忆。",
+        "english": "leave",
+        "phonetic": "/liːv/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "污染",
+        "desc": "名词，可联想污染的场景记忆。",
+        "english": "pollution",
+        "phonetic": "/pəˈluːʃn/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "公里",
+        "desc": "名词，kilo（千）+ metre（米）组合记忆。",
+        "english": "kilometre",
+        "phonetic": "/ˈkɪləmiːtər/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "保护",
+        "desc": "动词，pro - tect结构记忆。",
+        "english": "protect",
+        "phonetic": "/prəˈtekt/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "虚弱的;无力的",
+        "desc": "形容词，可联想虚弱的状态记忆。",
+        "english": "weak",
+        "phonetic": "/wiːk/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "（用线、绳等）拴",
+        "desc": "动词，可根据实际动作联想记忆。",
+        "english": "tic",
+        "phonetic": "/tɪk/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "化学制品;化学品",
+        "desc": "名词，可联想化学实验记忆。",
+        "english": "chemical",
+        "phonetic": "/ˈkemɪkl/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -27571,6 +27963,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7a/unit2';
             option.textContent = 'junior/grade7a/unit2';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7a/unit3';
+            option.textContent = 'junior/grade7a/unit3';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
