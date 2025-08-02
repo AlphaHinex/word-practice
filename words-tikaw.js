@@ -6685,31 +6685,10 @@ var words = [
         "tag": "junior/grade7a/unit1"
     },
     {
-        "chinese": "地理(学)",
-        "desc": "geo联想为地球，graphy联想为绘图，地球绘图即地理学",
-        "english": "geography",
-        "phonetic": "/dʒiˈɑːɡrəfi/",
-        "tag": "junior/grade7a/unit1"
-    },
-    {
-        "chinese": "角;墙角",
-        "desc": "cor联想为car（汽车），ner联想为near（靠近），汽车靠近的地方有角",
-        "english": "corner",
-        "phonetic": "/ˈkɔːrnər/",
-        "tag": "junior/grade7a/unit1"
-    },
-    {
         "chinese": "基本的;基础的",
         "desc": "base是基础，ic是形容词后缀，基础的就是基本的",
         "english": "basic",
         "phonetic": "/ˈbeɪsɪk/",
-        "tag": "junior/grade7a/unit1"
-    },
-    {
-        "chinese": "活动",
-        "desc": "act是行动，ivity是名词后缀，行动起来就是活动",
-        "english": "activity",
-        "phonetic": "/ækˈtɪvəti/",
         "tag": "junior/grade7a/unit1"
     },
     {
@@ -6720,31 +6699,10 @@ var words = [
         "tag": "junior/grade7a/unit1"
     },
     {
-        "chinese": "社团",
-        "desc": "根据发音记忆，cl发/kl/，u发/ʌ/，b发/b/",
-        "english": "club",
-        "phonetic": "/klʌb/",
-        "tag": "junior/grade7a/unit1"
-    },
-    {
         "chinese": "然而;不过",
         "desc": "可以拆分为how和ever，联想记忆为不管怎样都是然而的意思。",
         "english": "however",
         "phonetic": "/haʊˈevər/",
-        "tag": "junior/grade7a/unit1"
-    },
-    {
-        "chinese": "练习;训练",
-        "desc": "可根据practice来记忆，两者意思相近，practise是动词形式。",
-        "english": "practise",
-        "phonetic": "/ˈpræktɪs/",
-        "tag": "junior/grade7a/unit1"
-    },
-    {
-        "chinese": "解答",
-        "desc": "与solution（解答、解决方案）联系起来记忆。",
-        "english": "solve",
-        "phonetic": "/sɑːlv/",
         "tag": "junior/grade7a/unit1"
     },
     {
@@ -6755,24 +6713,10 @@ var words = [
         "tag": "junior/grade7a/unit1"
     },
     {
-        "chinese": "加强;增强",
-        "desc": "根据词根velop（包裹、覆盖），de表强调，逐渐包裹变强。",
-        "english": "develop",
-        "phonetic": "/dɪˈveləp/",
-        "tag": "junior/grade7a/unit1"
-    },
-    {
         "chinese": "上升",
         "desc": "和raise对比记忆，rise是不及物动词，raise是及物动词。",
         "english": "rise",
         "phonetic": "/raɪz/",
-        "tag": "junior/grade7a/unit1"
-    },
-    {
-        "chinese": "技术;技能",
-        "desc": "可以联想skilled（有技能的）来记忆。",
-        "english": "skill",
-        "phonetic": "/skɪl/",
         "tag": "junior/grade7a/unit1"
     },
     {
@@ -6783,11 +6727,95 @@ var words = [
         "tag": "junior/grade7a/unit1"
     },
     {
+        "chinese": "褐色的，乌黑的",
+        "desc": "adj.",
+        "english": "dark",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit1"
+    },
+    {
+        "chinese": "同一的，想通的",
+        "desc": "adj.",
+        "english": "same",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit1"
+    },
+    {
+        "chinese": "上升到",
+        "desc": "",
+        "english": "rise into",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit1"
+    },
+    {
+        "chinese": "出现",
+        "desc": "",
+        "english": "come along",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit1"
+    },
+    {
         "chinese": "青少年的",
         "desc": "与teenager（青少年）相关联记忆。",
         "english": "teen",
         "phonetic": "/tiːn/",
-        "tag": "junior/grade7a/unit1"
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "技术;技能",
+        "desc": "可以联想skilled（有技能的）来记忆。",
+        "english": "skill",
+        "phonetic": "/skɪl/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "加强;增强",
+        "desc": "根据词根velop（包裹、覆盖），de表强调，逐渐包裹变强。",
+        "english": "develop",
+        "phonetic": "/dɪˈveləp/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "解答",
+        "desc": "与solution（解答、解决方案）联系起来记忆。",
+        "english": "solve",
+        "phonetic": "/sɑːlv/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "练习;训练",
+        "desc": "可根据practice来记忆，两者意思相近，practise是动词形式。",
+        "english": "practise",
+        "phonetic": "/ˈpræktɪs/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "社团",
+        "desc": "根据发音记忆，cl发/kl/，u发/ʌ/，b发/b/",
+        "english": "club",
+        "phonetic": "/klʌb/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "活动",
+        "desc": "act是行动，ivity是名词后缀，行动起来就是活动",
+        "english": "activity",
+        "phonetic": "/ækˈtɪvəti/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "角;墙角",
+        "desc": "cor联想为car（汽车），ner联想为near（靠近），汽车靠近的地方有角",
+        "english": "corner",
+        "phonetic": "/ˈkɔːrnər/",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "地理(学)",
+        "desc": "geo联想为地球，graphy联想为绘图，地球绘图即地理学",
+        "english": "geography",
+        "phonetic": "/dʒiˈɑːɡrəfi/",
+        "tag": "junior/grade7a/unit2"
     },
     {
         "chinese": "杂志",
