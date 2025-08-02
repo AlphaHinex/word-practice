@@ -66,18 +66,6 @@
         "phonetic": "/ˈtiːneɪdʒər/"
     },
     {
-        "chinese": "潮湿的",
-        "desc": "可以通过与'water'（水）联系起来记忆，有水的地方就会潮湿。",
-        "english": "wet",
-        "phonetic": "/wet/"
-    },
-    {
-        "chinese": "深的",
-        "desc": "联想'dig'（挖），挖得深就会有深的感觉。",
-        "english": "deep",
-        "phonetic": "/diːp/"
-    },
-    {
         "chinese": "问候;招呼",
         "desc": "与'greet'（动词问候）相关联，加上'ing'形式名词化。",
         "english": "greeting",
@@ -108,18 +96,6 @@
         "phonetic": "/sɪnˈsɪrli/"
     },
     {
-        "chinese": "特色;特征",
-        "desc": "可拆分为'fea'（联想'face'脸有特征）和'ture'来记忆。",
-        "english": "feature",
-        "phonetic": "/ˈfiːtʃər/"
-    },
-    {
-        "chinese": "南;南方",
-        "desc": "与地图上的方向联系起来记忆。",
-        "english": "south",
-        "phonetic": "/saʊθ/"
-    },
-    {
         "chinese": "日记;日记簿",
         "desc": "可以想象每天'daily'记录的东西就是日记。",
         "english": "diary",
@@ -130,12 +106,6 @@
         "desc": "与'pro'（向前）和'ject'（投掷）联想，向前投掷出的就是课题。",
         "english": "project",
         "phonetic": "/ˈprɑːdʒekt/"
-    },
-    {
-        "chinese": "大声地",
-        "desc": "由'loud'（大声的）加上'ly'变成副词形式来记忆。",
-        "english": "loudly",
-        "phonetic": "/ˈlaʊdli/"
     },
     {
         "chinese": "海报",
@@ -150,40 +120,16 @@
         "phonetic": "/ˈriːəlaɪz/"
     },
     {
-        "chinese": "雷",
-        "desc": "听到打雷的声音来记忆。",
-        "english": "thunder",
-        "phonetic": "/ˈθʌndər/"
-    },
-    {
-        "chinese": "闪电",
-        "desc": "看到闪电的光亮来记忆。",
-        "english": "lightning",
-        "phonetic": "/ˈlaɪtnɪŋ/"
-    },
-    {
         "chinese": "幸运地;幸好",
         "desc": "由'lucky'（幸运的）加上'ly'变成副词形式来记忆。",
         "english": "luckily",
         "phonetic": "/ˈlʌkəli/"
     },
     {
-        "chinese": "新鲜的",
-        "desc": "可以联想新摘的水果是新鲜的。",
-        "english": "fresh",
-        "phonetic": "/freʃ/"
-    },
-    {
         "chinese": "恰好",
         "desc": "可根据发音记忆，ju发/dʒʌ/，st发/st/。",
         "english": "just",
         "phonetic": "/dʒʌst/"
-    },
-    {
-        "chinese": "采集(植物、水果等)",
-        "desc": "联想记忆，gath联想为gate（大门），在大门附近采集东西。",
-        "english": "gather",
-        "phonetic": "/ˈɡæðər/"
     },
     {
         "chinese": "演示",
@@ -210,34 +156,10 @@
         "phonetic": "/pæk/"
     },
     {
-        "chinese": "蛇",
-        "desc": "象形记忆，s像蛇的形状。",
-        "english": "snake",
-        "phonetic": "/sneɪk/"
-    },
-    {
-        "chinese": "自始至终;从头到尾",
-        "desc": "联想记忆，th发音/θ/，rough发音/ruː/，可联想走过一条崎岖的路从头到尾。",
-        "english": "through",
-        "phonetic": "/θruː/"
-    },
-    {
         "chinese": "困难的",
         "desc": "联想记忆，rock是岩石，像在岩石上行走很困难。",
         "english": "rocky",
         "phonetic": "/ˈrɑːki/"
-    },
-    {
-        "chinese": "区域;地区",
-        "desc": "联想记忆，与art（艺术）对比，不同的艺术分区。",
-        "english": "part",
-        "phonetic": "/pɑːrt/"
-    },
-    {
-        "chinese": "文章",
-        "desc": "根据词根记忆，art有艺术、技艺的意思，文章也是一种技艺。",
-        "english": "article",
-        "phonetic": "/ˈɑːrtɪkl/"
     },
     {
         "chinese": "洗碗",
@@ -264,12 +186,6 @@
         "phonetic": ""
     },
     {
-        "chinese": "按……式发展",
-        "desc": "联想记忆，fo发音/fɔː/，llow发音/loʊ/，跟着发展。",
-        "english": "follow",
-        "phonetic": "/ˈfɑːloʊ/"
-    },
-    {
         "chinese": "日常生活",
         "desc": "整体记忆这个短语。",
         "english": "daily life",
@@ -292,36 +208,6 @@
         "desc": "整体记忆这个短语。",
         "english": "on foot",
         "phonetic": ""
-    },
-    {
-        "chinese": "庄稼;作物",
-        "desc": "可根据发音联想记忆，cro像cross（穿过），p想象成一片田地，穿过田地的是庄稼。",
-        "english": "crop",
-        "phonetic": "/krɑːp/"
-    },
-    {
-        "chinese": "文化;文明",
-        "desc": "可以拆分成cult（崇拜）+ure，对文化文明有崇拜之情。",
-        "english": "culture",
-        "phonetic": "/ˈkʌltʃər/"
-    },
-    {
-        "chinese": "地方的;当地的",
-        "desc": "loc联想locate（位于），地方的就是位于某地的。",
-        "english": "local",
-        "phonetic": "/ˈloʊkl/"
-    },
-    {
-        "chinese": "传统",
-        "desc": "tra谐音“传”，dition联想dictionary（字典），传承下来被记载在字典里的就是传统。",
-        "english": "tradition",
-        "phonetic": "/trəˈdɪʃn/"
-    },
-    {
-        "chinese": "持续;继续存在",
-        "desc": "con联想come（来），tinue联想tin（罐头），不断有罐头来就是持续。",
-        "english": "continue",
-        "phonetic": "/kənˈtɪnjuː/"
     },
     {
         "chinese": "打扫干净",
@@ -348,15 +234,21 @@
         "phonetic": "/səkˈses/"
     },
     {
-        "chinese": "沙堡",
-        "desc": "sand是沙子，castle是城堡，组合起来就是沙堡。",
-        "english": "sandcastle",
-        "phonetic": "/ˈsændkæsl/"
+        "chinese": "充满活力",
+        "desc": "",
+        "english": "full of energy",
+        "phonetic": ""
     },
     {
-        "chinese": "(使)分开",
-        "desc": "di谐音“底”，vide联想video（视频），从底部把视频分开。",
-        "english": "divide",
-        "phonetic": "/dɪˈvaɪd/"
+        "chinese": "准备好",
+        "desc": "",
+        "english": "get ... ready for",
+        "phonetic": ""
+    },
+    {
+        "chinese": "举办；上演",
+        "desc": "",
+        "english": "put on",
+        "phonetic": ""
     }
 ]
