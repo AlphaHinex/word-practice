@@ -6370,83 +6370,6 @@ var words = [
         "tag": "A2/2/2"
     },
     {
-        "chinese": "解答",
-        "desc": "与solution（解答、解决方案）联系起来记忆。",
-        "english": "solve",
-        "phonetic": "/sɑːlv/",
-        "tag": "junior/grade7a/0727"
-    },
-    {
-        "chinese": "加强;增强",
-        "desc": "根据词根velop（包裹、覆盖），de表强调，逐渐包裹变强。",
-        "english": "develop",
-        "phonetic": "/dɪˈveləp/",
-        "tag": "junior/grade7a/0727"
-    },
-    {
-        "chinese": "技术;技能",
-        "desc": "可以联想skilled（有技能的）来记忆。",
-        "english": "skill",
-        "phonetic": "/skɪl/",
-        "tag": "junior/grade7a/0727"
-    },
-    {
-        "chinese": "青少年的",
-        "desc": "与teenager（青少年）相关联记忆。",
-        "english": "teen",
-        "phonetic": "/tiːn/",
-        "tag": "junior/grade7a/0727"
-    },
-    {
-        "chinese": "杂志",
-        "desc": "可通过联想记忆，比如将其拆分成'mag'（联想魔法）和'azine'（类似某种东西的后缀），想象杂志里有很多神奇的内容。",
-        "english": "magazine",
-        "phonetic": "/ˌmæɡəˈziːn/",
-        "tag": "junior/grade7a/0727"
-    },
-    {
-        "chinese": "(13至19岁之间的)青少年",
-        "desc": "拆分为'teen'（十几岁）和'ager'（表示人的后缀）来记忆。",
-        "english": "teenager",
-        "phonetic": "/ˈtiːneɪdʒər/",
-        "tag": "junior/grade7a/0727"
-    },
-    {
-        "chinese": "问候;招呼",
-        "desc": "与'greet'（动词问候）相关联，加上'ing'形式名词化。",
-        "english": "greeting",
-        "phonetic": "/ˈɡriːtɪŋ/",
-        "tag": "junior/grade7a/0727"
-    },
-    {
-        "chinese": "年级",
-        "desc": "可根据学校里不同的年级层次来记忆。",
-        "english": "grade",
-        "phonetic": "/ɡreɪd/",
-        "tag": "junior/grade7a/0727"
-    },
-    {
-        "chinese": "精力;活力",
-        "desc": "可以想象'en'（使）和'ergy'（能量），使有能量就是精力。",
-        "english": "energy",
-        "phonetic": "/ˈenərdʒi/",
-        "tag": "junior/grade7a/0727"
-    },
-    {
-        "chinese": "戏;剧",
-        "desc": "与'dramatic'（戏剧性的）联系起来，有戏剧就会有戏剧性。",
-        "english": "drama",
-        "phonetic": "/ˈdrɑːmə/",
-        "tag": "junior/grade7a/0727"
-    },
-    {
-        "chinese": "真诚地;诚实地",
-        "desc": "由'sincere'（真诚的）加上'ly'变成副词形式来记忆。",
-        "english": "sincerely",
-        "phonetic": "/sɪnˈsɪrli/",
-        "tag": "junior/grade7a/0727"
-    },
-    {
         "chinese": "心",
         "desc": "联想记忆：h(联想为'好')+ear(耳朵)+t(联想为'跳')，好耳朵能听到心跳。",
         "english": "heart",
@@ -6832,20 +6755,6 @@ var words = [
         "tag": "junior/grade7a/unit2"
     },
     {
-        "chinese": "潮湿的",
-        "desc": "可以通过与'water'（水）联系起来记忆，有水的地方就会潮湿。",
-        "english": "wet",
-        "phonetic": "/wet/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
-        "chinese": "深的",
-        "desc": "联想'dig'（挖），挖得深就会有深的感觉。",
-        "english": "deep",
-        "phonetic": "/diːp/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
         "chinese": "问候;招呼",
         "desc": "与'greet'（动词问候）相关联，加上'ing'形式名词化。",
         "english": "greeting",
@@ -6881,20 +6790,6 @@ var words = [
         "tag": "junior/grade7a/unit2"
     },
     {
-        "chinese": "特色;特征",
-        "desc": "可拆分为'fea'（联想'face'脸有特征）和'ture'来记忆。",
-        "english": "feature",
-        "phonetic": "/ˈfiːtʃər/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
-        "chinese": "南;南方",
-        "desc": "与地图上的方向联系起来记忆。",
-        "english": "south",
-        "phonetic": "/saʊθ/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
         "chinese": "日记;日记簿",
         "desc": "可以想象每天'daily'记录的东西就是日记。",
         "english": "diary",
@@ -6906,13 +6801,6 @@ var words = [
         "desc": "与'pro'（向前）和'ject'（投掷）联想，向前投掷出的就是课题。",
         "english": "project",
         "phonetic": "/ˈprɑːdʒekt/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
-        "chinese": "大声地",
-        "desc": "由'loud'（大声的）加上'ly'变成副词形式来记忆。",
-        "english": "loudly",
-        "phonetic": "/ˈlaʊdli/",
         "tag": "junior/grade7a/unit2"
     },
     {
@@ -6930,20 +6818,6 @@ var words = [
         "tag": "junior/grade7a/unit2"
     },
     {
-        "chinese": "雷",
-        "desc": "听到打雷的声音来记忆。",
-        "english": "thunder",
-        "phonetic": "/ˈθʌndər/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
-        "chinese": "闪电",
-        "desc": "看到闪电的光亮来记忆。",
-        "english": "lightning",
-        "phonetic": "/ˈlaɪtnɪŋ/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
         "chinese": "幸运地;幸好",
         "desc": "由'lucky'（幸运的）加上'ly'变成副词形式来记忆。",
         "english": "luckily",
@@ -6951,24 +6825,10 @@ var words = [
         "tag": "junior/grade7a/unit2"
     },
     {
-        "chinese": "新鲜的",
-        "desc": "可以联想新摘的水果是新鲜的。",
-        "english": "fresh",
-        "phonetic": "/freʃ/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
         "chinese": "恰好",
         "desc": "可根据发音记忆，ju发/dʒʌ/，st发/st/。",
         "english": "just",
         "phonetic": "/dʒʌst/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
-        "chinese": "采集(植物、水果等)",
-        "desc": "联想记忆，gath联想为gate（大门），在大门附近采集东西。",
-        "english": "gather",
-        "phonetic": "/ˈɡæðər/",
         "tag": "junior/grade7a/unit2"
     },
     {
@@ -7000,38 +6860,10 @@ var words = [
         "tag": "junior/grade7a/unit2"
     },
     {
-        "chinese": "蛇",
-        "desc": "象形记忆，s像蛇的形状。",
-        "english": "snake",
-        "phonetic": "/sneɪk/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
-        "chinese": "自始至终;从头到尾",
-        "desc": "联想记忆，th发音/θ/，rough发音/ruː/，可联想走过一条崎岖的路从头到尾。",
-        "english": "through",
-        "phonetic": "/θruː/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
         "chinese": "困难的",
         "desc": "联想记忆，rock是岩石，像在岩石上行走很困难。",
         "english": "rocky",
         "phonetic": "/ˈrɑːki/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
-        "chinese": "区域;地区",
-        "desc": "联想记忆，与art（艺术）对比，不同的艺术分区。",
-        "english": "part",
-        "phonetic": "/pɑːrt/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
-        "chinese": "文章",
-        "desc": "根据词根记忆，art有艺术、技艺的意思，文章也是一种技艺。",
-        "english": "article",
-        "phonetic": "/ˈɑːrtɪkl/",
         "tag": "junior/grade7a/unit2"
     },
     {
@@ -7063,13 +6895,6 @@ var words = [
         "tag": "junior/grade7a/unit2"
     },
     {
-        "chinese": "按……式发展",
-        "desc": "联想记忆，fo发音/fɔː/，llow发音/loʊ/，跟着发展。",
-        "english": "follow",
-        "phonetic": "/ˈfɑːloʊ/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
         "chinese": "日常生活",
         "desc": "整体记忆这个短语。",
         "english": "daily life",
@@ -7095,41 +6920,6 @@ var words = [
         "desc": "整体记忆这个短语。",
         "english": "on foot",
         "phonetic": "",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
-        "chinese": "庄稼;作物",
-        "desc": "可根据发音联想记忆，cro像cross（穿过），p想象成一片田地，穿过田地的是庄稼。",
-        "english": "crop",
-        "phonetic": "/krɑːp/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
-        "chinese": "文化;文明",
-        "desc": "可以拆分成cult（崇拜）+ure，对文化文明有崇拜之情。",
-        "english": "culture",
-        "phonetic": "/ˈkʌltʃər/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
-        "chinese": "地方的;当地的",
-        "desc": "loc联想locate（位于），地方的就是位于某地的。",
-        "english": "local",
-        "phonetic": "/ˈloʊkl/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
-        "chinese": "传统",
-        "desc": "tra谐音“传”，dition联想dictionary（字典），传承下来被记载在字典里的就是传统。",
-        "english": "tradition",
-        "phonetic": "/trəˈdɪʃn/",
-        "tag": "junior/grade7a/unit2"
-    },
-    {
-        "chinese": "持续;继续存在",
-        "desc": "con联想come（来），tinue联想tin（罐头），不断有罐头来就是持续。",
-        "english": "continue",
-        "phonetic": "/kənˈtɪnjuː/",
         "tag": "junior/grade7a/unit2"
     },
     {
@@ -7161,18 +6951,235 @@ var words = [
         "tag": "junior/grade7a/unit2"
     },
     {
+        "chinese": "充满活力",
+        "desc": "",
+        "english": "full of energy",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "准备好",
+        "desc": "",
+        "english": "get ... ready for",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "举办；上演",
+        "desc": "",
+        "english": "put on",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit2"
+    },
+    {
+        "chinese": "潮湿的",
+        "desc": "可以通过与'water'（水）联系起来记忆，有水的地方就会潮湿。",
+        "english": "wet",
+        "phonetic": "/wet/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "大声地",
+        "desc": "由'loud'（大声的）加上'ly'变成副词形式来记忆。",
+        "english": "loudly",
+        "phonetic": "/ˈlaʊdli/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "雷",
+        "desc": "听到打雷的声音来记忆。",
+        "english": "thunder",
+        "phonetic": "/ˈθʌndər/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "闪电",
+        "desc": "看到闪电的光亮来记忆。",
+        "english": "lightning",
+        "phonetic": "/ˈlaɪtnɪŋ/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "新鲜的",
+        "desc": "可以联想新摘的水果是新鲜的。",
+        "english": "fresh",
+        "phonetic": "/freʃ/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "采集(植物、水果等)",
+        "desc": "联想记忆，gath联想为gate（大门），在大门附近采集东西。",
+        "english": "gather",
+        "phonetic": "/ˈɡæðər/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "南;南方",
+        "desc": "与地图上的方向联系起来记忆。",
+        "english": "south",
+        "phonetic": "/saʊθ/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "区域;地区",
+        "desc": "联想记忆，与art（艺术）对比，不同的艺术分区。",
+        "english": "part",
+        "phonetic": "/pɑːrt/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "文章",
+        "desc": "根据词根记忆，art有艺术、技艺的意思，文章也是一种技艺。",
+        "english": "article",
+        "phonetic": "/ˈɑːrtɪkl/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "晴朗的",
+        "desc": "adj.",
+        "english": "clear",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
         "chinese": "沙堡",
         "desc": "sand是沙子，castle是城堡，组合起来就是沙堡。",
         "english": "sandcastle",
         "phonetic": "/ˈsændkæsl/",
-        "tag": "junior/grade7a/unit2"
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "按……式发展",
+        "desc": "联想记忆，fo发音/fɔː/，llow发音/loʊ/，跟着发展。",
+        "english": "follow",
+        "phonetic": "/ˈfɑːloʊ/",
+        "tag": "junior/grade7a/unit3"
     },
     {
         "chinese": "(使)分开",
         "desc": "di谐音“底”，vide联想video（视频），从底部把视频分开。",
         "english": "divide",
         "phonetic": "/dɪˈvaɪd/",
-        "tag": "junior/grade7a/unit2"
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "庄稼;作物",
+        "desc": "可根据发音联想记忆，cro像cross（穿过），p想象成一片田地，穿过田地的是庄稼。",
+        "english": "crop",
+        "phonetic": "/krɑːp/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "文化;文明",
+        "desc": "可以拆分成cult（崇拜）+ure，对文化文明有崇拜之情。",
+        "english": "culture",
+        "phonetic": "/ˈkʌltʃər/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "地方的;当地的",
+        "desc": "loc联想locate（位于），地方的就是位于某地的。",
+        "english": "local",
+        "phonetic": "/ˈloʊkl/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "传统",
+        "desc": "tra谐音“传”，dition联想dictionary（字典），传承下来被记载在字典里的就是传统。",
+        "english": "tradition",
+        "phonetic": "/trəˈdɪʃn/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "持续;继续存在",
+        "desc": "con联想come（来），tinue联想tin（罐头），不断有罐头来就是持续。",
+        "english": "continue",
+        "phonetic": "/kənˈtɪnjuː/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "原因；理由",
+        "desc": "n.",
+        "english": "reason",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "对……作出抉择；决定",
+        "desc": "v.",
+        "english": "decide",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "有生气；有活力",
+        "desc": "adj.",
+        "english": "alive",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "自始至终;从头到尾",
+        "desc": "联想记忆，th发音/θ/，rough发音/ruː/，可联想走过一条崎岖的路从头到尾。",
+        "english": "through",
+        "phonetic": "/θruː/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "安静的；平静的",
+        "desc": "adj.",
+        "english": "peaceful",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "蛇",
+        "desc": "象形记忆，s像蛇的形状。",
+        "english": "snake",
+        "phonetic": "/sneɪk/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "特色;特征",
+        "desc": "可拆分为'fea'（联想'face'脸有特征）和'ture'来记忆。",
+        "english": "feature",
+        "phonetic": "/ˈfiːtʃər/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "铺满沙子的；含沙的",
+        "desc": "adj.",
+        "english": "sandy",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "踢；踹",
+        "desc": "v.",
+        "english": "kick",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "镇；市镇",
+        "desc": "n.",
+        "english": "town",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "深的",
+        "desc": "联想'dig'（挖），挖得深就会有深的感觉。",
+        "english": "deep",
+        "phonetic": "/diːp/",
+        "tag": "junior/grade7a/unit3"
+    },
+    {
+        "chinese": "脚印；足迹",
+        "desc": "n.",
+        "english": "footprint",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit3"
     },
     {
         "chinese": "野餐",
@@ -7203,13 +7210,6 @@ var words = [
         "tag": "junior/grade7a/unit3"
     },
     {
-        "chinese": "燃烧;烧",
-        "desc": "动词，可通过联想火燃烧的画面来记忆。",
-        "english": "burn",
-        "phonetic": "/bɜːrn/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
         "chinese": "事实上",
         "desc": "in表示在……里面，fact是事实，在事实里面即事实上。",
         "english": "in fact",
@@ -7224,24 +7224,10 @@ var words = [
         "tag": "junior/grade7a/unit3"
     },
     {
-        "chinese": "有害的",
-        "desc": "形容词，harm是伤害，ful是形容词后缀，表示充满……的，充满伤害的即有害的。",
-        "english": "harmful",
-        "phonetic": "/ˈhɑːrmfl/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
         "chinese": "基于……",
         "desc": "be表示是，base有基础的意思，on表示在……之上，是基于……之上的，即基于……",
         "english": "be based on",
         "phonetic": "",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "网站",
-        "desc": "名词，web是网络，site是地点，网络上的地点即网站。",
-        "english": "website",
-        "phonetic": "/ˈwebsaɪt/",
         "tag": "junior/grade7a/unit3"
     },
     {
@@ -7252,307 +7238,6 @@ var words = [
         "tag": "junior/grade7a/unit3"
     },
     {
-        "chinese": "皇帝",
-        "desc": "名词，可通过历史故事中皇帝的形象来记忆。",
-        "english": "emperor",
-        "phonetic": "/ˈempərər/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "打猎",
-        "desc": "动词，可联想猎人打猎的场景来记忆。",
-        "english": "hunt",
-        "phonetic": "/hʌnt/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "战争",
-        "desc": "名词，可通过战争的电影画面来记忆。",
-        "english": "war",
-        "phonetic": "/wɔːr/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "系统",
-        "desc": "名词，可联想电脑系统等相关概念来记忆。",
-        "english": "system",
-        "phonetic": "/ˈsɪstəm/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "沙暴",
-        "desc": "sand是沙子，storm是风暴，沙子的风暴即沙暴。",
-        "english": "sandstorm",
-        "phonetic": "/ˈsændstɔːrm/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "解决办法",
-        "desc": "名词，solve是解决，tion是名词后缀，解决的东西即解决办法。",
-        "english": "solution",
-        "phonetic": "/səˈluːʃn/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "令人大为惊奇的",
-        "desc": "形容词，a - 一个，maze迷宫，进入一个迷宫是令人惊奇的，ing形容词后缀。",
-        "english": "amazing",
-        "phonetic": "/əˈmeɪzɪŋ/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "刮;吹",
-        "desc": "动词，可联想风吹的感觉来记忆。",
-        "english": "blow",
-        "phonetic": "/bloʊ/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "一代人",
-        "desc": "名词，generate产生，ion名词后缀，产生的一代人。",
-        "english": "generation",
-        "phonetic": "/ˌdʒenəˈreɪʃn/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "十亿",
-        "desc": "名词，可联想记忆：bill（账单）+ion（离子，可视为名词后缀），巨额的账单就像十亿那么多。",
-        "english": "billion",
-        "phonetic": "/ˈbɪljən/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "盖;覆盖",
-        "desc": "动词，可根据其发音记忆，类似“卡我”，就像被东西盖住卡住了。",
-        "english": "cover",
-        "phonetic": "/ˈkʌvər/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "太阳系",
-        "desc": "solar表示太阳的，system表示系统，整体记忆。",
-        "english": "solar system",
-        "phonetic": "",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "地区;地域",
-        "desc": "名词，a（一）+re（热）+a（一），一个热的地方可以是一个地区。",
-        "english": "area",
-        "phonetic": "/ˈeriə/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "极冷的",
-        "desc": "形容词，freeze（冻结）的动名词形式，冻结的感觉就是极冷的。",
-        "english": "freezing",
-        "phonetic": "/ˈfriːzɪŋ/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "被……覆盖",
-        "desc": "这是个词组，根据cover的含义理解。",
-        "english": "be covered by",
-        "phonetic": "",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "北;北方",
-        "desc": "名词，可联想北极（North Pole）来记忆。",
-        "english": "north",
-        "phonetic": "/nɔːrθ/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "据我们所知",
-        "desc": "这是个句子，按字面理解记忆。",
-        "english": "as far as we know",
-        "phonetic": "",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "（行星的）极;地极",
-        "desc": "名词，可联想地球的南北极记忆。",
-        "english": "pole",
-        "phonetic": "/poʊl/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "海平面",
-        "desc": "这是个词组，根据sea（海）和level（水平）的含义理解。",
-        "english": "sea level",
-        "phonetic": "",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "沙漠;荒漠",
-        "desc": "名词，de（的）+ser（色）+t（特），沙漠的颜色很特别。",
-        "english": "desert",
-        "phonetic": "/ˈdezərt/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "更重要的是",
-        "desc": "这是个句子，按字面理解记忆。",
-        "english": "what's more",
-        "phonetic": "",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "提供;供应;给予",
-        "desc": "这是个词组，根据provide的含义理解。",
-        "english": "provide..with..",
-        "phonetic": "",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "米",
-        "desc": "名词，可根据长度单位记忆。",
-        "english": "metre",
-        "phonetic": "/ˈmiːtər/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "塑料污染",
-        "desc": "这是个词组，根据plastic（塑料）和pollution（污染）的含义理解。",
-        "english": "plastic pollution",
-        "phonetic": "",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "足够达到",
-        "desc": "动词，可联想够着东西来记忆。",
-        "english": "reach",
-        "phonetic": "/riːtʃ/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "砍倒",
-        "desc": "这是个词组，根据cut（切、砍）和down（向下）的含义理解。",
-        "english": "cut down",
-        "phonetic": "",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "谷粒",
-        "desc": "名词，可联想g（哥）+rain（雨），谷粒在雨中生长。",
-        "english": "grain",
-        "phonetic": "/ɡreɪn/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "数以百计",
-        "desc": "这是个词组，按字面理解记忆。",
-        "english": "hundreds of",
-        "phonetic": "",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "宽的;宽阔的",
-        "desc": "形容词，可联想wide（宽的）和narrow（窄的）对比记忆。",
-        "english": "wide",
-        "phonetic": "/waɪd/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "吹走",
-        "desc": "",
-        "english": "blow away",
-        "phonetic": "",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "鲸",
-        "desc": "名词，可联想巨大的身形来记忆。",
-        "english": "whale",
-        "phonetic": "/weɪl/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "蝴蝶",
-        "desc": "名词，可拆分成butter（黄油）和fly（飞）来记忆。",
-        "english": "butterfly",
-        "phonetic": "/ˈbʌtərflaɪ/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "提供;供应",
-        "desc": "动词，可根据pro - vide的结构记忆。",
-        "english": "provide",
-        "phonetic": "/prəˈvaɪd/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "航天服;宇航服",
-        "desc": "名词，space（太空）+suit（衣服）组合记忆。",
-        "english": "spacesuit",
-        "phonetic": "/ˈspeɪssuːt/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "探索",
-        "desc": "动词，ex - plore结构记忆。",
-        "english": "explore",
-        "phonetic": "/ɪkˈsplɔːr/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "消失;不见",
-        "desc": "动词，dis - appear结构记忆。",
-        "english": "disappear",
-        "phonetic": "/ˌdɪsəˈpɪr/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "收集;采集",
-        "desc": "动词，co - llect结构记忆。",
-        "english": "collect",
-        "phonetic": "/kəˈlekt/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "塑料",
-        "desc": "名词，可联想塑料制品来记忆。",
-        "english": "plastic",
-        "phonetic": "/ˈplæstɪk/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "离开",
-        "desc": "动词，可根据leave的常用搭配记忆。",
-        "english": "leave",
-        "phonetic": "/liːv/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "污染",
-        "desc": "名词，可联想污染的场景记忆。",
-        "english": "pollution",
-        "phonetic": "/pəˈluːʃn/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "公里",
-        "desc": "名词，kilo（千）+ metre（米）组合记忆。",
-        "english": "kilometre",
-        "phonetic": "/ˈkɪləmiːtər/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "保护",
-        "desc": "动词，pro - tect结构记忆。",
-        "english": "protect",
-        "phonetic": "/prəˈtekt/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "虚弱的;无力的",
-        "desc": "形容词，可联想虚弱的状态记忆。",
-        "english": "weak",
-        "phonetic": "/wiːk/",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
         "chinese": "（用线、绳等）拴",
         "desc": "动词，可根据实际动作联想记忆。",
         "english": "tic",
@@ -7560,11 +7245,396 @@ var words = [
         "tag": "junior/grade7a/unit3"
     },
     {
+        "chinese": "系统",
+        "desc": "名词，可联想电脑系统等相关概念来记忆。",
+        "english": "system",
+        "phonetic": "/ˈsɪstəm/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "档案",
+        "desc": "n.",
+        "english": "file",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "盖;覆盖",
+        "desc": "动词，可根据其发音记忆，类似“卡我”，就像被东西盖住卡住了。",
+        "english": "cover",
+        "phonetic": "/ˈkʌvər/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "地区;地域",
+        "desc": "名词，a（一）+re（热）+a（一），一个热的地方可以是一个地区。",
+        "english": "area",
+        "phonetic": "/ˈeriə/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "极冷的",
+        "desc": "形容词，freeze（冻结）的动名词形式，冻结的感觉就是极冷的。",
+        "english": "freezing",
+        "phonetic": "/ˈfriːzɪŋ/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "北;北方",
+        "desc": "名词，可联想北极（North Pole）来记忆。",
+        "english": "north",
+        "phonetic": "/nɔːrθ/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "（行星的）极;地极",
+        "desc": "名词，可联想地球的南北极记忆。",
+        "english": "pole",
+        "phonetic": "/poʊl/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "沙漠;荒漠",
+        "desc": "名词，de（的）+ser（色）+t（特），沙漠的颜色很特别。",
+        "english": "desert",
+        "phonetic": "/ˈdezərt/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "行星",
+        "desc": "n.",
+        "english": "planet",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "沙漠；荒漠",
+        "desc": "n.",
+        "english": "desert",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "地下水",
+        "desc": "n.",
+        "english": "groundwater",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "石油；原油",
+        "desc": "n.",
+        "english": "oil",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "自己的；本人的",
+        "desc": "adj.",
+        "english": "own",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "皇帝",
+        "desc": "名词，可通过历史故事中皇帝的形象来记忆。",
+        "english": "emperor",
+        "phonetic": "/ˈempərər/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "打猎",
+        "desc": "动词，可联想猎人打猎的场景来记忆。",
+        "english": "hunt",
+        "phonetic": "/hʌnt/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "战争",
+        "desc": "名词，可通过战争的电影画面来记忆。",
+        "english": "war",
+        "phonetic": "/wɔːr/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "沙暴",
+        "desc": "sand是沙子，storm是风暴，沙子的风暴即沙暴。",
+        "english": "sandstorm",
+        "phonetic": "/ˈsændstɔːrm/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "解决办法",
+        "desc": "名词，solve是解决，tion是名词后缀，解决的东西即解决办法。",
+        "english": "solution",
+        "phonetic": "/səˈluːʃn/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "刮;吹",
+        "desc": "动词，可联想风吹的感觉来记忆。",
+        "english": "blow",
+        "phonetic": "/bloʊ/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "一代人",
+        "desc": "名词，generate产生，ion名词后缀，产生的一代人。",
+        "english": "generation",
+        "phonetic": "/ˌdʒenəˈreɪʃn/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "太阳系",
+        "desc": "solar表示太阳的，system表示系统，整体记忆。",
+        "english": "solar system",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "有害的",
+        "desc": "形容词，harm是伤害，ful是形容词后缀，表示充满……的，充满伤害的即有害的。",
+        "english": "harmful",
+        "phonetic": "/ˈhɑːrmfl/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "网站",
+        "desc": "名词，web是网络，site是地点，网络上的地点即网站。",
+        "english": "website",
+        "phonetic": "/ˈwebsaɪt/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "天然气",
+        "desc": "n.",
+        "english": "gas",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "事实档案",
+        "desc": "",
+        "english": "fact file",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "被……覆盖",
+        "desc": "这是个词组，根据cover的含义理解。",
+        "english": "be covered by",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "据我们所知",
+        "desc": "这是个句子，按字面理解记忆。",
+        "english": "as far as we know",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "海平面",
+        "desc": "这是个词组，根据sea（海）和level（水平）的含义理解。",
+        "english": "sea level",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "更重要的是",
+        "desc": "这是个句子，按字面理解记忆。",
+        "english": "what's more",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "提供;供应;给予",
+        "desc": "这是个词组，根据provide的含义理解。",
+        "english": "provide..with..",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "塑料污染",
+        "desc": "这是个词组，根据plastic（塑料）和pollution（污染）的含义理解。",
+        "english": "plastic pollution",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "砍倒",
+        "desc": "这是个词组，根据cut（切、砍）和down（向下）的含义理解。",
+        "english": "cut down",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "数以百计",
+        "desc": "这是个词组，按字面理解记忆。",
+        "english": "hundreds of",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "吹走",
+        "desc": "",
+        "english": "blow away",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "燃烧;烧",
+        "desc": "动词，可通过联想火燃烧的画面来记忆。",
+        "english": "burn",
+        "phonetic": "/bɜːrn/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "十亿",
+        "desc": "num.，可联想记忆：bill（账单）+ion（离子，可视为名词后缀），巨额的账单就像十亿那么多。",
+        "english": "billion",
+        "phonetic": "/ˈbɪljən/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "米",
+        "desc": "名词，可根据长度单位记忆。",
+        "english": "metre",
+        "phonetic": "/ˈmiːtər/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "足够达到",
+        "desc": "动词，可联想够着东西来记忆。",
+        "english": "reach",
+        "phonetic": "/riːtʃ/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "谷粒",
+        "desc": "名词，可联想g（哥）+rain（雨），谷粒在雨中生长。",
+        "english": "grain",
+        "phonetic": "/ɡreɪn/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "宽的;宽阔的",
+        "desc": "形容词，可联想wide（宽的）和narrow（窄的）对比记忆。",
+        "english": "wide",
+        "phonetic": "/waɪd/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "鲸",
+        "desc": "名词，可联想巨大的身形来记忆。",
+        "english": "whale",
+        "phonetic": "/weɪl/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "蝴蝶",
+        "desc": "名词，可拆分成butter（黄油）和fly（飞）来记忆。",
+        "english": "butterfly",
+        "phonetic": "/ˈbʌtərflaɪ/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "提供;供应",
+        "desc": "动词，可根据pro - vide的结构记忆。",
+        "english": "provide",
+        "phonetic": "/prəˈvaɪd/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "探索",
+        "desc": "动词，ex - plore结构记忆。",
+        "english": "explore",
+        "phonetic": "/ɪkˈsplɔːr/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "消失;不见",
+        "desc": "动词，dis - appear结构记忆。",
+        "english": "disappear",
+        "phonetic": "/ˌdɪsəˈpɪr/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "塑料",
+        "desc": "名词，可联想塑料制品来记忆。",
+        "english": "plastic",
+        "phonetic": "/ˈplæstɪk/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "污染",
+        "desc": "名词，可联想污染的场景记忆。",
+        "english": "pollution",
+        "phonetic": "/pəˈluːʃn/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
         "chinese": "化学制品;化学品",
         "desc": "名词，可联想化学实验记忆。",
         "english": "chemical",
         "phonetic": "/ˈkemɪkl/",
-        "tag": "junior/grade7a/unit3"
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "保护",
+        "desc": "动词，pro - tect结构记忆。",
+        "english": "protect",
+        "phonetic": "/prəˈtekt/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "令人大为惊奇的",
+        "desc": "形容词，a - 一个，maze迷宫，进入一个迷宫是令人惊奇的，ing形容词后缀。",
+        "english": "amazing",
+        "phonetic": "/əˈmeɪzɪŋ/",
+        "tag": "junior/grade7a/unit4"
+    },
+    {
+        "chinese": "航天服;宇航服",
+        "desc": "名词，space（太空）+suit（衣服）组合记忆。",
+        "english": "spacesuit",
+        "phonetic": "/ˈspeɪssuːt/",
+        "tag": "junior/grade7a/unit5"
+    },
+    {
+        "chinese": "收集;采集",
+        "desc": "动词，co - llect结构记忆。",
+        "english": "collect",
+        "phonetic": "/kəˈlekt/",
+        "tag": "junior/grade7a/unit5"
+    },
+    {
+        "chinese": "离开",
+        "desc": "动词，可根据leave的常用搭配记忆。",
+        "english": "leave",
+        "phonetic": "/liːv/",
+        "tag": "junior/grade7a/unit5"
+    },
+    {
+        "chinese": "公里",
+        "desc": "名词，kilo（千）+ metre（米）组合记忆。",
+        "english": "kilometre",
+        "phonetic": "/ˈkɪləmiːtər/",
+        "tag": "junior/grade7a/unit5"
+    },
+    {
+        "chinese": "虚弱的;无力的",
+        "desc": "形容词，可联想虚弱的状态记忆。",
+        "english": "weak",
+        "phonetic": "/wiːk/",
+        "tag": "junior/grade7a/unit5"
+    },
+    {
+        "chinese": "（用线、绳等）拴",
+        "desc": "v.",
+        "english": "tie",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit5"
     },
     {
         "english": "blame",
@@ -27955,9 +28025,6 @@ var words = [
             option.value = 'A2/2/2';
             option.textContent = 'A2/2/2';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade7a/0727';
-            option.textContent = 'junior/grade7a/0727';
-            newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7a/unit1';
             option.textContent = 'junior/grade7a/unit1';
             newOptions.push(option);var option = document.createElement('option');
@@ -27966,6 +28033,12 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7a/unit3';
             option.textContent = 'junior/grade7a/unit3';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7a/unit4';
+            option.textContent = 'junior/grade7a/unit4';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7a/unit5';
+            option.textContent = 'junior/grade7a/unit5';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
