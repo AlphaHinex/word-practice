@@ -1,5 +1,59 @@
 [
     {
+        "chinese": "青少年的",
+        "desc": "与teenager（青少年）相关联记忆。",
+        "english": "teen",
+        "phonetic": "/tiːn/"
+    },
+    {
+        "chinese": "技术;技能",
+        "desc": "可以联想skilled（有技能的）来记忆。",
+        "english": "skill",
+        "phonetic": "/skɪl/"
+    },
+    {
+        "chinese": "加强;增强",
+        "desc": "根据词根velop（包裹、覆盖），de表强调，逐渐包裹变强。",
+        "english": "develop",
+        "phonetic": "/dɪˈveləp/"
+    },
+    {
+        "chinese": "解答",
+        "desc": "与solution（解答、解决方案）联系起来记忆。",
+        "english": "solve",
+        "phonetic": "/sɑːlv/"
+    },
+    {
+        "chinese": "练习;训练",
+        "desc": "可根据practice来记忆，两者意思相近，practise是动词形式。",
+        "english": "practise",
+        "phonetic": "/ˈpræktɪs/"
+    },
+    {
+        "chinese": "社团",
+        "desc": "根据发音记忆，cl发/kl/，u发/ʌ/，b发/b/",
+        "english": "club",
+        "phonetic": "/klʌb/"
+    },
+    {
+        "chinese": "活动",
+        "desc": "act是行动，ivity是名词后缀，行动起来就是活动",
+        "english": "activity",
+        "phonetic": "/ækˈtɪvəti/"
+    },
+    {
+        "chinese": "角;墙角",
+        "desc": "cor联想为car（汽车），ner联想为near（靠近），汽车靠近的地方有角",
+        "english": "corner",
+        "phonetic": "/ˈkɔːrnər/"
+    },
+    {
+        "chinese": "地理(学)",
+        "desc": "geo联想为地球，graphy联想为绘图，地球绘图即地理学",
+        "english": "geography",
+        "phonetic": "/dʒiˈɑːɡrəfi/"
+    },
+    {
         "chinese": "杂志",
         "desc": "可通过联想记忆，比如将其拆分成'mag'（联想魔法）和'azine'（类似某种东西的后缀），想象杂志里有很多神奇的内容。",
         "english": "magazine",

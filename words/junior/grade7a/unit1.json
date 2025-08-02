@@ -204,28 +204,10 @@
         "phonetic": "/streɪt/"
     },
     {
-        "chinese": "地理(学)",
-        "desc": "geo联想为地球，graphy联想为绘图，地球绘图即地理学",
-        "english": "geography",
-        "phonetic": "/dʒiˈɑːɡrəfi/"
-    },
-    {
-        "chinese": "角;墙角",
-        "desc": "cor联想为car（汽车），ner联想为near（靠近），汽车靠近的地方有角",
-        "english": "corner",
-        "phonetic": "/ˈkɔːrnər/"
-    },
-    {
         "chinese": "基本的;基础的",
         "desc": "base是基础，ic是形容词后缀，基础的就是基本的",
         "english": "basic",
         "phonetic": "/ˈbeɪsɪk/"
-    },
-    {
-        "chinese": "活动",
-        "desc": "act是行动，ivity是名词后缀，行动起来就是活动",
-        "english": "activity",
-        "phonetic": "/ækˈtɪvəti/"
     },
     {
         "chinese": "想法",
@@ -234,28 +216,10 @@
         "phonetic": "/θɔːt/"
     },
     {
-        "chinese": "社团",
-        "desc": "根据发音记忆，cl发/kl/，u发/ʌ/，b发/b/",
-        "english": "club",
-        "phonetic": "/klʌb/"
-    },
-    {
         "chinese": "然而;不过",
         "desc": "可以拆分为how和ever，联想记忆为不管怎样都是然而的意思。",
         "english": "however",
         "phonetic": "/haʊˈevər/"
-    },
-    {
-        "chinese": "练习;训练",
-        "desc": "可根据practice来记忆，两者意思相近，practise是动词形式。",
-        "english": "practise",
-        "phonetic": "/ˈpræktɪs/"
-    },
-    {
-        "chinese": "解答",
-        "desc": "与solution（解答、解决方案）联系起来记忆。",
-        "english": "solve",
-        "phonetic": "/sɑːlv/"
     },
     {
         "chinese": "高兴的;愉快的",
@@ -264,22 +228,10 @@
         "phonetic": "/ɡlæd/"
     },
     {
-        "chinese": "加强;增强",
-        "desc": "根据词根velop（包裹、覆盖），de表强调，逐渐包裹变强。",
-        "english": "develop",
-        "phonetic": "/dɪˈveləp/"
-    },
-    {
         "chinese": "上升",
         "desc": "和raise对比记忆，rise是不及物动词，raise是及物动词。",
         "english": "rise",
         "phonetic": "/raɪz/"
-    },
-    {
-        "chinese": "技术;技能",
-        "desc": "可以联想skilled（有技能的）来记忆。",
-        "english": "skill",
-        "phonetic": "/skɪl/"
     },
     {
         "chinese": "结局",
@@ -288,9 +240,27 @@
         "phonetic": "/end/"
     },
     {
-        "chinese": "青少年的",
-        "desc": "与teenager（青少年）相关联记忆。",
-        "english": "teen",
-        "phonetic": "/tiːn/"
+        "chinese": "褐色的，乌黑的",
+        "desc": "adj.",
+        "english": "dark",
+        "phonetic": ""
+    },
+    {
+        "chinese": "同一的，想通的",
+        "desc": "adj.",
+        "english": "same",
+        "phonetic": ""
+    },
+    {
+        "chinese": "上升到",
+        "desc": "",
+        "english": "rise into",
+        "phonetic": ""
+    },
+    {
+        "chinese": "出现",
+        "desc": "",
+        "english": "come along",
+        "phonetic": ""
     }
 ]
