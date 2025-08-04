@@ -6657,7 +6657,7 @@ var words = [
         "tag": "junior/grade7a/unit1"
     },
     {
-        "chinese": "同一的，想通的",
+        "chinese": "同一的，相同的",
         "desc": "adj.",
         "english": "same",
         "phonetic": "",
@@ -7235,13 +7235,6 @@ var words = [
         "desc": "play有扮演、发挥的意思，important是重要的，part是部分，在……中发挥重要的部分即发挥重要作用。",
         "english": "play an important part in",
         "phonetic": "",
-        "tag": "junior/grade7a/unit3"
-    },
-    {
-        "chinese": "（用线、绳等）拴",
-        "desc": "动词，可根据实际动作联想记忆。",
-        "english": "tic",
-        "phonetic": "/tɪk/",
         "tag": "junior/grade7a/unit3"
     },
     {
