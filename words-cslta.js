@@ -7973,6 +7973,391 @@ var words = [
         "tag": "junior/grade7a/unit6"
     },
     {
+        "chinese": "",
+        "desc": "",
+        "english": "thitoro hi onl dli",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "",
+        "desc": "",
+        "english": "deniely atid",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "名单;目录",
+        "desc": "名词，可联想为'lis'+'t'，'lis'近似于'less'，有少的感觉，'t'可联想为'table'，名单就是一个少内容的表格",
+        "english": "list",
+        "phonetic": "/lɪst/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "集市",
+        "desc": "",
+        "english": "fair fecerty",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "风景;景色",
+        "desc": "名词，可拆分为'land'（陆地）和'scape'（景色），陆地的景色就是风景",
+        "english": "landscape",
+        "phonetic": "/ˈlændskeɪp/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "火箭",
+        "desc": "名词，'rock'（岩石）加上'et'，火箭发射像岩石一样冲出去",
+        "english": "rocket",
+        "phonetic": "/ˈrɑːkɪt/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "回忆;记忆",
+        "desc": "名词，可联想为'mem'（妈妈）+'ory'（故事），妈妈的故事就是回忆",
+        "english": "memory",
+        "phonetic": "/ˈmeməri/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "发射",
+        "desc": "动词，'l'像一个发射架，'aunch'可联想为'ouch'（哎呀），发射时会让人发出哎呀的惊叹",
+        "english": "launch",
+        "phonetic": "/lɔːntʃ/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "将军",
+        "desc": "名词，'gene'（基因）+'ral'（皇家的），将军有着优秀的基因如同皇家一样高贵",
+        "english": "general",
+        "phonetic": "/ˈdʒenrəl/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "大声说;叫",
+        "desc": "动词，'sh'可联想为'嘘'，反过来就是大叫的声音",
+        "english": "shout",
+        "phonetic": "/ʃaʊt/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "看见",
+        "desc": "名词，'s'像眼睛，'ight'可联想为'light'（光），眼睛看到光就是看见",
+        "english": "sight",
+        "phonetic": "/saɪt/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "力量;能量",
+        "desc": "名词，'pow'可联想为'炮'，炮有很大的力量",
+        "english": "power",
+        "phonetic": "/ˈpaʊər/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "自然的;天然的",
+        "desc": "形容词，'natu'可联想为'nature'（自然），'ral'是形容词后缀",
+        "english": "natural",
+        "phonetic": "/ˈnætʃrəl/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "片刻;瞬间",
+        "desc": "名词，'mo'可联想为'more'（更多），'ment'是名词后缀，更多的瞬间",
+        "english": "moment",
+        "phonetic": "/ˈmoʊmənt/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "成员",
+        "desc": "名词，'memb'可联想为'membra'（膜），成员就像在一个组织的膜内",
+        "english": "member",
+        "phonetic": "/ˈmembər/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "几乎;差不多",
+        "desc": "副词，'al'（所有）+'most'（最多），所有中的最多就是几乎",
+        "english": "almost",
+        "phonetic": "/ˈɔːlmoʊst/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "形状;外形",
+        "desc": "名词，'sh'像曲线，'ape'像猿猴，猿猴的曲线就是形状",
+        "english": "shape",
+        "phonetic": "/ʃeɪp/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "开始变得;变成",
+        "desc": "动词，'be'（是）+'come'（来），是来的状态就是变成",
+        "english": "become",
+        "phonetic": "/bɪˈkʌm/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "去……徒步旅行",
+        "desc": "动词，'hi'（嗨）+'ke'（可），嗨，可以去徒步旅行了",
+        "english": "hike",
+        "phonetic": "/haɪk/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "(通往其他地区的)门户",
+        "desc": "名词，'gate'（大门）+'way'（路），大门的路就是门户",
+        "english": "gateway",
+        "phonetic": "/ˈɡeɪtweɪ/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "不久前;最近",
+        "desc": "副词，可根据recent（形容词，最近的）记忆。",
+        "english": "recently",
+        "phonetic": "/ˈriːsntli/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "影响;对……起作用",
+        "desc": "名词或动词，in - 进入 + flu - 流动 + ence - 名词后缀，进入并流动产生影响。",
+        "english": "influence",
+        "phonetic": "/ˈɪnfluəns/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "出席;参加",
+        "desc": "动词，at - 强调 + tend - 倾向，倾向于某地就是出席。",
+        "english": "attend",
+        "phonetic": "/əˈtend/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "慈善机构(或组织)",
+        "desc": "名词，可联想charitable（慈善的）来记忆。",
+        "english": "charity",
+        "phonetic": "/ˈtʃærəti/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "艺术作品",
+        "desc": "名词，art（艺术）+ work（作品）组合而成。",
+        "english": "artwork",
+        "phonetic": "/ˈɑːrtwɜːrk/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "绘画",
+        "desc": "名词，paint（绘画、颜料）+ ing - 名词后缀。",
+        "english": "painting",
+        "phonetic": "/ˈpeɪntɪŋ/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "出售;销售",
+        "desc": "名词，可联想sell（动词，出售）。",
+        "english": "sale",
+        "phonetic": "/seɪl/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "场面;情景",
+        "desc": "名词，可通过情景联想记忆。",
+        "english": "scene",
+        "phonetic": "/siːn/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "点心;小吃",
+        "desc": "名词，可联想其发音和一些常见小吃联系。",
+        "english": "snack",
+        "phonetic": "/snæk/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "装饰;装潢",
+        "desc": "动词，de - 加强 + cor - 核心 + ate - 动词后缀，使核心更美化即装饰。",
+        "english": "decorate",
+        "phonetic": "/ˈdekəreɪt/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "妻子",
+        "desc": "名词，简单记忆。",
+        "english": "wife",
+        "phonetic": "/waɪf/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "差别;差异",
+        "desc": "名词，different（形容词，不同的）的名词形式。",
+        "english": "difference",
+        "phonetic": "/ˈdɪfrəns/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "石头;石料",
+        "desc": "名词，简单记忆。",
+        "english": "stone",
+        "phonetic": "/stoʊn/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "参加比赛(或竞赛)",
+        "desc": "动词，com - 共同 + pete - 追求，共同追求胜利即参加比赛。",
+        "english": "compete",
+        "phonetic": "/kəmˈpiːt/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "映像;映照出的影像",
+        "desc": "名词，reflect（动词，反射、反映）的名词形式。",
+        "english": "reflection",
+        "phonetic": "/rɪˈflekʃn/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "公开活动;社交场合",
+        "desc": "名词，简单记忆。",
+        "english": "event",
+        "phonetic": "/ɪˈvent/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "勺;匙",
+        "desc": "名词，简单记忆。",
+        "english": "spoon",
+        "phonetic": "/spuːn/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "旅游景点",
+        "desc": "名词词组，tourist（游客）+ spot（地点）组合而成。",
+        "english": "tourist spot",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "每年的;一年一次的",
+        "desc": "形容词，ann - 年 + ual - 形容词后缀。",
+        "english": "annual",
+        "phonetic": "/ˈænjuəl/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "点亮;照亮",
+        "desc": "动词词组，light（光、点亮）+ up（向上、加强）组合而成。",
+        "english": "light up",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "在……的中心",
+        "desc": "可按词组字面理解，centre表示中心，in表示在……里",
+        "english": "in the centre of",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "对……感兴趣",
+        "desc": "be表示一种状态，interested是形容词兴趣的，in表示在……方面",
+        "english": "be interested in",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "古迹;历史遗迹",
+        "desc": "historic是形容词有历史意义的，site表示地点、场所",
+        "english": "historic site",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "作为对……的纪念",
+        "desc": "in表示在……方面，memory表示记忆",
+        "english": "in memory of",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "元(美国、加拿大、澳大利亚等国的货币单位)",
+        "desc": "名词，可通过常见货币符号$联想记忆",
+        "english": "dollar",
+        "phonetic": "/ˈdɑːlər/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "果馅饼;果馅派",
+        "desc": "名词，可联想常见的苹果派等食物记忆",
+        "english": "pie",
+        "phonetic": "/paɪ/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "设备;器材",
+        "desc": "名词，equip为动词装备，加上ment变成名词",
+        "english": "equipment",
+        "phonetic": "/ɪˈkwɪpmənt/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "文学;文学作品",
+        "desc": "名词，可通过一些著名文学作品来记忆",
+        "english": "literature",
+        "phonetic": "/ˈlɪtrətʃʊr/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "扮演(戏剧、电影中的角色)",
+        "desc": "动词，可联想演员的表演动作来记忆",
+        "english": "act",
+        "phonetic": "/ækt/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "欣赏;赏识",
+        "desc": "动词，可通过联想对美好事物的感受来记忆",
+        "english": "appreciate",
+        "phonetic": "/əˈpriːʃieɪt/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "太阳能",
+        "desc": "solar表示太阳的，power表示能量",
+        "english": "solar power",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "当然",
+        "desc": "可按词组字面理解",
+        "english": "of course",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "成为……的一员;参加",
+        "desc": "动词，可联想加入某个团体的场景",
+        "english": "join",
+        "phonetic": "/dʒɔɪn/",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "社团招募展",
+        "desc": "clubs表示社团，fair有集市、展览的意思",
+        "english": "clubs fair",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
+        "chinese": "遥控器",
+        "desc": "remote表示遥远的、遥控的，control表示控制",
+        "english": "remote control",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit7"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -28378,6 +28763,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7a/unit6';
             option.textContent = 'junior/grade7a/unit6';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7a/unit7';
+            option.textContent = 'junior/grade7a/unit7';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
