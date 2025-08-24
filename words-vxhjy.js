@@ -8358,6 +8358,321 @@ var words = [
         "tag": "junior/grade7a/unit7"
     },
     {
+        "chinese": "贴纸",
+        "desc": "名词，可通过stick（粘贴）联想记忆，加上er表示物品，即贴纸",
+        "english": "sticker",
+        "phonetic": "/ˈstɪkər/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "转身",
+        "desc": "可通过turn（转动）和around（周围）组合记忆",
+        "english": "turn around",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "白费;糟蹋",
+        "desc": "动词，可联想waste的发音类似‘喂死它’，浪费食物就是‘喂死它’，有白费、糟蹋的意思",
+        "english": "waste",
+        "phonetic": "/weɪst/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "有作用;有影响",
+        "desc": "可从字面理解，make（制造），difference（不同），制造不同即有作用、有影响",
+        "english": "make a difference",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "一件商品(或物品)",
+        "desc": "名词，可根据读音记忆",
+        "english": "item",
+        "phonetic": "/ˈaɪtəm/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "小学",
+        "desc": "primary（初级的）+school（学校），组合起来就是小学",
+        "english": "primary school",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "掉落",
+        "desc": "可从fall（落下）和off（离开）联想记忆",
+        "english": "falloff",
+        "phonetic": "/fɔːl ɒf/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "后果;结果",
+        "desc": "名词，可根据发音记忆",
+        "english": "result",
+        "phonetic": "/rɪˈzʌlt/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "包装纸",
+        "desc": "名词，可从wrap（包裹）联想，加上er表示物品，即包装纸",
+        "english": "wrapper",
+        "phonetic": "/ˈræpər/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "(长方形)条",
+        "desc": "名词，可根据读音记忆",
+        "english": "bar",
+        "phonetic": "/bɑːr/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "环状物;圈形的东西",
+        "desc": "名词，可根据形状联想记忆",
+        "english": "ring",
+        "phonetic": "/rɪŋ/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "包括;包含",
+        "desc": "动词，可根据in（在里面）+clude（关闭）联想，关闭在里面即包括、包含",
+        "english": "include",
+        "phonetic": "/ɪnˈkluːd/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "(常指同类的)收集物",
+        "desc": "名词，collect（收集）的名词形式",
+        "english": "collection",
+        "phonetic": "/kəˈlekʃn/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "大小",
+        "desc": "名词，可根据读音记忆",
+        "english": "size",
+        "phonetic": "/saɪz/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "图案;花样",
+        "desc": "名词，可根据发音记忆",
+        "english": "pattern",
+        "phonetic": "/ˈpætərn/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "拥有;有",
+        "desc": "动词，可根据读音记忆",
+        "english": "own",
+        "phonetic": "/oʊn/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "生产;制造",
+        "desc": "动词，可根据pro（向前）+duce（引导）联想，向前引导即生产、制造",
+        "english": "produce",
+        "phonetic": "/prəˈduːs/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "贵重的",
+        "desc": "形容词，value（价值）+able（能够），有价值的即贵重的",
+        "english": "valuable",
+        "phonetic": "/ˈvæljuəbl/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "吸引;招引",
+        "desc": "动词，可根据at（在）+tract（拉）联想，拉过来即吸引、招引",
+        "english": "attract",
+        "phonetic": "/əˈtrækt/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "(用手)触",
+        "desc": "动词，可根据hand（手）联想，用手操作即触摸",
+        "english": "handle",
+        "phonetic": "/ˈhændl/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "昆虫",
+        "desc": "名词，可根据词的拼写记忆，in-表示‘在…里’，sect表示‘切’，像昆虫身体是一节一节的仿佛被切开。",
+        "english": "insect",
+        "phonetic": "/ˈɪnsekt/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "(分手指的)手套",
+        "desc": "名词，可联想‘g’像手的形状，love是爱的意思，戴上手套去爱做的事。",
+        "english": "glove",
+        "phonetic": "/ɡlʌv/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "物体;物品",
+        "desc": "名词，ob-表示‘在…前面’，ject表示‘扔’，放在前面的东西即物体。",
+        "english": "object",
+        "phonetic": "/ˈɑːbdʒekt/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "增加;添加",
+        "desc": "动词，简单词直接记忆。",
+        "english": "add",
+        "phonetic": "/æd/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "平滑的",
+        "desc": "形容词，可根据读音记忆。",
+        "english": "flat",
+        "phonetic": "/flæt/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "信封",
+        "desc": "名词，根据发音记忆。",
+        "english": "envelope",
+        "phonetic": "/ˈenvəloʊp/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "语言",
+        "desc": "名词，lang联想long长的，uage联想‘age年龄’，随着年龄增长学习的长的东西即语言。",
+        "english": "language",
+        "phonetic": "/ˈlæŋɡwɪdʒ/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "极其",
+        "desc": "副词，可拆分为ab - 表示‘偏离’，solute - 表示‘松开’，-ly副词后缀，完全松开即极其。",
+        "english": "absolutely",
+        "phonetic": "/ˈæbsəluːtli/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "好像;似乎",
+        "desc": "动词，简单词直接记忆。",
+        "english": "seem",
+        "phonetic": "/siːm/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "珍宝;宝物",
+        "desc": "名词，根据发音记忆。",
+        "english": "treasure",
+        "phonetic": "/ˈtreʒər/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "发现;揭示",
+        "desc": "动词，un - 表示‘相反’，lock是锁，与锁相反即解锁也就是发现揭示。",
+        "english": "unlock",
+        "phonetic": "/ˌʌnˈlɑːk/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "不可能的",
+        "desc": "形容词，im - 表示‘不’，possible是可能的，合起来就是不可能的。",
+        "english": "impossible",
+        "phonetic": "/ɪmˈpɑːsəbl/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "真的",
+        "desc": "形容词，简单词直接记忆。",
+        "english": "real",
+        "phonetic": "/ˈriːəl/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "单个的",
+        "desc": "形容词，sing联想唱歌，-le表示‘小’，一个人唱歌即单个的。",
+        "english": "single",
+        "phonetic": "/ˈsɪŋɡl/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "钉;钉子",
+        "desc": "名词，根据发音记忆。",
+        "english": "nail",
+        "phonetic": "/neɪl/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "解释;说明",
+        "desc": "动词，ex - 表示‘出’，plain表示‘明白’，使明白就是解释说明。",
+        "english": "explain",
+        "phonetic": "/ɪkˈspleɪn/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "把……添加到……",
+        "desc": "词组，根据add的意思理解。",
+        "english": "add..t....",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "软饮料(不含酒精)",
+        "desc": "词组，根据字面意思理解。",
+        "english": "soft drink",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "一部分",
+        "desc": "名词，简单词直接记忆。",
+        "english": "bit",
+        "phonetic": "/bɪt/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "浪费时间",
+        "desc": "词组，根据字面意思理解。",
+        "english": "a waste of time",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "相像的;类似的",
+        "desc": "形容词，可根据词根simil记忆，simil表示相同、相似的意思。",
+        "english": "similar",
+        "phonetic": "/ˈsɪmələr/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "(父母给孩子的)零花钱",
+        "desc": "pocket有口袋的意思，钱放在口袋里的钱可理解为零花钱，便于记忆。",
+        "english": "pocket money",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "(一枚)硬币",
+        "desc": "名词，可通过联想记忆，coin的发音类似叩硬，硬币是硬的，叩击有声音。",
+        "english": "coin",
+        "phonetic": "/kɔɪn/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "全世界",
+        "desc": "直接按字面理解记忆，all表示全部，over表示遍及，world表示世界。",
+        "english": "all over the world",
+        "phonetic": "",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
+        "chinese": "软的",
+        "desc": "形容词，可根据反义词hard（硬的）来记忆。",
+        "english": "soft",
+        "phonetic": "/sɔːft/",
+        "tag": "junior/grade7a/unit8"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -28766,6 +29081,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7a/unit7';
             option.textContent = 'junior/grade7a/unit7';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7a/unit8';
+            option.textContent = 'junior/grade7a/unit8';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
