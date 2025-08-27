@@ -3353,6 +3353,412 @@ var words = [
         "tag": "A2/30-31"
     },
     {
+        "chinese": "煮沸的；煮熟的",
+        "desc": "动词boil（煮）的过去式和过去分词，可根据词根记忆。",
+        "english": "boiled",
+        "phonetic": "/bɔɪld/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "油炸的；油煎的",
+        "desc": "动词fry（油炸）的过去式和过去分词，联想记忆与烹饪方式有关。",
+        "english": "fried",
+        "phonetic": "/fraɪd/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "烤的；有格子的",
+        "desc": "动词grill（烤）的过去式和过去分词，可根据烹饪动作记忆。",
+        "english": "grilled",
+        "phonetic": "/ɡrɪld/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "这个单词拼写错误，应为roast，中文是烤；烘烤",
+        "desc": "无，本身为拼写错误示例。",
+        "english": "rost",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "有点无聊",
+        "desc": "词组，a bit（有点）和boring（无聊的）组合而成。",
+        "english": "a bit boring",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "美味的；可口的",
+        "desc": "形容词，可联想美味食物记忆。",
+        "english": "delicious",
+        "phonetic": "/dɪˈlɪʃəs/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "可怕的；极讨厌的",
+        "desc": "形容词，根据horror（恐怖）记忆。",
+        "english": "horrible",
+        "phonetic": "/ˈhɔːrəbl/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "美好的；令人愉快的",
+        "desc": "形容词，简单基础词汇，日常多运用即可。",
+        "english": "nice",
+        "phonetic": "/naɪs/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "更喜欢；宁愿",
+        "desc": "动词，pre（之前）+fer（拿），联想选择更倾向拿的。",
+        "english": "prefer",
+        "phonetic": "/prɪˈfɜːr/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "咸味的；可口的",
+        "desc": "形容词，根据savour（味道）记忆。",
+        "english": "savoury",
+        "phonetic": "/ˈseɪvəri/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "昂贵的；花钱的",
+        "desc": "形容词，ex（出）+pens（花费）+ive，花费多的。",
+        "english": "expensive",
+        "phonetic": "/ɪkˈspensɪv/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "便宜的；廉价的",
+        "desc": "形容词，简单词汇，对比记忆与expensive相反。",
+        "english": "cheap",
+        "phonetic": "/tʃiːp/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "咸的；含盐的",
+        "desc": "形容词，salt（盐）+y，盐的形容词形式。",
+        "english": "salty",
+        "phonetic": "/ˈsɔːlti/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "令人厌恶的",
+        "desc": "形容词，dis（不）+gust（风味）+ing，不好风味的。",
+        "english": "disgusting",
+        "phonetic": "/dɪsˈɡʌstɪŋ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "脂肪的；肥胖的；多脂肪的",
+        "desc": "形容词，fat（脂肪）+y，脂肪的形容词形式。",
+        "english": "fatty",
+        "phonetic": "/ˈfæti/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "决定；下决心",
+        "desc": "动词，de（向下）+cide（切），向下切，表决定。",
+        "english": "decide",
+        "phonetic": "/dɪˈsaɪd/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "可数的；可计算的",
+        "desc": "形容词，count（数）+able，可被数的。",
+        "english": "countable",
+        "phonetic": "/ˈkaʊntəbl/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "脆的；新鲜的",
+        "desc": "形容词，联想薯片crisp的口感记忆。",
+        "english": "crisp",
+        "phonetic": "/krɪsp/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "道歉；谢罪",
+        "desc": "动词，apo（离开）+log（说话）+ize，离开正常说话，表道歉。",
+        "english": "apologize",
+        "phonetic": "/əˈpɑːlədʒaɪz/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "胡椒；辣椒",
+        "desc": "名词，直接记忆。",
+        "english": "pepper",
+        "phonetic": "/ˈpepər/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "洋葱；洋葱头",
+        "desc": "名词",
+        "english": "onion",
+        "phonetic": "/ˈʌnjən/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "盐；食盐",
+        "desc": "名词",
+        "english": "salt",
+        "phonetic": "/sɔːlt/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "披萨；比萨饼",
+        "desc": "名词",
+        "english": "pizza",
+        "phonetic": "/ˈpiːtsə/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "名词",
+        "desc": "表示人、事物、地点、抽象概念等的词汇统称",
+        "english": "noun",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "糖；食糖",
+        "desc": "名词",
+        "english": "sugar",
+        "phonetic": "/ˈʃʊɡər/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "今晚；今夜",
+        "desc": "名词/副词",
+        "english": "tonight",
+        "phonetic": "/təˈnaɪt/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "例子；实例",
+        "desc": "名词",
+        "english": "example",
+        "phonetic": "/ɪɡˈzæmpl/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "令人兴奋的；使人激动的",
+        "desc": "形容词，excite词尾加ing",
+        "english": "exciting",
+        "phonetic": "/ɪkˈsaɪtɪŋ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "快速的；迅速的",
+        "desc": "形容词或副词",
+        "english": "fast",
+        "phonetic": "/fæst/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "花费；度过",
+        "desc": "动词",
+        "english": "spend",
+        "phonetic": "/spend/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "假日；节日；休息日",
+        "desc": "名词",
+        "english": "holiday",
+        "phonetic": "/ˈhɑːlədeɪ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "海滩；沙滩",
+        "desc": "名词",
+        "english": "beach",
+        "phonetic": "/biːtʃ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "旅行者；观光客",
+        "desc": "名词",
+        "english": "tourist",
+        "phonetic": "/ˈtʊrɪst/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "鸡肉；小鸡",
+        "desc": "名词",
+        "english": "chicken",
+        "phonetic": "/ˈtʃɪkɪn/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "牛肉；肌肉",
+        "desc": "名词",
+        "english": "beef",
+        "phonetic": "/biːf/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "语言；语言文字",
+        "desc": "名词",
+        "english": "language",
+        "phonetic": "/ˈlæŋɡwɪdʒ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "辛辣的；加有香料的",
+        "desc": "形容词，spice词尾加y",
+        "english": "spicy",
+        "phonetic": "/ˈspaɪsi/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "种类；分类；范畴",
+        "desc": "名词",
+        "english": "category",
+        "phonetic": "/ˈkætəɡɔːri/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "美味的；高雅的",
+        "desc": "形容词",
+        "english": "tasty",
+        "phonetic": "/ˈteɪsti/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "美味的；好吃的",
+        "desc": "形容词",
+        "english": "yummy",
+        "phonetic": "/ˈjʌmi/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "完成；结束",
+        "desc": "finish可作及物动词和不及物动词，可通过词形联想记忆，fin（末尾）+ish（动词后缀）表示到达末尾，即完成。",
+        "english": "finish",
+        "phonetic": "/ˈfɪnɪʃ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "真是一团糟",
+        "desc": "可通过情景记忆，想象混乱的场景来记忆。",
+        "english": "what a mess",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "实际上；事实上",
+        "desc": "actual（实际的）+ly（副词后缀），通过派生法记忆。",
+        "english": "actually",
+        "phonetic": "/ˈæktʃuəli/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "蘑菇；伞菌；蘑菇形物体",
+        "desc": "可通过形象记忆，mush像蘑菇的形状，room可联想生长的空间。",
+        "english": "mushroom",
+        "phonetic": "/ˈmʌʃrʊm/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "担心；烦恼；忧虑",
+        "desc": "可作动词和名词，通过联想焦虑的表情来记忆。",
+        "english": "worry",
+        "phonetic": "/ˈwɜːri/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "提供；出价",
+        "desc": "可作动词和名词，联想商家提供商品来记忆。",
+        "english": "offer",
+        "phonetic": "/ˈɔːfər/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "三明治；夹心面包",
+        "desc": "可通过食物的样子来记忆。",
+        "english": "sandwich",
+        "phonetic": "/ˈsænwɪtʃ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "情况；形势；处境",
+        "desc": "situate（使位于；使处于）的名词形式，联想所处的位置状态来记忆。",
+        "english": "situation",
+        "phonetic": "/ˌsɪtʃuˈeɪʃn/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "也；同样地",
+        "desc": "可通过例句记忆，如I like apples as well.",
+        "english": "as well",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "三两个；几个",
+        "desc": "可通过词组的语境来记忆。",
+        "english": "a couple of",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "红辣椒",
+        "desc": "可通过实物联想记忆。",
+        "english": "chilli pepper",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "对……感到心烦",
+        "desc": "upset（心烦的）+with，可通过词组的用法记忆。",
+        "english": "upset with",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "订单；命令；顺序",
+        "desc": "可作名词和动词，通过不同的语境记忆其不同含义。",
+        "english": "order",
+        "phonetic": "/ˈɔːrdər/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "电话；听筒；耳机",
+        "desc": "可作名词和动词，联想通讯工具来记忆。",
+        "english": "phone",
+        "phonetic": "/foʊn/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "道歉（apologise的现在分词形式）",
+        "desc": "apologise（道歉）去e加ing，通过词形变化记忆。",
+        "english": "apologising",
+        "phonetic": "/əˈpɑːlədʒaɪzɪŋ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "特别喜爱的人（或物）",
+        "desc": "可作名词和形容词，联想喜欢的事物来记忆。",
+        "english": "favourite",
+        "phonetic": "/ˈfeɪvərɪt/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "破碎的；坏掉的",
+        "desc": "break（打破）的过去分词形式，可通过词形联想记忆。",
+        "english": "broken",
+        "phonetic": "/ˈbroʊkən/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "无论如何；不管怎样",
+        "desc": "可通过语境记忆，如不管怎样都会做某事。",
+        "english": "anyway",
+        "phonetic": "/ˈeniweɪ/",
+        "tag": "A2/35-36"
+    },
+    {
         "chinese": "墨西哥",
         "desc": "联想记忆：Me（我）+xi（西）+co（可），我去西可（类似音译）的地方就是墨西哥。",
         "english": "Mexico",
@@ -29074,6 +29480,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/30-31';
             option.textContent = 'A2/30-31';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/35-36';
+            option.textContent = 'A2/35-36';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/lesson1';
             option.textContent = 'A2/0/lesson1';
