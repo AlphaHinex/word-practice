@@ -3353,6 +3353,1007 @@ var words = [
         "tag": "A2/30-31"
     },
     {
+        "chinese": "煮沸的；煮熟的",
+        "desc": "动词boil（煮）的过去式和过去分词，可根据词根记忆。",
+        "english": "boiled",
+        "phonetic": "/bɔɪld/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "油炸的；油煎的",
+        "desc": "动词fry（油炸）的过去式和过去分词，联想记忆与烹饪方式有关。",
+        "english": "fried",
+        "phonetic": "/fraɪd/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "烤的；有格子的",
+        "desc": "动词grill（烤）的过去式和过去分词，可根据烹饪动作记忆。",
+        "english": "grilled",
+        "phonetic": "/ɡrɪld/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "这个单词拼写错误，应为roast，中文是烤；烘烤",
+        "desc": "无，本身为拼写错误示例。",
+        "english": "rost",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "有点无聊",
+        "desc": "词组，a bit（有点）和boring（无聊的）组合而成。",
+        "english": "a bit boring",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "美味的；可口的",
+        "desc": "形容词，可联想美味食物记忆。",
+        "english": "delicious",
+        "phonetic": "/dɪˈlɪʃəs/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "可怕的；极讨厌的",
+        "desc": "形容词，根据horror（恐怖）记忆。",
+        "english": "horrible",
+        "phonetic": "/ˈhɔːrəbl/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "美好的；令人愉快的",
+        "desc": "形容词，简单基础词汇，日常多运用即可。",
+        "english": "nice",
+        "phonetic": "/naɪs/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "更喜欢；宁愿",
+        "desc": "动词，pre（之前）+fer（拿），联想选择更倾向拿的。",
+        "english": "prefer",
+        "phonetic": "/prɪˈfɜːr/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "咸味的；可口的",
+        "desc": "形容词，根据savour（味道）记忆。",
+        "english": "savoury",
+        "phonetic": "/ˈseɪvəri/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "昂贵的；花钱的",
+        "desc": "形容词，ex（出）+pens（花费）+ive，花费多的。",
+        "english": "expensive",
+        "phonetic": "/ɪkˈspensɪv/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "便宜的；廉价的",
+        "desc": "形容词，简单词汇，对比记忆与expensive相反。",
+        "english": "cheap",
+        "phonetic": "/tʃiːp/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "咸的；含盐的",
+        "desc": "形容词，salt（盐）+y，盐的形容词形式。",
+        "english": "salty",
+        "phonetic": "/ˈsɔːlti/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "令人厌恶的",
+        "desc": "形容词，dis（不）+gust（风味）+ing，不好风味的。",
+        "english": "disgusting",
+        "phonetic": "/dɪsˈɡʌstɪŋ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "脂肪的；肥胖的；多脂肪的",
+        "desc": "形容词，fat（脂肪）+y，脂肪的形容词形式。",
+        "english": "fatty",
+        "phonetic": "/ˈfæti/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "决定；下决心",
+        "desc": "动词，de（向下）+cide（切），向下切，表决定。",
+        "english": "decide",
+        "phonetic": "/dɪˈsaɪd/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "可数的；可计算的",
+        "desc": "形容词，count（数）+able，可被数的。",
+        "english": "countable",
+        "phonetic": "/ˈkaʊntəbl/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "脆的；新鲜的",
+        "desc": "形容词，联想薯片crisp的口感记忆。",
+        "english": "crisp",
+        "phonetic": "/krɪsp/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "道歉；谢罪",
+        "desc": "动词，apo（离开）+log（说话）+ize，离开正常说话，表道歉。",
+        "english": "apologize",
+        "phonetic": "/əˈpɑːlədʒaɪz/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "胡椒；辣椒",
+        "desc": "名词，直接记忆。",
+        "english": "pepper",
+        "phonetic": "/ˈpepər/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "洋葱；洋葱头",
+        "desc": "名词",
+        "english": "onion",
+        "phonetic": "/ˈʌnjən/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "盐；食盐",
+        "desc": "名词",
+        "english": "salt",
+        "phonetic": "/sɔːlt/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "披萨；比萨饼",
+        "desc": "名词",
+        "english": "pizza",
+        "phonetic": "/ˈpiːtsə/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "名词",
+        "desc": "表示人、事物、地点、抽象概念等的词汇统称",
+        "english": "noun",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "糖；食糖",
+        "desc": "名词",
+        "english": "sugar",
+        "phonetic": "/ˈʃʊɡər/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "今晚；今夜",
+        "desc": "名词/副词",
+        "english": "tonight",
+        "phonetic": "/təˈnaɪt/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "例子；实例",
+        "desc": "名词",
+        "english": "example",
+        "phonetic": "/ɪɡˈzæmpl/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "令人兴奋的；使人激动的",
+        "desc": "形容词，excite词尾加ing",
+        "english": "exciting",
+        "phonetic": "/ɪkˈsaɪtɪŋ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "快速的；迅速的",
+        "desc": "形容词或副词",
+        "english": "fast",
+        "phonetic": "/fæst/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "花费；度过",
+        "desc": "动词",
+        "english": "spend",
+        "phonetic": "/spend/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "假日；节日；休息日",
+        "desc": "名词",
+        "english": "holiday",
+        "phonetic": "/ˈhɑːlədeɪ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "海滩；沙滩",
+        "desc": "名词",
+        "english": "beach",
+        "phonetic": "/biːtʃ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "旅行者；观光客",
+        "desc": "名词",
+        "english": "tourist",
+        "phonetic": "/ˈtʊrɪst/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "鸡肉；小鸡",
+        "desc": "名词",
+        "english": "chicken",
+        "phonetic": "/ˈtʃɪkɪn/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "牛肉；肌肉",
+        "desc": "名词",
+        "english": "beef",
+        "phonetic": "/biːf/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "语言；语言文字",
+        "desc": "名词",
+        "english": "language",
+        "phonetic": "/ˈlæŋɡwɪdʒ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "辛辣的；加有香料的",
+        "desc": "形容词，spice词尾加y",
+        "english": "spicy",
+        "phonetic": "/ˈspaɪsi/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "种类；分类；范畴",
+        "desc": "名词",
+        "english": "category",
+        "phonetic": "/ˈkætəɡɔːri/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "美味的；高雅的",
+        "desc": "形容词",
+        "english": "tasty",
+        "phonetic": "/ˈteɪsti/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "美味的；好吃的",
+        "desc": "形容词",
+        "english": "yummy",
+        "phonetic": "/ˈjʌmi/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "完成；结束",
+        "desc": "finish可作及物动词和不及物动词，可通过词形联想记忆，fin（末尾）+ish（动词后缀）表示到达末尾，即完成。",
+        "english": "finish",
+        "phonetic": "/ˈfɪnɪʃ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "真是一团糟",
+        "desc": "可通过情景记忆，想象混乱的场景来记忆。",
+        "english": "what a mess",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "实际上；事实上",
+        "desc": "actual（实际的）+ly（副词后缀），通过派生法记忆。",
+        "english": "actually",
+        "phonetic": "/ˈæktʃuəli/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "蘑菇；伞菌；蘑菇形物体",
+        "desc": "可通过形象记忆，mush像蘑菇的形状，room可联想生长的空间。",
+        "english": "mushroom",
+        "phonetic": "/ˈmʌʃrʊm/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "担心；烦恼；忧虑",
+        "desc": "可作动词和名词，通过联想焦虑的表情来记忆。",
+        "english": "worry",
+        "phonetic": "/ˈwɜːri/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "提供；出价",
+        "desc": "可作动词和名词，联想商家提供商品来记忆。",
+        "english": "offer",
+        "phonetic": "/ˈɔːfər/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "三明治；夹心面包",
+        "desc": "可通过食物的样子来记忆。",
+        "english": "sandwich",
+        "phonetic": "/ˈsænwɪtʃ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "情况；形势；处境",
+        "desc": "situate（使位于；使处于）的名词形式，联想所处的位置状态来记忆。",
+        "english": "situation",
+        "phonetic": "/ˌsɪtʃuˈeɪʃn/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "也；同样地",
+        "desc": "可通过例句记忆，如I like apples as well.",
+        "english": "as well",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "三两个；几个",
+        "desc": "可通过词组的语境来记忆。",
+        "english": "a couple of",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "红辣椒",
+        "desc": "可通过实物联想记忆。",
+        "english": "chilli pepper",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "对……感到心烦",
+        "desc": "upset（心烦的）+with，可通过词组的用法记忆。",
+        "english": "upset with",
+        "phonetic": "",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "订单；命令；顺序",
+        "desc": "可作名词和动词，通过不同的语境记忆其不同含义。",
+        "english": "order",
+        "phonetic": "/ˈɔːrdər/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "电话；听筒；耳机",
+        "desc": "可作名词和动词，联想通讯工具来记忆。",
+        "english": "phone",
+        "phonetic": "/foʊn/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "道歉（apologise的现在分词形式）",
+        "desc": "apologise（道歉）去e加ing，通过词形变化记忆。",
+        "english": "apologising",
+        "phonetic": "/əˈpɑːlədʒaɪzɪŋ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "特别喜爱的人（或物）",
+        "desc": "可作名词和形容词，联想喜欢的事物来记忆。",
+        "english": "favourite",
+        "phonetic": "/ˈfeɪvərɪt/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "破碎的；坏掉的",
+        "desc": "break（打破）的过去分词形式，可通过词形联想记忆。",
+        "english": "broken",
+        "phonetic": "/ˈbroʊkən/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "无论如何；不管怎样",
+        "desc": "可通过语境记忆，如不管怎样都会做某事。",
+        "english": "anyway",
+        "phonetic": "/ˈeniweɪ/",
+        "tag": "A2/35-36"
+    },
+    {
+        "chinese": "燃烧；烧伤",
+        "desc": "动词，可联想火燃烧时发出的声音来记忆。",
+        "english": "burn",
+        "phonetic": "/bɜːrn/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "拘留；课后留校",
+        "desc": "名词，由词根tain（拿住）衍生，可理解为被拿住、被留下，即拘留、留校。",
+        "english": "detention",
+        "phonetic": "/dɪˈtenʃn/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "可怕的；糟糕的",
+        "desc": "形容词，可拆分terr（害怕）+ible（可……的），能让人害怕的，即可怕的。",
+        "english": "terrible",
+        "phonetic": "/ˈterəbl/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "解决；解答",
+        "desc": "动词，可联想解决问题时需要解开谜团，有解开之意。",
+        "english": "solve",
+        "phonetic": "/sɑːlv/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "情况；形势",
+        "desc": "名词，由situ（位置、地方）+ation（名词后缀），表示所处的位置和状态，即情况、形势。",
+        "english": "situation",
+        "phonetic": "/ˌsɪtʃuˈeɪʃn/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "改变；变化",
+        "desc": "动词和名词，可联想事物从一种状态到另一种状态的转变。",
+        "english": "change",
+        "phonetic": "/tʃeɪndʒ/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "令人厌恶的",
+        "desc": "形容词，dis（否定前缀）+gust（味道）+ing，味道不好让人反感，即令人厌恶的。",
+        "english": "disgusting",
+        "phonetic": "/dɪsˈɡʌstɪŋ/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "以便；为了",
+        "desc": "词组，用于引导目的状语从句。",
+        "english": "so that",
+        "phonetic": "",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "新鲜的；清新的",
+        "desc": "形容词，可联想新鲜水果、清新空气的感觉来记忆。",
+        "english": "fresh",
+        "phonetic": "/freʃ/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "困难的",
+        "desc": "形容词，可拆分dif（否定前缀）+fic（做）+ult，不好做的，即困难的。",
+        "english": "difficult",
+        "phonetic": "/ˈdɪfɪkəlt/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "关心；在乎",
+        "desc": "词组，care本身有在意的意思，about表示关于，合起来就是关心、在乎。",
+        "english": "care about",
+        "phonetic": "",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "事实上",
+        "desc": "词组，用于引出实际情况。",
+        "english": "in fact",
+        "phonetic": "",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "命令；顺序；订购",
+        "desc": "名词和动词，作名词可联想排队的顺序，作动词可联想订购商品。",
+        "english": "order",
+        "phonetic": "/ˈɔːrdər/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "几个；一对",
+        "desc": "词组，用于表示数量不多。",
+        "english": "a couple of",
+        "phonetic": "",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "认出；识别",
+        "desc": "动词，re（再次）+cogn（知道）+ise，再次知道，即认出、识别。",
+        "english": "recognise",
+        "phonetic": "/ˈrekəɡnaɪz/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "混乱；脏乱",
+        "desc": "名词和动词，可联想房间杂乱的场景来记忆。",
+        "english": "mess",
+        "phonetic": "/mes/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "制造噪音",
+        "desc": "词组，make有制造的意思，noise是噪音，合起来就是制造噪音。",
+        "english": "make noise",
+        "phonetic": "",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "错误",
+        "desc": "名词和动词，可联想做事做错的情况，mis（错误）+take（拿），拿错了就是犯错误。",
+        "english": "mistake",
+        "phonetic": "/mɪˈsteɪk/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "不得不；必须",
+        "desc": "词组，强调客观上的必要性。",
+        "english": "have to",
+        "phonetic": "",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "脆的；清新的；干脆的",
+        "desc": "形容词，可联想薯片脆的口感、清新的早晨等场景来记忆。",
+        "english": "crisp",
+        "phonetic": "/krɪsp/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "行动；行为",
+        "desc": "名词，act（行动）加名词后缀-ion构成。",
+        "english": "action",
+        "phonetic": "/ˈækʃn/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "立刻；马上",
+        "desc": "词组，right有“正好、立刻”之意，now表示“现在”，组合起来表示立刻马上。",
+        "english": "right now",
+        "phonetic": "",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "道歉（apologise的现在分词）",
+        "desc": "动词现在分词形式，apologise（道歉）去e加ing。",
+        "english": "apologising",
+        "phonetic": "/əˈpɑːlədʒaɪzɪŋ/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "似乎；好像",
+        "desc": "动词，可联想see（看见），好像看见某种情况。",
+        "english": "seem",
+        "phonetic": "/siːm/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "第二；第二个",
+        "desc": "词组，the为定冠词，second是“第二”的序数词形式。",
+        "english": "the second",
+        "phonetic": "",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "错误；故障；过错",
+        "desc": "名词，可联想fall（摔倒），因犯错而摔倒。",
+        "english": "fault",
+        "phonetic": "/fɔːlt/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "再一次；又",
+        "desc": "副词，可拆分为a-（加强意义）和gain（获得），再次获得即再一次。",
+        "english": "again",
+        "phonetic": "/əˈɡen/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "大概；或许",
+        "desc": "副词，probable（可能的）加副词后缀-ly。",
+        "english": "probably",
+        "phonetic": "/ˈprɑːbəbli/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "重要的",
+        "desc": "形容词，im-（进入）+port（港口）+ -ant（形容词后缀），进入港口的东西通常是重要的。",
+        "english": "important",
+        "phonetic": "/ɪmˈpɔːrtnt/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "能力；胜任",
+        "desc": "名词，competent（有能力的）去t加-ency构成。",
+        "english": "competency",
+        "phonetic": "/ˈkɑːmpɪtənsi/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "更糟的；更坏的",
+        "desc": "形容词、副词比较级，是bad（坏的）和badly（糟糕地）的比较级。",
+        "english": "worse",
+        "phonetic": "/wɜːrs/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "错误的；不对的",
+        "desc": "形容词，可联想ring（铃响），铃声响错了表示错误的。",
+        "english": "wrong",
+        "phonetic": "/rɔːŋ/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "立即；马上",
+        "desc": "副词，immediate（立即的）加副词后缀-ly。",
+        "english": "immediately",
+        "phonetic": "/ɪˈmiːdiətli/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "到达；抵达",
+        "desc": "动词，ar-（强调）+rive（河岸），到达河岸即到达某地。",
+        "english": "arrive",
+        "phonetic": "/əˈraɪv/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "懒惰的",
+        "desc": "形容词，可联想lay（躺），总是躺着的人是懒惰的。",
+        "english": "lazy",
+        "phonetic": "/ˈleɪzi/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "忘记",
+        "desc": "动词，for-（离开）+get（得到），把得到的东西抛开即忘记。",
+        "english": "forget",
+        "phonetic": "/fərˈɡet/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "整洁的；整齐的；使整洁",
+        "desc": "形容词、动词，可联想tie（系、捆），把东西捆扎好就是整洁的。",
+        "english": "tidy",
+        "phonetic": "/ˈtaɪdi/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "服务员；侍者",
+        "desc": "名词，wait（等待、服务）加-er（表示人），等待服务客人的人。",
+        "english": "waiter",
+        "phonetic": "/ˈweɪtər/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "心烦的；苦恼的；使心烦",
+        "desc": "形容词、动词，up（向上）+set（放置），内心像被东西向上顶起一样，即心烦的。",
+        "english": "upset",
+        "phonetic": "/ʌpˈset/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "烤箱；炉灶",
+        "desc": "名词，可联想open（打开），烤箱需要打开门来使用。",
+        "english": "oven",
+        "phonetic": "/ˈʌvn/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "讨论；议论",
+        "desc": "词性：动词。记忆技巧：dis- 表示分开，-cuss 有摇动、打击之意，把问题分开来“打击”，即讨论。",
+        "english": "discuss",
+        "phonetic": "/dɪˈskʌs/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "未来；将来",
+        "desc": "词性：名词。记忆技巧：fu- 可联想为“赴”，ture 类似“途中”，赴向途中，也就是未来。",
+        "english": "future",
+        "phonetic": "/ˈfjuːtʃər/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "允许；许可",
+        "desc": "词性：名词。记忆技巧：per- 表示贯穿、完全，miss 有送的意思，-ion 为名词后缀，完全送出去，即给予许可。",
+        "english": "permission",
+        "phonetic": "/pərˈmɪʃn/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "礼物；现在；目前；呈现；提出；出席",
+        "desc": "词性：名词、动词、形容词。记忆技巧：pre- 表示在前，sent 是 send 的过去式，送到前面来，可表示呈现、礼物等含义。",
+        "english": "present",
+        "phonetic": "/ˈpreznt/",
+        "tag": "A2/37"
+    },
+    {
+        "chinese": "妻子",
+        "desc": "名词。可联想为与丈夫相对应的另一半，记住该词。",
+        "english": "wife",
+        "phonetic": "/waɪf/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "丈夫",
+        "desc": "名词。可将其拆分为hus（可想象成某种发音类似的形象记忆）和band，结合词义记忆。",
+        "english": "husband",
+        "phonetic": "/ˈhʌzbənd/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "提及；提到",
+        "desc": "动词。可联想发音，“门神”，想象门神讲述事情就有提及的意思。",
+        "english": "mention",
+        "phonetic": "/ˈmenʃn/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "成员",
+        "desc": "名词。发音类似“漫波”，想象一群人在波浪中，每个人都是成员。",
+        "english": "member",
+        "phonetic": "/ˈmembər/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "女儿",
+        "desc": "名词。可通过发音“刀特”，想象女儿像一把特别的刀，独特珍贵来记忆。",
+        "english": "daughter",
+        "phonetic": "/ˈdɔːtər/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "返回；归还",
+        "desc": "动词。re表示“回”，turn是“转动”，结合起来就是返回，还可联想把东西转回去就是归还。",
+        "english": "return",
+        "phonetic": "/rɪˈtɜːrn/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "超级大国；超级力量",
+        "desc": "名词词组。super表示“超级”，power是“力量、权力”，组合起来理解记忆。",
+        "english": "superpower",
+        "phonetic": "",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "下沉；沉没",
+        "desc": "动词。发音类似“深可”，想象东西深下去就有下沉、沉没的意思。",
+        "english": "sink",
+        "phonetic": "/sɪŋk/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "全部的；整个的",
+        "desc": "形容词。发音“吼”，想象大声喊出整个范围的感觉来记忆。",
+        "english": "whole",
+        "phonetic": "/hoʊl/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "他们自己；她们自己；它们自己",
+        "desc": "反身代词。可结合the（定冠词）和selves（self的复数）来理解记忆。",
+        "english": "themselves",
+        "phonetic": "/ðəmˈselvz/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "沙漠；遗弃",
+        "desc": "名词和动词。作名词可联想沙漠干旱荒芜的景象；作动词可结合发音“低泽特”，想象把人丢到低洼的地方不管就是遗弃。",
+        "english": "desert",
+        "phonetic": "/ˈdezərt/（名词）；/dɪˈzɜːrt/（动词）",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "话题；主题",
+        "desc": "名词。发音类似“拖把课”，想象在课堂上围绕拖把展开话题。",
+        "english": "topic",
+        "phonetic": "/ˈtɑːpɪk/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "意见；观点",
+        "desc": "名词。可联想发音“哦品有”，想象有自己的品评就是有意见、观点。",
+        "english": "opinion",
+        "phonetic": "/əˈpɪnjən/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "肯定地；当然",
+        "desc": "副词。由definite（确定的）加ly构成，记住形容词词义，再理解副词意思。",
+        "english": "definitely",
+        "phonetic": "/ˈdefɪnətli/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "愚蠢的；傻的",
+        "desc": "形容词。发音“犀利”，但意思相反，可对比记忆。",
+        "english": "silly",
+        "phonetic": "/ˈsɪli/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "抢劫；掠夺",
+        "desc": "动词。发音类似“若拨”，想象强行拨走别人东西就是抢劫。",
+        "english": "rob",
+        "phonetic": "/rɑːb/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "特别喜爱的人（或事物）",
+        "desc": "名词。可联想发音“飞我瑞特”，想象特别喜爱的东西飞到自己身边。",
+        "english": "favourite",
+        "phonetic": "/ˈfeɪvərɪt/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "罪犯；犯罪的",
+        "desc": "名词和形容词。可联想crime（犯罪），加al后缀变成相关的名词和形容词。",
+        "english": "criminal",
+        "phonetic": "/ˈkrɪmɪnl/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "打架；战斗",
+        "desc": "动词和名词。发音类似“飞特”，想象打架、战斗时动作很激烈像飞起来一样。",
+        "english": "fight",
+        "phonetic": "/faɪt/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "礼物；现在；呈现",
+        "desc": "名词、形容词和动词。作名词“礼物”可联想送礼物的场景；作形容词“现在的”可结合语境理解；作动词“呈现”可联想把东西展现出来。",
+        "english": "present",
+        "phonetic": "/ˈpreznt/（名词、形容词）；/prɪˈzent/（动词）",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "争论；争辩",
+        "desc": "动词，可联想和人“争吵”时会“争论”，词根arg有“清楚，明白”之意，争辩就是要把事情说清楚。",
+        "english": "argue",
+        "phonetic": "/ˈɑːrɡjuː/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "看不见的；无形的",
+        "desc": "形容词，in-是否定前缀，visible表示“可见的”，所以invisible就是“看不见的”。",
+        "english": "invisible",
+        "phonetic": "/ɪnˈvɪzəbl/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "有弹性的；可拉伸的",
+        "desc": "形容词，由动词stretch（拉伸）加后缀-y变来，能拉伸的就是有弹性的。",
+        "english": "stretchy",
+        "phonetic": "/ˈstretʃi/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "最年长的；eldest是old的最高级形式，用于指家庭成员中年龄最大的",
+        "desc": "形容词，是old的最高级之一，专用于家庭成员中年龄最大的描述。",
+        "english": "eldest",
+        "phonetic": "/ˈeldɪst/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "超级英雄",
+        "desc": "名词，由super（超级的）和hero（英雄）组合而成。",
+        "english": "superhero",
+        "phonetic": "",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "评论；评价",
+        "desc": "名词和动词，可联想在网上对内容发表“评论”，com-有“共同”之意，ment有“思考，表达”之意，大家共同表达想法就是评论。",
+        "english": "comment",
+        "phonetic": "/ˈkɑːment/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "超级的；极好的",
+        "desc": "形容词，可联想超级英雄等，有超越一般的意思。",
+        "english": "super",
+        "phonetic": "/ˈsuːpər/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "更年轻的；较年幼的",
+        "desc": "形容词，是young（年轻的）的比较级。",
+        "english": "younger",
+        "phonetic": "/ˈjʌŋɡər/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "星期三",
+        "desc": "名词，可结合一周七天的顺序来记忆。",
+        "english": "Wednesday",
+        "phonetic": "/ˈwenzdeɪ/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "我的（东西）",
+        "desc": "名词性物主代词，和my（我的，形容词性物主代词）对应，可联想“我的东西”来记忆。",
+        "english": "mine",
+        "phonetic": "/maɪn/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "一点儿；稍微",
+        "desc": "词组，可通过记住其常用表达来记忆。",
+        "english": "a bit",
+        "phonetic": "",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "毛皮；软毛",
+        "desc": "名词，可联想动物身上的毛来记忆。",
+        "english": "fur",
+        "phonetic": "/fɜːr/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "最后；终于",
+        "desc": "副词，由final（最后的）加-ly变来，可联想经过一系列事情后“最后”的情况。",
+        "english": "finally",
+        "phonetic": "/ˈfaɪnəli/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "巨大的；庞大的",
+        "desc": "形容词，可联想巨大的物体来记忆。",
+        "english": "huge",
+        "phonetic": "/hjuːdʒ/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "可怕的；恐怖的",
+        "desc": "形容词，由动词scare（使害怕）加后缀-y变来，能让人害怕的就是可怕的。",
+        "english": "scary",
+        "phonetic": "/ˈskeri/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "正常的；普通的",
+        "desc": "形容词，可联想正常的生活、状态等，词根norm有“标准”之意，符合标准的就是正常的。",
+        "english": "normal",
+        "phonetic": "/ˈnɔːrml/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "始终；一直",
+        "desc": "词组，all表示“所有”，time表示“时间”，所有时间就是一直。",
+        "english": "all time",
+        "phonetic": "",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "记得；记住",
+        "desc": "动词，re-有“再，又”之意，member有“成员，部分”之意，可联想再次想起某部分内容就是“记得”。",
+        "english": "remember",
+        "phonetic": "/rɪˈmembər/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "奇怪的；陌生的",
+        "desc": "形容词，可联想不熟悉、怪异的事物来记忆。",
+        "english": "strange",
+        "phonetic": "/streɪndʒ/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "屏幕；银幕",
+        "desc": "名词，可联想手机、电视等的屏幕来记忆。",
+        "english": "screen",
+        "phonetic": "/skriːn/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "使恼怒；使生气",
+        "desc": "词性：动词。记忆技巧：an可联想成“俺”，noy可联想成“恼”，俺恼了，就有使恼怒、使生气的意思。",
+        "english": "annoy",
+        "phonetic": "/əˈnɔɪ/",
+        "tag": "A2/38-39"
+    },
+    {
         "chinese": "墨西哥",
         "desc": "联想记忆：Me（我）+xi（西）+co（可），我去西可（类似音译）的地方就是墨西哥。",
         "english": "Mexico",
@@ -29074,6 +30075,15 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/30-31';
             option.textContent = 'A2/30-31';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/35-36';
+            option.textContent = 'A2/35-36';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/37';
+            option.textContent = 'A2/37';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/38-39';
+            option.textContent = 'A2/38-39';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/lesson1';
             option.textContent = 'A2/0/lesson1';
