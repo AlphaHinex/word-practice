@@ -3913,7 +3913,7 @@ var words = [
         "tag": "A2/37"
     },
     {
-        "chinese": "道歉（apologise的现在分词）",
+        "chinese": "道歉的现在分词",
         "desc": "动词现在分词形式，apologise（道歉）去e加ing。",
         "english": "apologising",
         "phonetic": "/əˈpɑːlədʒaɪzɪŋ/",
@@ -9147,20 +9147,6 @@ var words = [
         "english": "tip",
         "phonetic": "/tɪp/",
         "tag": "junior/grade7a/unit6"
-    },
-    {
-        "chinese": "",
-        "desc": "",
-        "english": "thitoro hi onl dli",
-        "phonetic": "",
-        "tag": "junior/grade7a/unit7"
-    },
-    {
-        "chinese": "",
-        "desc": "",
-        "english": "deniely atid",
-        "phonetic": "",
-        "tag": "junior/grade7a/unit7"
     },
     {
         "chinese": "n. 集市",
