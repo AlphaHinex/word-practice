@@ -4067,6 +4067,293 @@ var words = [
         "tag": "A2/37"
     },
     {
+        "chinese": "妻子",
+        "desc": "名词。可联想为与丈夫相对应的另一半，记住该词。",
+        "english": "wife",
+        "phonetic": "/waɪf/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "丈夫",
+        "desc": "名词。可将其拆分为hus（可想象成某种发音类似的形象记忆）和band，结合词义记忆。",
+        "english": "husband",
+        "phonetic": "/ˈhʌzbənd/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "提及；提到",
+        "desc": "动词。可联想发音，“门神”，想象门神讲述事情就有提及的意思。",
+        "english": "mention",
+        "phonetic": "/ˈmenʃn/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "成员",
+        "desc": "名词。发音类似“漫波”，想象一群人在波浪中，每个人都是成员。",
+        "english": "member",
+        "phonetic": "/ˈmembər/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "女儿",
+        "desc": "名词。可通过发音“刀特”，想象女儿像一把特别的刀，独特珍贵来记忆。",
+        "english": "daughter",
+        "phonetic": "/ˈdɔːtər/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "返回；归还",
+        "desc": "动词。re表示“回”，turn是“转动”，结合起来就是返回，还可联想把东西转回去就是归还。",
+        "english": "return",
+        "phonetic": "/rɪˈtɜːrn/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "超级大国；超级力量",
+        "desc": "名词词组。super表示“超级”，power是“力量、权力”，组合起来理解记忆。",
+        "english": "superpower",
+        "phonetic": "",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "下沉；沉没",
+        "desc": "动词。发音类似“深可”，想象东西深下去就有下沉、沉没的意思。",
+        "english": "sink",
+        "phonetic": "/sɪŋk/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "全部的；整个的",
+        "desc": "形容词。发音“吼”，想象大声喊出整个范围的感觉来记忆。",
+        "english": "whole",
+        "phonetic": "/hoʊl/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "他们自己；她们自己；它们自己",
+        "desc": "反身代词。可结合the（定冠词）和selves（self的复数）来理解记忆。",
+        "english": "themselves",
+        "phonetic": "/ðəmˈselvz/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "沙漠；遗弃",
+        "desc": "名词和动词。作名词可联想沙漠干旱荒芜的景象；作动词可结合发音“低泽特”，想象把人丢到低洼的地方不管就是遗弃。",
+        "english": "desert",
+        "phonetic": "/ˈdezərt/（名词）；/dɪˈzɜːrt/（动词）",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "话题；主题",
+        "desc": "名词。发音类似“拖把课”，想象在课堂上围绕拖把展开话题。",
+        "english": "topic",
+        "phonetic": "/ˈtɑːpɪk/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "意见；观点",
+        "desc": "名词。可联想发音“哦品有”，想象有自己的品评就是有意见、观点。",
+        "english": "opinion",
+        "phonetic": "/əˈpɪnjən/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "肯定地；当然",
+        "desc": "副词。由definite（确定的）加ly构成，记住形容词词义，再理解副词意思。",
+        "english": "definitely",
+        "phonetic": "/ˈdefɪnətli/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "愚蠢的；傻的",
+        "desc": "形容词。发音“犀利”，但意思相反，可对比记忆。",
+        "english": "silly",
+        "phonetic": "/ˈsɪli/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "抢劫；掠夺",
+        "desc": "动词。发音类似“若拨”，想象强行拨走别人东西就是抢劫。",
+        "english": "rob",
+        "phonetic": "/rɑːb/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "特别喜爱的人（或事物）",
+        "desc": "名词。可联想发音“飞我瑞特”，想象特别喜爱的东西飞到自己身边。",
+        "english": "favourite",
+        "phonetic": "/ˈfeɪvərɪt/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "罪犯；犯罪的",
+        "desc": "名词和形容词。可联想crime（犯罪），加al后缀变成相关的名词和形容词。",
+        "english": "criminal",
+        "phonetic": "/ˈkrɪmɪnl/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "打架；战斗",
+        "desc": "动词和名词。发音类似“飞特”，想象打架、战斗时动作很激烈像飞起来一样。",
+        "english": "fight",
+        "phonetic": "/faɪt/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "礼物；现在；呈现",
+        "desc": "名词、形容词和动词。作名词“礼物”可联想送礼物的场景；作形容词“现在的”可结合语境理解；作动词“呈现”可联想把东西展现出来。",
+        "english": "present",
+        "phonetic": "/ˈpreznt/（名词、形容词）；/prɪˈzent/（动词）",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "争论；争辩",
+        "desc": "动词，可联想和人“争吵”时会“争论”，词根arg有“清楚，明白”之意，争辩就是要把事情说清楚。",
+        "english": "argue",
+        "phonetic": "/ˈɑːrɡjuː/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "看不见的；无形的",
+        "desc": "形容词，in-是否定前缀，visible表示“可见的”，所以invisible就是“看不见的”。",
+        "english": "invisible",
+        "phonetic": "/ɪnˈvɪzəbl/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "有弹性的；可拉伸的",
+        "desc": "形容词，由动词stretch（拉伸）加后缀-y变来，能拉伸的就是有弹性的。",
+        "english": "stretchy",
+        "phonetic": "/ˈstretʃi/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "最年长的；eldest是old的最高级形式，用于指家庭成员中年龄最大的",
+        "desc": "形容词，是old的最高级之一，专用于家庭成员中年龄最大的描述。",
+        "english": "eldest",
+        "phonetic": "/ˈeldɪst/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "超级英雄",
+        "desc": "名词，由super（超级的）和hero（英雄）组合而成。",
+        "english": "superhero",
+        "phonetic": "",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "评论；评价",
+        "desc": "名词和动词，可联想在网上对内容发表“评论”，com-有“共同”之意，ment有“思考，表达”之意，大家共同表达想法就是评论。",
+        "english": "comment",
+        "phonetic": "/ˈkɑːment/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "超级的；极好的",
+        "desc": "形容词，可联想超级英雄等，有超越一般的意思。",
+        "english": "super",
+        "phonetic": "/ˈsuːpər/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "更年轻的；较年幼的",
+        "desc": "形容词，是young（年轻的）的比较级。",
+        "english": "younger",
+        "phonetic": "/ˈjʌŋɡər/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "星期三",
+        "desc": "名词，可结合一周七天的顺序来记忆。",
+        "english": "Wednesday",
+        "phonetic": "/ˈwenzdeɪ/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "我的（东西）",
+        "desc": "名词性物主代词，和my（我的，形容词性物主代词）对应，可联想“我的东西”来记忆。",
+        "english": "mine",
+        "phonetic": "/maɪn/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "一点儿；稍微",
+        "desc": "词组，可通过记住其常用表达来记忆。",
+        "english": "a bit",
+        "phonetic": "",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "毛皮；软毛",
+        "desc": "名词，可联想动物身上的毛来记忆。",
+        "english": "fur",
+        "phonetic": "/fɜːr/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "最后；终于",
+        "desc": "副词，由final（最后的）加-ly变来，可联想经过一系列事情后“最后”的情况。",
+        "english": "finally",
+        "phonetic": "/ˈfaɪnəli/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "巨大的；庞大的",
+        "desc": "形容词，可联想巨大的物体来记忆。",
+        "english": "huge",
+        "phonetic": "/hjuːdʒ/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "可怕的；恐怖的",
+        "desc": "形容词，由动词scare（使害怕）加后缀-y变来，能让人害怕的就是可怕的。",
+        "english": "scary",
+        "phonetic": "/ˈskeri/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "正常的；普通的",
+        "desc": "形容词，可联想正常的生活、状态等，词根norm有“标准”之意，符合标准的就是正常的。",
+        "english": "normal",
+        "phonetic": "/ˈnɔːrml/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "始终；一直",
+        "desc": "词组，all表示“所有”，time表示“时间”，所有时间就是一直。",
+        "english": "all time",
+        "phonetic": "",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "记得；记住",
+        "desc": "动词，re-有“再，又”之意，member有“成员，部分”之意，可联想再次想起某部分内容就是“记得”。",
+        "english": "remember",
+        "phonetic": "/rɪˈmembər/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "奇怪的；陌生的",
+        "desc": "形容词，可联想不熟悉、怪异的事物来记忆。",
+        "english": "strange",
+        "phonetic": "/streɪndʒ/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "屏幕；银幕",
+        "desc": "名词，可联想手机、电视等的屏幕来记忆。",
+        "english": "screen",
+        "phonetic": "/skriːn/",
+        "tag": "A2/38-39"
+    },
+    {
+        "chinese": "使恼怒；使生气",
+        "desc": "词性：动词。记忆技巧：an可联想成“俺”，noy可联想成“恼”，俺恼了，就有使恼怒、使生气的意思。",
+        "english": "annoy",
+        "phonetic": "/əˈnɔɪ/",
+        "tag": "A2/38-39"
+    },
+    {
         "chinese": "墨西哥",
         "desc": "联想记忆：Me（我）+xi（西）+co（可），我去西可（类似音译）的地方就是墨西哥。",
         "english": "Mexico",
@@ -29794,6 +30081,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/37';
             option.textContent = 'A2/37';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/38-39';
+            option.textContent = 'A2/38-39';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/lesson1';
             option.textContent = 'A2/0/lesson1';
