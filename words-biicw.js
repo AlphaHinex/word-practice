@@ -4354,6 +4354,307 @@ var words = [
         "tag": "A2/38-39"
     },
     {
+        "chinese": "网络；网页",
+        "desc": "名词。可联想蜘蛛织的网（web），网络就像一张大网。",
+        "english": "web",
+        "phonetic": "/web/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "永远；长久地",
+        "desc": "副词。可拆分为 for + ever 来记忆，for 有持续的意思，ever 表示曾经、永远，合起来就是永远。",
+        "english": "forever",
+        "phonetic": "/fərˈevər/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "在……之间",
+        "desc": "介词。可联想两者之间的空间或关系，比如 between you and me（在你我之间）。",
+        "english": "between",
+        "phonetic": "/bɪˈtwiːn/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "亲戚；亲属；相对的",
+        "desc": "名词和形容词。作为名词表示亲戚，可联想和自己有相对关系的人；作为形容词表示相对的，词根 relat - 有联系的意思。",
+        "english": "relative",
+        "phonetic": "/ˈrelətɪv/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "外面；外部；在外面",
+        "desc": "名词、副词和介词。可拆分为 out（外面） + side（边），表示在外面的边，即外部。",
+        "english": "outside",
+        "phonetic": "/ˌaʊtˈsaɪd/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "看电影",
+        "desc": "词组。watch 有观看的意思，film 是电影，组合起来就是看电影。",
+        "english": "watch a film",
+        "phonetic": "",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "去散步",
+        "desc": "词组。go for 有去做某事的意思，walk 是散步，整体就是去散步。",
+        "english": "go for a walk",
+        "phonetic": "",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "关系；关联",
+        "desc": "名词。由 relate（联系） + ship（表示某种关系或状态）组成，强调事物之间的联系或关联。",
+        "english": "relationship",
+        "phonetic": "/rɪˈleɪʃnʃɪp/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "旅馆；酒店",
+        "desc": "名词。可联想出门旅游或出差时住宿的地方就是 hotel。",
+        "english": "hotel",
+        "phonetic": "/hoʊˈtel/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "谈论生活",
+        "desc": "词组。talk about 是谈论的意思，life 是生活，合起来就是谈论生活。",
+        "english": "talk about life",
+        "phonetic": "",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "什么也不做",
+        "desc": "词组。do 是做，nothing 表示没有什么，即什么也不做。",
+        "english": "do nothing",
+        "phonetic": "",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "手术；操作；经营",
+        "desc": "名词。operate 是动词，意为操作、动手术，operation 是其名词形式。",
+        "english": "operation",
+        "phonetic": "/ˌɑːpəˈreɪʃn/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "闲逛；出去玩",
+        "desc": "词组。hang 有悬挂、逗留的意思，hang out 形象地表示像挂在某个地方一样，即闲逛、出去玩。",
+        "english": "hang out",
+        "phonetic": "",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "去购物",
+        "desc": "词组。go 表示去，shopping 是购物，合起来就是去购物。",
+        "english": "go shopping",
+        "phonetic": "",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "进行体育运动",
+        "desc": "词组。play 有进行、玩耍的意思，sport 是体育运动，组合起来就是进行体育运动。",
+        "english": "play sport",
+        "phonetic": "",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "心脏；内心",
+        "desc": "名词。可联想心脏是身体的重要器官，也常用来象征内心的情感。",
+        "english": "heart",
+        "phonetic": "/hɑːrt/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "仍然；还；静止的",
+        "desc": "副词和形容词。作为副词表示仍然、还，可联想事情还在持续；作为形容词表示静止的，可联想静止不动的画面。",
+        "english": "still",
+        "phonetic": "/stɪl/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "死亡；消逝",
+        "desc": "动词。可联想生命结束的状态就是 die。",
+        "english": "die",
+        "phonetic": "/daɪ/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "中心的；中央的；重要的",
+        "desc": "形容词。由 center（中心） + al（形容词后缀）组成，表示与中心有关的。",
+        "english": "central",
+        "phonetic": "/ˈsentrəl/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "千克；公斤",
+        "desc": "名词。kilo - 是表示千的前缀，gram 是克，合起来就是千克。",
+        "english": "kilogram",
+        "phonetic": "/ˈkɪləɡræm/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "海豚",
+        "desc": "名词。可联想海豚可爱的形象来记忆，dol 可想象为一种发音可爱的感觉，phin 类似 fin（鳍），海豚有鳍。",
+        "english": "dolphin",
+        "phonetic": "/ˈdɑːlfɪn/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "中心；中央",
+        "desc": "名词。可与 center（美式拼写）一起记忆，发音相同，词根 centr 有中心的意思，e 不发音。",
+        "english": "centre",
+        "phonetic": "/ˈsentər/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "左边",
+        "desc": "词组。left 表示左，side 表示边，组合起来就是左边。",
+        "english": "left side",
+        "phonetic": "",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "出生；诞生",
+        "desc": "动词的过去分词形式。be born 是常用表达，可结合这个短语记忆，发音和 borne 相近但用法不同。",
+        "english": "born",
+        "phonetic": "/bɔːrn/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "使瘫痪；使麻痹",
+        "desc": "动词。可拆分为 para（类似“半”“异常”）和 lyse（分解），想象身体部分功能异常被分解，就是瘫痪、麻痹的状态。",
+        "english": "paralyse",
+        "phonetic": "/ˈpærəlaɪz/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "医院",
+        "desc": "名词。可联想医院的场景记忆，hos 发音类似“好死”，可想象在医院能得到好的治疗，pital 可作为一个整体记忆。",
+        "english": "hospital",
+        "phonetic": "/ˈhɑːspɪtl/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "治疗；疗法",
+        "desc": "名词。ther 发音类似“热”，很多治疗有热敷等热疗方式，apy 可作为一个整体辅助记忆。",
+        "english": "therapy",
+        "phonetic": "/ˈθerəpi/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "给……做手术",
+        "desc": "词组。operate 本身有操作、手术的意思，on 表示对象，结合起来就是给某人做手术。",
+        "english": "operate on",
+        "phonetic": "",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "移动；搬动；感动",
+        "desc": "动词。发音简单，可联想物体移动或人被感动时内心的波动来记忆。",
+        "english": "move",
+        "phonetic": "/muːv/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "喂养；饲养；提供",
+        "desc": "动词。发音类似“喂的”，很形象地表示喂养的动作。",
+        "english": "feed",
+        "phonetic": "/fiːd/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "到达；抵达",
+        "desc": "动词。a 可看作一个动作的起始，rrive 可联想 rive（河流），想象顺着河流到达目的地。",
+        "english": "arrive",
+        "phonetic": "/əˈraɪv/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "越来越多；越来越",
+        "desc": "词组。more 是 many/much 的比较级，and 连接两个 more 表示程度的递增。",
+        "english": "more and more",
+        "phonetic": "",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "越来越好",
+        "desc": "词组。better 是 good/well 的比较级，and 连接两个 better 表示越来越好的趋势。",
+        "english": "better and better",
+        "phonetic": "",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "友谊；友好",
+        "desc": "名词。由 friend（朋友）加 ship（表示某种关系）构成，朋友之间的关系就是友谊。",
+        "english": "friendship",
+        "phonetic": "/ˈfrendʃɪp/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "客人；宾客",
+        "desc": "名词。发音类似“该死的”，可幽默地想象家里来了客人可能会有点小麻烦，但这只是帮助记忆的小方法。",
+        "english": "guest",
+        "phonetic": "/ɡest/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "紧挨着；在……旁边",
+        "desc": "词组。next 有下一个、紧接着的意思，to 表示方向，组合起来就是紧挨着、在旁边。",
+        "english": "next to",
+        "phonetic": "",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "健康；卫生",
+        "desc": "名词。可由 healthy（健康的）去掉 y 加 th 变来，联想健康的状态来记忆。",
+        "english": "health",
+        "phonetic": "/helθ/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "成功的；有成效的",
+        "desc": "形容词。由 success（成功）加 ful 构成，看到这个词就想到成功的事情或人。",
+        "english": "successful",
+        "phonetic": "/səkˈsesfl/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "花费；度过",
+        "desc": "动词。发音类似“死盼的”，可想象盼着去花费钱或者度过时光。",
+        "english": "spend",
+        "phonetic": "/spend/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "分享；共享；分担",
+        "desc": "动词。发音类似“晒啊”，可联想把东西晒出来和别人分享。",
+        "english": "share",
+        "phonetic": "/ʃer/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "微笑；笑容",
+        "desc": "词性：动词、名词。记忆技巧：可联想人们微笑时嘴角上扬的形象；也可结合常见短语“wear a smile（面带微笑）”来记忆。",
+        "english": "smile",
+        "phonetic": "/smaɪl/",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "不得不；必须",
+        "desc": "记忆技巧：结合语境记忆，比如“I have to go to school（我不得不去上学）”，理解在特定情况下需要做某事的含义。",
+        "english": "have to",
+        "phonetic": "",
+        "tag": "A2/56-57"
+    },
+    {
+        "chinese": "游泳池",
+        "desc": "记忆技巧：拆分记忆，“swimming”是“游泳”的意思，“pool”有“水池”的意思，合起来就是游泳的水池即游泳池；也可以通过想象在游泳池游泳的场景来记忆。",
+        "english": "swimming pool",
+        "phonetic": "",
+        "tag": "A2/56-57"
+    },
+    {
         "chinese": "墨西哥",
         "desc": "联想记忆：Me（我）+xi（西）+co（可），我去西可（类似音译）的地方就是墨西哥。",
         "english": "Mexico",
@@ -30070,6 +30371,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/38-39';
             option.textContent = 'A2/38-39';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/56-57';
+            option.textContent = 'A2/56-57';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/lesson1';
             option.textContent = 'A2/0/lesson1';
