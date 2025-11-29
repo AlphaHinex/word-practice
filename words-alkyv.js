@@ -10535,6 +10535,146 @@ var words = [
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
+        "chinese": "发送",
+        "desc": "动词（v.）；记忆技巧：联想“送（sòng）”的拼音首字母s，end结尾，“送东西到终点（end）”",
+        "english": "send",
+        "phonetic": "/send/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "将要，会",
+        "desc": "情态动词（modal v.）；记忆技巧：谐音“烧（shāo）”，“将要烧东西”",
+        "english": "shall",
+        "phonetic": "/ʃəl/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "发光，照耀",
+        "desc": "动词（v.）；记忆技巧：s+hine（阳光），“阳光（shine）照耀”",
+        "english": "shine",
+        "phonetic": "/ʃaɪn/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "看见",
+        "desc": "动词（v.）；记忆技巧：简单单词，发音和“see”本身一样，联想“看（kàn）”的动作",
+        "english": "see",
+        "phonetic": "/siː/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "唱歌",
+        "desc": "动词（v.）；记忆技巧：谐音“星（xīng）”，“唱歌像星星（sing）一样闪亮”",
+        "english": "sing",
+        "phonetic": "/sɪŋ/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "坐",
+        "desc": "动词（v.）；记忆技巧：s+it，“坐在（sit）它（it）上面”",
+        "english": "sit",
+        "phonetic": "/sɪt/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "睡觉",
+        "desc": "动词/名词（v./n.）；记忆技巧：s+leep（休息），“睡觉（sleep）是为了休息”",
+        "english": "sleep",
+        "phonetic": "/sliːp/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "说话",
+        "desc": "动词（v.）；记忆技巧：s+peak（山峰），“站在山峰（peak）上说话（speak）”",
+        "english": "speak",
+        "phonetic": "/spiːk/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "站立",
+        "desc": "动词（v.）；记忆技巧：s+tan（晒黑）+d，“站立（stand）晒太阳（tan）变黑”",
+        "english": "stand",
+        "phonetic": "/stænd/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "游泳",
+        "desc": "动词（v.）；记忆技巧：s+wim（联想water in motion），“水中运动即游泳（swim）”",
+        "english": "swim",
+        "phonetic": "/swɪm/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "拿，取",
+        "desc": "动词（v.）；记忆技巧：t+ake（拿），“拿走（take）ake部分”",
+        "english": "take",
+        "phonetic": "/teɪk/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "教",
+        "desc": "动词（v.）；记忆技巧：t+each（每个），“教（teach）每个（each）学生”",
+        "english": "teach",
+        "phonetic": "/tiːtʃ/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "打扫",
+        "desc": "动词（v.）；记忆技巧：s+weep（哭泣），“打扫（sweep）灰尘，灰尘哭泣（weep）跑掉”",
+        "english": "sweep",
+        "phonetic": "/swiːp/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "思考",
+        "desc": "动词（v.）；记忆技巧：th+ink（墨水），“思考（think）时用墨水（ink）写字”",
+        "english": "think",
+        "phonetic": "/θɪŋk/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "醒来",
+        "desc": "动词（v.）；记忆技巧：w+ake（醒），“醒来（wake）就是ake”",
+        "english": "wake",
+        "phonetic": "/weɪk/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "理解",
+        "desc": "动词（v.）；记忆技巧：under（在...之下）+stand（站立），“站在下面理解上面的事”",
+        "english": "understand",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "穿",
+        "desc": "动词（v.）；记忆技巧：谐音“歪耳（wāi'ěr）”，“穿衣服歪了耳朵”",
+        "english": "wear",
+        "phonetic": "/wer/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "将，愿意",
+        "desc": "情态动词（modal v.）；记忆技巧：谐音“为（wèi）”，“愿意为（will）你做某事”",
+        "english": "will",
+        "phonetic": "/wɪl/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "赢",
+        "desc": "动词（v.）；记忆技巧：w+in（在里面），“赢（win）了就在里面（in）庆祝”",
+        "english": "win",
+        "phonetic": "/wɪn/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "写",
+        "desc": "动词（v.）；记忆技巧：w不发音，rite（仪式），“写（write）仪式（rite）流程”",
+        "english": "write",
+        "phonetic": "/raɪt/",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -30967,6 +31107,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7a/irregular-verbs/26-50';
             option.textContent = 'junior/grade7a/irregular-verbs/26-50';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7a/irregular-verbs/51-73';
+            option.textContent = 'junior/grade7a/irregular-verbs/51-73';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
