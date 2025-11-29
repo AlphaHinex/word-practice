@@ -10102,574 +10102,595 @@ var words = [
     },
     {
         "chinese": "吹",
-        "desc": "动词，发音似“不漏”，吹气时不漏气",
+        "desc": "动词，发音似“不漏”，吹气时不漏气; blew; blown",
         "english": "blow",
         "phonetic": "/bloʊ/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "是",
-        "desc": "动词，原形，意为“是”，基础系动词",
+        "desc": "动词，原形，意为“是”，基础系动词；was,were; been",
         "english": "be",
         "phonetic": "/biː/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
-        "chinese": "熊",
-        "desc": "名词，熊（bear）有毛发（hair），联想记忆",
+        "chinese": "v. 拥有，承受，忍受",
+        "desc": "bore; born/borne",
         "english": "bear",
         "phonetic": "/beər/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "变成",
-        "desc": "动词，be（是）+come（来），“是”某物“来”变成",
+        "desc": "动词，be（是）+come（来），“是”某物“来”变成；became; become",
         "english": "become",
         "phonetic": "/bɪˈkʌm/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "开始",
-        "desc": "动词，be（是）+gin（开始），“是”时候开始了",
+        "desc": "动词，be（是）+gin（开始），“是”时候开始了; began; begun",
         "english": "begin",
         "phonetic": "/bɪˈɡɪn/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "打破",
-        "desc": "动词，b+reak（休息），打破（break）休息时间",
+        "desc": "动词，b+reak（休息），打破（break）休息时间; broke; broken",
         "english": "break",
         "phonetic": "/breɪk/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "带来",
-        "desc": "动词，b+ring（铃），带来（bring）铃铛声",
+        "desc": "动词，b+ring（铃），带来（bring）铃铛声; brought; brought",
         "english": "bring",
         "phonetic": "/brɪŋ/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "知道",
-        "desc": "动词，k不发音，now（现在）知道（know）答案",
+        "desc": "动词，k不发音，now（现在）知道（know）答案; knew; known",
         "english": "know",
         "phonetic": "/noʊ/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "做",
-        "desc": "动词，“做”（do）事情，基础行为动词",
+        "desc": "动词，“做”（do）事情，基础行为动词; did; done",
         "english": "do",
         "phonetic": "/duː/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "买",
-        "desc": "动词，买（buy）东西通过（by）钱",
+        "desc": "动词，买（buy）东西通过（by）钱; bought; bought",
         "english": "buy",
         "phonetic": "/baɪ/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "抓住",
-        "desc": "动词，cat（猫）抓住（catch）老鼠",
+        "desc": "动词，cat（猫）抓住（catch）老鼠; caught; caught",
         "english": "catch",
         "phonetic": "/kætʃ/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "选择",
-        "desc": "动词，ch+oose，发音似“处子”，选择（choose）人选",
+        "desc": "动词，ch+oose，发音似“处子”，选择（choose）人选; chose; chosen",
         "english": "choose",
         "phonetic": "/tʃuːz/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "切",
-        "desc": "动词，“cut”（切）发音短促，像切割动作",
+        "desc": "动词，“cut”（切）发音短促，像切割动作; cut; cut",
         "english": "cut",
         "phonetic": "/kʌt/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "得到",
-        "desc": "动词，“get”（得到）与“给它”谐音，得到某物",
+        "desc": "动词，“get”（得到）与“给它”谐音，得到某物; got; got/gotten",
         "english": "get",
         "phonetic": "/ɡet/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "来",
-        "desc": "动词，“come”（来）与“卡姆”谐音，过来这里",
+        "desc": "动词，“come”（来）与“卡姆”谐音，过来这里; came; come",
         "english": "come",
         "phonetic": "/kʌm/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "能",
-        "desc": "情态动词，“能”（can）做某事，表能力",
+        "desc": "情态动词，“能”（can）做某事，表能力; could; -",
         "english": "can",
         "phonetic": "/kæn/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "喝",
-        "desc": "动词，drink（喝）水（water），日常动作",
+        "desc": "动词，drink（喝）水（water），日常动作; drank; drunk",
         "english": "drink",
         "phonetic": "/drɪŋk/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "落下",
-        "desc": "动词，秋天（fall）叶子落下（fall）",
+        "desc": "动词，秋天（fall）叶子落下（fall）; fell; fallen",
         "english": "fall",
         "phonetic": "/fɔːl/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "感觉",
-        "desc": "动词，“feel”（感觉）与“非尔”谐音，感受情绪",
+        "desc": "动词，“feel”（感觉）与“非尔”谐音，感受情绪; felt; felt",
         "english": "feel",
         "phonetic": "/fiːl/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "找到",
-        "desc": "动词，find（找到）+in（在），在里面找到",
+        "desc": "动词，find（找到）+in（在），在里面找到; found; found",
         "english": "find",
         "phonetic": "/faɪnd/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "驾驶",
-        "desc": "动词(v.)；联想“驾驶”动作，发音与“拽吾”谐音，拽着方向盘驾驶",
+        "desc": "动词(v.)；联想“驾驶”动作，发音与“拽吾”谐音，拽着方向盘驾驶; drove; driven",
         "english": "drive",
         "phonetic": "/draɪv/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "飞",
-        "desc": "动词(v.)；联想“飞”的动作，发音类似“弗莱”，弗莱（Fly）会飞",
+        "desc": "动词(v.)；联想“飞”的动作，发音类似“弗莱”，弗莱（Fly）会飞; flew; flown",
         "english": "fly",
         "phonetic": "/flaɪ/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "吃",
-        "desc": "动词(v.)；简单动词，发音与“亿特”，联想吃了很多（亿特）食物",
+        "desc": "动词(v.)；简单动词，发音与“亿特”，联想吃了很多（亿特）食物; ate; eaten",
         "english": "eat",
         "phonetic": "/iːt/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "想",
-        "desc": "动词(v.)；联想“思考(think)用脑子”，注意θ开头需咬舌发音",
+        "desc": "动词(v.)；联想“思考(think)用脑子”，注意θ开头需咬舌发音; thought; thought",
         "english": "think",
         "phonetic": "/θɪŋk/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "拿",
-        "desc": "动词(v.)；联想“拿东西用手”，发音与“忒克”，忒快地拿取",
+        "desc": "动词(v.)；联想“拿东西用手”，发音与“忒克”，忒快地拿取; took; taken",
         "english": "take",
         "phonetic": "/teɪk/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "有",
-        "desc": "动词(v.)；常见动词，联想“拥有某物”，发音简单易记",
+        "desc": "动词(v.)；常见动词，联想“拥有某物”，发音简单易记; had; had",
         "english": "have",
         "phonetic": "/hæv/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "游泳",
-        "desc": "动词(v.)；联想游泳动作，s开头像水波，wim与“游”拼音首字母呼应",
+        "desc": "动词(v.)；联想游泳动作，s开头像水波，wim与“游”拼音首字母呼应; swam; swum",
         "english": "swim",
         "phonetic": "/swɪm/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "写",
-        "desc": "动词(v.)；联想“写字用右手(right)”，注意与right的拼写区别",
+        "desc": "动词(v.)；联想“写字用右手(right)”，注意与right的拼写区别; wrote; written",
         "english": "write",
         "phonetic": "/raɪt/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "去",
-        "desc": "动词(v.)；最简单动词之一，发音与“够”，联想去够东西的动作",
+        "desc": "动词(v.)；最简单动词之一，发音与“够”，联想去够东西的动作; went; gone",
         "english": "go",
         "phonetic": "/ɡoʊ/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "看见",
-        "desc": "动词(v.)；联想“看见用眼睛”，发音与“西”，向西看即看见",
+        "desc": "动词(v.)；联想“看见用眼睛”，发音与“西”，向西看即看见; saw; seen",
         "english": "see",
         "phonetic": "/siː/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "燃烧",
-        "desc": "动词(v.)；联想“燃烧生火”，发音b开头，urn部分与“燃”音近",
+        "desc": "动词(v.)；联想“燃烧生火”，发音b开头，urn部分与“燃”音近; burnt/burned; burnt/burned",
         "english": "burn",
         "phonetic": "/bɜːrn/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "离开",
-        "desc": "动词(v.)；联想“离开时挥手”，发音与“利武”，利落地离开",
+        "desc": "动词(v.)；联想“离开时挥手”，发音与“利武”，利落地离开; left; left",
         "english": "leave",
         "phonetic": "/liːv/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "制作",
-        "desc": "动词(v.)；联想“制作需动手”，发音与“妹克”，妹妹动手制作",
+        "desc": "动词(v.)；联想“制作需动手”，发音与“妹克”，妹妹动手制作; made; made",
         "english": "make",
         "phonetic": "/meɪk/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "建造",
-        "desc": "动词(v.)；联想“建造房子像搭积木”，与“block”形似记忆",
+        "desc": "动词(v.)；联想“建造房子像搭积木”，与“block”形似记忆; built; built",
         "english": "build",
         "phonetic": "/bɪld/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "画",
-        "desc": "动词(v.)；联想“画画用捉笔”，发音与“捉”，捉笔绘画",
+        "desc": "动词(v.)；联想“画画用捉笔”，发音与“捉”，捉笔绘画; drew; drawn",
         "english": "draw",
         "phonetic": "/drɔː/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "梦想",
-        "desc": "动词(v.)/名词(n.)；联想“梦想像梦一样”，发音与“追母”，追逐梦想",
+        "desc": "动词(v.)/名词(n.)；联想“梦想像梦一样”，发音与“追母”，追逐梦想; dreamt/dreamed; dreamt/dreamed",
         "english": "dream",
         "phonetic": "/driːm/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "遇见",
-        "desc": "动词(v.)；联想“遇见朋友”，发音与“密特”，秘密地遇见",
+        "desc": "动词(v.)；联想“遇见朋友”，发音与“密特”，秘密地遇见; met; met",
         "english": "meet",
         "phonetic": "/miːt/",
         "tag": "junior/grade7a/irregular-verbs/1-25"
     },
     {
         "chinese": "给",
-        "desc": "动词(v.)。记忆技巧：联想“给(gěi)出东西”，发音以g开头，ive结尾，可记“给予”的动作。",
+        "desc": "动词(v.)。记忆技巧：联想“给(gěi)出东西”，发音以g开头，ive结尾，可记“给予”的动作。gave; given",
         "english": "give",
         "phonetic": "/ɡɪv/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "忘记",
-        "desc": "动词(v.)。记忆技巧：for（为了）+ get（得到）→ “为了得到新的而忘记旧的”，联想放下之前得到的。",
+        "desc": "动词(v.)。记忆技巧：for（为了）+ get（得到）→ “为了得到新的而忘记旧的”，联想放下之前得到的。forgot; forgotten",
         "english": "forget",
         "phonetic": "/fərˈɡet/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "得到",
-        "desc": "动词(v.)。记忆技巧：发音类似“盖特”，联想“盖特到”即“得到”，常用“get sth.”表示“得到某物”。",
+        "desc": "动词(v.)。记忆技巧：发音类似“盖特”，联想“盖特到”即“得到”，常用“get sth.”表示“得到某物”。got; got/gotten",
         "english": "get",
         "phonetic": "/ɡet/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "去",
-        "desc": "动词(v.)。记忆技巧：简单动词，发音“够”，联想“够得着就去”，常用“go to...”表示“去某地”。",
+        "desc": "动词(v.)。记忆技巧：简单动词，发音“够”，联想“够得着就去”，常用“go to...”表示“去某地”。went; gone",
         "english": "go",
         "phonetic": "/ɡoʊ/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "成长",
-        "desc": "动词(v.)。记忆技巧：g（长）+ row（排）→ “长成一排”，联想植物成长；发音类似“肉”，成长需要长肉。",
+        "desc": "动词(v.)。记忆技巧：g（长）+ row（排）→ “长成一排”，联想植物成长；发音类似“肉”，成长需要长肉。grew; grown",
         "english": "grow",
         "phonetic": "/ɡroʊ/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "有",
-        "desc": "动词(v.)。记忆技巧：h（含）+ ave → “含有”即“有”，常用“have sth.”表示“有某物”，联想“拥有”。",
+        "desc": "动词(v.)。记忆技巧：h（含）+ ave → “含有”即“有”，常用“have sth.”表示“有某物”，联想“拥有”。had; had",
         "english": "have",
         "phonetic": "/hæv/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "听见",
-        "desc": "动词(v.)。记忆技巧：h（听）+ ear（耳朵）→ “用耳朵听”，直接关联身体部位“耳朵(ear)”来记忆。",
+        "desc": "动词(v.)。记忆技巧：h（听）+ ear（耳朵）→ “用耳朵听”，直接关联身体部位“耳朵(ear)”来记忆。heard; heard",
         "english": "hear",
         "phonetic": "/hɪr/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "伤害",
-        "desc": "动词(v.)/名词(n.)。记忆技巧：发音“赫特”，联想“赫赫有名的伤害”；可记“胡(hu)乱(r)踢(t)”导致伤害。",
+        "desc": "动词(v.)/名词(n.)。记忆技巧：发音“赫特”，联想“赫赫有名的伤害”；可记“胡(hu)乱(r)踢(t)”导致伤害。hurt; hurt",
         "english": "hurt",
         "phonetic": "/hɜːrt/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "保持",
-        "desc": "动词(v.)。记忆技巧：k（可）+ eep（一直）→ “可以一直保持”，常用“keep doing sth.”表示“一直做某事”。",
+        "desc": "动词(v.)。记忆技巧：k（可）+ eep（一直）→ “可以一直保持”，常用“keep doing sth.”表示“一直做某事”。kept; kept",
         "english": "keep",
         "phonetic": "/kiːp/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "知道",
-        "desc": "动词(v.)。记忆技巧：k不发音，now（现在）→ “现在知道了”，联想“no（不）+ w（我）→ 不骗我，我知道”。",
+        "desc": "动词(v.)。记忆技巧：k不发音，now（现在）→ “现在知道了”，联想“no（不）+ w（我）→ 不骗我，我知道”。knew; known",
         "english": "know",
         "phonetic": "/noʊ/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "学习",
-        "desc": "动词(v.)。记忆技巧：l（学）+ earn（赚）→ “学习才能赚钱”，发音“勒恩”，联想“勒紧裤腰带学习”。",
+        "desc": "动词(v.)。记忆技巧：l（学）+ earn（赚）→ “学习才能赚钱”，发音“勒恩”，联想“勒紧裤腰带学习”。learnt/learned; learnt/learned",
         "english": "learn",
         "phonetic": "/lɜːrn/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "离开",
-        "desc": "动词(v.)。记忆技巧：l（离）+ eave → “离开”的“离”开头，与live（生活）只差一个字母，联想“离开旧生活”。",
+        "desc": "动词(v.)。记忆技巧：l（离）+ eave → “离开”的“离”开头，与live（生活）只差一个字母，联想“离开旧生活”。left; left",
         "english": "leave",
         "phonetic": "/liːv/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "让",
-        "desc": "动词(v.)。记忆技巧：简单动词，发音“莱特”，联想“让莱特兄弟飞”，常用“let sb. do sth.”表示“让某人做某事”。",
+        "desc": "动词(v.)。记忆技巧：简单动词，发音“莱特”，联想“让莱特兄弟飞”，常用“let sb. do sth.”表示“让某人做某事”。let; let",
         "english": "let",
         "phonetic": "/let/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "制作",
-        "desc": "动词(v.)。记忆技巧：m（做）+ ake → “做蛋糕(make cake)”联想制作，常用“make sth.”表示“制作某物”。",
+        "desc": "动词(v.)。记忆技巧：m（做）+ ake → “做蛋糕(make cake)”联想制作，常用“make sth.”表示“制作某物”。made; made",
         "english": "make",
         "phonetic": "/meɪk/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "光",
-        "desc": "名词(n.)/形容词(adj.)/动词(v.)。记忆技巧：l（亮）+ ight → “光明”，发音“赖特”，联想“灯光照亮”，也可记“轻的(light)东西容易发光”。",
+        "desc": "名词(n.)/形容词(adj.)/动词(v.)。记忆技巧：l（亮）+ ight → “光明”，发音“赖特”，联想“灯光照亮”，也可记“轻的(light)东西容易发光”。lit/lighted; lit/lighted",
         "english": "light",
         "phonetic": "/laɪt/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "遇见",
-        "desc": "动词(v.)。记忆技巧：m（遇）+ eet → “遇见”，常用“meet sb.”表示“遇见某人”，发音“密特”联想“秘密地遇见”。",
+        "desc": "动词(v.)。记忆技巧：m（遇）+ eet → “遇见”，常用“meet sb.”表示“遇见某人”，发音“密特”联想“秘密地遇见”。met; met",
         "english": "meet",
         "phonetic": "/miːt/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "必须",
-        "desc": "情态动词(modal v.)。记忆技巧：m（必）+ ust → “必须”，发音“马斯特”，联想“马上去做，必须的”，常用“must do sth.”。",
+        "desc": "情态动词(modal v.)。记忆技巧：m（必）+ ust → “必须”，发音“马斯特”，联想“马上去做，必须的”，常用“must do sth.”。had to/must; -",
         "english": "must",
         "phonetic": "/mʌst/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "放",
-        "desc": "动词(v.)。记忆技巧：p（摆）+ ut → “摆放”即“放”，常用“put sth. + 地点”表示“把某物放在某地”。",
+        "desc": "动词(v.)。记忆技巧：p（摆）+ ut → “摆放”即“放”，常用“put sth. + 地点”表示“把某物放在某地”。put; put",
         "english": "put",
         "phonetic": "/pʊt/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "可能",
-        "desc": "情态动词(modal v.)。记忆技巧：简单情态动词，发音“梅”，联想“梅花可能会开”，常用“may do sth.”表示“可能做某事”。",
+        "desc": "情态动词(modal v.)。记忆技巧：简单情态动词，发音“梅”，联想“梅花可能会开”，常用“may do sth.”表示“可能做某事”。might; -",
         "english": "may",
         "phonetic": "/meɪ/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "意思是",
-        "desc": "动词(v.)/形容词(adj.)。记忆技巧：m（意）+ ean → “意思是”，常用“What does it mean?”询问“是什么意思”。",
+        "desc": "动词(v.)/形容词(adj.)。记忆技巧：m（意）+ ean → “意思是”，常用“What does it mean?”询问“是什么意思”。meant; meant",
         "english": "mean",
         "phonetic": "/miːn/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "读",
-        "desc": "v. 动词；记忆技巧：原形发音为/riːd/，注意与过去式/red/（红色）的发音和含义区分",
+        "desc": "v. 动词；记忆技巧：原形发音为/riːd/，注意与过去式/red/（红色）的发音和含义区分; read /red/; read /red/",
         "english": "read",
         "phonetic": "/riːd/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "骑",
-        "desc": "v. 动词；记忆技巧：联想“骑”的动作，如“ride a bike（骑自行车）”，发音与“right（正确）”开头相似但尾音不同",
+        "desc": "v. 动词；记忆技巧：联想“骑”的动作，如“ride a bike（骑自行车）”，发音与“right（正确）”开头相似但尾音不同; rode; ridden",
         "english": "ride",
         "phonetic": "/raɪd/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "上升",
-        "desc": "v. 动词；记忆技巧：不及物动词，表自然上升，如“太阳升起（The sun rises）”，注意与及物动词“raise（举起）”区分",
+        "desc": "v. 动词；记忆技巧：不及物动词，表自然上升，如“太阳升起（The sun rises）”，注意与及物动词“raise（举起）”区分; rose; risen",
         "english": "rise",
         "phonetic": "/raɪz/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "跑",
-        "desc": "v. 动词；记忆技巧：不规则动词，过去式“ran”，过去分词“run”，联想“跑步（run fast）”的动作场景",
+        "desc": "v. 动词；记忆技巧：不规则动词，过去式“ran”，过去分词“run”，联想“跑步（run fast）”的动作场景; ran; run",
         "english": "run",
         "phonetic": "/rʌn/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
         "chinese": "说",
-        "desc": "v. 动词；记忆技巧：发音与“sea（大海）”相近，可联想“在海边说话（say by the sea）”帮助记忆",
+        "desc": "v. 动词；记忆技巧：发音与“sea（大海）”相近，可联想“在海边说话（say by the sea）”帮助记忆; said; said",
         "english": "say",
         "phonetic": "/seɪ/",
         "tag": "junior/grade7a/irregular-verbs/26-50"
     },
     {
+        "chinese": "讲",
+        "desc": "told; told",
+        "english": "tell",
+        "phonetic": "",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "闻",
+        "desc": "smelt/smelled; smelt/smelled",
+        "english": "smell",
+        "phonetic": "",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
+        "chinese": "卖",
+        "desc": "动词（v.）；记忆技巧：联想“送（sòng）”的拼音首字母s，end结尾，“送东西到终点（end）”; sold; sold",
+        "english": "sell",
+        "phonetic": "",
+        "tag": "junior/grade7a/irregular-verbs/51-73"
+    },
+    {
         "chinese": "发送",
-        "desc": "动词（v.）；记忆技巧：联想“送（sòng）”的拼音首字母s，end结尾，“送东西到终点（end）”",
+        "desc": "动词（v.）；记忆技巧：联想“送（sòng）”的拼音首字母s，end结尾，“送东西到终点（end）”; sent; sent",
         "english": "send",
         "phonetic": "/send/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "将要，会",
-        "desc": "情态动词（modal v.）；记忆技巧：谐音“烧（shāo）”，“将要烧东西”",
+        "desc": "情态动词（modal v.）；记忆技巧：谐音“烧（shāo）”，“将要烧东西”; should; -",
         "english": "shall",
         "phonetic": "/ʃəl/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "发光，照耀",
-        "desc": "动词（v.）；记忆技巧：s+hine（阳光），“阳光（shine）照耀”",
+        "desc": "动词（v.）；记忆技巧：s+hine（阳光），“阳光（shine）照耀”; shone; shone",
         "english": "shine",
         "phonetic": "/ʃaɪn/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "看见",
-        "desc": "动词（v.）；记忆技巧：简单单词，发音和“see”本身一样，联想“看（kàn）”的动作",
+        "desc": "动词（v.）；记忆技巧：简单单词，发音和“see”本身一样，联想“看（kàn）”的动作; saw; seen",
         "english": "see",
         "phonetic": "/siː/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "唱歌",
-        "desc": "动词（v.）；记忆技巧：谐音“星（xīng）”，“唱歌像星星（sing）一样闪亮”",
+        "desc": "动词（v.）；记忆技巧：谐音“星（xīng）”，“唱歌像星星（sing）一样闪亮”; sang; sung",
         "english": "sing",
         "phonetic": "/sɪŋ/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "坐",
-        "desc": "动词（v.）；记忆技巧：s+it，“坐在（sit）它（it）上面”",
+        "desc": "动词（v.）；记忆技巧：s+it，“坐在（sit）它（it）上面”; sat; sat",
         "english": "sit",
         "phonetic": "/sɪt/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "睡觉",
-        "desc": "动词/名词（v./n.）；记忆技巧：s+leep（休息），“睡觉（sleep）是为了休息”",
+        "desc": "动词/名词（v./n.）；记忆技巧：s+leep（休息），“睡觉（sleep）是为了休息”; slept; slept",
         "english": "sleep",
         "phonetic": "/sliːp/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "说话",
-        "desc": "动词（v.）；记忆技巧：s+peak（山峰），“站在山峰（peak）上说话（speak）”",
+        "desc": "动词（v.）；记忆技巧：s+peak（山峰），“站在山峰（peak）上说话（speak）”; spoke; spoken",
         "english": "speak",
         "phonetic": "/spiːk/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "站立",
-        "desc": "动词（v.）；记忆技巧：s+tan（晒黑）+d，“站立（stand）晒太阳（tan）变黑”",
+        "desc": "动词（v.）；记忆技巧：s+tan（晒黑）+d，“站立（stand）晒太阳（tan）变黑”; stood; stood",
         "english": "stand",
         "phonetic": "/stænd/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "游泳",
-        "desc": "动词（v.）；记忆技巧：s+wim（联想water in motion），“水中运动即游泳（swim）”",
+        "desc": "动词（v.）；记忆技巧：s+wim（联想water in motion），“水中运动即游泳（swim）”; swam; swum",
         "english": "swim",
         "phonetic": "/swɪm/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "拿，取",
-        "desc": "动词（v.）；记忆技巧：t+ake（拿），“拿走（take）ake部分”",
+        "desc": "动词（v.）；记忆技巧：t+ake（拿），“拿走（take）ake部分”; took; taken",
         "english": "take",
         "phonetic": "/teɪk/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "教",
-        "desc": "动词（v.）；记忆技巧：t+each（每个），“教（teach）每个（each）学生”",
+        "desc": "动词（v.）；记忆技巧：t+each（每个），“教（teach）每个（each）学生”; taught; taught",
         "english": "teach",
         "phonetic": "/tiːtʃ/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "打扫",
-        "desc": "动词（v.）；记忆技巧：s+weep（哭泣），“打扫（sweep）灰尘，灰尘哭泣（weep）跑掉”",
+        "desc": "动词（v.）；记忆技巧：s+weep（哭泣），“打扫（sweep）灰尘，灰尘哭泣（weep）跑掉”; swept; swept",
         "english": "sweep",
         "phonetic": "/swiːp/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "思考",
-        "desc": "动词（v.）；记忆技巧：th+ink（墨水），“思考（think）时用墨水（ink）写字”",
+        "desc": "动词（v.）；记忆技巧：th+ink（墨水），“思考（think）时用墨水（ink）写字”; thought; thought",
         "english": "think",
         "phonetic": "/θɪŋk/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "醒来",
-        "desc": "动词（v.）；记忆技巧：w+ake（醒），“醒来（wake）就是ake”",
+        "desc": "动词（v.）；记忆技巧：w+ake（醒），“醒来（wake）就是ake”; woke; woken",
         "english": "wake",
         "phonetic": "/weɪk/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "理解",
-        "desc": "动词（v.）；记忆技巧：under（在...之下）+stand（站立），“站在下面理解上面的事”",
+        "desc": "动词（v.）；记忆技巧：under（在...之下）+stand（站立），“站在下面理解上面的事”; understood; understood",
         "english": "understand",
         "phonetic": "/ˌʌndərˈstænd/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "穿",
-        "desc": "动词（v.）；记忆技巧：谐音“歪耳（wāi'ěr）”，“穿衣服歪了耳朵”",
+        "desc": "动词（v.）；记忆技巧：谐音“歪耳（wāi'ěr）”，“穿衣服歪了耳朵”; wore; worn",
         "english": "wear",
         "phonetic": "/wer/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "将，愿意",
-        "desc": "情态动词（modal v.）；记忆技巧：谐音“为（wèi）”，“愿意为（will）你做某事”",
+        "desc": "情态动词（modal v.）；记忆技巧：谐音“为（wèi）”，“愿意为（will）你做某事”; would; -",
         "english": "will",
         "phonetic": "/wɪl/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "赢",
-        "desc": "动词（v.）；记忆技巧：w+in（在里面），“赢（win）了就在里面（in）庆祝”",
+        "desc": "动词（v.）；记忆技巧：w+in（在里面），“赢（win）了就在里面（in）庆祝”; won; won",
         "english": "win",
         "phonetic": "/wɪn/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
         "chinese": "写",
-        "desc": "动词（v.）；记忆技巧：w不发音，rite（仪式），“写（write）仪式（rite）流程”",
+        "desc": "动词（v.）；记忆技巧：w不发音，rite（仪式），“写（write）仪式（rite）流程”; wrote; written",
         "english": "write",
         "phonetic": "/raɪt/",
         "tag": "junior/grade7a/irregular-verbs/51-73"
