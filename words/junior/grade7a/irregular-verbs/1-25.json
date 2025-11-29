@@ -1,1 +1,224 @@
-[{"chinese": "吹", "desc": "动词，发音似“不漏”，吹气时不漏气", "english": "blow", "phonetic": "/bloʊ/"}, {"chinese": "是", "desc": "动词，原形，意为“是”，基础系动词", "english": "be", "phonetic": "/biː/"}, {"chinese": "熊", "desc": "名词，熊（bear）有毛发（hair），联想记忆", "english": "bear", "phonetic": "/beər/"}, {"chinese": "变成", "desc": "动词，be（是）+come（来），“是”某物“来”变成", "english": "become", "phonetic": "/bɪˈkʌm/"}, {"chinese": "开始", "desc": "动词，be（是）+gin（开始），“是”时候开始了", "english": "begin", "phonetic": "/bɪˈɡɪn/"}, {"chinese": "打破", "desc": "动词，b+reak（休息），打破（break）休息时间", "english": "break", "phonetic": "/breɪk/"}, {"chinese": "带来", "desc": "动词，b+ring（铃），带来（bring）铃铛声", "english": "bring", "phonetic": "/brɪŋ/"}, {"chinese": "知道", "desc": "动词，k不发音，now（现在）知道（know）答案", "english": "know", "phonetic": "/noʊ/"}, {"chinese": "做", "desc": "动词，“做”（do）事情，基础行为动词", "english": "do", "phonetic": "/duː/"}, {"chinese": "买", "desc": "动词，买（buy）东西通过（by）钱", "english": "buy", "phonetic": "/baɪ/"}, {"chinese": "抓住", "desc": "动词，cat（猫）抓住（catch）老鼠", "english": "catch", "phonetic": "/kætʃ/"}, {"chinese": "选择", "desc": "动词，ch+oose，发音似“处子”，选择（choose）人选", "english": "choose", "phonetic": "/tʃuːz/"}, {"chinese": "切", "desc": "动词，“cut”（切）发音短促，像切割动作", "english": "cut", "phonetic": "/kʌt/"}, {"chinese": "得到", "desc": "动词，“get”（得到）与“给它”谐音，得到某物", "english": "get", "phonetic": "/ɡet/"}, {"chinese": "来", "desc": "动词，“come”（来）与“卡姆”谐音，过来这里", "english": "come", "phonetic": "/kʌm/"}, {"chinese": "能", "desc": "情态动词，“能”（can）做某事，表能力", "english": "can", "phonetic": "/kæn/"}, {"chinese": "喝", "desc": "动词，drink（喝）水（water），日常动作", "english": "drink", "phonetic": "/drɪŋk/"}, {"chinese": "落下", "desc": "动词，秋天（fall）叶子落下（fall）", "english": "fall", "phonetic": "/fɔːl/"}, {"chinese": "感觉", "desc": "动词，“feel”（感觉）与“非尔”谐音，感受情绪", "english": "feel", "phonetic": "/fiːl/"}, {"chinese": "找到", "desc": "动词，find（找到）+in（在），在里面找到", "english": "find", "phonetic": "/faɪnd/"}, {"chinese": "驾驶", "desc": "动词(v.)；联想“驾驶”动作，发音与“拽吾”谐音，拽着方向盘驾驶", "english": "drive", "phonetic": "/draɪv/"}, {"chinese": "飞", "desc": "动词(v.)；联想“飞”的动作，发音类似“弗莱”，弗莱（Fly）会飞", "english": "fly", "phonetic": "/flaɪ/"}, {"chinese": "吃", "desc": "动词(v.)；简单动词，发音与“亿特”，联想吃了很多（亿特）食物", "english": "eat", "phonetic": "/iːt/"}, {"chinese": "想", "desc": "动词(v.)；联想“思考(think)用脑子”，注意θ开头需咬舌发音", "english": "think", "phonetic": "/θɪŋk/"}, {"chinese": "拿", "desc": "动词(v.)；联想“拿东西用手”，发音与“忒克”，忒快地拿取", "english": "take", "phonetic": "/teɪk/"}, {"chinese": "有", "desc": "动词(v.)；常见动词，联想“拥有某物”，发音简单易记", "english": "have", "phonetic": "/hæv/"}, {"chinese": "游泳", "desc": "动词(v.)；联想游泳动作，s开头像水波，wim与“游”拼音首字母呼应", "english": "swim", "phonetic": "/swɪm/"}, {"chinese": "写", "desc": "动词(v.)；联想“写字用右手(right)”，注意与right的拼写区别", "english": "write", "phonetic": "/raɪt/"}, {"chinese": "去", "desc": "动词(v.)；最简单动词之一，发音与“够”，联想去够东西的动作", "english": "go", "phonetic": "/ɡoʊ/"}, {"chinese": "看见", "desc": "动词(v.)；联想“看见用眼睛”，发音与“西”，向西看即看见", "english": "see", "phonetic": "/siː/"}, {"chinese": "燃烧", "desc": "动词(v.)；联想“燃烧生火”，发音b开头，urn部分与“燃”音近", "english": "burn", "phonetic": "/bɜːrn/"}, {"chinese": "离开", "desc": "动词(v.)；联想“离开时挥手”，发音与“利武”，利落地离开", "english": "leave", "phonetic": "/liːv/"}, {"chinese": "制作", "desc": "动词(v.)；联想“制作需动手”，发音与“妹克”，妹妹动手制作", "english": "make", "phonetic": "/meɪk/"}, {"chinese": "建造", "desc": "动词(v.)；联想“建造房子像搭积木”，与“block”形似记忆", "english": "build", "phonetic": "/bɪld/"}, {"chinese": "画", "desc": "动词(v.)；联想“画画用捉笔”，发音与“捉”，捉笔绘画", "english": "draw", "phonetic": "/drɔː/"}, {"chinese": "梦想", "desc": "动词(v.)/名词(n.)；联想“梦想像梦一样”，发音与“追母”，追逐梦想", "english": "dream", "phonetic": "/driːm/"}, {"chinese": "遇见", "desc": "动词(v.)；联想“遇见朋友”，发音与“密特”，秘密地遇见", "english": "meet", "phonetic": "/miːt/"}]
+[
+    {
+        "chinese": "吹",
+        "desc": "动词，发音似“不漏”，吹气时不漏气; blew; blown",
+        "english": "blow",
+        "phonetic": "/bloʊ/"
+    },
+    {
+        "chinese": "是",
+        "desc": "动词，原形，意为“是”，基础系动词；was,were; been",
+        "english": "be",
+        "phonetic": "/biː/"
+    },
+    {
+        "chinese": "v. 拥有，承受，忍受；bore; born/borne",
+        "desc": "",
+        "english": "bear",
+        "phonetic": "/beər/"
+    },
+    {
+        "chinese": "变成",
+        "desc": "动词，be（是）+come（来），“是”某物“来”变成；became; become",
+        "english": "become",
+        "phonetic": "/bɪˈkʌm/"
+    },
+    {
+        "chinese": "开始",
+        "desc": "动词，be（是）+gin（开始），“是”时候开始了; began; begun",
+        "english": "begin",
+        "phonetic": "/bɪˈɡɪn/"
+    },
+    {
+        "chinese": "打破",
+        "desc": "动词，b+reak（休息），打破（break）休息时间; broke; broken",
+        "english": "break",
+        "phonetic": "/breɪk/"
+    },
+    {
+        "chinese": "带来",
+        "desc": "动词，b+ring（铃），带来（bring）铃铛声; brought; brought",
+        "english": "bring",
+        "phonetic": "/brɪŋ/"
+    },
+    {
+        "chinese": "知道",
+        "desc": "动词，k不发音，now（现在）知道（know）答案; knew; known",
+        "english": "know",
+        "phonetic": "/noʊ/"
+    },
+    {
+        "chinese": "做",
+        "desc": "动词，“做”（do）事情，基础行为动词; did; done",
+        "english": "do",
+        "phonetic": "/duː/"
+    },
+    {
+        "chinese": "买",
+        "desc": "动词，买（buy）东西通过（by）钱; bought; bought",
+        "english": "buy",
+        "phonetic": "/baɪ/"
+    },
+    {
+        "chinese": "抓住",
+        "desc": "动词，cat（猫）抓住（catch）老鼠; caught; caught",
+        "english": "catch",
+        "phonetic": "/kætʃ/"
+    },
+    {
+        "chinese": "选择",
+        "desc": "动词，ch+oose，发音似“处子”，选择（choose）人选; chose; chosen",
+        "english": "choose",
+        "phonetic": "/tʃuːz/"
+    },
+    {
+        "chinese": "切",
+        "desc": "动词，“cut”（切）发音短促，像切割动作; cut; cut",
+        "english": "cut",
+        "phonetic": "/kʌt/"
+    },
+    {
+        "chinese": "得到",
+        "desc": "动词，“get”（得到）与“给它”谐音，得到某物; got; got/gotten",
+        "english": "get",
+        "phonetic": "/ɡet/"
+    },
+    {
+        "chinese": "来",
+        "desc": "动词，“come”（来）与“卡姆”谐音，过来这里; came; come",
+        "english": "come",
+        "phonetic": "/kʌm/"
+    },
+    {
+        "chinese": "能",
+        "desc": "情态动词，“能”（can）做某事，表能力; could; -",
+        "english": "can",
+        "phonetic": "/kæn/"
+    },
+    {
+        "chinese": "喝",
+        "desc": "动词，drink（喝）水（water），日常动作; drank; drunk",
+        "english": "drink",
+        "phonetic": "/drɪŋk/"
+    },
+    {
+        "chinese": "落下",
+        "desc": "动词，秋天（fall）叶子落下（fall）; fell; fallen",
+        "english": "fall",
+        "phonetic": "/fɔːl/"
+    },
+    {
+        "chinese": "感觉",
+        "desc": "动词，“feel”（感觉）与“非尔”谐音，感受情绪; felt; felt",
+        "english": "feel",
+        "phonetic": "/fiːl/"
+    },
+    {
+        "chinese": "找到",
+        "desc": "动词，find（找到）+in（在），在里面找到; found; found",
+        "english": "find",
+        "phonetic": "/faɪnd/"
+    },
+    {
+        "chinese": "驾驶",
+        "desc": "动词(v.)；联想“驾驶”动作，发音与“拽吾”谐音，拽着方向盘驾驶; drove; driven",
+        "english": "drive",
+        "phonetic": "/draɪv/"
+    },
+    {
+        "chinese": "飞",
+        "desc": "动词(v.)；联想“飞”的动作，发音类似“弗莱”，弗莱（Fly）会飞; flew; flown",
+        "english": "fly",
+        "phonetic": "/flaɪ/"
+    },
+    {
+        "chinese": "吃",
+        "desc": "动词(v.)；简单动词，发音与“亿特”，联想吃了很多（亿特）食物; ate; eaten",
+        "english": "eat",
+        "phonetic": "/iːt/"
+    },
+    {
+        "chinese": "想",
+        "desc": "动词(v.)；联想“思考(think)用脑子”，注意θ开头需咬舌发音; thought; thought",
+        "english": "think",
+        "phonetic": "/θɪŋk/"
+    },
+    {
+        "chinese": "拿",
+        "desc": "动词(v.)；联想“拿东西用手”，发音与“忒克”，忒快地拿取; took; taken",
+        "english": "take",
+        "phonetic": "/teɪk/"
+    },
+    {
+        "chinese": "有",
+        "desc": "动词(v.)；常见动词，联想“拥有某物”，发音简单易记; had; had",
+        "english": "have",
+        "phonetic": "/hæv/"
+    },
+    {
+        "chinese": "游泳",
+        "desc": "动词(v.)；联想游泳动作，s开头像水波，wim与“游”拼音首字母呼应; swam; swum",
+        "english": "swim",
+        "phonetic": "/swɪm/"
+    },
+    {
+        "chinese": "写",
+        "desc": "动词(v.)；联想“写字用右手(right)”，注意与right的拼写区别; wrote; written",
+        "english": "write",
+        "phonetic": "/raɪt/"
+    },
+    {
+        "chinese": "去",
+        "desc": "动词(v.)；最简单动词之一，发音与“够”，联想去够东西的动作; went; gone",
+        "english": "go",
+        "phonetic": "/ɡoʊ/"
+    },
+    {
+        "chinese": "看见",
+        "desc": "动词(v.)；联想“看见用眼睛”，发音与“西”，向西看即看见; saw; seen",
+        "english": "see",
+        "phonetic": "/siː/"
+    },
+    {
+        "chinese": "燃烧",
+        "desc": "动词(v.)；联想“燃烧生火”，发音b开头，urn部分与“燃”音近; burnt/burned; burnt/burned",
+        "english": "burn",
+        "phonetic": "/bɜːrn/"
+    },
+    {
+        "chinese": "离开",
+        "desc": "动词(v.)；联想“离开时挥手”，发音与“利武”，利落地离开; left; left",
+        "english": "leave",
+        "phonetic": "/liːv/"
+    },
+    {
+        "chinese": "制作",
+        "desc": "动词(v.)；联想“制作需动手”，发音与“妹克”，妹妹动手制作; made; made",
+        "english": "make",
+        "phonetic": "/meɪk/"
+    },
+    {
+        "chinese": "建造",
+        "desc": "动词(v.)；联想“建造房子像搭积木”，与“block”形似记忆; built; built",
+        "english": "build",
+        "phonetic": "/bɪld/"
+    },
+    {
+        "chinese": "画",
+        "desc": "动词(v.)；联想“画画用捉笔”，发音与“捉”，捉笔绘画; drew; drawn",
+        "english": "draw",
+        "phonetic": "/drɔː/"
+    },
+    {
+        "chinese": "梦想",
+        "desc": "动词(v.)/名词(n.)；联想“梦想像梦一样”，发音与“追母”，追逐梦想; dreamt/dreamed; dreamt/dreamed",
+        "english": "dream",
+        "phonetic": "/driːm/"
+    },
+    {
+        "chinese": "遇见",
+        "desc": "动词(v.)；联想“遇见朋友”，发音与“密特”，秘密地遇见; met; met",
+        "english": "meet",
+        "phonetic": "/miːt/"
+    }
+]
