@@ -4760,6 +4760,265 @@ var words = [
         "tag": "A2/57-58"
     },
     {
+        "chinese": "治疗；疗法",
+        "desc": "n. 治疗；疗法。记忆技巧：词根therap-表示治疗，后缀-y构成名词。",
+        "english": "therapy",
+        "phonetic": "/ˈθerəpi/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "同意",
+        "desc": "动词短语，意为同意某人或某事。",
+        "english": "agree with",
+        "phonetic": "",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "愚蠢的；傻的",
+        "desc": "adj. 愚蠢的；傻的。记忆技巧：后缀-y形容词，联想“silly mistake”（愚蠢的错误）。",
+        "english": "silly",
+        "phonetic": "/ˈsɪli/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "原谅；宽恕",
+        "desc": "v. 原谅；宽恕。记忆技巧：for + give，联想短语forgive and forget（原谅并忘记）。",
+        "english": "forgive",
+        "phonetic": "/fərˈɡɪv/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "完美的；极好的",
+        "desc": "adj. 完美的；极好的。记忆技巧：per-（完全）+ fect（做），意为“完全做好的”。",
+        "english": "perfect",
+        "phonetic": "/ˈpɜːrfɪkt/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "期待；期望",
+        "desc": "v. 期待；期望。记忆技巧：ex-（向外）+ pect（看），联想“向外看以期待”。",
+        "english": "expect",
+        "phonetic": "/ɪkˈspekt/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "消息；信息",
+        "desc": "n. 消息；信息。记忆技巧：联想“text message”（短信），后缀-age名词化。",
+        "english": "message",
+        "phonetic": "/ˈmesɪdʒ/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "决定；下决心",
+        "desc": "v. 决定；下决心。记忆技巧：de-（向下）+ cide（切），意为“切断其他选择而下定决心”。",
+        "english": "decide",
+        "phonetic": "/dɪˈsaɪd/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "道歉",
+        "desc": "v. 道歉。记忆技巧：apo-（离开）+ log（说话）+ -ise（动词后缀），意为“说出抱歉以弥补”。",
+        "english": "apologise",
+        "phonetic": "/əˈpɑːlədʒaɪz/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "双重所有格",
+        "desc": "名词词组，表示双重所有格结构。",
+        "english": "double genitive",
+        "phonetic": "",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "想象；设想",
+        "desc": "v. 想象；设想。记忆技巧：im-（进入）+ agine（图像），意为“在心中形成图像”。",
+        "english": "imagine",
+        "phonetic": "/ɪˈmædʒɪn/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "心烦的；使不安",
+        "desc": "adj./v. 心烦的；使不安。记忆技巧：up + set，“使放置不当”即引起不安。",
+        "english": "upset",
+        "phonetic": "/ʌpˈset/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "争论；论点",
+        "desc": "n. 争论；论点。记忆技巧：动词argue（争论）+名词后缀-ment构成。",
+        "english": "argument",
+        "phonetic": "/ˈɑːrɡjumənt/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "哭；哭泣",
+        "desc": "v./n. 哭；哭泣。记忆技巧：拟声词，联想“cry for help”（呼救）。",
+        "english": "cry",
+        "phonetic": "/kraɪ/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "每个；各自",
+        "desc": "adj./pron. 每个；各自。记忆技巧：常用搭配each other，强调个体。",
+        "english": "each",
+        "phonetic": "/iːtʃ/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "立即；马上",
+        "desc": "adv. 立即；马上。记忆技巧：形容词immediate（立即的）+副词后缀-ly构成。",
+        "english": "immediately",
+        "phonetic": "/ɪˈmiːdiətli/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "语言",
+        "desc": "n. 语言。记忆技巧：联想“mother language”（母语），后缀-uage名词化。",
+        "english": "language",
+        "phonetic": "/ˈlæŋɡwɪdʒ/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "变成；成为",
+        "desc": "v. 变成；成为。记忆技巧：be + come，意为“开始成为”，不规则动词。",
+        "english": "become",
+        "phonetic": "/bɪˈkʌm/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "实际上；事实上",
+        "desc": "adv. 实际上；事实上。记忆技巧：形容词actual（实际的）+副词后缀-ly构成。",
+        "english": "actually",
+        "phonetic": "/ˈæktʃuəli/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "建议；提议",
+        "desc": "n. 建议；提议。记忆技巧：动词suggest（建议）+名词后缀-ion构成。",
+        "english": "suggestion",
+        "phonetic": "/səˈdʒestʃən/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "午夜；子夜",
+        "desc": "n. 记忆技巧：mid（中间）+night（夜晚）→午夜",
+        "english": "midnight",
+        "phonetic": "/ˈmɪdnaɪt/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "嫉妒的；妒忌的",
+        "desc": "adj. 记忆技巧：发音联想“杰勒斯”，形容嫉妒的状态",
+        "english": "jealous",
+        "phonetic": "/ˈdʒeləs/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "有帮助的；有益的",
+        "desc": "adj. 记忆技巧：help（帮助）+ful（形容词后缀）→有帮助的",
+        "english": "helpful",
+        "phonetic": "/ˈhelpfl/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "自信的；有信心的",
+        "desc": "adj. 记忆技巧：con（加强）+fid（信任）+ent→自信的",
+        "english": "confident",
+        "phonetic": "/ˈkɑːnfɪdənt/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "公开地；当众",
+        "desc": "固定词组，指在公共场合",
+        "english": "in public",
+        "phonetic": "",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "有趣的；滑稽的",
+        "desc": "adj. 记忆技巧：fun（乐趣）+ny→有趣的，滑稽的",
+        "english": "funny",
+        "phonetic": "/ˈfʌni/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "随和的；容易相处的",
+        "desc": "adj. 记忆技巧：easy（随和的）+going（行为）→随和的，容易相处的",
+        "english": "easy-going",
+        "phonetic": "/ˌiːziˈɡoʊɪŋ/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "慷慨的；大方的",
+        "desc": "adj. 记忆技巧：gen（产生）+erous（形容词后缀）→慷慨的",
+        "english": "generous",
+        "phonetic": "/ˈdʒenərəs/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "终身；一辈子",
+        "desc": "固定词组，指一生；终身",
+        "english": "for life",
+        "phonetic": "",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "邀请",
+        "desc": "v. 记忆技巧：in（向内）+vite（召唤）→邀请",
+        "english": "invite",
+        "phonetic": "/ɪnˈvaɪt/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "蜘蛛",
+        "desc": "n. 记忆技巧：spi（发音联想）+der→蜘蛛",
+        "english": "spider",
+        "phonetic": "/ˈspaɪdər/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "图表；图解",
+        "desc": "n. 记忆技巧：dia（穿过）+gram（书写）→图表，图解",
+        "english": "diagram",
+        "phonetic": "/ˈdaɪəɡræm/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "完成；完整的",
+        "desc": "v./adj. 记忆技巧：com（完全）+plete（填满）→完成；完整的",
+        "english": "complete",
+        "phonetic": "/kəmˈpliːt/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "现在的；礼物",
+        "desc": "adj./n. 记忆技巧：pre（预先）+sent（送）→现在的；礼物",
+        "english": "present",
+        "phonetic": "/ˈpreznt/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "一旦；曾经；一次",
+        "desc": "adv./conj./n. 记忆技巧：on（在）+ce→一次；曾经；一旦",
+        "english": "once",
+        "phonetic": "/wʌns/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "聪明的；有才智的",
+        "desc": "adj. 记忆技巧：intel（智力）+ligent（选择）→聪明的，有才智的",
+        "english": "intelligent",
+        "phonetic": "/ɪnˈtelɪdʒənt/",
+        "tag": "A2/59-60"
+    },
+    {
+        "chinese": "快乐的；愉快的",
+        "desc": "adj. 记忆技巧：cheer（欢呼）+ful（充满）→快乐的，愉快的",
+        "english": "cheerful",
+        "phonetic": "/ˈtʃɪrfl/",
+        "tag": "A2/59-60"
+    },
+    {
         "chinese": "墨西哥",
         "desc": "联想记忆：Me（我）+xi（西）+co（可），我去西可（类似音译）的地方就是墨西哥。",
         "english": "Mexico",
@@ -31077,6 +31336,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/57-58';
             option.textContent = 'A2/57-58';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/59-60';
+            option.textContent = 'A2/59-60';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/lesson1';
             option.textContent = 'A2/0/lesson1';
