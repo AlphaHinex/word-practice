@@ -11200,6 +11200,321 @@ var words = [
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
+        "chinese": "聪明地;明智地",
+        "desc": "副词。记忆技巧：wise（明智的）+ly（副词后缀）构成，表方式",
+        "english": "wisely",
+        "phonetic": "/ˈwaɪzli/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "建议",
+        "desc": "名词。记忆技巧：ad-加强语气 + vice（代替），表示“给出替代方案”即建议",
+        "english": "advice",
+        "phonetic": "/ədˈvaɪs/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "比赛;竞赛",
+        "desc": "名词。记忆技巧：com-共同 + pet（追求）+ ition（名词后缀），共同追求目标的活动",
+        "english": "competition",
+        "phonetic": "/ˌkɑːmpəˈtɪʃn/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "鼓励;激励",
+        "desc": "动词。记忆技巧：en-使 + courage（勇气），使拥有勇气即鼓励",
+        "english": "encourage",
+        "phonetic": "/ɪnˈkɜːrɪdʒ/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "淋浴",
+        "desc": "名词/动词。记忆技巧：联想“show（展示）+er”，展示水流的装置",
+        "english": "shower",
+        "phonetic": "/ˈʃaʊər/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "(令)退职;(使)退休",
+        "desc": "动词。记忆技巧：re-回 + tire（疲劳），因疲劳回到家中休息即退休",
+        "english": "retire",
+        "phonetic": "/rɪˈtaɪər/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "在线的",
+        "desc": "形容词/副词。记忆技巧：on（在…上）+ line（线），在网络线上即在线",
+        "english": "online",
+        "phonetic": "/ˌɑːnˈlaɪn/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "建筑工地",
+        "desc": "名词。记忆技巧：发音与“site（地点）”一致，指施工的地点",
+        "english": "site",
+        "phonetic": "/saɪt/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "快乐的;高兴的",
+        "desc": "形容词。记忆技巧：cheer（欢呼）+ ful（充满…的），充满欢呼的状态",
+        "english": "cheerful",
+        "phonetic": "/ˈtʃɪrfl/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "狭窄的;窄小的",
+        "desc": "形容词。记忆技巧：联想“arrow（箭）”，箭的形状是窄长的",
+        "english": "narrow",
+        "phonetic": "/ˈnæroʊ/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "社区",
+        "desc": "名词。记忆技巧：com-共同 + muni（服务）+ ty，共同服务的群体",
+        "english": "community",
+        "phonetic": "/kəˈmjuːnəti/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "超人",
+        "desc": "名词。记忆技巧：super（超级）+ man（人），超级强大的人",
+        "english": "superman",
+        "phonetic": "/ˈsuːpərmæn/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "医学的;医疗的",
+        "desc": "形容词。记忆技巧：medic（医学）+ al（形容词后缀），与医学相关的",
+        "english": "medical",
+        "phonetic": "/ˈmedɪkl/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "认输;放弃",
+        "desc": "动词短语。记忆技巧：give（给予）+ up（向上），把机会向上推即放弃",
+        "english": "give up",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "油炸的;油煎的;油炒的",
+        "desc": "形容词。记忆技巧：fry（油炸）的过去分词形式，表被动完成状态",
+        "english": "fried",
+        "phonetic": "/fraɪd/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "曾经",
+        "desc": "情态动词短语。记忆技巧：used（过去的）+ to，表过去常常做某事",
+        "english": "used to",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "在未来",
+        "desc": "介词短语。记忆技巧：in（在…里）+ the future（未来），表示时间范围",
+        "english": "in the future",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "各处;处处",
+        "desc": "副词。记忆技巧：where（哪里）+ ever（无论），无论哪里即各处",
+        "english": "wherever",
+        "phonetic": "/werˈevər/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "对……要求严格",
+        "desc": "动词短语。记忆技巧：be strict（严格的）+ about（关于），对某事保持严格态度",
+        "english": "be strict about",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "担心",
+        "desc": "动词短语。记忆技巧：be worried（担忧的）+ about（关于），对某事感到担忧",
+        "english": "be worried about",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "将来;未来",
+        "desc": "记忆技巧：词根“futur-”表示“未来”，如future（未来）；词性：名词",
+        "english": "future",
+        "phonetic": "/ˈfjuːtʃər/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "很快;马上;不久",
+        "desc": "记忆技巧：发音联想“速恩”，快速的恩典→很快；词性：副词",
+        "english": "soon",
+        "phonetic": "/suːn/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "聪明的;机敏的",
+        "desc": "记忆技巧：“s-mart”联想“market（市场）里聪明的人”；词性：形容词",
+        "english": "smart",
+        "phonetic": "/smɑːrt/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "葡萄酒",
+        "desc": "记忆技巧：“w+ine”，ine结尾常与液体相关；词性：名词",
+        "english": "wine",
+        "phonetic": "/waɪn/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "专心;注意力",
+        "desc": "记忆技巧：“at（在）+ten（十）+tion”→在十个地方注意→注意力；词性：名词",
+        "english": "attention",
+        "phonetic": "/əˈtenʃn/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "配对",
+        "desc": "记忆技巧：“mat（垫子）+ch”→垫子上的配对；词性：动词/名词",
+        "english": "match",
+        "phonetic": "/mætʃ/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "不常;很少;难得",
+        "desc": "记忆技巧：“seld（稀少）+om”→不常；词性：副词",
+        "english": "seldom",
+        "phonetic": "/ˈseldəm/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "丰富多彩的",
+        "desc": "记忆技巧：发音联想“瑞奇”，富有的瑞奇→丰富的；词性：形容词",
+        "english": "rich",
+        "phonetic": "/rɪtʃ/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "位于;坐落在",
+        "desc": "记忆技巧：“lie”有“躺”的意思，东西躺在哪里→位于；词性：动词",
+        "english": "lie",
+        "phonetic": "/laɪ/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "咖啡馆;小餐馆",
+        "desc": "记忆技巧：发音直接对应“咖啡馆”；词性：名词",
+        "english": "cafe",
+        "phonetic": "/kæˈfeɪ/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "(对某人/事物)厌倦的;烦闷的",
+        "desc": "记忆技巧：“bore（使厌烦）+ed”→感到厌烦的；词性：形容词",
+        "english": "bored",
+        "phonetic": "/bɔːrd/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "优秀的;极好的",
+        "desc": "记忆技巧：“ex（出）+cell（细胞）+ent”→超出细胞的→优秀的；词性：形容词",
+        "english": "excellent",
+        "phonetic": "/ˈeksələnt/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "要求严格的;严厉的",
+        "desc": "记忆技巧：“str（拉紧）+ict”→拉紧的→严格的；词性：形容词",
+        "english": "strict",
+        "phonetic": "/strɪkt/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "海岸;海滨",
+        "desc": "记忆技巧：联想“coat（外套）”，海岸像大地的外套；词性：名词",
+        "english": "coast",
+        "phonetic": "/koʊst/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "亲戚;亲属",
+        "desc": "记忆技巧：“relate（联系）+ive”→有联系的人→亲戚；词性：名词",
+        "english": "relative",
+        "phonetic": "/ˈrelətɪv/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "正合适",
+        "desc": "记忆技巧：“per（完全）+fect（做）”→完全做好的→完美的；词性：形容词",
+        "english": "perfect",
+        "phonetic": "/ˈpɜːrfɪkt/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "制服;校服",
+        "desc": "记忆技巧：“uni（统一）+form（形式）”→统一的形式→制服；词性：名词",
+        "english": "uniform",
+        "phonetic": "/ˈjuːnɪfɔːrm/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "主要地;通常",
+        "desc": "记忆技巧：“most（最多）+ly”→最多地→主要地；词性：副词",
+        "english": "mostly",
+        "phonetic": "/ˈmoʊstli/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "接待;招待",
+        "desc": "记忆技巧：“re（再）+ceive（拿）”→再拿进来→接待；词性：动词",
+        "english": "receive",
+        "phonetic": "/rɪˈsiːv/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "主要的;关键的",
+        "desc": "记忆技巧：“钥匙（key）是关键的”；词性：形容词/名词",
+        "english": "key",
+        "phonetic": "/kiː/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "仍然是;保持不变",
+        "desc": "v. 记忆技巧：re-（再次）+ main（主要的）→ 再次成为主要的→仍然是",
+        "english": "remain",
+        "phonetic": "/rɪˈmeɪn/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "话题;标题",
+        "desc": "n. 记忆技巧：top（顶部）+ ic（名词后缀）→ 放在顶部的内容→话题",
+        "english": "topic",
+        "phonetic": "/ˈtɑːpɪk/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "台阶",
+        "desc": "n. 记忆技巧：联想‘脚步（step）踩在台阶上’",
+        "english": "step",
+        "phonetic": "/step/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "忙碌的;活跃的",
+        "desc": "adj. 记忆技巧：act（行动）+ ive（形容词后缀）→ 有行动的→活跃的",
+        "english": "active",
+        "phonetic": "/ˈæktɪv/",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
+        "chinese": "智能手机",
+        "desc": "",
+        "english": "smartphone",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -31641,6 +31956,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7a/irregular-verbs/51-73';
             option.textContent = 'junior/grade7a/irregular-verbs/51-73';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit1';
+            option.textContent = 'junior/grade7b/unit1';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
