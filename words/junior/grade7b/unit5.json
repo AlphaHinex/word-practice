@@ -1,0 +1,116 @@
+[
+    {
+        "chinese": "每天的;日常的",
+        "desc": "词性：形容词(adj.)。记忆技巧：every（每个）+day（天），每天的日常。",
+        "english": "everyday",
+        "phonetic": "/ˈevrideɪ/"
+    },
+    {
+        "chinese": "类型;种类",
+        "desc": "词性：名词(n.)/动词(v.)。记忆技巧：“形式”的音译，表类型或形成。",
+        "english": "form",
+        "phonetic": "/fɔːrm/"
+    },
+    {
+        "chinese": "(尤指长途)旅行",
+        "desc": "词性：名词(n.)。记忆技巧：journ-日，每日行程即长途旅行。",
+        "english": "journey",
+        "phonetic": "/ˈdʒɜːrni/"
+    },
+    {
+        "chinese": "滴;水珠",
+        "desc": "词性：名词(n.)/动词(v.)。记忆技巧：“掉”的音译，水滴掉落。",
+        "english": "drop",
+        "phonetic": "/drɑːp/"
+    },
+    {
+        "chinese": "水龙头",
+        "desc": "词性：名词(n.)。记忆技巧：“踏”音，踏开水龙头出水。",
+        "english": "tap",
+        "phonetic": "/tæp/"
+    },
+    {
+        "chinese": "说话声",
+        "desc": "词性：名词(n.)。记忆技巧：“ voice”音似“我嘶”，我的嘶喊声。",
+        "english": "voice",
+        "phonetic": "/vɔɪs/"
+    },
+    {
+        "chinese": "最后;终于",
+        "desc": "词性：副词(adv.)。记忆技巧：event（事件）+ually，事件最终发展结果。",
+        "english": "eventually",
+        "phonetic": "/ɪˈventʃuəli/"
+    },
+    {
+        "chinese": "管子;管道",
+        "desc": "词性：名词(n.)。记忆技巧：“派普”音译，输送流体的管道。",
+        "english": "pipe",
+        "phonetic": "/paɪp/"
+    },
+    {
+        "chinese": "回去;返回",
+        "desc": "词性：动词(v.)。记忆技巧：re-再，turn（转），转回来即返回。",
+        "english": "return",
+        "phonetic": "/rɪˈtɜːrn/"
+    },
+    {
+        "chinese": "迅速移动",
+        "desc": "v. 动词；记忆技巧：r（跑）+ ush（类似push推，快速推即rush）",
+        "english": "rush",
+        "phonetic": "/rʌʃ/"
+    },
+    {
+        "chinese": "洗澡;洗浴",
+        "desc": "n. 名词；记忆技巧：b（洗）+ ath（联想path路径，洗澡的路径）",
+        "english": "bath",
+        "phonetic": "/bæθ/"
+    },
+    {
+        "chinese": "含盐的;咸的",
+        "desc": "adj. 形容词；记忆技巧：s（盐）+ alt（直接记忆拼写，盐是咸的）",
+        "english": "salt",
+        "phonetic": "/sɔːlt/"
+    },
+    {
+        "chinese": "脑",
+        "desc": "n. 名词；记忆技巧：b（脑）+ rain（雨，脑像下雨一样思考）",
+        "english": "brain",
+        "phonetic": "/breɪn/"
+    },
+    {
+        "chinese": "修理",
+        "desc": "v. 动词；记忆技巧：f（修理）+ ix（联想mix混合，修理需要混合零件）",
+        "english": "fix",
+        "phonetic": "/fɪks/"
+    },
+    {
+        "chinese": "公共的;公开的",
+        "desc": "adj. 形容词；记忆技巧：pub（酒吧）+ lic（许可，酒吧是公共许可场所）",
+        "english": "public",
+        "phonetic": "/ˈpʌblɪk/"
+    },
+    {
+        "chinese": "人口",
+        "desc": "n. 名词；记忆技巧：popul（人民）+ ation（名词后缀，人民的数量即人口）",
+        "english": "population",
+        "phonetic": "/ˌpɑːpjuˈleɪʃn/"
+    },
+    {
+        "chinese": "农业",
+        "desc": "n. 名词；记忆技巧：agri（田地）+ culture（文化，田地的文化即农业）",
+        "english": "agriculture",
+        "phonetic": "/ˈæɡrɪkʌltʃər/"
+    },
+    {
+        "chinese": "贸易；买卖",
+        "desc": "n. 名词",
+        "english": "trade",
+        "phonetic": ""
+    },
+    {
+        "chinese": "工业;生产制造",
+        "desc": "n. 名词；记忆技巧：indu（在里面）+ stry（工厂，里面工作的工厂即工业）",
+        "english": "industry",
+        "phonetic": "/ˈɪndəstri/"
+    }
+]

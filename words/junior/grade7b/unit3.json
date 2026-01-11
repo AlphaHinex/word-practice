@@ -166,5 +166,53 @@
         "desc": "词组",
         "english": "to begin with",
         "phonetic": ""
+    },
+    {
+        "chinese": "来自",
+        "desc": "动词词组，由come（来）和from（从）组成，表示来源",
+        "english": "come from",
+        "phonetic": ""
+    },
+    {
+        "chinese": "环视;环顾;四下察看",
+        "desc": "动词词组，look（看）+around（周围）→环顾四周",
+        "english": "look around",
+        "phonetic": ""
+    },
+    {
+        "chinese": "由……制成",
+        "desc": "动词词组，be+made（制造的过去分词）+of（由）→表示由某种材料制成",
+        "english": "be made of",
+        "phonetic": ""
+    },
+    {
+        "chinese": "例如;譬如",
+        "desc": "介词词组，for（为了）+example（例子）→用于举例说明",
+        "english": "for example",
+        "phonetic": ""
+    },
+    {
+        "chinese": "与……沟通",
+        "desc": "动词词组，communicate（沟通）+with（和）→与某人交流",
+        "english": "communicate with",
+        "phonetic": ""
+    },
+    {
+        "chinese": "号召；动员；要求",
+        "desc": "",
+        "english": "call on",
+        "phonetic": ""
+    },
+    {
+        "chinese": "据(……说);按(……所报道)",
+        "desc": "介词词组，according（根据）+to（到）→依据某信息来源",
+        "english": "according to",
+        "phonetic": ""
+    },
+    {
+        "chinese": "偶然;意外地",
+        "desc": "介词词组，by（通过）+accident（意外）→意外发生地",
+        "english": "by accident",
+        "phonetic": ""
     }
 ]
