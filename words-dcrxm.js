@@ -12362,6 +12362,13 @@ var words = [
         "tag": "junior/grade7b/unit5"
     },
     {
+        "chinese": "角色",
+        "desc": "n. 角色；记忆技巧：联想“role”在戏剧中代表特定角色",
+        "english": "role",
+        "phonetic": "/roʊl/",
+        "tag": "junior/grade7b/unit5"
+    },
+    {
         "chinese": "工业;生产制造",
         "desc": "n. 名词；记忆技巧：indu（在里面）+ stry（工厂，里面工作的工厂即工业）",
         "english": "industry",
@@ -12369,417 +12376,410 @@ var words = [
         "tag": "junior/grade7b/unit5"
     },
     {
-        "chinese": "角色",
-        "desc": "n. 角色；记忆技巧：联想“role”在戏剧中代表特定角色",
-        "english": "role",
-        "phonetic": "/roʊl/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "速度;速率",
-        "desc": "n. 速度；速率；v. 加速；记忆技巧：“s+peed”快速发音联想速度感",
-        "english": "speed",
-        "phonetic": "/spiːd/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
         "chinese": "商品;货品",
         "desc": "n. 商品；货品（复数）；记忆技巧：“goods”常以复数形式表示各类商品",
         "english": "goods",
         "phonetic": "/ɡʊdz/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "安全;平安",
-        "desc": "n. 安全；平安；记忆技巧：safe（安全的）+ty（名词后缀）构成",
-        "english": "safety",
-        "phonetic": "/ˈseɪfti/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "在国外;向海外",
         "desc": "adv. 在国外；adj. 海外的；记忆技巧：over（越过）+seas（海洋）→海外",
         "english": "overseas",
         "phonetic": "/ˌoʊvərˈsiːz/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "用法说明;操作指南",
-        "desc": "n. 用法说明；记忆技巧：instruct（指导）+ion（名词后缀）表“指导的内容”",
-        "english": "instruction",
-        "phonetic": "/ɪnˈstrʌkʃn/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "(使)连接",
-        "desc": "v. (使)连接；记忆技巧：con（共同）+nect（连接）→使共同连接",
-        "english": "connect",
-        "phonetic": "/kəˈnekt/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "全球的;全世界的",
         "desc": "adj. 全球的；记忆技巧：globe（地球）+al（形容词后缀）→地球的→全球的",
         "english": "global",
         "phonetic": "/ˈɡloʊbl/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "装置;设备",
-        "desc": "n. 装置；设备；记忆技巧：“de+vice”联想“设计出的设备”",
-        "english": "device",
-        "phonetic": "/dɪˈvaɪs/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "收入;收益;所得",
         "desc": "n. 收入；记忆技巧：in（进入）+come（来）→进入的钱→收入",
         "english": "income",
         "phonetic": "/ˈɪnkʌm/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "规则;条例",
-        "desc": "n. 规则；v. 统治；记忆技巧：“rule”发音似“入了”→进入规则体系",
-        "english": "rule",
-        "phonetic": "/ruːl/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "气候",
-        "desc": "n. 气候；记忆技巧：“cli+mate”联想“气候影响生存环境”",
-        "english": "climate",
-        "phonetic": "/ˈklaɪmət/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "几乎;差不多;将近",
         "desc": "adv. 几乎；记忆技巧：near（近的）+ly（副词后缀）→接近地→几乎",
         "english": "nearly",
         "phonetic": "/ˈnɪrli/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "数量;数额",
-        "desc": "n. 数量；v. 总计；记忆技巧：“a+mount”联想“一个数量单位”",
-        "english": "amount",
-        "phonetic": "/əˈmaʊnt/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "驱动;推动(机器或车辆)",
-        "desc": "v. 驱动；n. 力量；记忆技巧：“power”直接关联“力量驱动机器”",
-        "english": "power",
-        "phonetic": "/ˈpaʊər/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "买卖;生意",
         "desc": "n. 买卖；生意；记忆技巧：busy（忙碌）+ness（名词后缀）→忙碌的事务→生意",
         "english": "business",
         "phonetic": "/ˈbɪznəs/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "闲暇;空闲;休闲",
         "desc": "n. 闲暇；记忆技巧：“leisure”发音联想“来事儿”→闲暇时才来事儿",
         "english": "leisure",
         "phonetic": "/ˈliːʒər/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "电视机",
-        "desc": "词组，指可接收电视信号的设备",
-        "english": "television set",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "地标",
-        "desc": "n. 地标；记忆技巧：land（土地）+mark（标记）→土地上的标记→地标",
-        "english": "landmark",
-        "phonetic": "/ˈlændmɑːrk/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "自始至终;贯穿整个时期",
-        "desc": "prep./adv. 自始至终；记忆技巧：through（穿过）+out（全部）→穿过全部→贯穿",
+        "desc": "prep. 自始至终；记忆技巧：through（穿过）+out（全部）→穿过全部→贯穿",
         "english": "throughout",
         "phonetic": "/θruːˈaʊt/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "有相同的特征(或特点等)",
-        "desc": "",
-        "english": "have something in common",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "责任;义务",
         "desc": "词性：名词",
         "english": "duty",
         "phonetic": "/ˈduːti/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "电灯泡",
-        "desc": "",
-        "english": "light bulb",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "有点儿;稍微",
         "desc": "",
         "english": "a bit",
         "phonetic": "",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "空调机;空调设备",
-        "desc": "",
-        "english": "air conditioner",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "电子游戏",
-        "desc": "",
-        "english": "video game",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "立即;马上",
         "desc": "",
         "english": "at once",
         "phonetic": "",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "饮用水",
         "desc": "",
         "english": "drinking water",
         "phonetic": "",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "用完;耗尽",
-        "desc": "",
-        "english": "run out of",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "在……起作用",
         "desc": "",
         "english": "play a role in...",
         "phonetic": "",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "变质",
-        "desc": "",
-        "english": "go bad",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "蒸汽机",
         "desc": "",
         "english": "steam engine",
         "phonetic": "",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "电动汽车",
-        "desc": "",
-        "english": "electric car",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "作为结果;因此",
         "desc": "",
         "english": "as a result",
         "phonetic": "",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "电器",
-        "desc": "",
-        "english": "electrical appliance",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
     },
     {
         "chinese": "确保;设法保证",
         "desc": "",
         "english": "make sure",
         "phonetic": "",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit5"
+    },
+    {
+        "chinese": "速度;速率",
+        "desc": "n. 速度；速率；v. 加速；记忆技巧：“s+peed”快速发音联想速度感",
+        "english": "speed",
+        "phonetic": "/spiːd/",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "安全;平安",
+        "desc": "n. 安全；平安；记忆技巧：safe（安全的）+ty（名词后缀）构成",
+        "english": "safety",
+        "phonetic": "/ˈseɪfti/",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "用法说明;操作指南",
+        "desc": "n. 用法说明；记忆技巧：instruct（指导）+ion（名词后缀）表“指导的内容”",
+        "english": "instruction",
+        "phonetic": "/ɪnˈstrʌkʃn/",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "(使)连接",
+        "desc": "v. (使)连接；记忆技巧：con（共同）+nect（连接）→使共同连接",
+        "english": "connect",
+        "phonetic": "/kəˈnekt/",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "装置;设备",
+        "desc": "n. 装置；设备；记忆技巧：“de+vice”联想“设计出的设备”",
+        "english": "device",
+        "phonetic": "/dɪˈvaɪs/",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "规则;条例",
+        "desc": "n. 规则；v. 统治；记忆技巧：“rule”发音似“入了”→进入规则体系",
+        "english": "rule",
+        "phonetic": "/ruːl/",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "气候",
+        "desc": "n. 气候；记忆技巧：“cli+mate”联想“气候影响生存环境”",
+        "english": "climate",
+        "phonetic": "/ˈklaɪmət/",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "数量;数额",
+        "desc": "n. 数量；v. 总计；记忆技巧：“a+mount”联想“一个数量单位”",
+        "english": "amount",
+        "phonetic": "/əˈmaʊnt/",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "驱动;推动(机器或车辆)",
+        "desc": "v. 驱动；n. 力量；记忆技巧：“power”直接关联“力量驱动机器”",
+        "english": "power",
+        "phonetic": "/ˈpaʊər/",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "电视机",
+        "desc": "n. 指可接收电视信号的设备",
+        "english": "television set",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "地标",
+        "desc": "n. 地标；记忆技巧：land（土地）+mark（标记）→土地上的标记→地标",
+        "english": "landmark",
+        "phonetic": "/ˈlændmɑːrk/",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "有相同的特征(或特点等)",
+        "desc": "",
+        "english": "have something in common",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "电灯泡",
+        "desc": "",
+        "english": "light bulb",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "空调机;空调设备",
+        "desc": "",
+        "english": "air conditioner",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "电子游戏",
+        "desc": "",
+        "english": "video game",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "用完;耗尽",
+        "desc": "",
+        "english": "run out of",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "变质",
+        "desc": "",
+        "english": "go bad",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "电动汽车",
+        "desc": "",
+        "english": "electric car",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "电器",
+        "desc": "",
+        "english": "electrical appliance",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6"
     },
     {
         "chinese": "关注;担忧",
         "desc": "",
         "english": "care about",
         "phonetic": "",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit6"
     },
     {
         "chinese": "气候变化",
         "desc": "",
         "english": "climate change",
         "phonetic": "",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit6"
     },
     {
         "chinese": "参加;加入",
         "desc": "",
         "english": "join in",
         "phonetic": "",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit6"
     },
     {
         "chinese": "电池",
         "desc": "词性：名词",
         "english": "battery",
         "phonetic": "/ˈbætəri/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit6"
     },
     {
         "chinese": "电;电能",
         "desc": "名词。记忆技巧：由electric（电的）+ity（名词后缀）构成，表示电的名词形式。",
         "english": "electricity",
         "phonetic": "/ɪˌlɛkˈtrɪsəti/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit6"
     },
     {
         "chinese": "关闭(电灯、机器等)的",
-        "desc": "名词。记忆技巧：由switch（开关）和off（关闭）组合而成，指关闭的动作或状态。",
+        "desc": "adj. 记忆技巧：由switch（开关）和off（关闭）组合而成，指关闭的动作或状态。",
         "english": "switch-off",
         "phonetic": "",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "贡献",
-        "desc": "名词。记忆技巧：contribute（贡献，动词）的名词形式，通过tion后缀构成。",
-        "english": "contribution",
-        "phonetic": "/ˌkɑːntrɪˈbjuːʃn/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "英雄",
-        "desc": "名词。记忆技巧：发音与“英雄”相近，可联想“英雄”的英文表达。",
-        "english": "hero",
-        "phonetic": "/ˈhɪroʊ/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit6"
     },
     {
         "chinese": "任务;活动",
         "desc": "名词。记忆技巧：t像任务列表，ask（询问）需要完成的任务，结合联想记忆。",
         "english": "task",
         "phonetic": "/tæsk/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "先锋;先驱",
-        "desc": "名词。记忆技巧：pio-可联想“开辟”，neer接近“前沿”，指开辟前沿的人即先锋。",
-        "english": "pioneer",
-        "phonetic": "/ˌpaɪəˈnɪr/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit6"
     },
     {
         "chinese": "一段时间;一会儿",
         "desc": "名词。记忆技巧：作名词时表示一段时间，与连词“当...时”含义相关，联想“一会儿”。",
         "english": "while",
         "phonetic": "/waɪl/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "科技",
-        "desc": "名词。记忆技巧：tech（技术）+nology（学科后缀），表示技术相关的学科即科技。",
-        "english": "technology",
-        "phonetic": "/tekˈnɑːlədʒi/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit6"
     },
     {
         "chinese": "平板电脑",
         "desc": "名词。记忆技巧：table（桌子）+t，联想放在桌上使用的平板设备。",
         "english": "tablet",
         "phonetic": "/ˈtæblət/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "拿到;接到;收到",
-        "desc": "动词。记忆技巧：re（再）+ceive（拿取），表示再次拿到即收到。",
-        "english": "receive",
-        "phonetic": "/rɪˈsiːv/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit6"
     },
     {
         "chinese": "冰箱",
         "desc": "名词。记忆技巧：refrigerator的缩写形式，简化记忆为fridge。",
         "english": "fridge",
         "phonetic": "/frɪdʒ/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "工程学",
-        "desc": "名词。记忆技巧：engine（引擎）+eering（工程学后缀），表示与引擎相关的工程学科。",
-        "english": "engineering",
-        "phonetic": "/ˌendʒɪˈnɪrɪŋ/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit6"
     },
     {
         "chinese": "酸奶",
         "desc": "名词。记忆技巧：音译词，发音接近“优格”，指酸奶。",
         "english": "yogurt",
         "phonetic": "/ˈjoʊɡərt/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "授予;奖励;奖",
-        "desc": "名词/动词。记忆技巧：作名词时指奖励，作动词指授予，联想“颁奖”场景。",
-        "english": "award",
-        "phonetic": "/əˈwɔːrd/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit6"
     },
     {
         "chinese": "公寓套房",
         "desc": "名词。记忆技巧：apart（分开）+ment（名词后缀），指分开的房间组成的公寓。",
         "english": "apartment",
         "phonetic": "/əˈpɑːrtmənt/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit6"
     },
     {
         "chinese": "家庭的",
         "desc": "形容词/名词。记忆技巧：house（房子）+hold（持有），形容与家庭相关的，或指家庭。",
         "english": "household",
         "phonetic": "/ˈhaʊshoʊld/",
-        "tag": "junior/grade7b/unit67"
-    },
-    {
-        "chinese": "教育",
-        "desc": "名词。记忆技巧：educate（教育，动词）的名词形式，通过tion后缀构成。",
-        "english": "education",
-        "phonetic": "/ˌedʒuˈkeɪʃn/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit6"
     },
     {
         "chinese": "紧靠;碰;撞",
         "desc": "介词。记忆技巧：表示“反对、紧靠”，联想“靠在...上”的动作。",
         "english": "against",
         "phonetic": "/əˈɡenst/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit6"
+    },
+    {
+        "chinese": "贡献",
+        "desc": "名词。记忆技巧：contribute（贡献，动词）的名词形式，通过tion后缀构成。",
+        "english": "contribution",
+        "phonetic": "/ˌkɑːntrɪˈbjuːʃn/",
+        "tag": "junior/grade7b/unit7"
+    },
+    {
+        "chinese": "英雄",
+        "desc": "名词。记忆技巧：发音与“英雄”相近，可联想“英雄”的英文表达。",
+        "english": "hero",
+        "phonetic": "/ˈhɪroʊ/",
+        "tag": "junior/grade7b/unit7"
+    },
+    {
+        "chinese": "先锋;先驱",
+        "desc": "名词。记忆技巧：pio-可联想“开辟”，neer接近“前沿”，指开辟前沿的人即先锋。",
+        "english": "pioneer",
+        "phonetic": "/ˌpaɪəˈnɪr/",
+        "tag": "junior/grade7b/unit7"
+    },
+    {
+        "chinese": "科技",
+        "desc": "名词。记忆技巧：tech（技术）+nology（学科后缀），表示技术相关的学科即科技。",
+        "english": "technology",
+        "phonetic": "/tekˈnɑːlədʒi/",
+        "tag": "junior/grade7b/unit7"
+    },
+    {
+        "chinese": "拿到;接到;收到",
+        "desc": "动词。记忆技巧：re（再）+ceive（拿取），表示再次拿到即收到。",
+        "english": "receive",
+        "phonetic": "/rɪˈsiːv/",
+        "tag": "junior/grade7b/unit7"
+    },
+    {
+        "chinese": "工程学",
+        "desc": "名词。记忆技巧：engine（引擎）+eering（工程学后缀），表示与引擎相关的工程学科。",
+        "english": "engineering",
+        "phonetic": "/ˌendʒɪˈnɪrɪŋ/",
+        "tag": "junior/grade7b/unit7"
+    },
+    {
+        "chinese": "授予;奖励;奖",
+        "desc": "名词/动词。记忆技巧：作名词时指奖励，作动词指授予，联想“颁奖”场景。",
+        "english": "award",
+        "phonetic": "/əˈwɔːrd/",
+        "tag": "junior/grade7b/unit7"
+    },
+    {
+        "chinese": "教育",
+        "desc": "名词。记忆技巧：educate（教育，动词）的名词形式，通过tion后缀构成。",
+        "english": "education",
+        "phonetic": "/ˌedʒuˈkeɪʃn/",
+        "tag": "junior/grade7b/unit7"
     },
     {
         "chinese": "花(时间);度过",
         "desc": "动词。记忆技巧：s+pend（花费），常与time/money搭配，表示花费时间或金钱。",
         "english": "spend",
         "phonetic": "/spend/",
-        "tag": "junior/grade7b/unit67"
+        "tag": "junior/grade7b/unit7"
     },
     {
         "chinese": "研究;调查",
@@ -33652,8 +33652,11 @@ var words = [
             option.value = 'junior/grade7b/unit5';
             option.textContent = 'junior/grade7b/unit5';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade7b/unit67';
-            option.textContent = 'junior/grade7b/unit67';
+            option.value = 'junior/grade7b/unit6';
+            option.textContent = 'junior/grade7b/unit6';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit7';
+            option.textContent = 'junior/grade7b/unit7';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit78';
             option.textContent = 'junior/grade7b/unit78';
