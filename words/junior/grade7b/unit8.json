@@ -1,1 +1,206 @@
-[{"chinese": "评论", "desc": "词性：v./n. 记忆技巧：re-（再次）+ view（看），再次看即评论", "english": "review", "phonetic": "/rɪˈvjuː/"}, {"chinese": "讲座;讲课", "desc": "词性：n./v. 记忆技巧：lect-（讲）+ ure（名词后缀），表示讲课或讲座", "english": "lecture", "phonetic": "/ˈlektʃər/"}, {"chinese": "演出;表演;演讲", "desc": "词性：v. 记忆技巧：per-（完全）+ form（形成），完全形成即表演", "english": "perform", "phonetic": "/pərˈfɔːrm/"}, {"chinese": "吻", "desc": "词性：v./n. 记忆技巧：发音简单，直接记忆", "english": "kiss", "phonetic": "/kɪs/"}, {"chinese": "拥抱;搂抱", "desc": "词性：v./n. 记忆技巧：发音与“hug”相似，象形双臂环绕", "english": "hug", "phonetic": "/hʌɡ/"}, {"chinese": "外出", "desc": "", "english": "go outside", "phonetic": ""}, {"chinese": "方法;办法", "desc": "词性：n. 记忆技巧：联想“我的方法”（my method）", "english": "method", "phonetic": "/ˈmeθəd/"}, {"chinese": "越来越多", "desc": "", "english": "more and more", "phonetic": ""}, {"chinese": "将……比作", "desc": "词性：v. 记忆技巧：com-（一起）+ pare（准备），一起准备比较", "english": "compare", "phonetic": "/kəmˈper/"}, {"chinese": "肢体语言", "desc": "", "english": "body language", "phonetic": ""}, {"chinese": "现今;现在;目前", "desc": "词性：adv. 记忆技巧：now（现在）+ a + days（日子），现在的日子即现今", "english": "nowadays", "phonetic": "/ˈnaʊədeɪz/"}, {"chinese": "梦想", "desc": "", "english": "dream of", "phonetic": ""}, {"chinese": "实现;成为现实", "desc": "", "english": "come true", "phonetic": ""}, {"chinese": "人", "desc": "", "english": "human being", "phonetic": ""}]
+[
+    {
+        "chinese": "可能",
+        "desc": "adj. 可能的。记忆技巧：pos-（放置）+ sible（能…的）→ 能够被实现放置的→可能的",
+        "english": "possible",
+        "phonetic": "/ˈpɑːsəbl/"
+    },
+    {
+        "chinese": "运动员",
+        "desc": "n. 运动员。记忆技巧：a-（一个）+ thlete（联想“体力”）→ 具备超强体力的人→运动员",
+        "english": "athlete",
+        "phonetic": "/ˈæθliːt/"
+    },
+    {
+        "chinese": "生物学家",
+        "desc": "n. 生物学家。记忆技巧：bio-（生命）+ logist（学家）→ 研究生命科学的学者→生物学家",
+        "english": "biologist",
+        "phonetic": "/baɪˈɑːlədʒɪst/"
+    },
+    {
+        "chinese": "乐器;仪器",
+        "desc": "词性：名词。记忆技巧：in+stru(结构)+ment→ 仪器是有复杂结构的工具；联想“乐器”需要结构化演奏。",
+        "english": "instrument",
+        "phonetic": "/ˈɪnstrəmənt/"
+    },
+    {
+        "chinese": "兴趣;业余爱好",
+        "desc": "词性：名词/动词。记忆技巧：inter(在…之间)+est→ 中间的事物引起兴趣；“因吹死他”谐音联想。",
+        "english": "interest",
+        "phonetic": "/ˈɪntrəst/"
+    },
+    {
+        "chinese": "生涯;职业",
+        "desc": "词性：名词。记忆技巧：care(关心)+er→ 关心的事业即职业；发音“凯里儿”联想职业规划。",
+        "english": "career",
+        "phonetic": "/kəˈrɪr/"
+    },
+    {
+        "chinese": "一生;终身",
+        "desc": "词性：名词。记忆技巧：life(生命)+time(时间)→ 生命的时间即一生；合成词直观记忆。",
+        "english": "lifetime",
+        "phonetic": "/ˈlaɪftaɪm/"
+    },
+    {
+        "chinese": "钻石",
+        "desc": "词性：名词。记忆技巧：diam(钻石形状)+ond→ 联想钻石的菱形结构；“戴蒙德”音译记忆。",
+        "english": "diamond",
+        "phonetic": "/ˈdaɪəmənd/"
+    },
+    {
+        "chinese": "腰带",
+        "desc": "词性：名词。记忆技巧：发音“ belt”与“ belt”动作相关，系腰带；简单词汇直接记忆。",
+        "english": "belt",
+        "phonetic": "/belt/"
+    },
+    {
+        "chinese": "冲;奔;飞驰",
+        "desc": "词性：动词。记忆技巧：联想“射击”动作迅猛，引申为冲奔；“树特”谐音联想快速。",
+        "english": "shoot",
+        "phonetic": "/ʃuːt/"
+    },
+    {
+        "chinese": "极其;极端;非常",
+        "desc": "词性：副词。记忆技巧：extreme(极端的)+ly→ 副词后缀表程度；“爱克斯吹母力”谐音联想。",
+        "english": "extremely",
+        "phonetic": "/ɪkˈstriːmli/"
+    },
+    {
+        "chinese": "求知欲强的;好奇的",
+        "desc": "词性：形容词。记忆技巧：cur(关心词根)+ious→ 关心事物即好奇的；“Q儿瑞饿斯”谐音联想。",
+        "english": "curious",
+        "phonetic": "/ˈkjʊriəs/"
+    },
+    {
+        "chinese": "增长;增多;增加",
+        "desc": "词性：v. 增长；n. 增加。记忆技巧：in-（向内）+ crease（增长）→ 向内增长→增加",
+        "english": "increase",
+        "phonetic": "/ɪnˈkriːs/"
+    },
+    {
+        "chinese": "主持",
+        "desc": "词性：v. 主持；n. 主人。记忆技巧：主持节目时是“主人”角色",
+        "english": "host",
+        "phonetic": "/hoʊst/"
+    },
+    {
+        "chinese": "在另一边;在(或向)更远处",
+        "desc": "词性：prep./adv. 在另一边；更远处。记忆技巧：be-yond（那边）→ 在那边",
+        "english": "beyond",
+        "phonetic": "/bɪˈjɑːnd/"
+    },
+    {
+        "chinese": "观众;听众",
+        "desc": "词性：n. 观众；听众。记忆技巧：audi（听）+ ence→听的人→听众",
+        "english": "audience",
+        "phonetic": "/ˈɑːdiəns/"
+    },
+    {
+        "chinese": "充满趣味的;令人兴奋的",
+        "desc": "词性：adj. 充满趣味的；令人兴奋的。记忆技巧：live（活的）+ ly→活泼地→充满趣味",
+        "english": "lively",
+        "phonetic": "/ˈlaɪvli/"
+    },
+    {
+        "chinese": "事实上",
+        "desc": "词性：adv. 事实上。记忆技巧：actual（实际的）+ ly→实际上→事实上",
+        "english": "actually",
+        "phonetic": "/ˈæktʃuəli/"
+    },
+    {
+        "chinese": "驾驶(或乘坐)帆船航行",
+        "desc": "词性：v. 驾驶帆船航行；n. 帆。记忆技巧：帆船航行需要帆（sail）",
+        "english": "sail",
+        "phonetic": "/seɪl/"
+    },
+    {
+        "chinese": "才能;本领",
+        "desc": "词性：n. 才能；本领。记忆技巧：able（能够的）+ ity→能力→才能",
+        "english": "ability",
+        "phonetic": "/əˈbɪləti/"
+    },
+    {
+        "chinese": "评论",
+        "desc": "词性：v./n. 记忆技巧：re-（再次）+ view（看），再次看即评论",
+        "english": "review",
+        "phonetic": "/rɪˈvjuː/"
+    },
+    {
+        "chinese": "讲座;讲课",
+        "desc": "词性：n. 记忆技巧：lect-（讲）+ ure（名词后缀），表示讲课或讲座",
+        "english": "lecture",
+        "phonetic": "/ˈlektʃər/"
+    },
+    {
+        "chinese": "演出;表演;演讲",
+        "desc": "词性：v. 记忆技巧：per-（完全）+ form（形成），完全形成即表演",
+        "english": "perform",
+        "phonetic": "/pərˈfɔːrm/"
+    },
+    {
+        "chinese": "吻",
+        "desc": "词性：v./n. 记忆技巧：发音简单，直接记忆",
+        "english": "kiss",
+        "phonetic": "/kɪs/"
+    },
+    {
+        "chinese": "拥抱;搂抱",
+        "desc": "词性：v./n. 记忆技巧：发音与“hug”相似，象形双臂环绕",
+        "english": "hug",
+        "phonetic": "/hʌɡ/"
+    },
+    {
+        "chinese": "外出",
+        "desc": "",
+        "english": "go outside",
+        "phonetic": ""
+    },
+    {
+        "chinese": "方法;办法",
+        "desc": "词性：n. 记忆技巧：联想“我的方法”（my method）",
+        "english": "method",
+        "phonetic": "/ˈmeθəd/"
+    },
+    {
+        "chinese": "越来越多",
+        "desc": "",
+        "english": "more and more",
+        "phonetic": ""
+    },
+    {
+        "chinese": "将……比作",
+        "desc": "词性：v. 记忆技巧：com-（一起）+ pare（准备），一起准备比较",
+        "english": "compare",
+        "phonetic": "/kəmˈper/"
+    },
+    {
+        "chinese": "肢体语言",
+        "desc": "",
+        "english": "body language",
+        "phonetic": ""
+    },
+    {
+        "chinese": "现今;现在;目前",
+        "desc": "词性：adv. 记忆技巧：now（现在）+ a + days（日子），现在的日子即现今",
+        "english": "nowadays",
+        "phonetic": "/ˈnaʊədeɪz/"
+    },
+    {
+        "chinese": "梦想",
+        "desc": "",
+        "english": "dream of",
+        "phonetic": ""
+    },
+    {
+        "chinese": "实现;成为现实",
+        "desc": "",
+        "english": "come true",
+        "phonetic": ""
+    },
+    {
+        "chinese": "人",
+        "desc": "",
+        "english": "human being",
+        "phonetic": ""
+    }
+]

@@ -48,9 +48,243 @@
         "phonetic": "/ˌedʒuˈkeɪʃn/"
     },
     {
+        "chinese": "研究;调查",
+        "desc": "n. 研究；调查。记忆技巧：re-（再）+ search（寻找）→ 反复寻找信息→研究",
+        "english": "research",
+        "phonetic": "/ˈriːsɜːrtʃ/"
+    },
+    {
+        "chinese": "（凭长期努力）达到(某目标、地位、标准)",
+        "desc": "v. 达到。记忆技巧：a-（加强）+ chieve（联想chief“首领”）→ 努力成为领域首领→达成目标",
+        "english": "achieve",
+        "phonetic": "/əˈtʃiːv/"
+    },
+    {
+        "chinese": "受尊敬的",
+        "desc": "adj. 受尊敬的。记忆技巧：well（很好地）+ respected（被尊敬的）→ 程度加深的尊敬",
+        "english": "well-respected",
+        "phonetic": "/ˌwel rɪˈspektɪd/"
+    },
+    {
+        "chinese": "建立(城镇或国家)",
+        "desc": "v. 建立。记忆技巧：发音联想“奠基”，与“found”（创办）含义相关，如found a country（建国）",
+        "english": "found",
+        "phonetic": "/faʊnd/"
+    },
+    {
+        "chinese": "热切的;渴望的",
+        "desc": "adj. 热切的。记忆技巧：ea发长音/iː/，ger联想“渴望”拼音首字母，表强烈愿望",
+        "english": "eager",
+        "phonetic": "/ˈiːɡər/"
+    },
+    {
+        "chinese": "增加;提高",
+        "desc": "v. 增加；提高。记忆技巧：联想“升起”（raise a flag），高度/数量向上提升→增加",
+        "english": "raise",
+        "phonetic": "/reɪz/"
+    },
+    {
+        "chinese": "使命",
+        "desc": "n. 使命。记忆技巧：发音接近“使命”谐音，词根miss-（发送）→ 被派遣完成的任务→使命",
+        "english": "mission",
+        "phonetic": "/ˈmɪʃn/"
+    },
+    {
+        "chinese": "荣誉;名誉",
+        "desc": "n. 荣誉；名誉。记忆技巧：hon-（尊敬）+ our（我们的）→ 我们共同珍视的尊敬→荣誉",
+        "english": "honour",
+        "phonetic": "/ˈɑːnər/"
+    },
+    {
+        "chinese": "百姓;民众",
+        "desc": "n./adj. 百姓；公众的。记忆技巧：pub（酒吧）是公众聚集场所→代指民众群体",
+        "english": "public",
+        "phonetic": "/ˈpʌblɪk/"
+    },
+    {
+        "chinese": "赞成;同意",
+        "desc": "n. 赞成；同意。记忆技巧：ap-（加强）+ proval（来自prove“证明”）→ 证明可行后获得认可",
+        "english": "approval",
+        "phonetic": "/əˈpruːvl/"
+    },
+    {
+        "chinese": "赞扬;称赞;赞美",
+        "desc": "词性：动词/名词。记忆技巧：p+raise（提升）→ 赞扬是提升他人的价值；联想“表扬”发音近似。",
+        "english": "praise",
+        "phonetic": "/preɪz/"
+    },
+    {
+        "chinese": "社会",
+        "desc": "词性：名词。记忆技巧：soc(社会词根)+iety→ 社会是由群体组成的组织；发音“社会题”谐音联想。",
+        "english": "society",
+        "phonetic": "/səˈsaɪəti/"
+    },
+    {
+        "chinese": "女的;女性的",
+        "desc": "词性：形容词/名词。记忆技巧：fe(女性词根)+male(男性)→ 与male对应，表女性；联想“费媚儿”谐音。",
+        "english": "female",
+        "phonetic": "/ˈfiːmeɪl/"
+    },
+    {
+        "chinese": "钦佩;仰慕",
+        "desc": "词性：动词。记忆技巧：ad(加强)+mire(羡慕)→ 强烈羡慕即钦佩；联想“额的妈呀”夸张钦佩之情。",
+        "english": "admire",
+        "phonetic": "/ədˈmaɪər/"
+    },
+    {
+        "chinese": "激励;鼓舞",
+        "desc": "词性：动词。记忆技巧：in(进入)+spire(呼吸)→ 吸入灵感，激励他人；“因思拜尔”谐音联想。",
+        "english": "inspire",
+        "phonetic": "/ɪnˈspaɪər/"
+    },
+    {
+        "chinese": "通常的;平常的",
+        "desc": "词性：形容词。记忆技巧：reg(规则词根)+ular→ 有规则的即通常的；“瑞哥了”谐音联想规律。",
+        "english": "regular",
+        "phonetic": "/ˈreɡjələr/"
+    },
+    {
+        "chinese": "养活;提供食物",
+        "desc": "词性：动词。记忆技巧：发音“ feed”与“ food”相关，喂养食物；过去式fed特殊变化需记忆。",
+        "english": "feed",
+        "phonetic": "/fiːd/"
+    },
+    {
+        "chinese": "空降消防员",
+        "desc": "词性：名词（合成词）。记忆技巧：smoke(烟)+jumper(跳跃者)→ 跳跃进入烟中的消防员，特指空降灭火人员。",
+        "english": "smokejumper",
+        "phonetic": ""
+    },
+    {
+        "chinese": "茂密的",
+        "desc": "词性：形容词。记忆技巧：发音“θɪk”与“ thick”（厚的）同源，茂密即厚密；简单词汇直接记忆。",
+        "english": "thick",
+        "phonetic": "/θɪk/"
+    },
+    {
+        "chinese": "某个;特定的",
+        "desc": "词性：形容词。记忆技巧：cert(确定词根)+ain→ 确定的即特定的；“色疼”谐音联想特定感受。",
+        "english": "certain",
+        "phonetic": "/ˈsɜːrtn/"
+    },
+    {
+        "chinese": "杀死;导致死亡",
+        "desc": "词性：动词。记忆技巧：发音“ kill”与“ 砍”动作相关，杀死即砍断生命；简单词汇直接记忆。",
+        "english": "kill",
+        "phonetic": "/kɪl/"
+    },
+    {
+        "chinese": "工具",
+        "desc": "词性：n. 工具。记忆技巧：联想工具的实用功能，如常用工具",
+        "english": "tool",
+        "phonetic": "/tuːl/"
+    },
+    {
+        "chinese": "失去生命的;枯萎的",
+        "desc": "词性：adj. 失去生命的；枯萎的。记忆技巧：发音简单，联想“死亡”的状态",
+        "english": "dead",
+        "phonetic": "/ded/"
+    },
+    {
+        "chinese": "勇敢的;无畏的",
+        "desc": "词性：adj. 勇敢的。记忆技巧：联想“brave heart”勇敢的心",
+        "english": "brave",
+        "phonetic": "/breɪv/"
+    },
+    {
+        "chinese": "健壮的;坚韧不拔的",
+        "desc": "词性：adj. 健壮的；坚韧不拔的。记忆技巧：tough如“塔夫”，像塔一样坚固",
+        "english": "tough",
+        "phonetic": "/tʌf/"
+    },
+    {
+        "chinese": "健壮的;健康的",
+        "desc": "词性：adj. 健壮的；健康的。记忆技巧：保持健康需要“fit”",
+        "english": "fit",
+        "phonetic": "/fɪt/"
+    },
+    {
+        "chinese": "否则;不然",
+        "desc": "词性：adv./conj. 否则；不然。记忆技巧：other（其他）+ wise（方式）→ 其他方式→否则",
+        "english": "otherwise",
+        "phonetic": "/ˈʌðərwaɪz/"
+    },
+    {
+        "chinese": "生存;存活",
+        "desc": "词性：v. 生存；存活。记忆技巧：sur-（超过）+ vive（生命）→ 超过生命→存活",
+        "english": "survive",
+        "phonetic": "/sərˈvaɪv/"
+    },
+    {
+        "chinese": "骄傲的;自豪的",
+        "desc": "词性：adj. 骄傲的；自豪的。记忆技巧：为成就感到自豪",
+        "english": "proud",
+        "phonetic": "/praʊd/"
+    },
+    {
+        "chinese": "楷模;行为榜样",
+        "desc": "词组：楷模；行为榜样",
+        "english": "role model",
+        "phonetic": ""
+    },
+    {
+        "chinese": "在……领域",
+        "desc": "短语：在……领域",
+        "english": "in the field of",
+        "phonetic": ""
+    },
+    {
         "chinese": "花(时间);度过",
         "desc": "动词。记忆技巧：s+pend（花费），常与time/money搭配，表示花费时间或金钱。",
         "english": "spend",
         "phonetic": "/spend/"
+    },
+    {
+        "chinese": "大学入学考试",
+        "desc": "词组：由college（大学）、entrance（入学）、examination（考试）组成，指高等教育入学考核",
+        "english": "college entrance examination",
+        "phonetic": ""
+    },
+    {
+        "chinese": "敬仰;钦佩",
+        "desc": "动词短语：look（看）+ up（向上）+ to（朝向）→ 抬头仰望→表示尊敬",
+        "english": "look up to",
+        "phonetic": ""
+    },
+    {
+        "chinese": "糖丸",
+        "desc": "词组：sugar（糖）+ pill（药丸）→ 糖制的药丸，常指安慰剂",
+        "english": "sugar pill",
+        "phonetic": ""
+    },
+    {
+        "chinese": "总工程师",
+        "desc": "词组：chief（主要的）+ engineer（工程师）→ 工程领域的主要负责人",
+        "english": "chief engineer",
+        "phonetic": ""
+    },
+    {
+        "chinese": "熄灭;扑灭",
+        "desc": "动词短语：put（放置）+ out（向外）→ 将火向外转移→扑灭",
+        "english": "put out",
+        "phonetic": ""
+    },
+    {
+        "chinese": "能够",
+        "desc": "情态短语：be动词+able（有能力的）+to（不定式符号）→ 表示具备做某事的能力",
+        "english": "be able to",
+        "phonetic": ""
+    },
+    {
+        "chinese": "为……而自豪",
+        "desc": "短语：be（是）+ proud（自豪的）+ of（关于）→ 对某人/事持有自豪情感",
+        "english": "be proud of",
+        "phonetic": ""
+    },
+    {
+        "chinese": "献身;致力",
+        "desc": "短语：献身；致力",
+        "english": "devote yourself to",
+        "phonetic": ""
     }
 ]
