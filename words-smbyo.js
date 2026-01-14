@@ -12782,6 +12782,419 @@ var words = [
         "tag": "junior/grade7b/unit67"
     },
     {
+        "chinese": "研究;调查",
+        "desc": "v./n. 研究；调查。记忆技巧：re-（再）+ search（寻找）→ 反复寻找信息→研究",
+        "english": "research",
+        "phonetic": "/ˈriːsɜːrtʃ/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "大学入学考试",
+        "desc": "词组：由college（大学）、entrance（入学）、examination（考试）组成，指高等教育入学考核",
+        "english": "college entrance examination",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "达到(某目标、地位、标准)",
+        "desc": "v. 达到。记忆技巧：a-（加强）+ chieve（联想chief“首领”）→ 努力成为领域首领→达成目标",
+        "english": "achieve",
+        "phonetic": "/əˈtʃiːv/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "敬仰;钦佩",
+        "desc": "动词短语：look（看）+ up（向上）+ to（朝向）→ 抬头仰望→表示尊敬",
+        "english": "look up to",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "糖丸",
+        "desc": "词组：sugar（糖）+ pill（药丸）→ 糖制的药丸，常指安慰剂",
+        "english": "sugar pill",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "受尊敬的",
+        "desc": "adj. 受尊敬的。记忆技巧：well（很好地）+ respected（被尊敬的）→ 程度加深的尊敬",
+        "english": "well-respected",
+        "phonetic": "/ˌwel rɪˈspektɪd/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "总工程师",
+        "desc": "词组：chief（主要的）+ engineer（工程师）→ 工程领域的主要负责人",
+        "english": "chief engineer",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "建立(城镇或国家)",
+        "desc": "v. 建立。记忆技巧：发音联想“奠基”，与“found”（创办）含义相关，如found a country（建国）",
+        "english": "found",
+        "phonetic": "/faʊnd/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "熄灭;扑灭",
+        "desc": "动词短语：put（放置）+ out（向外）→ 将火向外转移→扑灭",
+        "english": "put out",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "热切的;渴望的",
+        "desc": "adj. 热切的。记忆技巧：ea发长音/iː/，ger联想“渴望”拼音首字母，表强烈愿望",
+        "english": "eager",
+        "phonetic": "/ˈiːɡər/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "能够",
+        "desc": "情态短语：be动词+able（有能力的）+to（不定式符号）→ 表示具备做某事的能力",
+        "english": "be able to",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "增加;提高",
+        "desc": "v. 增加；提高。记忆技巧：联想“升起”（raise a flag），高度/数量向上提升→增加",
+        "english": "raise",
+        "phonetic": "/reɪz/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "为……而自豪",
+        "desc": "短语：be（是）+ proud（自豪的）+ of（关于）→ 对某人/事持有自豪情感",
+        "english": "be proud of",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "使命",
+        "desc": "n. 使命。记忆技巧：发音接近“使命”谐音，词根miss-（发送）→ 被派遣完成的任务→使命",
+        "english": "mission",
+        "phonetic": "/ˈmɪʃn/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "荣誉;名誉",
+        "desc": "n. 荣誉；名誉。记忆技巧：hon-（尊敬）+ our（我们的）→ 我们共同珍视的尊敬→荣誉",
+        "english": "honour",
+        "phonetic": "/ˈɑːnər/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "可能",
+        "desc": "adj. 可能的。记忆技巧：pos-（放置）+ sible（能…的）→ 能够被实现放置的→可能的",
+        "english": "possible",
+        "phonetic": "/ˈpɑːsəbl/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "百姓;民众",
+        "desc": "n./adj. 百姓；公众的。记忆技巧：pub（酒吧）是公众聚集场所→代指民众群体",
+        "english": "public",
+        "phonetic": "/ˈpʌblɪk/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "运动员",
+        "desc": "n. 运动员。记忆技巧：a-（一个）+ thlete（联想“体力”）→ 具备超强体力的人→运动员",
+        "english": "athlete",
+        "phonetic": "/ˈæθliːt/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "赞成;同意",
+        "desc": "n. 赞成；同意。记忆技巧：ap-（加强）+ proval（来自prove“证明”）→ 证明可行后获得认可",
+        "english": "approval",
+        "phonetic": "/əˈpruːvl/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "生物学家",
+        "desc": "n. 生物学家。记忆技巧：bio-（生命）+ logist（学家）→ 研究生命科学的学者→生物学家",
+        "english": "biologist",
+        "phonetic": "/baɪˈɑːlədʒɪst/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "赞扬;称赞;赞美",
+        "desc": "词性：动词/名词。记忆技巧：p+raise（提升）→ 赞扬是提升他人的价值；联想“表扬”发音近似。",
+        "english": "praise",
+        "phonetic": "/preɪz/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "乐器;仪器",
+        "desc": "词性：名词。记忆技巧：in+stru(结构)+ment→ 仪器是有复杂结构的工具；联想“乐器”需要结构化演奏。",
+        "english": "instrument",
+        "phonetic": "/ˈɪnstrəmənt/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "社会",
+        "desc": "词性：名词。记忆技巧：soc(社会词根)+iety→ 社会是由群体组成的组织；发音“社会题”谐音联想。",
+        "english": "society",
+        "phonetic": "/səˈsaɪəti/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "女的;女性的",
+        "desc": "词性：形容词/名词。记忆技巧：fe(女性词根)+male(男性)→ 与male对应，表女性；联想“费媚儿”谐音。",
+        "english": "female",
+        "phonetic": "/ˈfiːmeɪl/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "兴趣;业余爱好",
+        "desc": "词性：名词/动词。记忆技巧：inter(在…之间)+est→ 中间的事物引起兴趣；“因吹死他”谐音联想。",
+        "english": "interest",
+        "phonetic": "/ˈɪntrəst/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "钦佩;仰慕",
+        "desc": "词性：动词。记忆技巧：ad(加强)+mire(羡慕)→ 强烈羡慕即钦佩；联想“额的妈呀”夸张钦佩之情。",
+        "english": "admire",
+        "phonetic": "/ədˈmaɪər/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "生涯;职业",
+        "desc": "词性：名词。记忆技巧：care(关心)+er→ 关心的事业即职业；发音“凯里儿”联想职业规划。",
+        "english": "career",
+        "phonetic": "/kəˈrɪr/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "激励;鼓舞",
+        "desc": "词性：动词。记忆技巧：in(进入)+spire(呼吸)→ 吸入灵感，激励他人；“因思拜尔”谐音联想。",
+        "english": "inspire",
+        "phonetic": "/ɪnˈspaɪər/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "一生;终身",
+        "desc": "词性：名词。记忆技巧：life(生命)+time(时间)→ 生命的时间即一生；合成词直观记忆。",
+        "english": "lifetime",
+        "phonetic": "/ˈlaɪftaɪm/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "通常的;平常的",
+        "desc": "词性：形容词。记忆技巧：reg(规则词根)+ular→ 有规则的即通常的；“瑞哥了”谐音联想规律。",
+        "english": "regular",
+        "phonetic": "/ˈreɡjələr/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "钻石",
+        "desc": "词性：名词。记忆技巧：diam(钻石形状)+ond→ 联想钻石的菱形结构；“戴蒙德”音译记忆。",
+        "english": "diamond",
+        "phonetic": "/ˈdaɪəmənd/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "腰带",
+        "desc": "词性：名词。记忆技巧：发音“ belt”与“ belt”动作相关，系腰带；简单词汇直接记忆。",
+        "english": "belt",
+        "phonetic": "/belt/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "冲;奔;飞驰",
+        "desc": "词性：动词。记忆技巧：联想“射击”动作迅猛，引申为冲奔；“树特”谐音联想快速。",
+        "english": "shoot",
+        "phonetic": "/ʃuːt/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "养活;提供食物",
+        "desc": "词性：动词。记忆技巧：发音“ feed”与“ food”相关，喂养食物；过去式fed特殊变化需记忆。",
+        "english": "feed",
+        "phonetic": "/fiːd/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "空降消防员",
+        "desc": "词性：名词（合成词）。记忆技巧：smoke(烟)+jumper(跳跃者)→ 跳跃进入烟中的消防员，特指空降灭火人员。",
+        "english": "smokejumper",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "极其;极端;非常",
+        "desc": "词性：副词。记忆技巧：extreme(极端的)+ly→ 副词后缀表程度；“爱克斯吹母力”谐音联想。",
+        "english": "extremely",
+        "phonetic": "/ɪkˈstriːmli/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "茂密的",
+        "desc": "词性：形容词。记忆技巧：发音“θɪk”与“ thick”（厚的）同源，茂密即厚密；简单词汇直接记忆。",
+        "english": "thick",
+        "phonetic": "/θɪk/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "某个;特定的",
+        "desc": "词性：形容词。记忆技巧：cert(确定词根)+ain→ 确定的即特定的；“色疼”谐音联想特定感受。",
+        "english": "certain",
+        "phonetic": "/ˈsɜːrtn/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "求知欲强的;好奇的",
+        "desc": "词性：形容词。记忆技巧：cur(关心词根)+ious→ 关心事物即好奇的；“Q儿瑞饿斯”谐音联想。",
+        "english": "curious",
+        "phonetic": "/ˈkjʊriəs/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "杀死;导致死亡",
+        "desc": "词性：动词。记忆技巧：发音“ kill”与“ 砍”动作相关，杀死即砍断生命；简单词汇直接记忆。",
+        "english": "kill",
+        "phonetic": "/kɪl/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "增长;增多;增加",
+        "desc": "词性：v. 增长；n. 增加。记忆技巧：in-（向内）+ crease（增长）→ 向内增长→增加",
+        "english": "increase",
+        "phonetic": "/ɪnˈkriːs/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "工具",
+        "desc": "词性：n. 工具。记忆技巧：联想工具的实用功能，如常用工具",
+        "english": "tool",
+        "phonetic": "/tuːl/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "失去生命的;枯萎的",
+        "desc": "词性：adj. 失去生命的；枯萎的。记忆技巧：发音简单，联想“死亡”的状态",
+        "english": "dead",
+        "phonetic": "/ded/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "主持",
+        "desc": "词性：v. 主持；n. 主人。记忆技巧：主持节目时是“主人”角色",
+        "english": "host",
+        "phonetic": "/hoʊst/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "勇敢的;无畏的",
+        "desc": "词性：adj. 勇敢的。记忆技巧：联想“brave heart”勇敢的心",
+        "english": "brave",
+        "phonetic": "/breɪv/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "健壮的;坚韧不拔的",
+        "desc": "词性：adj. 健壮的；坚韧不拔的。记忆技巧：tough如“塔夫”，像塔一样坚固",
+        "english": "tough",
+        "phonetic": "/tʌf/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "在另一边;在(或向)更远处",
+        "desc": "词性：prep./adv. 在另一边；更远处。记忆技巧：be-yond（那边）→ 在那边",
+        "english": "beyond",
+        "phonetic": "/bɪˈjɑːnd/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "健壮的;健康的",
+        "desc": "词性：adj. 健壮的；健康的。记忆技巧：保持健康需要“fit”",
+        "english": "fit",
+        "phonetic": "/fɪt/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "否则;不然",
+        "desc": "词性：adv./conj. 否则；不然。记忆技巧：other（其他）+ wise（方式）→ 其他方式→否则",
+        "english": "otherwise",
+        "phonetic": "/ˈʌðərwaɪz/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "观众;听众",
+        "desc": "词性：n. 观众；听众。记忆技巧：audi（听）+ ence→听的人→听众",
+        "english": "audience",
+        "phonetic": "/ˈɑːdiəns/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "生存;存活",
+        "desc": "词性：v. 生存；存活。记忆技巧：sur-（超过）+ vive（生命）→ 超过生命→存活",
+        "english": "survive",
+        "phonetic": "/sərˈvaɪv/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "充满趣味的;令人兴奋的",
+        "desc": "词性：adj. 充满趣味的；令人兴奋的。记忆技巧：live（活的）+ ly→活泼地→充满趣味",
+        "english": "lively",
+        "phonetic": "/ˈlaɪvli/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "骄傲的;自豪的",
+        "desc": "词性：adj. 骄傲的；自豪的。记忆技巧：为成就感到自豪",
+        "english": "proud",
+        "phonetic": "/praʊd/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "事实上",
+        "desc": "词性：adv. 事实上。记忆技巧：actual（实际的）+ ly→实际上→事实上",
+        "english": "actually",
+        "phonetic": "/ˈæktʃuəli/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "驾驶(或乘坐)帆船航行",
+        "desc": "词性：v. 驾驶帆船航行；n. 帆。记忆技巧：帆船航行需要帆（sail）",
+        "english": "sail",
+        "phonetic": "/seɪl/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "楷模;行为榜样",
+        "desc": "词组：楷模；行为榜样",
+        "english": "role model",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "在……领域",
+        "desc": "短语：在……领域",
+        "english": "in the field of",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "才能;本领",
+        "desc": "词性：n. 才能；本领。记忆技巧：able（能够的）+ ity→能力→才能",
+        "english": "ability",
+        "phonetic": "/əˈbɪləti/",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
+        "chinese": "献身;致力",
+        "desc": "短语：献身；致力",
+        "english": "devote yourself to",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit78"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -33241,6 +33654,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit67';
             option.textContent = 'junior/grade7b/unit67';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit78';
+            option.textContent = 'junior/grade7b/unit78';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
