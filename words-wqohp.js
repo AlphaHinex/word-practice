@@ -13195,6 +13195,104 @@ var words = [
         "tag": "junior/grade7b/unit78"
     },
     {
+        "chinese": "评论",
+        "desc": "词性：v./n. 记忆技巧：re-（再次）+ view（看），再次看即评论",
+        "english": "review",
+        "phonetic": "/rɪˈvjuː/",
+        "tag": "junior/grade7b/unit8"
+    },
+    {
+        "chinese": "讲座;讲课",
+        "desc": "词性：n./v. 记忆技巧：lect-（讲）+ ure（名词后缀），表示讲课或讲座",
+        "english": "lecture",
+        "phonetic": "/ˈlektʃər/",
+        "tag": "junior/grade7b/unit8"
+    },
+    {
+        "chinese": "演出;表演;演讲",
+        "desc": "词性：v. 记忆技巧：per-（完全）+ form（形成），完全形成即表演",
+        "english": "perform",
+        "phonetic": "/pərˈfɔːrm/",
+        "tag": "junior/grade7b/unit8"
+    },
+    {
+        "chinese": "吻",
+        "desc": "词性：v./n. 记忆技巧：发音简单，直接记忆",
+        "english": "kiss",
+        "phonetic": "/kɪs/",
+        "tag": "junior/grade7b/unit8"
+    },
+    {
+        "chinese": "拥抱;搂抱",
+        "desc": "词性：v./n. 记忆技巧：发音与“hug”相似，象形双臂环绕",
+        "english": "hug",
+        "phonetic": "/hʌɡ/",
+        "tag": "junior/grade7b/unit8"
+    },
+    {
+        "chinese": "外出",
+        "desc": "",
+        "english": "go outside",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit8"
+    },
+    {
+        "chinese": "方法;办法",
+        "desc": "词性：n. 记忆技巧：联想“我的方法”（my method）",
+        "english": "method",
+        "phonetic": "/ˈmeθəd/",
+        "tag": "junior/grade7b/unit8"
+    },
+    {
+        "chinese": "越来越多",
+        "desc": "",
+        "english": "more and more",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit8"
+    },
+    {
+        "chinese": "将……比作",
+        "desc": "词性：v. 记忆技巧：com-（一起）+ pare（准备），一起准备比较",
+        "english": "compare",
+        "phonetic": "/kəmˈper/",
+        "tag": "junior/grade7b/unit8"
+    },
+    {
+        "chinese": "肢体语言",
+        "desc": "",
+        "english": "body language",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit8"
+    },
+    {
+        "chinese": "现今;现在;目前",
+        "desc": "词性：adv. 记忆技巧：now（现在）+ a + days（日子），现在的日子即现今",
+        "english": "nowadays",
+        "phonetic": "/ˈnaʊədeɪz/",
+        "tag": "junior/grade7b/unit8"
+    },
+    {
+        "chinese": "梦想",
+        "desc": "",
+        "english": "dream of",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit8"
+    },
+    {
+        "chinese": "实现;成为现实",
+        "desc": "",
+        "english": "come true",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit8"
+    },
+    {
+        "chinese": "人",
+        "desc": "",
+        "english": "human being",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit8"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -33660,6 +33758,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit78';
             option.textContent = 'junior/grade7b/unit78';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit8';
+            option.textContent = 'junior/grade7b/unit8';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
