@@ -1,0 +1,200 @@
+[
+    {
+        "chinese": "速度;速率",
+        "desc": "n. 速度；速率；v. 加速；记忆技巧：“s+peed”快速发音联想速度感",
+        "english": "speed",
+        "phonetic": "/spiːd/"
+    },
+    {
+        "chinese": "安全;平安",
+        "desc": "n. 安全；平安；记忆技巧：safe（安全的）+ty（名词后缀）构成",
+        "english": "safety",
+        "phonetic": "/ˈseɪfti/"
+    },
+    {
+        "chinese": "用法说明;操作指南",
+        "desc": "n. 用法说明；记忆技巧：instruct（指导）+ion（名词后缀）表“指导的内容”",
+        "english": "instruction",
+        "phonetic": "/ɪnˈstrʌkʃn/"
+    },
+    {
+        "chinese": "(使)连接",
+        "desc": "v. (使)连接；记忆技巧：con（共同）+nect（连接）→使共同连接",
+        "english": "connect",
+        "phonetic": "/kəˈnekt/"
+    },
+    {
+        "chinese": "装置;设备",
+        "desc": "n. 装置；设备；记忆技巧：“de+vice”联想“设计出的设备”",
+        "english": "device",
+        "phonetic": "/dɪˈvaɪs/"
+    },
+    {
+        "chinese": "规则;条例",
+        "desc": "n. 规则；v. 统治；记忆技巧：“rule”发音似“入了”→进入规则体系",
+        "english": "rule",
+        "phonetic": "/ruːl/"
+    },
+    {
+        "chinese": "气候",
+        "desc": "n. 气候；记忆技巧：“cli+mate”联想“气候影响生存环境”",
+        "english": "climate",
+        "phonetic": "/ˈklaɪmət/"
+    },
+    {
+        "chinese": "数量;数额",
+        "desc": "n. 数量；v. 总计；记忆技巧：“a+mount”联想“一个数量单位”",
+        "english": "amount",
+        "phonetic": "/əˈmaʊnt/"
+    },
+    {
+        "chinese": "驱动;推动(机器或车辆)",
+        "desc": "v. 驱动；n. 力量；记忆技巧：“power”直接关联“力量驱动机器”",
+        "english": "power",
+        "phonetic": "/ˈpaʊər/"
+    },
+    {
+        "chinese": "电视机",
+        "desc": "n. 指可接收电视信号的设备",
+        "english": "television set",
+        "phonetic": ""
+    },
+    {
+        "chinese": "地标",
+        "desc": "n. 地标；记忆技巧：land（土地）+mark（标记）→土地上的标记→地标",
+        "english": "landmark",
+        "phonetic": "/ˈlændmɑːrk/"
+    },
+    {
+        "chinese": "有相同的特征(或特点等)",
+        "desc": "",
+        "english": "have something in common",
+        "phonetic": ""
+    },
+    {
+        "chinese": "电灯泡",
+        "desc": "",
+        "english": "light bulb",
+        "phonetic": ""
+    },
+    {
+        "chinese": "空调机;空调设备",
+        "desc": "",
+        "english": "air conditioner",
+        "phonetic": ""
+    },
+    {
+        "chinese": "电子游戏",
+        "desc": "",
+        "english": "video game",
+        "phonetic": ""
+    },
+    {
+        "chinese": "用完;耗尽",
+        "desc": "",
+        "english": "run out of",
+        "phonetic": ""
+    },
+    {
+        "chinese": "变质",
+        "desc": "",
+        "english": "go bad",
+        "phonetic": ""
+    },
+    {
+        "chinese": "电动汽车",
+        "desc": "",
+        "english": "electric car",
+        "phonetic": ""
+    },
+    {
+        "chinese": "电器",
+        "desc": "",
+        "english": "electrical appliance",
+        "phonetic": ""
+    },
+    {
+        "chinese": "关注;担忧",
+        "desc": "",
+        "english": "care about",
+        "phonetic": ""
+    },
+    {
+        "chinese": "气候变化",
+        "desc": "",
+        "english": "climate change",
+        "phonetic": ""
+    },
+    {
+        "chinese": "参加;加入",
+        "desc": "",
+        "english": "join in",
+        "phonetic": ""
+    },
+    {
+        "chinese": "电池",
+        "desc": "词性：名词",
+        "english": "battery",
+        "phonetic": "/ˈbætəri/"
+    },
+    {
+        "chinese": "电;电能",
+        "desc": "名词。记忆技巧：由electric（电的）+ity（名词后缀）构成，表示电的名词形式。",
+        "english": "electricity",
+        "phonetic": "/ɪˌlɛkˈtrɪsəti/"
+    },
+    {
+        "chinese": "关闭(电灯、机器等)的",
+        "desc": "adj. 记忆技巧：由switch（开关）和off（关闭）组合而成，指关闭的动作或状态。",
+        "english": "switch-off",
+        "phonetic": ""
+    },
+    {
+        "chinese": "任务;活动",
+        "desc": "名词。记忆技巧：t像任务列表，ask（询问）需要完成的任务，结合联想记忆。",
+        "english": "task",
+        "phonetic": "/tæsk/"
+    },
+    {
+        "chinese": "一段时间;一会儿",
+        "desc": "名词。记忆技巧：作名词时表示一段时间，与连词“当...时”含义相关，联想“一会儿”。",
+        "english": "while",
+        "phonetic": "/waɪl/"
+    },
+    {
+        "chinese": "平板电脑",
+        "desc": "名词。记忆技巧：table（桌子）+t，联想放在桌上使用的平板设备。",
+        "english": "tablet",
+        "phonetic": "/ˈtæblət/"
+    },
+    {
+        "chinese": "冰箱",
+        "desc": "名词。记忆技巧：refrigerator的缩写形式，简化记忆为fridge。",
+        "english": "fridge",
+        "phonetic": "/frɪdʒ/"
+    },
+    {
+        "chinese": "酸奶",
+        "desc": "名词。记忆技巧：音译词，发音接近“优格”，指酸奶。",
+        "english": "yogurt",
+        "phonetic": "/ˈjoʊɡərt/"
+    },
+    {
+        "chinese": "公寓套房",
+        "desc": "名词。记忆技巧：apart（分开）+ment（名词后缀），指分开的房间组成的公寓。",
+        "english": "apartment",
+        "phonetic": "/əˈpɑːrtmənt/"
+    },
+    {
+        "chinese": "家庭的",
+        "desc": "形容词/名词。记忆技巧：house（房子）+hold（持有），形容与家庭相关的，或指家庭。",
+        "english": "household",
+        "phonetic": "/ˈhaʊshoʊld/"
+    },
+    {
+        "chinese": "紧靠;碰;撞",
+        "desc": "介词。记忆技巧：表示“反对、紧靠”，联想“靠在...上”的动作。",
+        "english": "against",
+        "phonetic": "/əˈɡenst/"
+    }
+]
