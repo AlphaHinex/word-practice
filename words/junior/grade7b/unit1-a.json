@@ -1,21 +1,9 @@
 [
     {
-        "chinese": "聪明地;明智地",
-        "desc": "副词。记忆技巧：wise（明智的）+ly（副词后缀）构成，表方式",
-        "english": "wisely",
-        "phonetic": "/ˈwaɪzli/"
-    },
-    {
         "chinese": "建议",
         "desc": "名词。记忆技巧：ad-加强语气 + vice（代替），表示“给出替代方案”即建议",
         "english": "advice",
         "phonetic": "/ədˈvaɪs/"
-    },
-    {
-        "chinese": "比赛;竞赛",
-        "desc": "名词。记忆技巧：com-共同 + pet（追求）+ ition（名词后缀），共同追求目标的活动",
-        "english": "competition",
-        "phonetic": "/ˌkɑːmpəˈtɪʃn/"
     },
     {
         "chinese": "鼓励;激励",
@@ -24,28 +12,10 @@
         "phonetic": "/ɪnˈkɜːrɪdʒ/"
     },
     {
-        "chinese": "淋浴",
-        "desc": "名词。记忆技巧：联想“show（展示）+er”，展示水流的装置",
-        "english": "shower",
-        "phonetic": "/ˈʃaʊər/"
-    },
-    {
         "chinese": "(令)退职;(使)退休",
         "desc": "动词。记忆技巧：re-回 + tire（疲劳），因疲劳回到家中休息即退休",
         "english": "retire",
         "phonetic": "/rɪˈtaɪər/"
-    },
-    {
-        "chinese": "在线的",
-        "desc": "形容词。记忆技巧：on（在…上）+ line（线），在网络线上即在线",
-        "english": "online",
-        "phonetic": "/ˌɑːnˈlaɪn/"
-    },
-    {
-        "chinese": "建筑工地",
-        "desc": "名词。记忆技巧：发音与“site（地点）”一致，指施工的地点",
-        "english": "site",
-        "phonetic": "/saɪt/"
     },
     {
         "chinese": "快乐的;高兴的",
@@ -54,22 +24,10 @@
         "phonetic": "/ˈtʃɪrfl/"
     },
     {
-        "chinese": "狭窄的;窄小的",
-        "desc": "形容词。记忆技巧：联想“arrow（箭）”，箭的形状是窄长的",
-        "english": "narrow",
-        "phonetic": "/ˈnæroʊ/"
-    },
-    {
         "chinese": "社区",
         "desc": "名词。记忆技巧：com-共同 + muni（服务）+ ty，共同服务的群体",
         "english": "community",
         "phonetic": "/kəˈmjuːnəti/"
-    },
-    {
-        "chinese": "超人",
-        "desc": "名词。记忆技巧：super（超级）+ man（人），超级强大的人",
-        "english": "superman",
-        "phonetic": "/ˈsuːpərmæn/"
     },
     {
         "chinese": "医学的;医疗的",
@@ -78,46 +36,16 @@
         "phonetic": "/ˈmedɪkl/"
     },
     {
-        "chinese": "认输;放弃",
-        "desc": "动词短语。记忆技巧：give（给予）+ up（向上），把机会向上推即放弃",
-        "english": "give up",
-        "phonetic": ""
-    },
-    {
         "chinese": "油炸的;油煎的;油炒的",
         "desc": "形容词。记忆技巧：fry（油炸）的过去分词形式，表被动完成状态",
         "english": "fried",
         "phonetic": "/fraɪd/"
     },
     {
-        "chinese": "曾经",
-        "desc": "情态动词短语。记忆技巧：used（过去的）+ to，表过去常常做某事",
-        "english": "used to",
-        "phonetic": ""
-    },
-    {
-        "chinese": "在未来",
-        "desc": "介词短语。记忆技巧：in（在…里）+ the future（未来），表示时间范围",
-        "english": "in the future",
-        "phonetic": ""
-    },
-    {
         "chinese": "各处;处处",
         "desc": "conj. 记忆技巧：where（哪里）+ ever（无论），无论哪里即各处",
         "english": "wherever",
         "phonetic": "/werˈevər/"
-    },
-    {
-        "chinese": "对……要求严格",
-        "desc": "动词短语。记忆技巧：be strict（严格的）+ about（关于），对某事保持严格态度",
-        "english": "be strict about",
-        "phonetic": ""
-    },
-    {
-        "chinese": "担心",
-        "desc": "动词短语。记忆技巧：be worried（担忧的）+ about（关于），对某事感到担忧",
-        "english": "be worried about",
-        "phonetic": ""
     },
     {
         "chinese": "将来;未来",
@@ -172,35 +100,5 @@
         "desc": "记忆技巧：“uni（统一）+form（形式）”→统一的形式→制服；词性：名词",
         "english": "uniform",
         "phonetic": "/ˈjuːnɪfɔːrm/"
-    },
-    {
-        "chinese": "话题;标题",
-        "desc": "n. 记忆技巧：top（顶部）+ ic（名词后缀）→ 放在顶部的内容→话题",
-        "english": "topic",
-        "phonetic": "/ˈtɑːpɪk/"
-    },
-    {
-        "chinese": "忙碌的;活跃的",
-        "desc": "adj. 记忆技巧：act（行动）+ ive（形容词后缀）→ 有行动的→活跃的",
-        "english": "active",
-        "phonetic": "/ˈæktɪv/"
-    },
-    {
-        "chinese": "智能手机",
-        "desc": "n. ",
-        "english": "smartphone",
-        "phonetic": ""
-    },
-    {
-        "chinese": "性格；个性",
-        "desc": "n. ",
-        "english": "personality",
-        "phonetic": ""
-    },
-    {
-        "chinese": "特点；品质",
-        "desc": "n. ",
-        "english": "characteristic",
-        "phonetic": ""
     }
 ]
