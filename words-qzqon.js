@@ -11200,2097 +11200,2097 @@ var words = [
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
-        "chinese": "聪明地;明智地",
-        "desc": "副词。记忆技巧：wise（明智的）+ly（副词后缀）构成，表方式",
-        "english": "wisely",
-        "phonetic": "/ˈwaɪzli/",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
         "chinese": "建议",
         "desc": "名词。记忆技巧：ad-加强语气 + vice（代替），表示“给出替代方案”即建议",
         "english": "advice",
         "phonetic": "/ədˈvaɪs/",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
-        "chinese": "比赛;竞赛",
-        "desc": "名词。记忆技巧：com-共同 + pet（追求）+ ition（名词后缀），共同追求目标的活动",
-        "english": "competition",
-        "phonetic": "/ˌkɑːmpəˈtɪʃn/",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "鼓励;激励",
         "desc": "动词。记忆技巧：en-使 + courage（勇气），使拥有勇气即鼓励",
         "english": "encourage",
         "phonetic": "/ɪnˈkɜːrɪdʒ/",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
-        "chinese": "淋浴",
-        "desc": "名词。记忆技巧：联想“show（展示）+er”，展示水流的装置",
-        "english": "shower",
-        "phonetic": "/ˈʃaʊər/",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "(令)退职;(使)退休",
         "desc": "动词。记忆技巧：re-回 + tire（疲劳），因疲劳回到家中休息即退休",
         "english": "retire",
         "phonetic": "/rɪˈtaɪər/",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
-        "chinese": "在线的",
-        "desc": "形容词。记忆技巧：on（在…上）+ line（线），在网络线上即在线",
-        "english": "online",
-        "phonetic": "/ˌɑːnˈlaɪn/",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
-        "chinese": "建筑工地",
-        "desc": "名词。记忆技巧：发音与“site（地点）”一致，指施工的地点",
-        "english": "site",
-        "phonetic": "/saɪt/",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "快乐的;高兴的",
         "desc": "形容词。记忆技巧：cheer（欢呼）+ ful（充满…的），充满欢呼的状态",
         "english": "cheerful",
         "phonetic": "/ˈtʃɪrfl/",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
-        "chinese": "狭窄的;窄小的",
-        "desc": "形容词。记忆技巧：联想“arrow（箭）”，箭的形状是窄长的",
-        "english": "narrow",
-        "phonetic": "/ˈnæroʊ/",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "社区",
         "desc": "名词。记忆技巧：com-共同 + muni（服务）+ ty，共同服务的群体",
         "english": "community",
         "phonetic": "/kəˈmjuːnəti/",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
-        "chinese": "超人",
-        "desc": "名词。记忆技巧：super（超级）+ man（人），超级强大的人",
-        "english": "superman",
-        "phonetic": "/ˈsuːpərmæn/",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "医学的;医疗的",
         "desc": "形容词。记忆技巧：medic（医学）+ al（形容词后缀），与医学相关的",
         "english": "medical",
         "phonetic": "/ˈmedɪkl/",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
-        "chinese": "认输;放弃",
-        "desc": "动词短语。记忆技巧：give（给予）+ up（向上），把机会向上推即放弃",
-        "english": "give up",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "油炸的;油煎的;油炒的",
         "desc": "形容词。记忆技巧：fry（油炸）的过去分词形式，表被动完成状态",
         "english": "fried",
         "phonetic": "/fraɪd/",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
-        "chinese": "曾经",
-        "desc": "情态动词短语。记忆技巧：used（过去的）+ to，表过去常常做某事",
-        "english": "used to",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
-        "chinese": "在未来",
-        "desc": "介词短语。记忆技巧：in（在…里）+ the future（未来），表示时间范围",
-        "english": "in the future",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "各处;处处",
         "desc": "conj. 记忆技巧：where（哪里）+ ever（无论），无论哪里即各处",
         "english": "wherever",
         "phonetic": "/werˈevər/",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
-        "chinese": "对……要求严格",
-        "desc": "动词短语。记忆技巧：be strict（严格的）+ about（关于），对某事保持严格态度",
-        "english": "be strict about",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
-        "chinese": "担心",
-        "desc": "动词短语。记忆技巧：be worried（担忧的）+ about（关于），对某事感到担忧",
-        "english": "be worried about",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "将来;未来",
         "desc": "n. 记忆技巧：词根“futur-”表示“未来”，如future（未来）；词性：名词",
         "english": "future",
         "phonetic": "/ˈfjuːtʃər/",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "很快;马上;不久",
         "desc": "adv. 记忆技巧：发音联想“速恩”，快速的恩典→很快；词性：副词",
         "english": "soon",
         "phonetic": "/suːn/",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "聪明的;机敏的",
         "desc": "adj. 记忆技巧：“s-mart”联想“market（市场）里聪明的人”；词性：形容词",
         "english": "smart",
         "phonetic": "/smɑːrt/",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "专心;注意力",
         "desc": "n. 记忆技巧：“at（在）+ten（十）+tion”→在十个地方注意→注意力；词性：名词",
         "english": "attention",
         "phonetic": "/əˈtenʃn/",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "不常;很少;难得",
         "desc": "记忆技巧：“seld（稀少）+om”→不常；词性：副词",
         "english": "seldom",
         "phonetic": "/ˈseldəm/",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "(对某人/事物)厌倦的;烦闷的",
         "desc": "记忆技巧：“bore（使厌烦）+ed”→感到厌烦的；词性：形容词",
         "english": "bored",
         "phonetic": "/bɔːrd/",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "要求严格的;严厉的",
         "desc": "记忆技巧：“str（拉紧）+ict”→拉紧的→严格的；词性：形容词",
         "english": "strict",
         "phonetic": "/strɪkt/",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "亲戚;亲属",
         "desc": "记忆技巧：“relate（联系）+ive”→有联系的人→亲戚；词性：名词",
         "english": "relative",
         "phonetic": "/ˈrelətɪv/",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "制服;校服",
         "desc": "记忆技巧：“uni（统一）+form（形式）”→统一的形式→制服；词性：名词",
         "english": "uniform",
         "phonetic": "/ˈjuːnɪfɔːrm/",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
-        "chinese": "话题;标题",
-        "desc": "n. 记忆技巧：top（顶部）+ ic（名词后缀）→ 放在顶部的内容→话题",
-        "english": "topic",
-        "phonetic": "/ˈtɑːpɪk/",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
-        "chinese": "忙碌的;活跃的",
-        "desc": "adj. 记忆技巧：act（行动）+ ive（形容词后缀）→ 有行动的→活跃的",
-        "english": "active",
-        "phonetic": "/ˈæktɪv/",
-        "tag": "junior/grade7b/unit1"
-    },
-    {
-        "chinese": "智能手机",
-        "desc": "n. ",
-        "english": "smartphone",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-a"
     },
     {
         "chinese": "性格；个性",
         "desc": "n. ",
         "english": "personality",
         "phonetic": "",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "话题;标题",
+        "desc": "n. 记忆技巧：top（顶部）+ ic（名词后缀）→ 放在顶部的内容→话题",
+        "english": "topic",
+        "phonetic": "/ˈtɑːpɪk/",
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "忙碌的;活跃的",
+        "desc": "adj. 记忆技巧：act（行动）+ ive（形容词后缀）→ 有行动的→活跃的",
+        "english": "active",
+        "phonetic": "/ˈæktɪv/",
+        "tag": "junior/grade7b/unit1-b"
     },
     {
         "chinese": "特点；品质",
         "desc": "n. ",
         "english": "characteristic",
         "phonetic": "",
-        "tag": "junior/grade7b/unit1"
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "聪明地;明智地",
+        "desc": "副词。记忆技巧：wise（明智的）+ly（副词后缀）构成，表方式",
+        "english": "wisely",
+        "phonetic": "/ˈwaɪzli/",
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "比赛;竞赛",
+        "desc": "名词。记忆技巧：com-共同 + pet（追求）+ ition（名词后缀），共同追求目标的活动",
+        "english": "competition",
+        "phonetic": "/ˌkɑːmpəˈtɪʃn/",
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "淋浴",
+        "desc": "名词。记忆技巧：联想“show（展示）+er”，展示水流的装置",
+        "english": "shower",
+        "phonetic": "/ˈʃaʊər/",
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "在线的",
+        "desc": "形容词。记忆技巧：on（在…上）+ line（线），在网络线上即在线",
+        "english": "online",
+        "phonetic": "/ˌɑːnˈlaɪn/",
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "建筑工地",
+        "desc": "名词。记忆技巧：发音与“site（地点）”一致，指施工的地点",
+        "english": "site",
+        "phonetic": "/saɪt/",
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "狭窄的;窄小的",
+        "desc": "形容词。记忆技巧：联想“arrow（箭）”，箭的形状是窄长的",
+        "english": "narrow",
+        "phonetic": "/ˈnæroʊ/",
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "超人",
+        "desc": "名词。记忆技巧：super（超级）+ man（人），超级强大的人",
+        "english": "superman",
+        "phonetic": "/ˈsuːpərmæn/",
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "认输;放弃",
+        "desc": "动词短语。记忆技巧：give（给予）+ up（向上），把机会向上推即放弃",
+        "english": "give up",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "曾经",
+        "desc": "情态动词短语。记忆技巧：used（过去的）+ to，表过去常常做某事",
+        "english": "used to",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "在未来",
+        "desc": "介词短语。记忆技巧：in（在…里）+ the future（未来），表示时间范围",
+        "english": "in the future",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "对……要求严格",
+        "desc": "动词短语。记忆技巧：be strict（严格的）+ about（关于），对某事保持严格态度",
+        "english": "be strict about",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "担心",
+        "desc": "动词短语。记忆技巧：be worried（担忧的）+ about（关于），对某事感到担忧",
+        "english": "be worried about",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-b"
+    },
+    {
+        "chinese": "智能手机",
+        "desc": "n. ",
+        "english": "smartphone",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-b"
     },
     {
         "chinese": "葡萄酒",
         "desc": "记忆技巧：“w+ine”，ine结尾常与液体相关；词性：名词",
         "english": "wine",
         "phonetic": "/waɪn/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "配对",
         "desc": "记忆技巧：“mat（垫子）+ch”→垫子上的配对；词性：动词",
         "english": "match",
         "phonetic": "/mætʃ/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "丰富多彩的",
         "desc": "记忆技巧：发音联想“瑞奇”，富有的瑞奇→丰富的；词性：形容词",
         "english": "rich",
         "phonetic": "/rɪtʃ/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "位于;坐落在",
         "desc": "记忆技巧：“lie”有“躺”的意思，东西躺在哪里→位于；词性：动词",
         "english": "lie",
         "phonetic": "/laɪ/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "咖啡馆;小餐馆",
         "desc": "记忆技巧：发音直接对应“咖啡馆”；词性：名词",
         "english": "cafe",
         "phonetic": "/kæˈfeɪ/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "优秀的;极好的",
         "desc": "记忆技巧：“ex（出）+cell（细胞）+ent”→超出细胞的→优秀的；词性：形容词",
         "english": "excellent",
         "phonetic": "/ˈeksələnt/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "海岸;海滨",
         "desc": "记忆技巧：联想“coat（外套）”，海岸像大地的外套；词性：名词",
         "english": "coast",
         "phonetic": "/koʊst/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "正合适",
         "desc": "记忆技巧：“per（完全）+fect（做）”→完全做好的→完美的；词性：形容词",
         "english": "perfect",
         "phonetic": "/ˈpɜːrfɪkt/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "主要地;通常",
         "desc": "记忆技巧：“most（最多）+ly”→最多地→主要地；词性：副词",
         "english": "mostly",
         "phonetic": "/ˈmoʊstli/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "接待;招待",
         "desc": "记忆技巧：“re（再）+ceive（拿）”→再拿进来→接待；词性：动词",
         "english": "receive",
         "phonetic": "/rɪˈsiːv/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "主要的;关键的",
         "desc": "记忆技巧：“钥匙（key）是关键的”；词性：形容词",
         "english": "key",
         "phonetic": "/kiː/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "仍然是;保持不变",
         "desc": "v. 记忆技巧：re-（再次）+ main（主要的）→ 再次成为主要的→仍然是",
         "english": "remain",
         "phonetic": "/rɪˈmeɪn/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "电梯；升降机",
         "desc": "n.",
         "english": "lift",
         "phonetic": "",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "台阶",
         "desc": "n. 记忆技巧：联想‘脚步（step）踩在台阶上’",
         "english": "step",
         "phonetic": "/step/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "楼梯",
         "desc": "n.",
         "english": "stair",
         "phonetic": "",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "摩托车",
         "desc": "名词，记忆技巧：motor（发动机）+cycle（循环，轮子）组合",
         "english": "motorcycle",
         "phonetic": "/ˈmoʊtərsaɪkl/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "观光；游览",
         "desc": "名词，记忆技巧：sight（景色）+seeing（看），看景色即观光",
         "english": "sightseeing",
         "phonetic": "/ˈsaɪtsiːɪŋ/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "想象；设想",
         "desc": "动词，记忆技巧：im（进入）+agine（联想image图像），在脑中形成图像",
         "english": "imagine",
         "phonetic": "/ɪˈmædʒɪn/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "目的地；终点",
         "desc": "名词，记忆技巧：destine（注定）+ation（名词后缀），注定要到的地方",
         "english": "destination",
         "phonetic": "/ˌdestɪˈneɪʃn/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "住址；地址",
         "desc": "名词，记忆技巧：ad（朝向）+dress（整理），整理后朝向的具体位置",
         "english": "address",
         "phonetic": "/əˈdres/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "政府",
         "desc": "名词，记忆技巧：govern（统治）+ment（名词后缀），统治的机构",
         "english": "government",
         "phonetic": "/ˈɡʌvərnmənt/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-a"
     },
     {
         "chinese": "独特的；罕见的",
         "desc": "形容词，记忆技巧：uni（单一）+que（…的），唯一的即独特",
         "english": "unique",
         "phonetic": "/juˈniːk/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "濒危的",
         "desc": "形容词，记忆技巧：endanger（使濒危）+ed（形容词后缀）",
         "english": "endangered",
         "phonetic": "/ɪnˈdeɪndʒərd/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "延伸；绵延",
         "desc": "动词，记忆技巧：st（伸展）+retch（联想reach到达），伸展到达远处",
         "english": "stretch",
         "phonetic": "/stretʃ/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "巨大的；极多的",
         "desc": "形容词，记忆技巧：发音联想“呼救”，巨大物体易让人呼救",
         "english": "huge",
         "phonetic": "/hjuːdʒ/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "野的；野生的；自然环境；野生状态",
         "desc": "adj. 野的；野生的；n. 自然环境；野生状态，记忆技巧：联想wild animal（野生动物），自然生长状态",
         "english": "wild",
         "phonetic": "/waɪld/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "了解到；查明",
         "desc": "动词，记忆技巧：dis（相反）+cover（覆盖），揭开覆盖物发现新事物",
         "english": "discover",
         "phonetic": "/dɪˈskʌvər/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "火山",
         "desc": "名词（n.），拆分记忆：vol（体积）+cano（似canoe独木舟），联想火山旁有独木舟",
         "english": "volcano",
         "phonetic": "/vɑːlˈkeɪnoʊ/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "山脉",
         "desc": "名词（n.），记忆技巧：“range”有“范围/山脉”意，山脉的范围广阔",
         "english": "range",
         "phonetic": "/reɪndʒ/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "雪地机动车",
         "desc": "名词（n.），复合词：snow（雪）+mobile（移动的），雪地移动的车→雪地机动车",
         "english": "snowmobile",
         "phonetic": "/ˈsnoʊmoʊbiːl/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "狼",
         "desc": "名词（n.），记忆技巧：“wolf”音似“沃尔夫”，联想名字记住“狼”",
         "english": "wolf",
         "phonetic": "/wʊlf/",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "百货商店",
         "desc": "名词词组，由department（部门）和store（商店）组成，各部门的商店→百货商店",
         "english": "department store",
         "phonetic": "",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "更喜欢",
         "desc": "动词词组，prefer（更喜欢）+to，后接动词原形，如“prefer to read（更喜欢阅读）”",
         "english": "prefer to",
         "phonetic": "",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "用手工",
         "desc": "介词词组，by（通过）+hand（手），通过手做→用手工",
         "english": "by hand",
         "phonetic": "",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "去观光",
         "desc": "动词词组，go（去）+sightseeing（观光），意为去游览观光",
         "english": "go sightseeing",
         "phonetic": "",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "去旅行",
         "desc": "动词词组，go on（进行）+a trip（旅行），意为进行一次旅行",
         "english": "go on a trip",
         "phonetic": "",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "建立",
         "desc": "动词词组，set（放置）+up（向上），向上放置→建立，如“set up a company（建立公司）”",
         "english": "set up",
         "phonetic": "",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "大熊猫",
         "desc": "词组",
         "english": "giant panda",
         "phonetic": "",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "在野外",
         "desc": "词组",
         "english": "in the wild",
         "phonetic": "",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "全年",
         "desc": "词组",
         "english": "all year round",
         "phonetic": "",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "金丝猴",
         "desc": "词组",
         "english": "golden monkey",
         "phonetic": "",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "去远足",
         "desc": "词组",
         "english": "go hiking",
         "phonetic": "",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "温泉",
         "desc": "词组",
         "english": "hot spring",
         "phonetic": "",
-        "tag": "junior/grade7b/unit2"
+        "tag": "junior/grade7b/unit2-b"
     },
     {
         "chinese": "不说话的；沉默的",
         "desc": "形容词，记忆技巧：sil（联想silk丝绸，光滑无声）+ent（形容词后缀）",
         "english": "silent",
         "phonetic": "/ˈsaɪlənt/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "忽略；未注意到",
         "desc": "动词，记忆技巧：over（在…之上）+look（看），从上方看易忽略细节",
         "english": "overlook",
         "phonetic": "/ˌoʊvərˈlʊk/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "人",
         "desc": "名词，记忆技巧：hum（土，如humus腐殖土）+an（表人），传说人由土造",
         "english": "human",
         "phonetic": "/ˈhjuːmən/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "氧；氧气",
         "desc": "名词，记忆技巧：oxy（氧）+gen（产生），产生氧气的物质",
         "english": "oxygen",
         "phonetic": "/ˈɑːksɪdʒən/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "创造",
         "desc": "动词，记忆技巧：cre（增长）+ate（使），使事物增长即创造",
         "english": "create",
         "phonetic": "/kriˈeɪt/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "自然环境",
         "desc": "名词，记忆技巧：en（使）+viron（周围）+ment，周围的环境",
         "english": "environment",
         "phonetic": "/ɪnˈvaɪrənmənt/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "便利的；方便的",
         "desc": "形容词，记忆技巧：con（共同）+veni（来）+ent，共同来到的便捷状态",
         "english": "convenient",
         "phonetic": "/kənˈviːniənt/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "（可移动的）家具",
         "desc": "名词（不可数），记忆技巧：furnish（布置）+ure（名词后缀），布置用的物品",
         "english": "furniture",
         "phonetic": "/ˈfɜːrnɪtʃər/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "木；木头",
         "desc": "名词（n.），联想“wood”与森林相关，可组合“wooden（木制的）”记忆",
         "english": "wood",
         "phonetic": "/wʊd/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "以……态度对待；以……方式对待",
         "desc": "动词（v.），记忆技巧：“treat”表“对待/款待”，如“treat others kindly（友善待人）”",
         "english": "treat",
         "phonetic": "/triːt/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "交流；沟通",
         "desc": "动词（v.），前缀com-（共同）+muni-（公共）+cate（做），共同公共地做→交流",
         "english": "communicate",
         "phonetic": "/kəˈmjuːnɪkeɪt/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "种；物种",
         "desc": "名词（n.），单复数同形，记忆技巧：音似“史记斯”，史记记载物种",
         "english": "species",
         "phonetic": "/ˈspiːʃiːz/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "产品；制品",
         "desc": "名词（n.），前缀pro-（向前）+duct（引导），向前引导出的物品→产品",
         "english": "product",
         "phonetic": "/ˈprɑːdʌkt/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "一面",
         "desc": "名词（n.），记忆技巧：“side”表“边、面”，如“on the side（在一边）”",
         "english": "side",
         "phonetic": "/saɪd/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "借；借用",
         "desc": "动词（v.），记忆技巧：“borrow”表“借进来”，与“lend（借出去）”对比记忆",
         "english": "borrow",
         "phonetic": "/ˈbɑːroʊ/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "掘（地）；凿（洞）；挖（土）",
         "desc": "动词（v.），记忆技巧：“dig”意为“挖”，过去式dug，如“dig a hole（挖洞）”",
         "english": "dig",
         "phonetic": "/dɪɡ/",
-        "tag": "junior/grade7b/unit3"
-    },
-    {
-        "chinese": "洞；孔；坑",
-        "desc": "名词（n.），记忆技巧：“hole”音似“好饿”，洞里的动物好饿",
-        "english": "hole",
-        "phonetic": "/hoʊl/",
-        "tag": "junior/grade7b/unit3"
-    },
-    {
-        "chinese": "棍；条",
-        "desc": "名词（n.），记忆技巧：“stick”可表“棍”或“粘贴”，如“a stick of wood（一根木棍）”",
-        "english": "stick",
-        "phonetic": "/stɪk/",
-        "tag": "junior/grade7b/unit3"
-    },
-    {
-        "chinese": "意外；偶然的事",
-        "desc": "词性：n.；记忆技巧：ac-（加强）+ cid（落下）+ -ent（名词后缀），表突然发生的事即意外",
-        "english": "accident",
-        "phonetic": "/ˈæksɪdənt/",
-        "tag": "junior/grade7b/unit3"
-    },
-    {
-        "chinese": "知识；学问",
-        "desc": "词性：n.；记忆技巧：know（知道）+ ledge（边缘），“知道的边缘”引申为知识范围",
-        "english": "knowledge",
-        "phonetic": "/ˈnɑːlɪdʒ/",
-        "tag": "junior/grade7b/unit3"
-    },
-    {
-        "chinese": "文字",
-        "desc": "词性：n.；记忆技巧：char（木炭）+ acter（演员），用木炭刻画演员形象即文字、字符",
-        "english": "character",
-        "phonetic": "/ˈkærəktər/",
-        "tag": "junior/grade7b/unit3"
-    },
-    {
-        "chinese": "传播",
-        "desc": "词性：v./n.；记忆技巧：s + pread（联想read读），读出来传播开",
-        "english": "spread",
-        "phonetic": "/spred/",
-        "tag": "junior/grade7b/unit3"
-    },
-    {
-        "chinese": "译文；译本",
-        "desc": "词性：n.；记忆技巧：由translate（翻译）加-ion名词后缀构成",
-        "english": "translation",
-        "phonetic": "/trænsˈleɪʃn/",
-        "tag": "junior/grade7b/unit3"
-    },
-    {
-        "chinese": "吸收；摄入",
-        "desc": "词组",
-        "english": "take in",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "树枝",
         "desc": "词性：n.；记忆技巧：bran（联想barn谷仓）+ ch，谷仓旁的树枝",
         "english": "branch",
         "phonetic": "/bræntʃ/",
-        "tag": "junior/grade7b/unit3"
-    },
-    {
-        "chinese": "温室气体",
-        "desc": "词组",
-        "english": "greenhouse gas",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
     },
     {
         "chinese": "根；根茎",
         "desc": "词性：n.；记忆技巧：r + oot（脚），植物的“脚”即根",
         "english": "root",
         "phonetic": "/ruːt/",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-a"
+    },
+    {
+        "chinese": "洞；孔；坑",
+        "desc": "名词（n.），记忆技巧：“hole”音似“好饿”，洞里的动物好饿",
+        "english": "hole",
+        "phonetic": "/hoʊl/",
+        "tag": "junior/grade7b/unit3-b"
+    },
+    {
+        "chinese": "棍；条",
+        "desc": "名词（n.），记忆技巧：“stick”可表“棍”或“粘贴”，如“a stick of wood（一根木棍）”",
+        "english": "stick",
+        "phonetic": "/stɪk/",
+        "tag": "junior/grade7b/unit3-b"
+    },
+    {
+        "chinese": "意外；偶然的事",
+        "desc": "词性：n.；记忆技巧：ac-（加强）+ cid（落下）+ -ent（名词后缀），表突然发生的事即意外",
+        "english": "accident",
+        "phonetic": "/ˈæksɪdənt/",
+        "tag": "junior/grade7b/unit3-b"
+    },
+    {
+        "chinese": "知识；学问",
+        "desc": "词性：n.；记忆技巧：know（知道）+ ledge（边缘），“知道的边缘”引申为知识范围",
+        "english": "knowledge",
+        "phonetic": "/ˈnɑːlɪdʒ/",
+        "tag": "junior/grade7b/unit3-b"
+    },
+    {
+        "chinese": "文字",
+        "desc": "词性：n.；记忆技巧：char（木炭）+ acter（演员），用木炭刻画演员形象即文字、字符",
+        "english": "character",
+        "phonetic": "/ˈkærəktər/",
+        "tag": "junior/grade7b/unit3-b"
+    },
+    {
+        "chinese": "传播",
+        "desc": "词性：v./n.；记忆技巧：s + pread（联想read读），读出来传播开",
+        "english": "spread",
+        "phonetic": "/spred/",
+        "tag": "junior/grade7b/unit3-b"
+    },
+    {
+        "chinese": "译文；译本",
+        "desc": "词性：n.；记忆技巧：由translate（翻译）加-ion名词后缀构成",
+        "english": "translation",
+        "phonetic": "/trænsˈleɪʃn/",
+        "tag": "junior/grade7b/unit3-b"
+    },
+    {
+        "chinese": "吸收；摄入",
+        "desc": "词组",
+        "english": "take in",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-b"
+    },
+    {
+        "chinese": "温室气体",
+        "desc": "词组",
+        "english": "greenhouse gas",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-b"
     },
     {
         "chinese": "首先；第一点",
         "desc": "词组",
         "english": "to begin with",
         "phonetic": "",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-b"
     },
     {
         "chinese": "来自",
         "desc": "动词词组，由come（来）和from（从）组成，表示来源",
         "english": "come from",
         "phonetic": "",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-b"
     },
     {
         "chinese": "环视;环顾;四下察看",
         "desc": "动词词组，look（看）+around（周围）→环顾四周",
         "english": "look around",
         "phonetic": "",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-b"
     },
     {
         "chinese": "由……制成",
         "desc": "动词词组，be+made（制造的过去分词）+of（由）→表示由某种材料制成",
         "english": "be made of",
         "phonetic": "",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-b"
     },
     {
         "chinese": "例如;譬如",
         "desc": "介词词组，for（为了）+example（例子）→用于举例说明",
         "english": "for example",
         "phonetic": "",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-b"
     },
     {
         "chinese": "与……沟通",
         "desc": "动词词组，communicate（沟通）+with（和）→与某人交流",
         "english": "communicate with",
         "phonetic": "",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-b"
     },
     {
         "chinese": "号召；动员；要求",
         "desc": "",
         "english": "call on",
         "phonetic": "",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-b"
     },
     {
         "chinese": "据(……说);按(……所报道)",
         "desc": "介词词组，according（根据）+to（到）→依据某信息来源",
         "english": "according to",
         "phonetic": "",
-        "tag": "junior/grade7b/unit3"
+        "tag": "junior/grade7b/unit3-b"
     },
     {
         "chinese": "偶然;意外地",
         "desc": "介词词组，by（通过）+accident（意外）→意外发生地",
         "english": "by accident",
         "phonetic": "",
-        "tag": "junior/grade7b/unit3"
-    },
-    {
-        "chinese": "在某处；到某处",
-        "desc": "副词。记忆技巧：some（一些）+where（哪里）→某个地方",
-        "english": "somewhere",
-        "phonetic": "/ˈsʌmwer/",
-        "tag": "junior/grade7b/unit4"
-    },
-    {
-        "chinese": "来源；出处",
-        "desc": "n. ",
-        "english": "source",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit4"
-    },
-    {
-        "chinese": "很可能;大概",
-        "desc": "副词。记忆技巧：pro（向前）+bable（可能的）+ly→可能地",
-        "english": "probably",
-        "phonetic": "/ˈprɑːbəbli/",
-        "tag": "junior/grade7b/unit4"
-    },
-    {
-        "chinese": "在某时",
-        "desc": "副词。记忆技巧：some（某）+time（时间）→某个不确定的时间",
-        "english": "sometime",
-        "phonetic": "/ˈsʌmtaɪm/",
-        "tag": "junior/grade7b/unit4"
-    },
-    {
-        "chinese": "已灭绝的;绝种的",
-        "desc": "形容词。记忆技巧：ex（出）+tinct（刺，引申为熄灭）→物种熄灭→灭绝的",
-        "english": "extinct",
-        "phonetic": "/ɪkˈstɪŋkt/",
-        "tag": "junior/grade7b/unit4"
-    },
-    {
-        "chinese": "艰难的尝试;试图",
-        "desc": "名词。记忆技巧：ef（出）+fort（力量）→付出力量→努力尝试",
-        "english": "effort",
-        "phonetic": "/ˈefərt/",
-        "tag": "junior/grade7b/unit4"
-    },
-    {
-        "chinese": "带着(某人)到",
-        "desc": "动词词组，lead（带领）+to（到）→引导某人至某地",
-        "english": "lead (somebody) to",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit3-b"
     },
     {
         "chinese": "海豚",
         "desc": "名词。记忆技巧：发音类似“海豚”的音译，联想海洋生物",
         "english": "dolphin",
         "phonetic": "/ˈdɑːlfɪn/",
-        "tag": "junior/grade7b/unit4"
-    },
-    {
-        "chinese": "入睡;睡着",
-        "desc": "动词词组，fall（进入状态）+asleep（睡着的）→进入睡眠状态",
-        "english": "fall asleep",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "母鸡",
         "desc": "名词。简单词，直接记忆家禽名称",
         "english": "hen",
         "phonetic": "/hen/",
-        "tag": "junior/grade7b/unit4"
-    },
-    {
-        "chinese": "俯身;趴下;跪下",
-        "desc": "动词词组，get（变得）+down（向下）→身体向下移动的动作",
-        "english": "get down",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "瞎的;失明的",
         "desc": "形容词。记忆技巧：b+line（线）→看不见线→失明的",
         "english": "blind",
         "phonetic": "/blaɪnd/",
-        "tag": "junior/grade7b/unit4"
-    },
-    {
-        "chinese": "消防车",
-        "desc": "名词词组，fire（火）+engine（引擎）→用于灭火的车辆",
-        "english": "fire engine",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "(羊等的)毛",
         "desc": "名词。记忆技巧：发音/wʊl/，联想羊毛制品的材质",
         "english": "wool",
         "phonetic": "/wʊl/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "先生",
         "desc": "词性：名词(n.)。记忆技巧：发音类似“瑟”，对男性的尊称。",
         "english": "sir",
         "phonetic": "/sɜːr/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "接待员",
         "desc": "词性：名词(n.)。记忆技巧：reception（接待）+ist（表人），负责接待的人。",
         "english": "receptionist",
         "phonetic": "/rɪˈsepʃənɪst/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "允许进入(或出去、通过)",
         "desc": "词性：动词(v.)。记忆技巧：al-前缀加强，low（低），降低门槛允许通过。",
         "english": "allow",
         "phonetic": "/əˈlaʊ/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "道歉",
         "desc": "词性：动词(v.)。记忆技巧：apo-离开，log-说话，说错话后离开→道歉。",
         "english": "apologize",
         "phonetic": "/əˈpɑːlədʒaɪz/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "睡着",
         "desc": "词性：形容词(adj.)/副词(adv.)。记忆技巧：a-表状态，sleep（睡觉），处于睡觉状态。",
         "english": "asleep",
         "phonetic": "/əˈsliːp/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "烟",
         "desc": "词性：名词(n.)/动词(v.)。记忆技巧：“丝摩克”音译，吸烟产生烟。",
         "english": "smoke",
         "phonetic": "/smoʊk/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "消防队员",
         "desc": "词性：名词(n.)。记忆技巧：fire（火）+man（人），灭火的人。",
         "english": "fireman",
         "phonetic": "/ˈfaɪərmæn/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "类型;种类",
         "desc": "词性：名词(n.)/动词(v.)。记忆技巧：“泰普”音译，表类型种类。",
         "english": "type",
         "phonetic": "/taɪp/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "搜索救援",
         "desc": "n. 复合词组：search（搜索）+and+rescue（救援），联合行动。",
         "english": "search-and-rescue",
         "phonetic": "",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "服务",
         "desc": "词性：名词(n.)。记忆技巧：“ service”音似“瑟维斯”，提供服务。",
         "english": "service",
         "phonetic": "/ˈsɜːrvɪs/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "灾难;灾害",
         "desc": "词性：名词(n.)。记忆技巧：dis-否定，aster（星星），星星陨落喻灾难。",
         "english": "disaster",
         "phonetic": "/dɪˈzæstər/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "旅客;房客",
         "desc": "n. 名词；记忆技巧：g（客人）+ uest（联想rest休息，客人需要休息）",
         "english": "guest",
         "phonetic": "/ɡest/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "组;班",
         "desc": "n. 名词；记忆技巧：t（团队）+ eam（联想ream大量，团队有大量成员）",
         "english": "team",
         "phonetic": "/tiːm/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-a"
     },
     {
         "chinese": "运输;运送",
         "desc": "v. 动词；记忆技巧：trans（转移）+ port（港口，转移到港口即运输）",
         "english": "transport",
         "phonetic": "/ˈtrænspɔːrt/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-b"
     },
     {
         "chinese": "守卫;保卫",
         "desc": "v. 动词；记忆技巧：g（守护）+ uard（类似yard院子，守护院子）",
         "english": "guard",
         "phonetic": "/ɡɑːrd/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-b"
     },
     {
         "chinese": "蜂蜜",
         "desc": "n. 名词；记忆技巧：hon（亲爱的）+ ey（眼睛，亲爱的像蜂蜜一样甜）",
         "english": "honey",
         "phonetic": "/ˈhʌni/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-b"
     },
     {
         "chinese": "材料;原料",
         "desc": "n. 名词；记忆技巧：mater（母亲）+ ial（名词后缀，母亲提供材料）",
         "english": "material",
         "phonetic": "/məˈtɪriəl/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-b"
     },
     {
         "chinese": "也",
         "desc": "adv. 副词；记忆技巧：ei（要么）+ ther（其他，要么这个要么那个，表“也”）",
         "english": "either",
         "phonetic": "/ˈaɪðər/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-b"
     },
     {
         "chinese": "鲨鱼",
         "desc": "n. 名词；记忆技巧：sh（杀）+ ark（方舟，鲨鱼可能攻击方舟）",
         "english": "shark",
         "phonetic": "/ʃɑːrk/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-b"
     },
     {
         "chinese": "害怕;恐惧",
         "desc": "adj. 形容词；记忆技巧：sc（害怕）+ ared（表状态，害怕的状态）",
         "english": "scared",
         "phonetic": "/skeərd/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-b"
+    },
+    {
+        "chinese": "在某处；到某处",
+        "desc": "副词。记忆技巧：some（一些）+where（哪里）→某个地方",
+        "english": "somewhere",
+        "phonetic": "/ˈsʌmwer/",
+        "tag": "junior/grade7b/unit4-b"
+    },
+    {
+        "chinese": "很可能;大概",
+        "desc": "副词。记忆技巧：pro（向前）+bable（可能的）+ly→可能地",
+        "english": "probably",
+        "phonetic": "/ˈprɑːbəbli/",
+        "tag": "junior/grade7b/unit4-b"
+    },
+    {
+        "chinese": "来源；出处",
+        "desc": "n. ",
+        "english": "source",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-b"
+    },
+    {
+        "chinese": "在某时",
+        "desc": "副词。记忆技巧：some（某）+time（时间）→某个不确定的时间",
+        "english": "sometime",
+        "phonetic": "/ˈsʌmtaɪm/",
+        "tag": "junior/grade7b/unit4-b"
+    },
+    {
+        "chinese": "已灭绝的;绝种的",
+        "desc": "形容词。记忆技巧：ex（出）+tinct（刺，引申为熄灭）→物种熄灭→灭绝的",
+        "english": "extinct",
+        "phonetic": "/ɪkˈstɪŋkt/",
+        "tag": "junior/grade7b/unit4-b"
+    },
+    {
+        "chinese": "艰难的尝试;试图",
+        "desc": "名词。记忆技巧：ef（出）+fort（力量）→付出力量→努力尝试",
+        "english": "effort",
+        "phonetic": "/ˈefərt/",
+        "tag": "junior/grade7b/unit4-b"
+    },
+    {
+        "chinese": "带着(某人)到",
+        "desc": "动词词组，lead（带领）+to（到）→引导某人至某地",
+        "english": "lead (somebody) to",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-b"
+    },
+    {
+        "chinese": "入睡;睡着",
+        "desc": "动词词组，fall（进入状态）+asleep（睡着的）→进入睡眠状态",
+        "english": "fall asleep",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-b"
+    },
+    {
+        "chinese": "俯身;趴下;跪下",
+        "desc": "动词词组，get（变得）+down（向下）→身体向下移动的动作",
+        "english": "get down",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-b"
+    },
+    {
+        "chinese": "消防车",
+        "desc": "名词词组，fire（火）+engine（引擎）→用于灭火的车辆",
+        "english": "fire engine",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-b"
     },
     {
         "chinese": "灰色的",
         "desc": "adj. 形容词；记忆技巧：gr（灰色）+ ey（眼睛，灰色的眼睛）",
         "english": "grey",
         "phonetic": "/ɡreɪ/",
-        "tag": "junior/grade7b/unit4"
+        "tag": "junior/grade7b/unit4-b"
     },
     {
         "chinese": "每天的;日常的",
         "desc": "词性：形容词(adj.)。记忆技巧：every（每个）+day（天），每天的日常。",
         "english": "everyday",
         "phonetic": "/ˈevrideɪ/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "类型;种类",
         "desc": "词性：名词(n.)/动词(v.)。记忆技巧：“形式”的音译，表类型或形成。",
         "english": "form",
         "phonetic": "/fɔːrm/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "(尤指长途)旅行",
         "desc": "词性：名词(n.)。记忆技巧：journ-日，每日行程即长途旅行。",
         "english": "journey",
         "phonetic": "/ˈdʒɜːrni/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "滴;水珠",
         "desc": "词性：名词(n.)/动词(v.)。记忆技巧：“掉”的音译，水滴掉落。",
         "english": "drop",
         "phonetic": "/drɑːp/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "水龙头",
         "desc": "词性：名词(n.)。记忆技巧：“踏”音，踏开水龙头出水。",
         "english": "tap",
         "phonetic": "/tæp/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "说话声",
         "desc": "词性：名词(n.)。记忆技巧：“ voice”音似“我嘶”，我的嘶喊声。",
         "english": "voice",
         "phonetic": "/vɔɪs/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "最后;终于",
         "desc": "词性：副词(adv.)。记忆技巧：event（事件）+ually，事件最终发展结果。",
         "english": "eventually",
         "phonetic": "/ɪˈventʃuəli/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "管子;管道",
         "desc": "词性：名词(n.)。记忆技巧：“派普”音译，输送流体的管道。",
         "english": "pipe",
         "phonetic": "/paɪp/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "回去;返回",
         "desc": "词性：动词(v.)。记忆技巧：re-再，turn（转），转回来即返回。",
         "english": "return",
         "phonetic": "/rɪˈtɜːrn/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "迅速移动",
         "desc": "v. 动词；记忆技巧：r（跑）+ ush（类似push推，快速推即rush）",
         "english": "rush",
         "phonetic": "/rʌʃ/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "洗澡;洗浴",
         "desc": "n. 名词；记忆技巧：b（洗）+ ath（联想path路径，洗澡的路径）",
         "english": "bath",
         "phonetic": "/bæθ/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "含盐的;咸的",
         "desc": "adj. 形容词；记忆技巧：s（盐）+ alt（直接记忆拼写，盐是咸的）",
         "english": "salt",
         "phonetic": "/sɔːlt/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "脑",
         "desc": "n. 名词；记忆技巧：b（脑）+ rain（雨，脑像下雨一样思考）",
         "english": "brain",
         "phonetic": "/breɪn/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "修理",
         "desc": "v. 动词；记忆技巧：f（修理）+ ix（联想mix混合，修理需要混合零件）",
         "english": "fix",
         "phonetic": "/fɪks/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "公共的;公开的",
         "desc": "adj. 形容词；记忆技巧：pub（酒吧）+ lic（许可，酒吧是公共许可场所）",
         "english": "public",
         "phonetic": "/ˈpʌblɪk/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "人口",
         "desc": "n. 名词；记忆技巧：popul（人民）+ ation（名词后缀，人民的数量即人口）",
         "english": "population",
         "phonetic": "/ˌpɑːpjuˈleɪʃn/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "农业",
         "desc": "n. 名词；记忆技巧：agri（田地）+ culture（文化，田地的文化即农业）",
         "english": "agriculture",
         "phonetic": "/ˈæɡrɪkʌltʃər/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "贸易；买卖",
         "desc": "n. 名词",
         "english": "trade",
         "phonetic": "",
-        "tag": "junior/grade7b/unit5"
-    },
-    {
-        "chinese": "角色",
-        "desc": "n. 角色；记忆技巧：联想“role”在戏剧中代表特定角色",
-        "english": "role",
-        "phonetic": "/roʊl/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-a"
     },
     {
         "chinese": "工业;生产制造",
         "desc": "n. 名词；记忆技巧：indu（在里面）+ stry（工厂，里面工作的工厂即工业）",
         "english": "industry",
         "phonetic": "/ˈɪndəstri/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
+    },
+    {
+        "chinese": "角色",
+        "desc": "n. 角色；记忆技巧：联想“role”在戏剧中代表特定角色",
+        "english": "role",
+        "phonetic": "/roʊl/",
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "商品;货品",
         "desc": "n. 商品；货品（复数）；记忆技巧：“goods”常以复数形式表示各类商品",
         "english": "goods",
         "phonetic": "/ɡʊdz/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "在国外;向海外",
         "desc": "adv. 在国外；adj. 海外的；记忆技巧：over（越过）+seas（海洋）→海外",
         "english": "overseas",
         "phonetic": "/ˌoʊvərˈsiːz/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "全球的;全世界的",
         "desc": "adj. 全球的；记忆技巧：globe（地球）+al（形容词后缀）→地球的→全球的",
         "english": "global",
         "phonetic": "/ˈɡloʊbl/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "收入;收益;所得",
         "desc": "n. 收入；记忆技巧：in（进入）+come（来）→进入的钱→收入",
         "english": "income",
         "phonetic": "/ˈɪnkʌm/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "几乎;差不多;将近",
         "desc": "adv. 几乎；记忆技巧：near（近的）+ly（副词后缀）→接近地→几乎",
         "english": "nearly",
         "phonetic": "/ˈnɪrli/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "买卖;生意",
         "desc": "n. 买卖；生意；记忆技巧：busy（忙碌）+ness（名词后缀）→忙碌的事务→生意",
         "english": "business",
         "phonetic": "/ˈbɪznəs/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "闲暇;空闲;休闲",
         "desc": "n. 闲暇；记忆技巧：“leisure”发音联想“来事儿”→闲暇时才来事儿",
         "english": "leisure",
         "phonetic": "/ˈliːʒər/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "自始至终;贯穿整个时期",
         "desc": "prep. 自始至终；记忆技巧：through（穿过）+out（全部）→穿过全部→贯穿",
         "english": "throughout",
         "phonetic": "/θruːˈaʊt/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "责任;义务",
         "desc": "词性：名词",
         "english": "duty",
         "phonetic": "/ˈduːti/",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "有点儿;稍微",
         "desc": "",
         "english": "a bit",
         "phonetic": "",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "立即;马上",
         "desc": "",
         "english": "at once",
         "phonetic": "",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "饮用水",
         "desc": "",
         "english": "drinking water",
         "phonetic": "",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "在……起作用",
         "desc": "",
         "english": "play a role in...",
         "phonetic": "",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "蒸汽机",
         "desc": "",
         "english": "steam engine",
         "phonetic": "",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "作为结果;因此",
         "desc": "",
         "english": "as a result",
         "phonetic": "",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "确保;设法保证",
         "desc": "",
         "english": "make sure",
         "phonetic": "",
-        "tag": "junior/grade7b/unit5"
+        "tag": "junior/grade7b/unit5-b"
     },
     {
         "chinese": "速度;速率",
         "desc": "n. 速度；速率；v. 加速；记忆技巧：“s+peed”快速发音联想速度感",
         "english": "speed",
         "phonetic": "/spiːd/",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "安全;平安",
         "desc": "n. 安全；平安；记忆技巧：safe（安全的）+ty（名词后缀）构成",
         "english": "safety",
         "phonetic": "/ˈseɪfti/",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "用法说明;操作指南",
         "desc": "n. 用法说明；记忆技巧：instruct（指导）+ion（名词后缀）表“指导的内容”",
         "english": "instruction",
         "phonetic": "/ɪnˈstrʌkʃn/",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "(使)连接",
         "desc": "v. (使)连接；记忆技巧：con（共同）+nect（连接）→使共同连接",
         "english": "connect",
         "phonetic": "/kəˈnekt/",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "装置;设备",
         "desc": "n. 装置；设备；记忆技巧：“de+vice”联想“设计出的设备”",
         "english": "device",
         "phonetic": "/dɪˈvaɪs/",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "规则;条例",
-        "desc": "n. 规则；v. 统治；记忆技巧：“rule”发音似“入了”→进入规则体系",
-        "english": "rule",
-        "phonetic": "/ruːl/",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "气候",
-        "desc": "n. 气候；记忆技巧：“cli+mate”联想“气候影响生存环境”",
-        "english": "climate",
-        "phonetic": "/ˈklaɪmət/",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "数量;数额",
-        "desc": "n. 数量；v. 总计；记忆技巧：“a+mount”联想“一个数量单位”",
-        "english": "amount",
-        "phonetic": "/əˈmaʊnt/",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "驱动;推动(机器或车辆)",
-        "desc": "v. 驱动；n. 力量；记忆技巧：“power”直接关联“力量驱动机器”",
-        "english": "power",
-        "phonetic": "/ˈpaʊər/",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "电视机",
-        "desc": "n. 指可接收电视信号的设备",
-        "english": "television set",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "地标",
-        "desc": "n. 地标；记忆技巧：land（土地）+mark（标记）→土地上的标记→地标",
-        "english": "landmark",
-        "phonetic": "/ˈlændmɑːrk/",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "有相同的特征(或特点等)",
-        "desc": "",
-        "english": "have something in common",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "电灯泡",
-        "desc": "",
-        "english": "light bulb",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "空调机;空调设备",
-        "desc": "",
-        "english": "air conditioner",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "电子游戏",
-        "desc": "",
-        "english": "video game",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "用完;耗尽",
-        "desc": "",
-        "english": "run out of",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "变质",
-        "desc": "",
-        "english": "go bad",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "电动汽车",
-        "desc": "",
-        "english": "electric car",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "电器",
-        "desc": "",
-        "english": "electrical appliance",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "关注;担忧",
-        "desc": "",
-        "english": "care about",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "气候变化",
-        "desc": "",
-        "english": "climate change",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit6"
-    },
-    {
-        "chinese": "参加;加入",
-        "desc": "",
-        "english": "join in",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "电池",
         "desc": "词性：名词",
         "english": "battery",
         "phonetic": "/ˈbætəri/",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "电;电能",
         "desc": "名词。记忆技巧：由electric（电的）+ity（名词后缀）构成，表示电的名词形式。",
         "english": "electricity",
         "phonetic": "/ɪˌlɛkˈtrɪsəti/",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "关闭(电灯、机器等)的",
         "desc": "adj. 记忆技巧：由switch（开关）和off（关闭）组合而成，指关闭的动作或状态。",
         "english": "switch-off",
         "phonetic": "",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "任务;活动",
         "desc": "名词。记忆技巧：t像任务列表，ask（询问）需要完成的任务，结合联想记忆。",
         "english": "task",
         "phonetic": "/tæsk/",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "一段时间;一会儿",
         "desc": "名词。记忆技巧：作名词时表示一段时间，与连词“当...时”含义相关，联想“一会儿”。",
         "english": "while",
         "phonetic": "/waɪl/",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "平板电脑",
         "desc": "名词。记忆技巧：table（桌子）+t，联想放在桌上使用的平板设备。",
         "english": "tablet",
         "phonetic": "/ˈtæblət/",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "冰箱",
         "desc": "名词。记忆技巧：refrigerator的缩写形式，简化记忆为fridge。",
         "english": "fridge",
         "phonetic": "/frɪdʒ/",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "酸奶",
         "desc": "名词。记忆技巧：音译词，发音接近“优格”，指酸奶。",
         "english": "yogurt",
         "phonetic": "/ˈjoʊɡərt/",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "公寓套房",
         "desc": "名词。记忆技巧：apart（分开）+ment（名词后缀），指分开的房间组成的公寓。",
         "english": "apartment",
         "phonetic": "/əˈpɑːrtmənt/",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "家庭的",
         "desc": "形容词/名词。记忆技巧：house（房子）+hold（持有），形容与家庭相关的，或指家庭。",
         "english": "household",
         "phonetic": "/ˈhaʊshoʊld/",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
     },
     {
         "chinese": "紧靠;碰;撞",
         "desc": "介词。记忆技巧：表示“反对、紧靠”，联想“靠在...上”的动作。",
         "english": "against",
         "phonetic": "/əˈɡenst/",
-        "tag": "junior/grade7b/unit6"
+        "tag": "junior/grade7b/unit6-a"
+    },
+    {
+        "chinese": "规则;条例",
+        "desc": "n. 规则；v. 统治；记忆技巧：“rule”发音似“入了”→进入规则体系",
+        "english": "rule",
+        "phonetic": "/ruːl/",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "气候",
+        "desc": "n. 气候；记忆技巧：“cli+mate”联想“气候影响生存环境”",
+        "english": "climate",
+        "phonetic": "/ˈklaɪmət/",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "数量;数额",
+        "desc": "n. 数量；v. 总计；记忆技巧：“a+mount”联想“一个数量单位”",
+        "english": "amount",
+        "phonetic": "/əˈmaʊnt/",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "驱动;推动(机器或车辆)",
+        "desc": "v. 驱动；n. 力量；记忆技巧：“power”直接关联“力量驱动机器”",
+        "english": "power",
+        "phonetic": "/ˈpaʊər/",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "电视机",
+        "desc": "n. 指可接收电视信号的设备",
+        "english": "television set",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "地标",
+        "desc": "n. 地标；记忆技巧：land（土地）+mark（标记）→土地上的标记→地标",
+        "english": "landmark",
+        "phonetic": "/ˈlændmɑːrk/",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "有相同的特征(或特点等)",
+        "desc": "",
+        "english": "have something in common",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "电灯泡",
+        "desc": "",
+        "english": "light bulb",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "空调机;空调设备",
+        "desc": "",
+        "english": "air conditioner",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "电子游戏",
+        "desc": "",
+        "english": "video game",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "用完;耗尽",
+        "desc": "",
+        "english": "run out of",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "变质",
+        "desc": "",
+        "english": "go bad",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "电动汽车",
+        "desc": "",
+        "english": "electric car",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "电器",
+        "desc": "",
+        "english": "electrical appliance",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "关注;担忧",
+        "desc": "",
+        "english": "care about",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "气候变化",
+        "desc": "",
+        "english": "climate change",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6-b"
+    },
+    {
+        "chinese": "参加;加入",
+        "desc": "",
+        "english": "join in",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit6-b"
     },
     {
         "chinese": "贡献",
         "desc": "名词。记忆技巧：contribute（贡献，动词）的名词形式，通过tion后缀构成。",
         "english": "contribution",
         "phonetic": "/ˌkɑːntrɪˈbjuːʃn/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "英雄",
         "desc": "名词。记忆技巧：发音与“英雄”相近，可联想“英雄”的英文表达。",
         "english": "hero",
         "phonetic": "/ˈhɪroʊ/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "先锋;先驱",
         "desc": "名词。记忆技巧：pio-可联想“开辟”，neer接近“前沿”，指开辟前沿的人即先锋。",
         "english": "pioneer",
         "phonetic": "/ˌpaɪəˈnɪr/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "科技",
         "desc": "名词。记忆技巧：tech（技术）+nology（学科后缀），表示技术相关的学科即科技。",
         "english": "technology",
         "phonetic": "/tekˈnɑːlədʒi/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "拿到;接到;收到",
         "desc": "动词。记忆技巧：re（再）+ceive（拿取），表示再次拿到即收到。",
         "english": "receive",
         "phonetic": "/rɪˈsiːv/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "工程学",
         "desc": "名词。记忆技巧：engine（引擎）+eering（工程学后缀），表示与引擎相关的工程学科。",
         "english": "engineering",
         "phonetic": "/ˌendʒɪˈnɪrɪŋ/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "授予;奖励;奖",
         "desc": "名词/动词。记忆技巧：作名词时指奖励，作动词指授予，联想“颁奖”场景。",
         "english": "award",
         "phonetic": "/əˈwɔːrd/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "教育",
         "desc": "名词。记忆技巧：educate（教育，动词）的名词形式，通过tion后缀构成。",
         "english": "education",
         "phonetic": "/ˌedʒuˈkeɪʃn/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "研究;调查",
         "desc": "n. 研究；调查。记忆技巧：re-（再）+ search（寻找）→ 反复寻找信息→研究",
         "english": "research",
         "phonetic": "/ˈriːsɜːrtʃ/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "（凭长期努力）达到(某目标、地位、标准)",
         "desc": "v. 达到。记忆技巧：a-（加强）+ chieve（联想chief“首领”）→ 努力成为领域首领→达成目标",
         "english": "achieve",
         "phonetic": "/əˈtʃiːv/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "受尊敬的",
         "desc": "adj. 受尊敬的。记忆技巧：well（很好地）+ respected（被尊敬的）→ 程度加深的尊敬",
         "english": "well-respected",
         "phonetic": "/ˌwel rɪˈspektɪd/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "建立(城镇或国家)",
         "desc": "v. 建立。记忆技巧：发音联想“奠基”，与“found”（创办）含义相关，如found a country（建国）",
         "english": "found",
         "phonetic": "/faʊnd/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "热切的;渴望的",
         "desc": "adj. 热切的。记忆技巧：ea发长音/iː/，ger联想“渴望”拼音首字母，表强烈愿望",
         "english": "eager",
         "phonetic": "/ˈiːɡər/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "增加;提高",
         "desc": "v. 增加；提高。记忆技巧：联想“升起”（raise a flag），高度/数量向上提升→增加",
         "english": "raise",
         "phonetic": "/reɪz/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "使命",
         "desc": "n. 使命。记忆技巧：发音接近“使命”谐音，词根miss-（发送）→ 被派遣完成的任务→使命",
         "english": "mission",
         "phonetic": "/ˈmɪʃn/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "荣誉;名誉",
         "desc": "n. 荣誉；名誉。记忆技巧：hon-（尊敬）+ our（我们的）→ 我们共同珍视的尊敬→荣誉",
         "english": "honour",
         "phonetic": "/ˈɑːnər/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "百姓;民众",
         "desc": "n./adj. 百姓；公众的。记忆技巧：pub（酒吧）是公众聚集场所→代指民众群体",
         "english": "public",
         "phonetic": "/ˈpʌblɪk/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "赞成;同意",
         "desc": "n. 赞成；同意。记忆技巧：ap-（加强）+ proval（来自prove“证明”）→ 证明可行后获得认可",
         "english": "approval",
         "phonetic": "/əˈpruːvl/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "赞扬;称赞;赞美",
         "desc": "词性：动词/名词。记忆技巧：p+raise（提升）→ 赞扬是提升他人的价值；联想“表扬”发音近似。",
         "english": "praise",
         "phonetic": "/preɪz/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "社会",
         "desc": "词性：名词。记忆技巧：soc(社会词根)+iety→ 社会是由群体组成的组织；发音“社会题”谐音联想。",
         "english": "society",
         "phonetic": "/səˈsaɪəti/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "女的;女性的",
         "desc": "词性：形容词/名词。记忆技巧：fe(女性词根)+male(男性)→ 与male对应，表女性；联想“费媚儿”谐音。",
         "english": "female",
         "phonetic": "/ˈfiːmeɪl/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "钦佩;仰慕",
         "desc": "词性：动词。记忆技巧：ad(加强)+mire(羡慕)→ 强烈羡慕即钦佩；联想“额的妈呀”夸张钦佩之情。",
         "english": "admire",
         "phonetic": "/ədˈmaɪər/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "激励;鼓舞",
         "desc": "词性：动词。记忆技巧：in(进入)+spire(呼吸)→ 吸入灵感，激励他人；“因思拜尔”谐音联想。",
         "english": "inspire",
         "phonetic": "/ɪnˈspaɪər/",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "通常的;平常的",
-        "desc": "词性：形容词。记忆技巧：reg(规则词根)+ular→ 有规则的即通常的；“瑞哥了”谐音联想规律。",
-        "english": "regular",
-        "phonetic": "/ˈreɡjələr/",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "养活;提供食物",
-        "desc": "词性：动词。记忆技巧：发音“ feed”与“ food”相关，喂养食物；过去式fed特殊变化需记忆。",
-        "english": "feed",
-        "phonetic": "/fiːd/",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "空降消防员",
-        "desc": "词性：名词（合成词）。记忆技巧：smoke(烟)+jumper(跳跃者)→ 跳跃进入烟中的消防员，特指空降灭火人员。",
-        "english": "smokejumper",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "茂密的",
-        "desc": "词性：形容词。记忆技巧：发音“θɪk”与“ thick”（厚的）同源，茂密即厚密；简单词汇直接记忆。",
-        "english": "thick",
-        "phonetic": "/θɪk/",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "某个;特定的",
-        "desc": "词性：形容词。记忆技巧：cert(确定词根)+ain→ 确定的即特定的；“色疼”谐音联想特定感受。",
-        "english": "certain",
-        "phonetic": "/ˈsɜːrtn/",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "杀死;导致死亡",
-        "desc": "词性：动词。记忆技巧：发音“ kill”与“ 砍”动作相关，杀死即砍断生命；简单词汇直接记忆。",
-        "english": "kill",
-        "phonetic": "/kɪl/",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "工具",
-        "desc": "词性：n. 工具。记忆技巧：联想工具的实用功能，如常用工具",
-        "english": "tool",
-        "phonetic": "/tuːl/",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "失去生命的;枯萎的",
-        "desc": "词性：adj. 失去生命的；枯萎的。记忆技巧：发音简单，联想“死亡”的状态",
-        "english": "dead",
-        "phonetic": "/ded/",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "勇敢的;无畏的",
-        "desc": "词性：adj. 勇敢的。记忆技巧：联想“brave heart”勇敢的心",
-        "english": "brave",
-        "phonetic": "/breɪv/",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "健壮的;坚韧不拔的",
-        "desc": "词性：adj. 健壮的；坚韧不拔的。记忆技巧：tough如“塔夫”，像塔一样坚固",
-        "english": "tough",
-        "phonetic": "/tʌf/",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "健壮的;健康的",
-        "desc": "词性：adj. 健壮的；健康的。记忆技巧：保持健康需要“fit”",
-        "english": "fit",
-        "phonetic": "/fɪt/",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "否则;不然",
-        "desc": "词性：adv./conj. 否则；不然。记忆技巧：other（其他）+ wise（方式）→ 其他方式→否则",
-        "english": "otherwise",
-        "phonetic": "/ˈʌðərwaɪz/",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "生存;存活",
-        "desc": "词性：v. 生存；存活。记忆技巧：sur-（超过）+ vive（生命）→ 超过生命→存活",
-        "english": "survive",
-        "phonetic": "/sərˈvaɪv/",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "骄傲的;自豪的",
-        "desc": "词性：adj. 骄傲的；自豪的。记忆技巧：为成就感到自豪",
-        "english": "proud",
-        "phonetic": "/praʊd/",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "楷模;行为榜样",
-        "desc": "词组：楷模；行为榜样",
-        "english": "role model",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "在……领域",
-        "desc": "短语：在……领域",
-        "english": "in the field of",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
     },
     {
         "chinese": "花(时间);度过",
         "desc": "动词。记忆技巧：s+pend（花费），常与time/money搭配，表示花费时间或金钱。",
         "english": "spend",
         "phonetic": "/spend/",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-a"
+    },
+    {
+        "chinese": "通常的;平常的",
+        "desc": "词性：形容词。记忆技巧：reg(规则词根)+ular→ 有规则的即通常的；“瑞哥了”谐音联想规律。",
+        "english": "regular",
+        "phonetic": "/ˈreɡjələr/",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "养活;提供食物",
+        "desc": "词性：动词。记忆技巧：发音“ feed”与“ food”相关，喂养食物；过去式fed特殊变化需记忆。",
+        "english": "feed",
+        "phonetic": "/fiːd/",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "空降消防员",
+        "desc": "词性：名词（合成词）。记忆技巧：smoke(烟)+jumper(跳跃者)→ 跳跃进入烟中的消防员，特指空降灭火人员。",
+        "english": "smokejumper",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "茂密的",
+        "desc": "词性：形容词。记忆技巧：发音“θɪk”与“ thick”（厚的）同源，茂密即厚密；简单词汇直接记忆。",
+        "english": "thick",
+        "phonetic": "/θɪk/",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "某个;特定的",
+        "desc": "词性：形容词。记忆技巧：cert(确定词根)+ain→ 确定的即特定的；“色疼”谐音联想特定感受。",
+        "english": "certain",
+        "phonetic": "/ˈsɜːrtn/",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "杀死;导致死亡",
+        "desc": "词性：动词。记忆技巧：发音“ kill”与“ 砍”动作相关，杀死即砍断生命；简单词汇直接记忆。",
+        "english": "kill",
+        "phonetic": "/kɪl/",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "工具",
+        "desc": "词性：n. 工具。记忆技巧：联想工具的实用功能，如常用工具",
+        "english": "tool",
+        "phonetic": "/tuːl/",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "失去生命的;枯萎的",
+        "desc": "词性：adj. 失去生命的；枯萎的。记忆技巧：发音简单，联想“死亡”的状态",
+        "english": "dead",
+        "phonetic": "/ded/",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "勇敢的;无畏的",
+        "desc": "词性：adj. 勇敢的。记忆技巧：联想“brave heart”勇敢的心",
+        "english": "brave",
+        "phonetic": "/breɪv/",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "健壮的;坚韧不拔的",
+        "desc": "词性：adj. 健壮的；坚韧不拔的。记忆技巧：tough如“塔夫”，像塔一样坚固",
+        "english": "tough",
+        "phonetic": "/tʌf/",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "健壮的;健康的",
+        "desc": "词性：adj. 健壮的；健康的。记忆技巧：保持健康需要“fit”",
+        "english": "fit",
+        "phonetic": "/fɪt/",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "否则;不然",
+        "desc": "词性：adv./conj. 否则；不然。记忆技巧：other（其他）+ wise（方式）→ 其他方式→否则",
+        "english": "otherwise",
+        "phonetic": "/ˈʌðərwaɪz/",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "生存;存活",
+        "desc": "词性：v. 生存；存活。记忆技巧：sur-（超过）+ vive（生命）→ 超过生命→存活",
+        "english": "survive",
+        "phonetic": "/sərˈvaɪv/",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "骄傲的;自豪的",
+        "desc": "词性：adj. 骄傲的；自豪的。记忆技巧：为成就感到自豪",
+        "english": "proud",
+        "phonetic": "/praʊd/",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "楷模;行为榜样",
+        "desc": "词组：楷模；行为榜样",
+        "english": "role model",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "在……领域",
+        "desc": "短语：在……领域",
+        "english": "in the field of",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit7-b"
     },
     {
         "chinese": "大学入学考试",
         "desc": "词组：由college（大学）、entrance（入学）、examination（考试）组成，指高等教育入学考核",
         "english": "college entrance examination",
         "phonetic": "",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-b"
     },
     {
         "chinese": "敬仰;钦佩",
         "desc": "动词短语：look（看）+ up（向上）+ to（朝向）→ 抬头仰望→表示尊敬",
         "english": "look up to",
         "phonetic": "",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-b"
     },
     {
         "chinese": "糖丸",
         "desc": "词组：sugar（糖）+ pill（药丸）→ 糖制的药丸，常指安慰剂",
         "english": "sugar pill",
         "phonetic": "",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-b"
     },
     {
         "chinese": "总工程师",
         "desc": "词组：chief（主要的）+ engineer（工程师）→ 工程领域的主要负责人",
         "english": "chief engineer",
         "phonetic": "",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-b"
     },
     {
         "chinese": "熄灭;扑灭",
         "desc": "动词短语：put（放置）+ out（向外）→ 将火向外转移→扑灭",
         "english": "put out",
         "phonetic": "",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-b"
     },
     {
         "chinese": "能够",
         "desc": "情态短语：be动词+able（有能力的）+to（不定式符号）→ 表示具备做某事的能力",
         "english": "be able to",
         "phonetic": "",
-        "tag": "junior/grade7b/unit7"
-    },
-    {
-        "chinese": "为……而自豪",
-        "desc": "短语：be（是）+ proud（自豪的）+ of（关于）→ 对某人/事持有自豪情感",
-        "english": "be proud of",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-b"
     },
     {
         "chinese": "献身;致力",
         "desc": "短语：献身；致力",
         "english": "devote yourself to",
         "phonetic": "",
-        "tag": "junior/grade7b/unit7"
+        "tag": "junior/grade7b/unit7-b"
+    },
+    {
+        "chinese": "为……而自豪",
+        "desc": "短语：be（是）+ proud（自豪的）+ of（关于）→ 对某人/事持有自豪情感",
+        "english": "be proud of",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit7-b"
     },
     {
         "chinese": "可能",
         "desc": "adj. 可能的。记忆技巧：pos-（放置）+ sible（能…的）→ 能够被实现放置的→可能的",
         "english": "possible",
         "phonetic": "/ˈpɑːsəbl/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "运动员",
         "desc": "n. 运动员。记忆技巧：a-（一个）+ thlete（联想“体力”）→ 具备超强体力的人→运动员",
         "english": "athlete",
         "phonetic": "/ˈæθliːt/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "生物学家",
         "desc": "n. 生物学家。记忆技巧：bio-（生命）+ logist（学家）→ 研究生命科学的学者→生物学家",
         "english": "biologist",
         "phonetic": "/baɪˈɑːlədʒɪst/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "乐器;仪器",
         "desc": "词性：名词。记忆技巧：in+stru(结构)+ment→ 仪器是有复杂结构的工具；联想“乐器”需要结构化演奏。",
         "english": "instrument",
         "phonetic": "/ˈɪnstrəmənt/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "兴趣;业余爱好",
         "desc": "词性：名词/动词。记忆技巧：inter(在…之间)+est→ 中间的事物引起兴趣；“因吹死他”谐音联想。",
         "english": "interest",
         "phonetic": "/ˈɪntrəst/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "生涯;职业",
         "desc": "词性：名词。记忆技巧：care(关心)+er→ 关心的事业即职业；发音“凯里儿”联想职业规划。",
         "english": "career",
         "phonetic": "/kəˈrɪr/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "一生;终身",
         "desc": "词性：名词。记忆技巧：life(生命)+time(时间)→ 生命的时间即一生；合成词直观记忆。",
         "english": "lifetime",
         "phonetic": "/ˈlaɪftaɪm/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "钻石",
         "desc": "词性：名词。记忆技巧：diam(钻石形状)+ond→ 联想钻石的菱形结构；“戴蒙德”音译记忆。",
         "english": "diamond",
         "phonetic": "/ˈdaɪəmənd/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "腰带",
         "desc": "词性：名词。记忆技巧：发音“ belt”与“ belt”动作相关，系腰带；简单词汇直接记忆。",
         "english": "belt",
         "phonetic": "/belt/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "冲;奔;飞驰",
         "desc": "词性：动词。记忆技巧：联想“射击”动作迅猛，引申为冲奔；“树特”谐音联想快速。",
         "english": "shoot",
         "phonetic": "/ʃuːt/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "极其;极端;非常",
         "desc": "词性：副词。记忆技巧：extreme(极端的)+ly→ 副词后缀表程度；“爱克斯吹母力”谐音联想。",
         "english": "extremely",
         "phonetic": "/ɪkˈstriːmli/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "求知欲强的;好奇的",
         "desc": "词性：形容词。记忆技巧：cur(关心词根)+ious→ 关心事物即好奇的；“Q儿瑞饿斯”谐音联想。",
         "english": "curious",
         "phonetic": "/ˈkjʊriəs/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "增长;增多;增加",
         "desc": "词性：v. 增长；n. 增加。记忆技巧：in-（向内）+ crease（增长）→ 向内增长→增加",
         "english": "increase",
         "phonetic": "/ɪnˈkriːs/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "主持",
         "desc": "词性：v. 主持；n. 主人。记忆技巧：主持节目时是“主人”角色",
         "english": "host",
         "phonetic": "/hoʊst/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "在另一边;在(或向)更远处",
         "desc": "词性：prep./adv. 在另一边；更远处。记忆技巧：be-yond（那边）→ 在那边",
         "english": "beyond",
         "phonetic": "/bɪˈjɑːnd/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "观众;听众",
         "desc": "词性：n. 观众；听众。记忆技巧：audi（听）+ ence→听的人→听众",
         "english": "audience",
         "phonetic": "/ˈɑːdiəns/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "充满趣味的;令人兴奋的",
         "desc": "词性：adj. 充满趣味的；令人兴奋的。记忆技巧：live（活的）+ ly→活泼地→充满趣味",
         "english": "lively",
         "phonetic": "/ˈlaɪvli/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-a"
     },
     {
         "chinese": "事实上",
         "desc": "词性：adv. 事实上。记忆技巧：actual（实际的）+ ly→实际上→事实上",
         "english": "actually",
         "phonetic": "/ˈæktʃuəli/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-b"
     },
     {
         "chinese": "驾驶(或乘坐)帆船航行",
         "desc": "词性：v. 驾驶帆船航行；n. 帆。记忆技巧：帆船航行需要帆（sail）",
         "english": "sail",
         "phonetic": "/seɪl/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-b"
     },
     {
         "chinese": "才能;本领",
         "desc": "词性：n. 才能；本领。记忆技巧：able（能够的）+ ity→能力→才能",
         "english": "ability",
         "phonetic": "/əˈbɪləti/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-b"
     },
     {
         "chinese": "评论",
         "desc": "词性：v./n. 记忆技巧：re-（再次）+ view（看），再次看即评论",
         "english": "review",
         "phonetic": "/rɪˈvjuː/",
-        "tag": "junior/grade7b/unit8"
-    },
-    {
-        "chinese": "讲座;讲课",
-        "desc": "词性：n. 记忆技巧：lect-（讲）+ ure（名词后缀），表示讲课或讲座",
-        "english": "lecture",
-        "phonetic": "/ˈlektʃər/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-b"
     },
     {
         "chinese": "演出;表演;演讲",
         "desc": "词性：v. 记忆技巧：per-（完全）+ form（形成），完全形成即表演",
         "english": "perform",
         "phonetic": "/pərˈfɔːrm/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-b"
     },
     {
         "chinese": "吻",
         "desc": "词性：v./n. 记忆技巧：发音简单，直接记忆",
         "english": "kiss",
         "phonetic": "/kɪs/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-b"
     },
     {
         "chinese": "拥抱;搂抱",
         "desc": "词性：v./n. 记忆技巧：发音与“hug”相似，象形双臂环绕",
         "english": "hug",
         "phonetic": "/hʌɡ/",
-        "tag": "junior/grade7b/unit8"
-    },
-    {
-        "chinese": "外出",
-        "desc": "",
-        "english": "go outside",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-b"
     },
     {
         "chinese": "方法;办法",
         "desc": "词性：n. 记忆技巧：联想“我的方法”（my method）",
         "english": "method",
         "phonetic": "/ˈmeθəd/",
-        "tag": "junior/grade7b/unit8"
-    },
-    {
-        "chinese": "越来越多",
-        "desc": "",
-        "english": "more and more",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-b"
     },
     {
         "chinese": "将……比作",
         "desc": "词性：v. 记忆技巧：com-（一起）+ pare（准备），一起准备比较",
         "english": "compare",
         "phonetic": "/kəmˈper/",
-        "tag": "junior/grade7b/unit8"
-    },
-    {
-        "chinese": "肢体语言",
-        "desc": "",
-        "english": "body language",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-b"
     },
     {
         "chinese": "现今;现在;目前",
         "desc": "词性：adv. 记忆技巧：now（现在）+ a + days（日子），现在的日子即现今",
         "english": "nowadays",
         "phonetic": "/ˈnaʊədeɪz/",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-b"
     },
     {
-        "chinese": "梦想",
-        "desc": "",
-        "english": "dream of",
-        "phonetic": "",
-        "tag": "junior/grade7b/unit8"
+        "chinese": "讲座;讲课",
+        "desc": "词性：n. 记忆技巧：lect-（讲）+ ure（名词后缀），表示讲课或讲座",
+        "english": "lecture",
+        "phonetic": "/ˈlektʃər/",
+        "tag": "junior/grade7b/unit8-b"
     },
     {
-        "chinese": "实现;成为现实",
+        "chinese": "外出",
         "desc": "",
-        "english": "come true",
+        "english": "go outside",
         "phonetic": "",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-b"
     },
     {
         "chinese": "人",
         "desc": "",
         "english": "human being",
         "phonetic": "",
-        "tag": "junior/grade7b/unit8"
+        "tag": "junior/grade7b/unit8-b"
+    },
+    {
+        "chinese": "越来越多",
+        "desc": "",
+        "english": "more and more",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit8-b"
+    },
+    {
+        "chinese": "肢体语言",
+        "desc": "",
+        "english": "body language",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit8-b"
+    },
+    {
+        "chinese": "梦想",
+        "desc": "",
+        "english": "dream of",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit8-b"
+    },
+    {
+        "chinese": "实现;成为现实",
+        "desc": "",
+        "english": "come true",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit8-b"
     },
     {
         "english": "blame",
@@ -33735,29 +33735,53 @@ var words = [
             option.value = 'junior/grade7a/irregular-verbs/51-73';
             option.textContent = 'junior/grade7a/irregular-verbs/51-73';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade7b/unit1';
-            option.textContent = 'junior/grade7b/unit1';
+            option.value = 'junior/grade7b/unit1-a';
+            option.textContent = 'junior/grade7b/unit1-a';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade7b/unit2';
-            option.textContent = 'junior/grade7b/unit2';
+            option.value = 'junior/grade7b/unit1-b';
+            option.textContent = 'junior/grade7b/unit1-b';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade7b/unit3';
-            option.textContent = 'junior/grade7b/unit3';
+            option.value = 'junior/grade7b/unit2-a';
+            option.textContent = 'junior/grade7b/unit2-a';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade7b/unit4';
-            option.textContent = 'junior/grade7b/unit4';
+            option.value = 'junior/grade7b/unit2-b';
+            option.textContent = 'junior/grade7b/unit2-b';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade7b/unit5';
-            option.textContent = 'junior/grade7b/unit5';
+            option.value = 'junior/grade7b/unit3-a';
+            option.textContent = 'junior/grade7b/unit3-a';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade7b/unit6';
-            option.textContent = 'junior/grade7b/unit6';
+            option.value = 'junior/grade7b/unit3-b';
+            option.textContent = 'junior/grade7b/unit3-b';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade7b/unit7';
-            option.textContent = 'junior/grade7b/unit7';
+            option.value = 'junior/grade7b/unit4-a';
+            option.textContent = 'junior/grade7b/unit4-a';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade7b/unit8';
-            option.textContent = 'junior/grade7b/unit8';
+            option.value = 'junior/grade7b/unit4-b';
+            option.textContent = 'junior/grade7b/unit4-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit5-a';
+            option.textContent = 'junior/grade7b/unit5-a';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit5-b';
+            option.textContent = 'junior/grade7b/unit5-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit6-a';
+            option.textContent = 'junior/grade7b/unit6-a';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit6-b';
+            option.textContent = 'junior/grade7b/unit6-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit7-a';
+            option.textContent = 'junior/grade7b/unit7-a';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit7-b';
+            option.textContent = 'junior/grade7b/unit7-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit8-a';
+            option.textContent = 'junior/grade7b/unit8-a';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit8-b';
+            option.textContent = 'junior/grade7b/unit8-b';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
