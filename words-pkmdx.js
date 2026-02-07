@@ -5264,6 +5264,454 @@ var words = [
         "tag": "A2/60"
     },
     {
+        "chinese": "篮球",
+        "desc": "n. 名词；记忆技巧：basket（篮子）+ ball（球）→ 篮球",
+        "english": "basketball",
+        "phonetic": "/ˈbæskɪtbɔːl/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "田径运动",
+        "desc": "n. 名词；记忆技巧：athlet（运动员）+ ics（学科/活动）→ 田径运动",
+        "english": "athletics",
+        "phonetic": "/æθˈletɪks/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "网球",
+        "desc": "n. 名词；记忆技巧：发音联想“台尼斯”，联想网球运动",
+        "english": "tennis",
+        "phonetic": "/ˈtenɪs/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "跑道",
+        "desc": "n. 名词；记忆技巧：联想轨道形状，track即跑道",
+        "english": "track",
+        "phonetic": "/træk/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "赛马",
+        "desc": "",
+        "english": "horse racing",
+        "phonetic": "",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "体操",
+        "desc": "n. 名词；记忆技巧：gym（体育馆）+ nastics → 体操",
+        "english": "gymnastics",
+        "phonetic": "/dʒɪmˈnæstɪks/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "游泳",
+        "desc": "n. 名词（动名词）；记忆技巧：swim（游泳）+ -ing → 游泳运动",
+        "english": "swimming",
+        "phonetic": "/ˈswɪmɪŋ/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "赛跑；比赛",
+        "desc": "n./v. 名词/动词；记忆技巧：发音联想快速跑动，race即赛跑",
+        "english": "race",
+        "phonetic": "/reɪs/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "骑手",
+        "desc": "n. 名词；记忆技巧：ride（骑）+ r → 骑手",
+        "english": "rider",
+        "phonetic": "/ˈraɪdər/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "乒乓球",
+        "desc": "",
+        "english": "table tennis",
+        "phonetic": "",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "比赛；竞赛",
+        "desc": "n. 名词；记忆技巧：匹配对抗的比赛，match",
+        "english": "match",
+        "phonetic": "/mætʃ/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "羽毛球",
+        "desc": "n. 名词；记忆技巧：发音联想“拜德明顿”，即羽毛球",
+        "english": "badminton",
+        "phonetic": "/ˈbædmɪntən/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "排球",
+        "desc": "n. 名词；记忆技巧：volley（截击）+ ball → 排球",
+        "english": "volleyball",
+        "phonetic": "/ˈvɑːlibɔːl/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "冲浪",
+        "desc": "n. 名词（动名词）；记忆技巧：surf（冲浪）+ -ing → 冲浪",
+        "english": "surfing",
+        "phonetic": "/ˈsɜːrfɪŋ/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "骑自行车运动",
+        "desc": "n. 名词（动名词）；记忆技巧：cycle（骑车）+ -ing → 骑自行车运动",
+        "english": "cycling",
+        "phonetic": "/ˈsaɪklɪŋ/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "击剑",
+        "desc": "n. 名词；记忆技巧：fence（击剑）+ -ing → 击剑",
+        "english": "fencing",
+        "phonetic": "/ˈfensɪŋ/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "充满",
+        "desc": "",
+        "english": "be full of",
+        "phonetic": "",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "冠军",
+        "desc": "n. 名词；记忆技巧：champ（冠军）+ ion → 冠军",
+        "english": "champion",
+        "phonetic": "/ˈtʃæmpiən/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "记分牌",
+        "desc": "n. 名词；记忆技巧：score（分数）+ board（板）→ 记分牌",
+        "english": "scoreboard",
+        "phonetic": "/ˈskɔːrbɔːrd/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "正确地",
+        "desc": "adv. 副词；记忆技巧：correct（正确的）+ ly → 正确地",
+        "english": "correctly",
+        "phonetic": "/kəˈrektli/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "奥林匹克运动会",
+        "desc": "词组，指奥林匹克运动会",
+        "english": "Olympic Games",
+        "phonetic": "",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "成就",
+        "desc": "n. 记忆技巧：achieve（实现）+ment（名词后缀）→ 成就",
+        "english": "achievement",
+        "phonetic": "/əˈtʃiːvmənt/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "时刻",
+        "desc": "n. 记忆技巧：联想“mom（妈妈）的瞬间很重要”→ 时刻",
+        "english": "moment",
+        "phonetic": "/ˈmoʊmənt/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "得分；分数",
+        "desc": "n./v. 记忆技巧：s+core（核心）→ 核心的数字→得分；分数",
+        "english": "score",
+        "phonetic": "/skɔːr/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "运动员",
+        "desc": "n. 记忆技巧：athl（运动）+ete（人）→ 运动员",
+        "english": "athlete",
+        "phonetic": "/ˈæθliːt/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "少于",
+        "desc": "词组，表示数量或程度上少于",
+        "english": "less than",
+        "phonetic": "",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "体育场",
+        "desc": "n. 记忆技巧：sta（站）+dium→ 人们站着的地方→体育场",
+        "english": "stadium",
+        "phonetic": "/ˈsteɪdiəm/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "肩膀",
+        "desc": "n. 记忆技巧：shoul（谐音“收”）+der→ 收在肩膀上→肩膀",
+        "english": "shoulder",
+        "phonetic": "/ˈʃoʊldər/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "也",
+        "desc": "词组，意为“也”，用于句末",
+        "english": "as well",
+        "phonetic": "",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "发令枪",
+        "desc": "词组，指比赛开始时的发令枪",
+        "english": "starting gun",
+        "phonetic": "",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "响起；发射",
+        "desc": "词组，意为“响起；发射”，如枪声响起",
+        "english": "go off",
+        "phonetic": "",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "短跑",
+        "desc": "v./n. 记忆技巧：s+print（打印）→ 快速打印般快跑→短跑",
+        "english": "sprint",
+        "phonetic": "/sprɪnt/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "作为；像",
+        "desc": "prep./adv. 记忆技巧：简单介词，意为“作为；像”",
+        "english": "as",
+        "phonetic": "/æz/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "举办；握住",
+        "desc": "v. 记忆技巧：h+old（老的）→ 握住老物件→举办；握住",
+        "english": "hold",
+        "phonetic": "/hoʊld/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "记录",
+        "desc": "n./v. 记忆技巧：re（再）+cord（线）→ 再次用线记录→记录（注：动词发音/rɪˈkɔːrd/）",
+        "english": "record",
+        "phonetic": "/ˈrekərd/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "着陆；土地",
+        "desc": "n./v. 记忆技巧：简单词，意为“着陆；土地”",
+        "english": "land",
+        "phonetic": "/lænd/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "人群",
+        "desc": "n./v. 记忆技巧：c+rowd（人群）→ 人群聚集→人群",
+        "english": "crowd",
+        "phonetic": "/kraʊd/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "当前；目前",
+        "desc": "adv. 记忆技巧：current（当前的）+ly（副词后缀）→ 当前；目前",
+        "english": "currently",
+        "phonetic": "/ˈkɜːrəntli/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "短跑运动员",
+        "desc": "n. 记忆技巧：sprint（短跑）+er（人）→ 短跑运动员",
+        "english": "sprinter",
+        "phonetic": "/ˈsprɪntər/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "锦标赛",
+        "desc": "n. 记忆技巧：champion（冠军）+ship（抽象名词后缀）→ 锦标赛",
+        "english": "championship",
+        "phonetic": "/ˈtʃæmpiənʃɪp/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "体操运动员",
+        "desc": "词性：名词(n.)；记忆技巧：gymn（体操）+ast（表示人），从事体操的人即体操运动员。",
+        "english": "gymnast",
+        "phonetic": "/ˈdʒɪmnæst/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "决赛；最终的",
+        "desc": "词性：形容词(adj.)/名词(n.)；记忆技巧：联想“最终的决赛”，作为形容词表示最后的，名词指决赛。",
+        "english": "final",
+        "phonetic": "/ˈfaɪnl/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "英里",
+        "desc": "词性：名词(n.)；记忆技巧：与“米(meter)”对比，英里是更长的距离单位，1英里约1.6公里。",
+        "english": "mile",
+        "phonetic": "/maɪl/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "圈",
+        "desc": "词性：名词(n.)；记忆技巧：联想跑道上的一圈，lap也有“大腿”的意思，跑圈时大腿在动。",
+        "english": "lap",
+        "phonetic": "/læp/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "裁判；判断",
+        "desc": "词性：动词(v.)/名词(n.)；记忆技巧：作为动词“判断”，名词“裁判”，裁判的工作就是判断。",
+        "english": "judge",
+        "phonetic": "/dʒʌdʒ/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "组织",
+        "desc": "词性：动词(v.)；记忆技巧：organ（器官/机构）+ise（动词后缀），将事物像器官一样组织起来。",
+        "english": "organise",
+        "phonetic": "/ˈɔːrɡənaɪz/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "挫伤的；擦伤的",
+        "desc": "词性：形容词(adj.)；记忆技巧：来自名词contusion（挫伤），ed结尾形容词，表示“受挫伤的”。",
+        "english": "contused",
+        "phonetic": "/kənˈtjuːzd/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "不能展示",
+        "desc": "",
+        "english": "be not able to show",
+        "phonetic": "",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "不可能的",
+        "desc": "词性：形容词(adj.)；记忆技巧：im-（否定前缀）+possible（可能的），表示“不可能的”。",
+        "english": "impossible",
+        "phonetic": "/ɪmˈpɑːsəbl/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "网",
+        "desc": "词性：名词(n.)；记忆技巧：简单词汇，联想“网球网(tennis net)”或“渔网(fishing net)”。",
+        "english": "net",
+        "phonetic": "/net/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "金牌",
+        "desc": "",
+        "english": "gold medal",
+        "phonetic": "",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "双倍；双打",
+        "desc": "词性：形容词(adj.)/动词(v.)/名词(n.)；记忆技巧：doub-（二、双），如double the size（双倍大小），双打比赛(double match)。",
+        "english": "double",
+        "phonetic": "/ˈdʌbl/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "专家；能手",
+        "desc": "词性：名词(n.)/形容词(adj.)；记忆技巧：ex-（出）+pert（来自part，部分），突出的部分即专家。",
+        "english": "expert",
+        "phonetic": "/ˈekspɜːrt/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "队友",
+        "desc": "词性：名词(n.)；记忆技巧：team（团队）+mate（伙伴），团队中的伙伴即队友。",
+        "english": "teammate",
+        "phonetic": "/ˈtiːmmeɪt/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "公告；宣布",
+        "desc": "词性：名词(n.)；记忆技巧：announce（动词，宣布）+ment（名词后缀），表示“宣布的内容”即公告。",
+        "english": "announcement",
+        "phonetic": "/əˈnaʊnsmənt/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "疯狂的",
+        "desc": "词性：形容词(adj.)；记忆技巧：craze（名词，狂热）+y（形容词后缀），表示“狂热的，疯狂的”。",
+        "english": "crazy",
+        "phonetic": "/ˈkreɪzi/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "躺；说谎",
+        "desc": "词性：动词(v.)；记忆技巧：注意多义，“躺”的过去式lay，过去分词lain；“说谎”的过去式和过去分词均为lied。",
+        "english": "lie",
+        "phonetic": "/laɪ/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "酒吧；栏",
+        "desc": "词性：名词(n.)；记忆技巧：多义词，酒吧(bar)里常有栏杆(bar)，联想记忆。",
+        "english": "bar",
+        "phonetic": "/bɑːr/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "柔道",
+        "desc": "词性：名词(n.)；记忆技巧：日语外来词，直接音译“柔道”，一项格斗运动。",
+        "english": "Judo",
+        "phonetic": "/ˈdʒuːdoʊ/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "三倍；三重",
+        "desc": "词性：形容词(adj.)/动词(v.)/名词(n.)；记忆技巧：tri-（三）+ple（倍），如triple the amount（三倍数量）。",
+        "english": "triple",
+        "phonetic": "/ˈtrɪpl/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "接力赛",
+        "desc": "",
+        "english": "relay race",
+        "phonetic": "",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "欢呼",
+        "desc": "v. 欢呼（现在分词）；n. 欢呼；记忆技巧：cheer（欢呼）+ing（现在分词后缀）",
+        "english": "cheering",
+        "phonetic": "/ˈtʃɪrɪŋ/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "筋疲力尽的",
+        "desc": "adj. 筋疲力尽的；记忆技巧：ex-（出）+haust（抽干）+ed（形容词后缀）→ 抽干能量的→筋疲力尽的",
+        "english": "exhausted",
+        "phonetic": "/ɪɡˈzɔːstɪd/",
+        "tag": "A2/74-75"
+    },
+    {
+        "chinese": "紧张地",
+        "desc": "adv. 紧张地；记忆技巧：nervous（紧张的，adj.）+ly（副词后缀）→ 紧张地",
+        "english": "nervously",
+        "phonetic": "/ˈnɜːrvəsli/",
+        "tag": "A2/74-75"
+    },
+    {
         "chinese": "墨西哥",
         "desc": "联想记忆：Me（我）+xi（西）+co（可），我去西可（类似音译）的地方就是墨西哥。",
         "english": "Mexico",
@@ -33680,6 +34128,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/60';
             option.textContent = 'A2/60';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'A2/74-75';
+            option.textContent = 'A2/74-75';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'A2/0/lesson1';
             option.textContent = 'A2/0/lesson1';
