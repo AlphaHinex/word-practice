@@ -14287,6 +14287,104 @@ var words = [
         "tag": "junior/grade7b/unit4-b"
     },
     {
+        "chinese": "盲人",
+        "desc": "词性：形容词/动词/名词；记忆技巧：联想“失明的，看不见的”",
+        "english": "blind",
+        "phonetic": "/blaɪnd/",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "失明",
+        "desc": "词性：名词；记忆技巧：blind（盲的）+ness（名词后缀，表状态）",
+        "english": "blindness",
+        "phonetic": "/ˈblaɪndnəs/",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "盲目地",
+        "desc": "词性：副词；记忆技巧：blind（盲的）+ly（副词后缀）",
+        "english": "blindly",
+        "phonetic": "/ˈblaɪndli/",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "羊毛",
+        "desc": "词性：名词；记忆技巧：联想“羊毛制品”",
+        "english": "wool",
+        "phonetic": "/wʊl/",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "羊毛的",
+        "desc": "词性：形容词；记忆技巧：wool（羊毛）+en（形容词后缀）",
+        "english": "woolen",
+        "phonetic": "/ˈwʊlən/",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "收到，接待",
+        "desc": "词性：动词；记忆技巧：re（再）+ceive（拿取）→ 再次拿取→收到",
+        "english": "receive",
+        "phonetic": "/rɪˈsiːv/",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "接待处",
+        "desc": "词性：名词；记忆技巧：receive（收到）+tion（名词后缀）",
+        "english": "reception",
+        "phonetic": "/rɪˈsepʃn/",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "接待员",
+        "desc": "词性：名词；记忆技巧：reception（接待处）+ist（表人）→ 接待员",
+        "english": "receptionist",
+        "phonetic": "/rɪˈsepʃənɪst/",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "允许",
+        "desc": "词性：动词；记忆技巧：联想“允许某人做某事”",
+        "english": "allow",
+        "phonetic": "/əˈlaʊ/",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "允许做",
+        "desc": "词组；记忆技巧：allow的被动结构，后接不定式",
+        "english": "allowed to do",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "允许做",
+        "desc": "词组；记忆技巧：allow后接动名词作宾语",
+        "english": "allow doing",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "睡着",
+        "desc": "词性：形容词；记忆技巧：a（加强）+sleep（睡觉）→ 睡着的",
+        "english": "asleep",
+        "phonetic": "/əˈsliːp/",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "醒着",
+        "desc": "词性：形容词/动词；记忆技巧：a（加强）+wake（醒）→ 醒着的",
+        "english": "awake",
+        "phonetic": "/əˈweɪk/",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "吸烟，烟",
+        "desc": "词性：动词/名词；记忆技巧：联想“吸烟产生烟”",
+        "english": "smoke",
+        "phonetic": "/smoʊk/",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
         "chinese": "每天的;日常的",
         "desc": "词性：形容词(adj.)。记忆技巧：every（每个）+day（天），每天的日常。",
         "english": "everyday",
@@ -35848,6 +35946,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit4-b';
             option.textContent = 'junior/grade7b/unit4-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit4-n1';
+            option.textContent = 'junior/grade7b/unit4-n1';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit5-a';
             option.textContent = 'junior/grade7b/unit5-a';
