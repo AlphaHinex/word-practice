@@ -14385,6 +14385,41 @@ var words = [
         "tag": "junior/grade7b/unit4-n1"
     },
     {
+        "chinese": "服务",
+        "desc": "词性：n. 服务；v. 提供服务。记忆技巧：词根serv-表示服务，如servant（仆人）与service同源",
+        "english": "service",
+        "phonetic": "/ˈsɜːrvɪs/",
+        "tag": "junior/grade7b/unit4-n2"
+    },
+    {
+        "chinese": "主人",
+        "desc": "词性：n. 主人；v. 主持。记忆技巧：与guest（客人）相对，可联想“主人(host)主持(host)聚会”",
+        "english": "host",
+        "phonetic": "/hoʊst/",
+        "tag": "junior/grade7b/unit4-n2"
+    },
+    {
+        "chinese": "带领",
+        "desc": "词性：v. 带领；n. 领导。记忆技巧：短语lead the way（带路），过去式为led，注意发音变化",
+        "english": "lead",
+        "phonetic": "/liːd/",
+        "tag": "junior/grade7b/unit4-n2"
+    },
+    {
+        "chinese": "导致",
+        "desc": "记忆技巧：动词短语，表示“导致”，to后接结果，如lead to problems（导致问题）",
+        "english": "lead to",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n2"
+    },
+    {
+        "chinese": "下来",
+        "desc": "记忆技巧：动词短语，表示“下来”，可搭配from，如get down from the stairs（从楼梯下来）",
+        "english": "get down",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n2"
+    },
+    {
         "chinese": "每天的;日常的",
         "desc": "词性：形容词(adj.)。记忆技巧：every（每个）+day（天），每天的日常。",
         "english": "everyday",
@@ -35949,6 +35984,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit4-n1';
             option.textContent = 'junior/grade7b/unit4-n1';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit4-n2';
+            option.textContent = 'junior/grade7b/unit4-n2';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit5-a';
             option.textContent = 'junior/grade7b/unit5-a';
