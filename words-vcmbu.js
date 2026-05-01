@@ -14063,6 +14063,13 @@ var words = [
         "tag": "junior/grade7b/unit3-n3"
     },
     {
+        "chinese": "产品 c.n.",
+        "desc": "",
+        "english": "product",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
         "chinese": "生产过程",
         "desc": "名词；记忆技巧：produce（生产）的名词形式，去e加tion",
         "english": "production",
@@ -14070,7 +14077,7 @@ var words = [
         "tag": "junior/grade7b/unit3-n3"
     },
     {
-        "chinese": "面",
+        "chinese": "面 c.n.",
         "desc": "名词；记忆技巧：联想“旁边的一面”",
         "english": "side",
         "phonetic": "/saɪd/",
@@ -14091,15 +14098,50 @@ var words = [
         "tag": "junior/grade7b/unit3-n3"
     },
     {
-        "chinese": "粘贴",
-        "desc": "动词；记忆技巧：像小棍一样粘住",
-        "english": "stick",
-        "phonetic": "/stɪk/",
+        "chinese": "v. 借",
+        "desc": "过去式：borrowed；进行时：borrowing",
+        "english": "borrow",
+        "phonetic": "",
         "tag": "junior/grade7b/unit3-n3"
     },
     {
-        "chinese": "条",
-        "desc": "名词；记忆技巧：表示“棍，条”，注意与动词“粘贴”同形",
+        "chinese": "从 …… 借",
+        "desc": "",
+        "english": "borrow sth. from",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "v. 借出",
+        "desc": "过去式：lent；过去分词：lent",
+        "english": "lend",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "把……借给……",
+        "desc": "",
+        "english": "lend sth. to sb.",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "v. 挖",
+        "desc": "过去式：dug；过去分词：dug；进行时：digging",
+        "english": "dig",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "挖洞",
+        "desc": "",
+        "english": "dia a hole",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "v. 粘贴；n. 棍条",
+        "desc": "动词；记忆技巧：像小棍一样粘住；过去式：stuck；过去分词：stuck",
         "english": "stick",
         "phonetic": "/stɪk/",
         "tag": "junior/grade7b/unit3-n3"
@@ -14112,15 +14154,15 @@ var words = [
         "tag": "junior/grade7b/unit3-n3"
     },
     {
-        "chinese": "坚持",
-        "desc": "动词；记忆技巧：stick to sth. 坚持某事，像粘住一样不放手",
-        "english": "stick",
-        "phonetic": "/stɪk/",
+        "chinese": "坚持去做",
+        "desc": "",
+        "english": "stick to doing",
+        "phonetic": "",
         "tag": "junior/grade7b/unit3-n3"
     },
     {
-        "chinese": "意外、事故",
-        "desc": "名词；记忆技巧：ac（加强）+cid（落下）+ent（名词后缀），突然落下的事即意外",
+        "chinese": "意外、事故 c.n.",
+        "desc": "名词；记忆技巧：ac（加强）+cid（落下）+ent（名词后缀），突然落下的事即意外；前面加 an",
         "english": "accident",
         "phonetic": "/ˈæksɪdənt/",
         "tag": "junior/grade7b/unit3-n3"
@@ -14135,22 +14177,99 @@ var words = [
     {
         "chinese": "偶然",
         "desc": "",
-        "english": "by accident",
+        "english": "by accident/chance",
         "phonetic": "",
         "tag": "junior/grade7b/unit3-n3"
     },
     {
-        "chinese": "知识",
+        "chinese": "知识 u.n.",
         "desc": "名词；记忆技巧：know（知道）+ledge（名词后缀），知道的东西即知识",
         "english": "knowledge",
         "phonetic": "/ˈnɑːlɪdʒ/",
         "tag": "junior/grade7b/unit3-n3"
     },
     {
-        "chinese": "垫子",
-        "desc": "词性：n. 记忆技巧：发音类似“拍的”，拍打的东西可能是垫子",
-        "english": "pad",
-        "phonetic": "/pæd/",
+        "chinese": "很多知识",
+        "desc": "",
+        "english": "a lot of / lots of / much knowledge",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "adj. 有学问的，学识渊博的",
+        "desc": "",
+        "english": "knowledgeable",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "c.n. 文字，角色，人物，性格",
+        "desc": "",
+        "english": "character",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "c.n. 性格特点",
+        "desc": "",
+        "english": "characteristic",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n4"
+    },
+    {
+        "chinese": "v. 传播",
+        "desc": "过去式：spread；过去分词：spread",
+        "english": "spread",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n4"
+    },
+    {
+        "chinese": "在全国传播",
+        "desc": "",
+        "english": "spread across the country",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n4"
+    },
+    {
+        "chinese": "张开翅膀",
+        "desc": "",
+        "english": "spread wings",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n4"
+    },
+    {
+        "chinese": "防止火蔓延",
+        "desc": "",
+        "english": "stop fires from spreading",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n4"
+    },
+    {
+        "chinese": "v. 翻译",
+        "desc": "",
+        "english": "translate",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n4"
+    },
+    {
+        "chinese": "n. 译文",
+        "desc": "",
+        "english": "translation",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n4"
+    },
+    {
+        "chinese": "n. 翻译家",
+        "desc": "",
+        "english": "translator",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n4"
+    },
+    {
+        "chinese": "号召某人做",
+        "desc": "",
+        "english": "call on sb. to do",
+        "phonetic": "",
         "tag": "junior/grade7b/unit3-n4"
     },
     {
@@ -14406,10 +14525,17 @@ var words = [
         "tag": "junior/grade7b/unit4-b"
     },
     {
-        "chinese": "盲人",
+        "chinese": "瞎的",
         "desc": "词性：形容词/动词/名词；记忆技巧：联想“失明的，看不见的”",
         "english": "blind",
         "phonetic": "/blaɪnd/",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "盲人",
+        "desc": "其中 blind 是形容词",
+        "english": "the blind",
+        "phonetic": "",
         "tag": "junior/grade7b/unit4-n1"
     },
     {
@@ -14420,6 +14546,13 @@ var words = [
         "tag": "junior/grade7b/unit4-n1"
     },
     {
+        "chinese": "失明",
+        "desc": "",
+        "english": "go blind",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
         "chinese": "盲目地",
         "desc": "词性：副词；记忆技巧：blind（盲的）+ly（副词后缀）",
         "english": "blindly",
@@ -14427,7 +14560,7 @@ var words = [
         "tag": "junior/grade7b/unit4-n1"
     },
     {
-        "chinese": "羊毛",
+        "chinese": "羊毛 u.n.",
         "desc": "词性：名词；记忆技巧：联想“羊毛制品”",
         "english": "wool",
         "phonetic": "/wʊl/",
@@ -14469,9 +14602,16 @@ var words = [
         "tag": "junior/grade7b/unit4-n1"
     },
     {
-        "chinese": "允许做",
+        "chinese": "允许某人做",
         "desc": "词组；记忆技巧：allow的被动结构，后接不定式",
-        "english": "allowed to do",
+        "english": "allow sb. to do",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "某人被允许做",
+        "desc": "",
+        "english": "sb. be allowed to do",
         "phonetic": "",
         "tag": "junior/grade7b/unit4-n1"
     },
@@ -14483,25 +14623,95 @@ var words = [
         "tag": "junior/grade7b/unit4-n1"
     },
     {
-        "chinese": "睡着",
-        "desc": "词性：形容词；记忆技巧：a（加强）+sleep（睡觉）→ 睡着的",
+        "chinese": "v. 道歉",
+        "desc": "",
+        "english": "apologize",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "因某事向某人道歉",
+        "desc": "",
+        "english": "apologize to sb. for sth.",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "因做某事而向某人道歉",
+        "desc": "介词 + doing",
+        "english": "apologize to sb. for doing sth.",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "c.n. 道歉",
+        "desc": "",
+        "english": "apology",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "因为某事向某人致歉",
+        "desc": "",
+        "english": "make an apology to sb. for sth.",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "睡着；睡觉<表语>",
+        "desc": "词性：形容词；记忆技巧：a（加强）+sleep（睡觉）→ 睡着的；= go to sleep；≠ go to bed",
         "english": "asleep",
         "phonetic": "/əˈsliːp/",
         "tag": "junior/grade7b/unit4-n1"
     },
     {
-        "chinese": "醒着",
+        "chinese": "睡着",
+        "desc": "",
+        "english": "fall asleep",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "醒着 adj.",
         "desc": "词性：形容词/动词；记忆技巧：a（加强）+wake（醒）→ 醒着的",
         "english": "awake",
         "phonetic": "/əˈweɪk/",
         "tag": "junior/grade7b/unit4-n1"
     },
     {
-        "chinese": "吸烟，烟",
+        "chinese": "v. 吸烟；u.n. 烟",
         "desc": "词性：动词/名词；记忆技巧：联想“吸烟产生烟”",
         "english": "smoke",
         "phonetic": "/smoʊk/",
         "tag": "junior/grade7b/unit4-n1"
+    },
+    {
+        "chinese": "v. 打字；c.n. 种类",
+        "desc": "",
+        "english": "type",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n2"
+    },
+    {
+        "chinese": "不同种类的",
+        "desc": "",
+        "english": "different kinds/types/sorts of",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n2"
+    },
+    {
+        "chinese": "v. 为……服务",
+        "desc": "",
+        "english": "serve",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n2"
+    },
+    {
+        "chinese": "充当 …… 角色",
+        "desc": "",
+        "english": "serve as",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n2"
     },
     {
         "chinese": "服务",
@@ -14511,7 +14721,14 @@ var words = [
         "tag": "junior/grade7b/unit4-n2"
     },
     {
-        "chinese": "主人",
+        "chinese": "c.n.房客",
+        "desc": "反义词：host",
+        "english": "guest",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n2"
+    },
+    {
+        "chinese": "主人 c.n.",
         "desc": "词性：n. 主人；v. 主持。记忆技巧：与guest（客人）相对，可联想“主人(host)主持(host)聚会”",
         "english": "host",
         "phonetic": "/hoʊst/",
@@ -14519,27 +14736,48 @@ var words = [
     },
     {
         "chinese": "带领",
-        "desc": "词性：v. 带领；n. 领导。记忆技巧：短语lead the way（带路），过去式为led，注意发音变化",
+        "desc": "词性：v. 带领；n. 领导。记忆技巧：短语lead the way（带路），过去式为led，注意发音变化；过去分词 led",
         "english": "lead",
         "phonetic": "/liːd/",
         "tag": "junior/grade7b/unit4-n2"
     },
     {
-        "chinese": "导致",
+        "chinese": "导致；通往……的路",
         "desc": "记忆技巧：动词短语，表示“导致”，to后接结果，如lead to problems（导致问题）",
         "english": "lead to",
         "phonetic": "",
         "tag": "junior/grade7b/unit4-n2"
     },
     {
-        "chinese": "下来",
+        "chinese": "引导某人去某处",
+        "desc": "",
+        "english": "lead sb. to sp.",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n2"
+    },
+    {
+        "chinese": "下来；趴下",
         "desc": "记忆技巧：动词短语，表示“下来”，可搭配from，如get down from the stairs（从楼梯下来）",
         "english": "get down",
         "phonetic": "",
         "tag": "junior/grade7b/unit4-n2"
     },
     {
-        "chinese": "运输，交通",
+        "chinese": "落下",
+        "desc": "过去式 fell；过去分词：fallen",
+        "english": "fall",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n2"
+    },
+    {
+        "chinese": "感觉",
+        "desc": "过去式 felt；过去分词：felt",
+        "english": "feel",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n2"
+    },
+    {
+        "chinese": "v. 运输；n. 交通",
         "desc": "n. 运输；交通。记忆技巧：trans-（穿过）+ port（港口），穿过港口进行运输。",
         "english": "transport",
         "phonetic": "/trænˈspɔːrt/",
@@ -14547,20 +14785,20 @@ var words = [
     },
     {
         "chinese": "公共交通",
-        "desc": "",
+        "desc": "其中 transport 是 n.",
         "english": "public transport",
         "phonetic": "",
         "tag": "junior/grade7b/unit4-n3"
     },
     {
-        "chinese": "运输",
+        "chinese": "n. 交通运输",
         "desc": "n. 运输。记忆技巧：transport（运输）+ -ation（名词后缀），表示运输的行为或过程。",
         "english": "transportation",
         "phonetic": "/ˌtrænspɔːrˈteɪʃn/",
         "tag": "junior/grade7b/unit4-n3"
     },
     {
-        "chinese": "保卫，警卫",
+        "chinese": "v. 保卫，守卫；c.n. 警卫",
         "desc": "v. 保卫；n. 警卫。记忆技巧：联想“guardian（守护者）”，简化为guard。",
         "english": "guard",
         "phonetic": "/ɡɑːrd/",
@@ -14581,10 +14819,31 @@ var words = [
         "tag": "junior/grade7b/unit4-n3"
     },
     {
-        "chinese": "也（否定句尾），或者…或者，要么…要么",
-        "desc": "adv. 也（否定句尾）；pron. 或者…或者，要么…要么。记忆技巧：“either...or...”固定搭配，记“两者之一”。",
+        "chinese": "也（否定，疑问，句尾）",
+        "desc": "",
         "english": "either",
         "phonetic": "/ˈiːðər/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "或者…或者，要么…要么",
+        "desc": "",
+        "english": "either ... or ...",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "两者都不",
+        "desc": "",
+        "english": "neither ... nor ...",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "两者都",
+        "desc": "",
+        "english": "both ... and ...",
+        "phonetic": "",
         "tag": "junior/grade7b/unit4-n3"
     },
     {
@@ -14595,10 +14854,10 @@ var words = [
         "tag": "junior/grade7b/unit4-n3"
     },
     {
-        "chinese": "惊吓者，使…害怕",
-        "desc": "n. 惊吓者；v. 使…害怕。记忆技巧：scare（惊吓）+ -er（表人或物），使人惊吓的人或物。",
-        "english": "scarer",
-        "phonetic": "/ˈskerər/",
+        "chinese": "v. 使……害怕",
+        "desc": "",
+        "english": "scare",
+        "phonetic": "",
         "tag": "junior/grade7b/unit4-n3"
     },
     {
@@ -14611,14 +14870,14 @@ var words = [
     {
         "chinese": "害怕做某事",
         "desc": "",
-        "english": "be scared to do",
+        "english": "be scared/afraid to do",
         "phonetic": "",
         "tag": "junior/grade7b/unit4-n3"
     },
     {
-        "chinese": "害怕(做某事)",
+        "chinese": "害怕(做)某事",
         "desc": "",
-        "english": "be scared of (doing) sth",
+        "english": "be scared/afraid of (doing) sth",
         "phonetic": "",
         "tag": "junior/grade7b/unit4-n3"
     },
@@ -14630,9 +14889,9 @@ var words = [
         "tag": "junior/grade7b/unit4-n3"
     },
     {
-        "chinese": "某个寒冷的地方",
+        "chinese": "某个很酷的地方",
         "desc": "",
-        "english": "somewhere cold",
+        "english": "somewhere cool / some cool places",
         "phonetic": "",
         "tag": "junior/grade7b/unit4-n3"
     },
@@ -14651,17 +14910,24 @@ var words = [
         "tag": "junior/grade7b/unit4-n3"
     },
     {
-        "chinese": "可能的",
+        "chinese": "能做到的；可能发生的",
         "desc": "adj. 可能的。记忆技巧：poss（能力，拥有）+ -ible（可…的），有能力做到的，即可能的。",
         "english": "possible",
         "phonetic": "/ˈpɑːsəbl/",
         "tag": "junior/grade7b/unit4-n3"
     },
     {
-        "chinese": "可能地",
+        "chinese": "也许；尽全力地",
         "desc": "adv. 可能地。记忆技巧：possible（可能的）+ -ly（副词后缀）。",
         "english": "possibly",
         "phonetic": "/ˈpɑːsəbli/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "adj. 可能的",
+        "desc": "",
+        "english": "likely",
+        "phonetic": "",
         "tag": "junior/grade7b/unit4-n3"
     },
     {
@@ -14670,6 +14936,20 @@ var words = [
         "english": "perhaps",
         "phonetic": "/pərˈhæps/",
         "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "n. 来源",
+        "desc": "",
+        "english": "source",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n4"
+    },
+    {
+        "chinese": "…… 的来源",
+        "desc": "",
+        "english": "a source of ...",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n4"
     },
     {
         "chinese": "已灭绝的",
@@ -14683,6 +14963,27 @@ var words = [
         "desc": "名词，记忆技巧：extinct(形容词，灭绝的)+-ion(名词后缀)构成名词形式",
         "english": "extinction",
         "phonetic": "/ɪkˈstɪŋkʃn/",
+        "tag": "junior/grade7b/unit4-n4"
+    },
+    {
+        "chinese": "c.n. 努力",
+        "desc": "",
+        "english": "effort",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n4"
+    },
+    {
+        "chinese": "努力做",
+        "desc": "",
+        "english": "make an effort to do = try to do",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n4"
+    },
+    {
+        "chinese": "不遗余力做",
+        "desc": "",
+        "english": "spare no effort to do",
+        "phonetic": "",
         "tag": "junior/grade7b/unit4-n4"
     },
     {
@@ -14938,6 +15239,34 @@ var words = [
         "tag": "junior/grade7b/unit5-b"
     },
     {
+        "chinese": "adj. 每天的",
+        "desc": "",
+        "english": "everyday",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
+        "chinese": "日常生活",
+        "desc": "",
+        "english": "everyday life = daily life",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
+        "chinese": "每天",
+        "desc": "",
+        "english": "every day",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
+        "chinese": "v. 形成，养成；c.n. 类型，种类，形式，表格",
+        "desc": "",
+        "english": "form",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
         "chinese": "填表",
         "desc": "",
         "english": "fill in a form",
@@ -14945,23 +15274,114 @@ var words = [
         "tag": "junior/grade7b/unit5-n1"
     },
     {
+        "chinese": "c.n. 水滴 / v. 掉落",
+        "desc": "过去式：dropped；过去分词：dropped",
+        "english": "drop",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
+        "chinese": "一滴水",
+        "desc": "",
+        "english": "a drop of water",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
+        "chinese": "掉到地上",
+        "desc": "",
+        "english": "drop onto the ground",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
+        "chinese": "n. 嗓音",
+        "desc": "",
+        "english": "voice",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
+        "chinese": "以大/小的嗓音",
+        "desc": "",
+        "english": "in a high/low voice",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
+        "chinese": "提高嗓音",
+        "desc": "",
+        "english": "raise one's voice",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
         "chinese": "最终；最后",
-        "desc": "副词。记忆技巧：event（事件）+ ual（形容词后缀）+ ly（副词后缀），可联想“事件最终发生”，表示“最终；最后”。",
+        "desc": "副词。记忆技巧：event（事件）+ ual（形容词后缀）+ ly（副词后缀），可联想“事件最终发生”，表示“最终；最后”。= at last = in the end = finally",
         "english": "eventually",
         "phonetic": "/ɪˈventʃuəli/",
         "tag": "junior/grade7b/unit5-n1"
     },
     {
+        "chinese": "v. 返回；v. 归还",
+        "desc": "返回时 = go back / come back；归还时 = give back",
+        "english": "return",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
+        "chinese": "返回到某地",
+        "desc": "",
+        "english": "return to sp. / go/come back to sp.",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
+        "chinese": "把某物还给某人",
+        "desc": "",
+        "english": "return sth. to sb. = give back sth. to sb.",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
+        "chinese": "v./n. 迅速移动",
+        "desc": "",
+        "english": "rush",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
+        "chinese": "迅速移动到某地",
+        "desc": "",
+        "english": "rush to sp. = go to sp. in a rush",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
+        "chinese": "匆忙做",
+        "desc": "",
+        "english": "rush to do",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
         "chinese": "洗",
-        "desc": "n. 联想“洗澡需要bath”",
+        "desc": "n. 联想“洗澡需要bath”，复数 baths",
         "english": "bath",
         "phonetic": "/bæθ/",
         "tag": "junior/grade7b/unit5-n2"
     },
     {
+        "chinese": "月（复数）",
+        "desc": "",
+        "english": "months",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
         "chinese": "洗澡",
         "desc": "固定搭配，“take a bath”或“have a bath”均表示“洗澡”",
-        "english": "take/ have a bath",
+        "english": "take/have a bath",
         "phonetic": "",
         "tag": "junior/grade7b/unit5-n2"
     },
@@ -14973,7 +15393,7 @@ var words = [
         "tag": "junior/grade7b/unit5-n2"
     },
     {
-        "chinese": "盐",
+        "chinese": "n. 盐；adj. 咸的",
         "desc": "n. 联想“salt是盐，salty是咸的”",
         "english": "salt",
         "phonetic": "/sɔːlt/",
@@ -14995,7 +15415,7 @@ var words = [
     },
     {
         "chinese": "有点",
-        "desc": "固定搭配，修饰形容词，如“a bit cold”（有点冷）",
+        "desc": "固定搭配，修饰形容词，如“a bit cold”（有点冷）；后可加 adj. / adv. / 比较级；或者在 v. 后",
         "english": "a bit",
         "phonetic": "",
         "tag": "junior/grade7b/unit5-n2"
@@ -15010,7 +15430,7 @@ var words = [
     {
         "chinese": "有点",
         "desc": "固定搭配，修饰名词，如“a bit of time”（一点时间）",
-        "english": "a bit of",
+        "english": "a bit of u.n. = a little u.n.",
         "phonetic": "",
         "tag": "junior/grade7b/unit5-n2"
     },
@@ -15032,6 +15452,20 @@ var words = [
         "chinese": "立刻",
         "desc": "强调“现在马上”，如“I need it right now”（我现在就需要）",
         "english": "right now",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "饮用水",
+        "desc": "",
+        "english": "drinking water",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "v. 喝",
+        "desc": "过去式：drank；过去分词：drunk",
+        "english": "drink",
         "phonetic": "",
         "tag": "junior/grade7b/unit5-n2"
     },
