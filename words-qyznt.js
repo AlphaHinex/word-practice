@@ -14028,6 +14028,20 @@ var words = [
         "tag": "junior/grade7b/unit3-n3"
     },
     {
+        "chinese": "垫子",
+        "desc": "词性：n. 记忆技巧：发音类似“拍的”，拍打的东西可能是垫子",
+        "english": "pad",
+        "phonetic": "/pæd/",
+        "tag": "junior/grade7b/unit3-n4"
+    },
+    {
+        "chinese": "号召",
+        "desc": "记忆技巧：call意为“叫”，on表“针对”，合起来即“针对某人叫”引申为号召",
+        "english": "call on",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n4"
+    },
+    {
         "chinese": "海豚",
         "desc": "名词。记忆技巧：发音类似“海豚”的音译，联想海洋生物",
         "english": "dolphin",
@@ -35825,6 +35839,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit3-n3';
             option.textContent = 'junior/grade7b/unit3-n3';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit3-n4';
+            option.textContent = 'junior/grade7b/unit3-n4';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit4-a';
             option.textContent = 'junior/grade7b/unit4-a';
