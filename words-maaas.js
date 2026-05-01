@@ -12909,20 +12909,27 @@ var words = [
     },
     {
         "chinese": "配对；火柴，比赛",
-        "desc": "v. 配对；n. 火柴，比赛；记忆技巧：联想“比赛（match）需要火柴（match）点燃”",
+        "desc": "v. 配对；n. 火柴，比赛；记忆技巧：联想“比赛（match）需要火柴（match）点燃”；复数 matches",
         "english": "match",
         "phonetic": "/mætʃ/",
         "tag": "junior/grade7b/unit2-n1"
     },
     {
-        "chinese": "富有的",
+        "chinese": "把 A 和 B 匹配",
+        "desc": "",
+        "english": "match A with B",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "富有的，丰富多彩的",
         "desc": "adj. 富有的；记忆技巧：发音类似“瑞奇”，联想有钱人叫瑞奇",
         "english": "rich",
         "phonetic": "/rɪtʃ/",
         "tag": "junior/grade7b/unit2-n1"
     },
     {
-        "chinese": "富于…",
+        "chinese": "富于…；富含",
         "desc": "",
         "english": "rich in...",
         "phonetic": "",
@@ -12943,7 +12950,14 @@ var words = [
         "tag": "junior/grade7b/unit2-n1"
     },
     {
-        "chinese": "在于…",
+        "chinese": "v. 位于，坐落在，躺",
+        "desc": "过去式：lay；过去分词：lain；现在分词：lying",
+        "english": "lie",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "位于…",
         "desc": "",
         "english": "lie in...",
         "phonetic": "",
@@ -12957,7 +12971,7 @@ var words = [
         "tag": "junior/grade7b/unit2-n1"
     },
     {
-        "chinese": "说谎；过去式 lied，过去分词 lied",
+        "chinese": "说谎",
         "desc": "v. 说谎；过去式 lied，过去分词 lied；记忆技巧：联想“说谎（lie）时脸（face）会红”",
         "english": "lie",
         "phonetic": "/laɪ/",
@@ -12966,7 +12980,7 @@ var words = [
     {
         "chinese": "对某人说谎",
         "desc": "",
-        "english": "tell a lie to sb.",
+        "english": "tell a lie(n.) to sb. / lie(v.) to sb",
         "phonetic": "",
         "tag": "junior/grade7b/unit2-n1"
     },
@@ -12985,7 +12999,14 @@ var words = [
         "tag": "junior/grade7b/unit2-n1"
     },
     {
-        "chinese": "接收者",
+        "chinese": "v. 接待，招待，收到（客观）",
+        "desc": "",
+        "english": "receive",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "接收者，听筒",
         "desc": "n. 接收者；记忆技巧：receive（接收）+ r → 接收者",
         "english": "receiver",
         "phonetic": "/rɪˈsiːvər/",
@@ -12999,7 +13020,7 @@ var words = [
         "tag": "junior/grade7b/unit2-n1"
     },
     {
-        "chinese": "接待",
+        "chinese": "接待 n.",
         "desc": "n. 接待；记忆技巧：receive（接收）+ tion（名词后缀）→ 接待",
         "english": "reception",
         "phonetic": "/rɪˈsepʃn/",
@@ -13034,7 +13055,14 @@ var words = [
         "tag": "junior/grade7b/unit2-n1"
     },
     {
-        "chinese": "电梯；举起",
+        "chinese": "保持健康",
+        "desc": "",
+        "english": "remain/keep/stay healthy",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "n. 电梯；v. 提起，抬起，举起",
         "desc": "n. 电梯；v. 举起；记忆技巧：电梯（lift）能举起（lift）重物",
         "english": "lift",
         "phonetic": "/lɪft/",
@@ -13055,7 +13083,7 @@ var words = [
         "tag": "junior/grade7b/unit2-n1"
     },
     {
-        "chinese": "阶外,步骤,脚",
+        "chinese": "台阶,步骤,脚步 c.n.",
         "desc": "词性：n. 步骤；脚步；台阶；v. 走；迈步。记忆技巧：可联想“台阶(step)需要一步一步踩”来记忆。",
         "english": "step",
         "phonetic": "/stɛp/",
@@ -13069,31 +13097,122 @@ var words = [
         "tag": "junior/grade7b/unit2-n2"
     },
     {
-        "chinese": "楼上",
+        "chinese": "v. 踩，踏",
+        "desc": "",
+        "english": "stepped",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
+        "chinese": "c.n. 楼梯",
+        "desc": "",
+        "english": "stair",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
+        "chinese": "上楼",
+        "desc": "",
+        "english": "go up the stairs",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
+        "chinese": "下楼",
+        "desc": "",
+        "english": "go down the stairs",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
+        "chinese": "楼上（一个词）",
         "desc": "词性：adv. 在楼上；n. 楼上。记忆技巧：up（向上）+ stairs（楼梯）→ 向上走楼梯到达楼上。",
         "english": "upstairs",
         "phonetic": "/ˌʌpˈsterz/",
         "tag": "junior/grade7b/unit2-n2"
     },
     {
-        "chinese": "楼下",
+        "chinese": "楼下（一个词）",
         "desc": "词性：adv. 在楼下；n. 楼下。记忆技巧：down（向下）+ stairs（楼梯）→ 向下走楼梯到达楼下。",
         "english": "downstairs",
         "phonetic": "/ˌdaʊnˈsterz/",
         "tag": "junior/grade7b/unit2-n2"
     },
     {
-        "chinese": "光",
-        "desc": "词性：名词；记忆技巧：联想“视力所及的景象”",
-        "english": "sight",
-        "phonetic": "/saɪt/",
+        "chinese": "百货商店",
+        "desc": "",
+        "english": "department store",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
+        "chinese": "n. 系；教研室；部门；部；局",
+        "desc": "",
+        "english": "department",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
+        "chinese": "更喜欢做某事",
+        "desc": "",
+        "english": "prefer to do sth",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
+        "chinese": "喜欢（过去式）",
+        "desc": "",
+        "english": "preferred",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
+        "chinese": "与B相比更喜欢A",
+        "desc": "",
+        "english": "prefer A to B",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
+        "chinese": "与做B相比，更喜欢A",
+        "desc": "",
+        "english": "perfer doing A to doing B / prefer to do A rather than do B / would rather do A than do B",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
+        "chinese": "用手工",
+        "desc": "",
+        "english": "by hand",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
+        "chinese": "n. 观光",
+        "desc": "",
+        "english": "sightsee",
+        "phonetic": "",
         "tag": "junior/grade7b/unit2-n3"
     },
     {
-        "chinese": "想象",
+        "chinese": "去观光",
+        "desc": "",
+        "english": "go sightseeing",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "v. 想象",
         "desc": "词性：动词；记忆技巧：im-（进入）+agine（类似image图像），进入图像即想象",
         "english": "imagine",
         "phonetic": "/ɪˈmædʒɪn/",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "想象做",
+        "desc": "",
+        "english": "imagine doing",
+        "phonetic": "",
         "tag": "junior/grade7b/unit2-n3"
     },
     {
@@ -13111,6 +13230,13 @@ var words = [
         "tag": "junior/grade7b/unit2-n3"
     },
     {
+        "chinese": "虚构的 adj.",
+        "desc": "",
+        "english": "imaginary",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
         "chinese": "目的地",
         "desc": "词性：名词；记忆技巧：destin（命运）+ation，命运的终点即目的地",
         "english": "destination",
@@ -13125,6 +13251,20 @@ var words = [
         "tag": "junior/grade7b/unit2-n3"
     },
     {
+        "chinese": "一个独特的人",
+        "desc": "",
+        "english": "a unique person",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "n. 危害",
+        "desc": "",
+        "english": "endanger",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
         "chinese": "濒危的",
         "desc": "词性：形容词；记忆技巧：en-（使）+danger（危险）+ed，使处于危险中即濒危的",
         "english": "endangered",
@@ -13132,7 +13272,7 @@ var words = [
         "tag": "junior/grade7b/unit2-n3"
     },
     {
-        "chinese": "延伸",
+        "chinese": "v. 延伸",
         "desc": "词性：动词/名词；记忆技巧：联想“伸展身体的动作”",
         "english": "stretch",
         "phonetic": "/stretʃ/",
@@ -13153,14 +13293,14 @@ var words = [
         "tag": "junior/grade7b/unit2-n3"
     },
     {
-        "chinese": "野生的",
+        "chinese": "野生的 adj.",
         "desc": "词性：形容词；记忆技巧：联想“野外的动植物”",
         "english": "wild",
         "phonetic": "/waɪld/",
         "tag": "junior/grade7b/unit2-n3"
     },
     {
-        "chinese": "自然、环境",
+        "chinese": "自然、环境 n.",
         "desc": "词性：名词；记忆技巧：名词指自然环境，与形容词“野生的”相关",
         "english": "wild",
         "phonetic": "/waɪld/",
@@ -13174,10 +13314,24 @@ var words = [
         "tag": "junior/grade7b/unit2-n3"
     },
     {
-        "chinese": "发现揭示",
+        "chinese": "v. 发现，揭示",
+        "desc": "",
+        "english": "discover",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "发现 c.n.",
         "desc": "词性：名词；记忆技巧：discover（发现）+y（名词后缀），表发现的结果",
         "english": "discovery",
         "phonetic": "/dɪˈskʌvəri/",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "n. 山脉",
+        "desc": "",
+        "english": "range",
+        "phonetic": "",
         "tag": "junior/grade7b/unit2-n3"
     },
     {
@@ -13195,7 +13349,35 @@ var words = [
         "tag": "junior/grade7b/unit2-n3"
     },
     {
-        "chinese": "形成,养成",
+        "chinese": "狼（复数）",
+        "desc": "",
+        "english": "wolves",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "建立",
+        "desc": "set 过去式：set；过去分词：set",
+        "english": "set up",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "大熊猫",
+        "desc": "",
+        "english": "giant panda",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "全年",
+        "desc": "",
+        "english": "all year round",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "v. 形成,养成；n. 表格",
         "desc": "动词/名词；词根“form”表示形状，如“information”（信息）由“in-”+“form”构成，意为形成信息。",
         "english": "form",
         "phonetic": "/fɔːrm/",
@@ -13209,42 +13391,56 @@ var words = [
         "tag": "junior/grade7b/unit2-n4"
     },
     {
-        "chinese": "使惊讶",
+        "chinese": "使惊讶，使……震惊",
         "desc": "动词；前缀“a-”加强语气，“maze”（迷宫），使人像进入迷宫一样困惑，引申为“使惊讶”。",
         "english": "amaze",
         "phonetic": "/əˈmeɪz/",
         "tag": "junior/grade7b/unit2-n4"
     },
     {
-        "chinese": "令人惊讶的",
+        "chinese": "adj. 使（人）大为惊奇",
+        "desc": "",
+        "english": "amazed",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "令人惊讶的（物）",
         "desc": "形容词；由动词“amaze”（使惊讶）加现在分词后缀“-ing”构成，用于描述事物具有令人惊讶的特质。",
         "english": "amazing",
         "phonetic": "/əˈmeɪzɪŋ/",
         "tag": "junior/grade7b/unit2-n4"
     },
     {
-        "chinese": "惊讶",
+        "chinese": "n. 震惊；惊讶",
         "desc": "名词；由动词“amaze”（使惊讶）加名词后缀“-ment”构成，指惊讶的情绪或状态。",
         "english": "amazement",
         "phonetic": "/əˈmeɪzmənt/",
         "tag": "junior/grade7b/unit2-n4"
     },
     {
-        "chinese": "被…惊讶",
+        "chinese": "被…震惊",
         "desc": "固定搭配；被动语态结构，表示“被…所惊讶”，by后接惊讶的来源。",
         "english": "be amazed by",
         "phonetic": "",
         "tag": "junior/grade7b/unit2-n4"
     },
     {
-        "chinese": "塑造；形状",
+        "chinese": "v. 塑造；n. 形状",
         "desc": "动词/名词；作名词时指“形状”，作动词时意为“塑造”，如“shape one's future”（塑造某人的未来）。",
         "english": "shape",
         "phonetic": "/ʃeɪp/",
         "tag": "junior/grade7b/unit2-n4"
     },
     {
-        "chinese": "强迫；力量",
+        "chinese": "以不同形状",
+        "desc": "",
+        "english": "in different shapes",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "v. 强迫；n. 力量",
         "desc": "动词/名词；作名词时指“力量”，作动词时意为“强迫”，如“force sb. to do sth.”（强迫某人做某事）。",
         "english": "force",
         "phonetic": "/fɔːrs/",
@@ -13252,7 +13448,7 @@ var words = [
     },
     {
         "chinese": "携带",
-        "desc": "动词；可联想“car”（汽车）的功能是“carry”（运载），表示“携带、搬运”。",
+        "desc": "动词；可联想“car”（汽车）的功能是“carry”（运载），表示“携带、搬运”。过去式：carried；现在分词：carrying",
         "english": "carry",
         "phonetic": "/ˈkæri/",
         "tag": "junior/grade7b/unit2-n4"
@@ -13286,10 +13482,10 @@ var words = [
         "tag": "junior/grade7b/unit2-n4"
     },
     {
-        "chinese": "奇怪的",
-        "desc": "形容词；可联想“stranger”（陌生人），陌生人常给人“strange”（奇怪的）感觉。",
-        "english": "strange",
-        "phonetic": "/streɪndʒ/",
+        "chinese": "adj. 奇形怪状的",
+        "desc": "",
+        "english": "strange-looking",
+        "phonetic": "",
         "tag": "junior/grade7b/unit2-n4"
     },
     {
