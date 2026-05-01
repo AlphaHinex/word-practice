@@ -13937,6 +13937,97 @@ var words = [
         "tag": "junior/grade7b/unit3-n2"
     },
     {
+        "chinese": "生产",
+        "desc": "动词；记忆技巧：pro-向前，duce-引导，向前引导出产品即生产",
+        "english": "produce",
+        "phonetic": "/prəˈduːs/",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "生产过程",
+        "desc": "名词；记忆技巧：produce（生产）的名词形式，去e加tion",
+        "english": "production",
+        "phonetic": "/prəˈdʌkʃn/",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "面",
+        "desc": "名词；记忆技巧：联想“旁边的一面”",
+        "english": "side",
+        "phonetic": "/saɪd/",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "两面",
+        "desc": "",
+        "english": "on both sides",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "肩并肩",
+        "desc": "",
+        "english": "side by side",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "粘贴",
+        "desc": "动词；记忆技巧：像小棍一样粘住",
+        "english": "stick",
+        "phonetic": "/stɪk/",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "条",
+        "desc": "名词；记忆技巧：表示“棍，条”，注意与动词“粘贴”同形",
+        "english": "stick",
+        "phonetic": "/stɪk/",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "贴纸",
+        "desc": "名词；记忆技巧：stick（粘贴）+er（表物），能粘贴的东西即贴纸",
+        "english": "sticker",
+        "phonetic": "/ˈstɪkər/",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "坚持",
+        "desc": "动词；记忆技巧：stick to sth. 坚持某事，像粘住一样不放手",
+        "english": "stick",
+        "phonetic": "/stɪk/",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "意外、事故",
+        "desc": "名词；记忆技巧：ac（加强）+cid（落下）+ent（名词后缀），突然落下的事即意外",
+        "english": "accident",
+        "phonetic": "/ˈæksɪdənt/",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "交通事故",
+        "desc": "",
+        "english": "traffic accident",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "偶然",
+        "desc": "",
+        "english": "by accident",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
+        "chinese": "知识",
+        "desc": "名词；记忆技巧：know（知道）+ledge（名词后缀），知道的东西即知识",
+        "english": "knowledge",
+        "phonetic": "/ˈnɑːlɪdʒ/",
+        "tag": "junior/grade7b/unit3-n3"
+    },
+    {
         "chinese": "海豚",
         "desc": "名词。记忆技巧：发音类似“海豚”的音译，联想海洋生物",
         "english": "dolphin",
@@ -35731,6 +35822,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit3-n2';
             option.textContent = 'junior/grade7b/unit3-n2';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit3-n3';
+            option.textContent = 'junior/grade7b/unit3-n3';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit4-a';
             option.textContent = 'junior/grade7b/unit4-a';
