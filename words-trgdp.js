@@ -14420,6 +14420,139 @@ var words = [
         "tag": "junior/grade7b/unit4-n2"
     },
     {
+        "chinese": "运输，交通",
+        "desc": "n. 运输；交通。记忆技巧：trans-（穿过）+ port（港口），穿过港口进行运输。",
+        "english": "transport",
+        "phonetic": "/trænˈspɔːrt/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "公共交通",
+        "desc": "",
+        "english": "public transport",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "运输",
+        "desc": "n. 运输。记忆技巧：transport（运输）+ -ation（名词后缀），表示运输的行为或过程。",
+        "english": "transportation",
+        "phonetic": "/ˌtrænspɔːrˈteɪʃn/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "保卫，警卫",
+        "desc": "v. 保卫；n. 警卫。记忆技巧：联想“guardian（守护者）”，简化为guard。",
+        "english": "guard",
+        "phonetic": "/ɡɑːrd/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "材料",
+        "desc": "n. 材料。记忆技巧：mate（伙伴）+ rial，伙伴需要材料来工作。",
+        "english": "material",
+        "phonetic": "/məˈtɪriəl/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "建筑材料",
+        "desc": "",
+        "english": "building materials",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "也（否定句尾），或者…或者，要么…要么",
+        "desc": "adv. 也（否定句尾）；pron. 或者…或者，要么…要么。记忆技巧：“either...or...”固定搭配，记“两者之一”。",
+        "english": "either",
+        "phonetic": "/ˈiːðər/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "害怕的",
+        "desc": "adj. 害怕的。记忆技巧：scare（惊吓）+ -ed（形容词后缀），感到惊吓的。",
+        "english": "scared",
+        "phonetic": "/skeərd/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "惊吓者，使…害怕",
+        "desc": "n. 惊吓者；v. 使…害怕。记忆技巧：scare（惊吓）+ -er（表人或物），使人惊吓的人或物。",
+        "english": "scarer",
+        "phonetic": "/ˈskerər/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "可怕的",
+        "desc": "adj. 可怕的。记忆技巧：scare（惊吓）+ -y（形容词后缀），令人惊吓的。",
+        "english": "scary",
+        "phonetic": "/ˈskeri/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "害怕做某事",
+        "desc": "",
+        "english": "be scared to do",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "害怕(做某事)",
+        "desc": "",
+        "english": "be scared of (doing) sth",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "某处",
+        "desc": "adv. 某处。记忆技巧：some（一些）+ where（哪里），某个地方。",
+        "english": "somewhere",
+        "phonetic": "/ˈsʌmwer/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "某个寒冷的地方",
+        "desc": "",
+        "english": "somewhere cold",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "可能的",
+        "desc": "adj. 可能的。记忆技巧：prob（尝试，证明）+ -able（可…的），可被证明的，即可能的。",
+        "english": "probable",
+        "phonetic": "/ˈprɑːbəbl/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "可能地",
+        "desc": "adv. 可能地。记忆技巧：probable（可能的）+ -ly（副词后缀）。",
+        "english": "probably",
+        "phonetic": "/ˈprɑːbəbli/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "可能的",
+        "desc": "adj. 可能的。记忆技巧：poss（能力，拥有）+ -ible（可…的），有能力做到的，即可能的。",
+        "english": "possible",
+        "phonetic": "/ˈpɑːsəbl/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "可能地",
+        "desc": "adv. 可能地。记忆技巧：possible（可能的）+ -ly（副词后缀）。",
+        "english": "possibly",
+        "phonetic": "/ˈpɑːsəbli/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
+        "chinese": "也许",
+        "desc": "adv. 也许。记忆技巧：per（每）+ haps（机会），每个机会都有可能，即也许。",
+        "english": "perhaps",
+        "phonetic": "/pərˈhæps/",
+        "tag": "junior/grade7b/unit4-n3"
+    },
+    {
         "chinese": "每天的;日常的",
         "desc": "词性：形容词(adj.)。记忆技巧：every（每个）+day（天），每天的日常。",
         "english": "everyday",
@@ -35987,6 +36120,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit4-n2';
             option.textContent = 'junior/grade7b/unit4-n2';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit4-n3';
+            option.textContent = 'junior/grade7b/unit4-n3';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit5-a';
             option.textContent = 'junior/grade7b/unit5-a';
