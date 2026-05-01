@@ -14553,6 +14553,20 @@ var words = [
         "tag": "junior/grade7b/unit4-n3"
     },
     {
+        "chinese": "已灭绝的",
+        "desc": "形容词，记忆技巧：ex-(向外)+stinct(熄灭)，向外熄灭即灭绝的",
+        "english": "extinct",
+        "phonetic": "/ɪkˈstɪŋkt/",
+        "tag": "junior/grade7b/unit4-n4"
+    },
+    {
+        "chinese": "灭绝",
+        "desc": "名词，记忆技巧：extinct(形容词，灭绝的)+-ion(名词后缀)构成名词形式",
+        "english": "extinction",
+        "phonetic": "/ɪkˈstɪŋkʃn/",
+        "tag": "junior/grade7b/unit4-n4"
+    },
+    {
         "chinese": "每天的;日常的",
         "desc": "词性：形容词(adj.)。记忆技巧：every（每个）+day（天），每天的日常。",
         "english": "everyday",
@@ -36123,6 +36137,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit4-n3';
             option.textContent = 'junior/grade7b/unit4-n3';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit4-n4';
+            option.textContent = 'junior/grade7b/unit4-n4';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit5-a';
             option.textContent = 'junior/grade7b/unit5-a';
