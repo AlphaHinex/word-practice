@@ -13055,6 +13055,34 @@ var words = [
         "tag": "junior/grade7b/unit2-n1"
     },
     {
+        "chinese": "阶外,步骤,脚",
+        "desc": "词性：n. 步骤；脚步；台阶；v. 走；迈步。记忆技巧：可联想“台阶(step)需要一步一步踩”来记忆。",
+        "english": "step",
+        "phonetic": "/stɛp/",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
+        "chinese": "一步一步地,逐步地",
+        "desc": "记忆技巧：由step（步骤）+ by（通过）+ step（步骤）构成，强调按顺序逐步进行。",
+        "english": "step by step",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
+        "chinese": "楼上",
+        "desc": "词性：adv. 在楼上；n. 楼上。记忆技巧：up（向上）+ stairs（楼梯）→ 向上走楼梯到达楼上。",
+        "english": "upstairs",
+        "phonetic": "/ˌʌpˈsterz/",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
+        "chinese": "楼下",
+        "desc": "词性：adv. 在楼下；n. 楼下。记忆技巧：down（向下）+ stairs（楼梯）→ 向下走楼梯到达楼下。",
+        "english": "downstairs",
+        "phonetic": "/ˌdaʊnˈsterz/",
+        "tag": "junior/grade7b/unit2-n2"
+    },
+    {
         "chinese": "不说话的；沉默的",
         "desc": "形容词，记忆技巧：sil（联想silk丝绸，光滑无声）+ent（形容词后缀）",
         "english": "silent",
@@ -35080,6 +35108,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit2-n1';
             option.textContent = 'junior/grade7b/unit2-n1';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit2-n2';
+            option.textContent = 'junior/grade7b/unit2-n2';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit3-a';
             option.textContent = 'junior/grade7b/unit3-a';
