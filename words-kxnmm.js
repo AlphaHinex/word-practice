@@ -12908,6 +12908,153 @@ var words = [
         "tag": "junior/grade7b/unit2-b"
     },
     {
+        "chinese": "配对；火柴，比赛",
+        "desc": "v. 配对；n. 火柴，比赛；记忆技巧：联想“比赛（match）需要火柴（match）点燃”",
+        "english": "match",
+        "phonetic": "/mætʃ/",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "富有的",
+        "desc": "adj. 富有的；记忆技巧：发音类似“瑞奇”，联想有钱人叫瑞奇",
+        "english": "rich",
+        "phonetic": "/rɪtʃ/",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "富于…",
+        "desc": "",
+        "english": "rich in...",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "中国是一个历史悠久、文化丰富的国家",
+        "desc": "",
+        "english": "China is a country rich in history and culture",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "富有的人",
+        "desc": "",
+        "english": "the rich",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "在于…",
+        "desc": "",
+        "english": "lie in...",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "躺下",
+        "desc": "",
+        "english": "lie down",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "说谎；过去式 lied，过去分词 lied",
+        "desc": "v. 说谎；过去式 lied，过去分词 lied；记忆技巧：联想“说谎（lie）时脸（face）会红”",
+        "english": "lie",
+        "phonetic": "/laɪ/",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "对某人说谎",
+        "desc": "",
+        "english": "tell a lie to sb.",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "优秀的",
+        "desc": "adj. 优秀的；记忆技巧：ex-（出）+ cellent（类似cell，细胞）→ 超出细胞水平→优秀",
+        "english": "excellent",
+        "phonetic": "/ˈeksələnt/",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "在…方面优秀",
+        "desc": "",
+        "english": "be excellent in...",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "接收者",
+        "desc": "n. 接收者；记忆技巧：receive（接收）+ r → 接收者",
+        "english": "receiver",
+        "phonetic": "/rɪˈsiːvər/",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "接受（主观）",
+        "desc": "v. 接受（主观）；记忆技巧：ac-（加强）+ cept（拿）→ 拿过来→接受",
+        "english": "accept",
+        "phonetic": "/əkˈsept/",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "接待",
+        "desc": "n. 接待；记忆技巧：receive（接收）+ tion（名词后缀）→ 接待",
+        "english": "reception",
+        "phonetic": "/rɪˈsepʃn/",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "关键的；钥匙",
+        "desc": "adj. 关键的；n. 钥匙；记忆技巧：钥匙（key）是关键（key）",
+        "english": "key",
+        "phonetic": "/kiː/",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "…的关键",
+        "desc": "",
+        "english": "the key to...",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "一串钥匙",
+        "desc": "",
+        "english": "a set of keys",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "仍然是，保持",
+        "desc": "v. 仍然是，保持；记忆技巧：re-（再）+ main（主要的）→ 再次成为主要的→保持",
+        "english": "remain",
+        "phonetic": "/rɪˈmeɪn/",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "电梯；举起",
+        "desc": "n. 电梯；v. 举起；记忆技巧：电梯（lift）能举起（lift）重物",
+        "english": "lift",
+        "phonetic": "/lɪft/",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "乘电梯",
+        "desc": "",
+        "english": "take the lift",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
+        "chinese": "电梯",
+        "desc": "n. 名词。记忆技巧：词根elev-（提高）+名词后缀-ator，表“做…的人/物”，即“提升的装置”；联想elevate（v. 提升）的名词形式。",
+        "english": "elevator",
+        "phonetic": "/ˈelɪveɪtər/",
+        "tag": "junior/grade7b/unit2-n1"
+    },
+    {
         "chinese": "不说话的；沉默的",
         "desc": "形容词，记忆技巧：sil（联想silk丝绸，光滑无声）+ent（形容词后缀）",
         "english": "silent",
@@ -34930,6 +35077,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit2-b';
             option.textContent = 'junior/grade7b/unit2-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit2-n1';
+            option.textContent = 'junior/grade7b/unit2-n1';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit3-a';
             option.textContent = 'junior/grade7b/unit3-a';
