@@ -12026,6 +12026,132 @@ var words = [
         "tag": "junior/grade7b/unit1-b"
     },
     {
+        "chinese": "建议",
+        "desc": "名词；联想'ad-加强 + vice(看)'，加强看法即建议；注意与动词advise区分",
+        "english": "advice",
+        "phonetic": "/ədˈvaɪs/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "条建议",
+        "desc": "不可数名词advice的量化表达，意为'一条建议'",
+        "english": "a piece of advice",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "建议",
+        "desc": "动词；注意与名词advice区分，结尾se发/z/音；常用搭配advise sb to do sth",
+        "english": "advise",
+        "phonetic": "/ədˈvaɪz/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "建议某人做…",
+        "desc": "动词短语，结构为'建议某人做某事'",
+        "english": "advise sb to do",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "建议",
+        "desc": "名词；由动词suggest加-ion后缀构成",
+        "english": "suggestion",
+        "phonetic": "/səˈdʒestʃən/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "鼓励某人做某事",
+        "desc": "动词短语，结构为'鼓励某人做某事'",
+        "english": "encourage sb to do sth",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "激励人的",
+        "desc": "形容词；由动词encourage加-ing后缀构成，表示'令人鼓舞的'",
+        "english": "encouraging",
+        "phonetic": "/ɪnˈkɜːrɪdʒɪŋ/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "鼓舞",
+        "desc": "名词；由动词encourage加-ment后缀构成",
+        "english": "encouragement",
+        "phonetic": "/ɪnˈkɜːrɪdʒmənt/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "退休",
+        "desc": "动词；re-(再次)+tire(疲倦)，再次感到疲倦即退休",
+        "english": "retire",
+        "phonetic": "/rɪˈtaɪər/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "已退休的",
+        "desc": "形容词；retire的过去分词作形容词，表示'已退休的'",
+        "english": "retired",
+        "phonetic": "/rɪˈtaɪərd/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "退休",
+        "desc": "名词；由动词retire加-ment后缀构成",
+        "english": "retirement",
+        "phonetic": "/rɪˈtaɪərmənt/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "使某人振作",
+        "desc": "动词短语，意为'使某人振作起来'，sb可省略",
+        "english": "cheer (sb) up",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "快乐的",
+        "desc": "形容词；cheer(欢呼)加-ful后缀，意为'快乐的，愉快的'",
+        "english": "cheerful",
+        "phonetic": "/ˈtʃɪrfl/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "医学的",
+        "desc": "形容词；由名词medicine去-e加-ical后缀构成，意为'医学的'",
+        "english": "medical",
+        "phonetic": "/ˈmedɪkl/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "医疗服务",
+        "desc": "名词短语，意为'医疗服务'",
+        "english": "medical care",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "药",
+        "desc": "名词；联想'med-(治疗)+icine'，意为'药物，医学'",
+        "english": "medicine",
+        "phonetic": "/ˈmedɪsn/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "油炸，炒，煎",
+        "desc": "动词；发音与'fry'相关，联想炸薯条'fries'",
+        "english": "fry",
+        "phonetic": "/fraɪ/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "油炸的",
+        "desc": "形容词；fry的过去分词作形容词，表示'油炸的'",
+        "english": "fried",
+        "phonetic": "/fraɪd/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
         "chinese": "葡萄酒",
         "desc": "记忆技巧：“w+ine”，ine结尾常与液体相关；词性：名词",
         "english": "wine",
@@ -34334,6 +34460,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit1-b';
             option.textContent = 'junior/grade7b/unit1-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit1-n1';
+            option.textContent = 'junior/grade7b/unit1-n1';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit2-a';
             option.textContent = 'junior/grade7b/unit2-a';
