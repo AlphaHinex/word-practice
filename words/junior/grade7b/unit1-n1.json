@@ -1,1 +1,140 @@
-[{"chinese": "建议", "desc": "名词；联想'ad-加强 + vice(看)'，加强看法即建议；注意与动词advise区分", "english": "advice", "phonetic": "/ədˈvaɪs/"}, {"chinese": "条建议", "desc": "不可数名词advice的量化表达，意为'一条建议'", "english": "a piece of advice", "phonetic": ""}, {"chinese": "建议", "desc": "动词；注意与名词advice区分，结尾se发/z/音；常用搭配advise sb to do sth", "english": "advise", "phonetic": "/ədˈvaɪz/"}, {"chinese": "建议某人做…", "desc": "动词短语，结构为'建议某人做某事'", "english": "advise sb to do", "phonetic": ""}, {"chinese": "建议", "desc": "名词；由动词suggest加-ion后缀构成", "english": "suggestion", "phonetic": "/səˈdʒestʃən/"}, {"chinese": "鼓励某人做某事", "desc": "动词短语，结构为'鼓励某人做某事'", "english": "encourage sb to do sth", "phonetic": ""}, {"chinese": "激励人的", "desc": "形容词；由动词encourage加-ing后缀构成，表示'令人鼓舞的'", "english": "encouraging", "phonetic": "/ɪnˈkɜːrɪdʒɪŋ/"}, {"chinese": "鼓舞", "desc": "名词；由动词encourage加-ment后缀构成", "english": "encouragement", "phonetic": "/ɪnˈkɜːrɪdʒmənt/"}, {"chinese": "退休", "desc": "动词；re-(再次)+tire(疲倦)，再次感到疲倦即退休", "english": "retire", "phonetic": "/rɪˈtaɪər/"}, {"chinese": "已退休的", "desc": "形容词；retire的过去分词作形容词，表示'已退休的'", "english": "retired", "phonetic": "/rɪˈtaɪərd/"}, {"chinese": "退休", "desc": "名词；由动词retire加-ment后缀构成", "english": "retirement", "phonetic": "/rɪˈtaɪərmənt/"}, {"chinese": "使某人振作", "desc": "动词短语，意为'使某人振作起来'，sb可省略", "english": "cheer (sb) up", "phonetic": ""}, {"chinese": "快乐的", "desc": "形容词；cheer(欢呼)加-ful后缀，意为'快乐的，愉快的'", "english": "cheerful", "phonetic": "/ˈtʃɪrfl/"}, {"chinese": "医学的", "desc": "形容词；由名词medicine去-e加-ical后缀构成，意为'医学的'", "english": "medical", "phonetic": "/ˈmedɪkl/"}, {"chinese": "医疗服务", "desc": "名词短语，意为'医疗服务'", "english": "medical care", "phonetic": ""}, {"chinese": "药", "desc": "名词；联想'med-(治疗)+icine'，意为'药物，医学'", "english": "medicine", "phonetic": "/ˈmedɪsn/"}, {"chinese": "油炸，炒，煎", "desc": "动词；发音与'fry'相关，联想炸薯条'fries'", "english": "fry", "phonetic": "/fraɪ/"}, {"chinese": "油炸的", "desc": "形容词；fry的过去分词作形容词，表示'油炸的'", "english": "fried", "phonetic": "/fraɪd/"}]
+[
+    {
+        "chinese": "建议 u.n.",
+        "desc": "名词；联想'ad-加强 + vice(看)'，加强看法即建议；注意与动词advise区分",
+        "english": "advice",
+        "phonetic": "/ədˈvaɪs/"
+    },
+    {
+        "chinese": "一条建议",
+        "desc": "不可数名词advice的量化表达，意为'一条建议'",
+        "english": "a piece of advice",
+        "phonetic": ""
+    },
+    {
+        "chinese": "建议 v.",
+        "desc": "动词；注意与名词advice区分，结尾se发/z/音；常用搭配advise sb to do sth",
+        "english": "advise",
+        "phonetic": "/ədˈvaɪz/"
+    },
+    {
+        "chinese": "建议某人做…",
+        "desc": "动词短语，结构为'建议某人做某事'",
+        "english": "advise sb to do sth",
+        "phonetic": ""
+    },
+    {
+        "chinese": "建议 v.",
+        "desc": "动词，+ doing",
+        "english": "suggest",
+        "phonetic": "/səˈdʒest/"
+    },
+    {
+        "chinese": "建议 c.n.",
+        "desc": "名词；由动词suggest加-ion后缀构成",
+        "english": "suggestion",
+        "phonetic": "/səˈdʒestʃən/"
+    },
+    {
+        "chinese": "n. 勇气；v. 鼓励",
+        "desc": "",
+        "english": "encourage",
+        "phonetic": ""
+    },
+    {
+        "chinese": "鼓励某人做某事",
+        "desc": "动词短语，结构为'鼓励某人做某事'",
+        "english": "encourage sb to do sth",
+        "phonetic": ""
+    },
+    {
+        "chinese": "激励人的",
+        "desc": "形容词；由动词encourage加-ing后缀构成，表示'令人鼓舞的'",
+        "english": "encouraging",
+        "phonetic": "/ɪnˈkɜːrɪdʒɪŋ/"
+    },
+    {
+        "chinese": "鼓舞",
+        "desc": "名词；由动词encourage加-ment后缀构成",
+        "english": "encouragement",
+        "phonetic": "/ɪnˈkɜːrɪdʒmənt/"
+    },
+    {
+        "chinese": "退休 v.",
+        "desc": "动词；re-(再次)+tire(疲倦)，再次感到疲倦即退休",
+        "english": "retire",
+        "phonetic": "/rɪˈtaɪər/"
+    },
+    {
+        "chinese": "已退休的",
+        "desc": "形容词；retire的过去分词作形容词，表示'已退休的'",
+        "english": "retired",
+        "phonetic": "/rɪˈtaɪərd/"
+    },
+    {
+        "chinese": "退休 n.",
+        "desc": "名词；由动词retire加-ment后缀构成",
+        "english": "retirement",
+        "phonetic": "/rɪˈtaɪərmənt/"
+    },
+    {
+        "chinese": "v. 为……欢呼；n. 欢呼",
+        "desc": "",
+        "english": "cheer",
+        "phonetic": ""
+    },
+    {
+        "chinese": "使某人振作",
+        "desc": "动词短语，意为'使某人振作起来'，sb可省略",
+        "english": "cheer (sb) up",
+        "phonetic": ""
+    },
+    {
+        "chinese": "快乐的",
+        "desc": "形容词；cheer(欢呼)加-ful后缀，意为'快乐的，愉快的'",
+        "english": "cheerful",
+        "phonetic": "/ˈtʃɪrfl/"
+    },
+    {
+        "chinese": "医学的",
+        "desc": "形容词；由名词medicine去-e加-ical后缀构成，意为'医学的'",
+        "english": "medical",
+        "phonetic": "/ˈmedɪkl/"
+    },
+    {
+        "chinese": "医疗服务",
+        "desc": "名词短语，意为'医疗服务'",
+        "english": "medical care",
+        "phonetic": ""
+    },
+    {
+        "chinese": "医学问题",
+        "desc": "",
+        "english": "medical problems",
+        "phonetic": ""
+    },
+    {
+        "chinese": "药",
+        "desc": "名词；联想'med-(治疗)+icine'，意为'药物，医学'",
+        "english": "medicine",
+        "phonetic": "/ˈmedɪsn/"
+    },
+    {
+        "chinese": "油炸，炒，煎",
+        "desc": "动词；发音与'fry'相关，联想炸薯条'fries'",
+        "english": "fry",
+        "phonetic": "/fraɪ/"
+    },
+    {
+        "chinese": "油炸的",
+        "desc": "形容词；fry的过去分词作形容词，表示'油炸的'",
+        "english": "fried",
+        "phonetic": "/fraɪd/"
+    },
+    {
+        "chinese": "蛋炒饭",
+        "desc": "",
+        "english": "egg fried rice",
+        "phonetic": ""
+    }
+]
