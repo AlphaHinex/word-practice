@@ -12327,6 +12327,167 @@ var words = [
         "tag": "junior/grade7b/unit1-n2"
     },
     {
+        "chinese": "制服",
+        "desc": "n. 名词；记忆技巧：uni-表示“一”，form“形式”，统一的形式即制服",
+        "english": "uniform",
+        "phonetic": "/ˈjuːnɪfɔːrm/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "人",
+        "desc": "n. 名词；记忆技巧：per-每，son儿子，每个人都是儿子→人",
+        "english": "person",
+        "phonetic": "/ˈpɜːrsn/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "个人的",
+        "desc": "adj. 形容词；person（人）+al（形容词后缀），个人的",
+        "english": "personal",
+        "phonetic": "/ˈpɜːrsənl/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "性格",
+        "desc": "n. 名词；person（人）+ality（名词后缀），人的特性→性格",
+        "english": "personality",
+        "phonetic": "/ˌpɜːrsəˈnæləti/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "人物，文字，特点",
+        "desc": "n. 名词；记忆技巧：char-车，act-行动，er-人，车行动的人→人物；也指文字特点",
+        "english": "character",
+        "phonetic": "/ˈkærəktər/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "特点，品格",
+        "desc": "adj./n. 形容词/名词；character（特点）+istic（后缀），特点的，特性",
+        "english": "characteristic",
+        "phonetic": "/ˌkærəktəˈrɪstɪk/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "积极的",
+        "desc": "adj. 形容词；act（行动）+ive（形容词后缀），积极行动的→积极的",
+        "english": "active",
+        "phonetic": "/ˈæktɪv/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "积极地",
+        "desc": "adv. 副词；active（积极的）+ly（副词后缀），积极地",
+        "english": "actively",
+        "phonetic": "/ˈæktɪvli/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "活动",
+        "desc": "n. 名词；复数activities；act（行动）+ivity（名词后缀），活动",
+        "english": "activity",
+        "phonetic": "/ækˈtɪvəti/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "不积极的",
+        "desc": "adj. 形容词；in-（否定前缀）+active（积极的），不积极的",
+        "english": "inactive",
+        "phonetic": "/ˌɪnˈæktɪv/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "明智的",
+        "desc": "adj. 形容词；记忆技巧：wise发音类似“外思”，向外思考→明智的",
+        "english": "wise",
+        "phonetic": "/waɪz/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "明智地",
+        "desc": "adv. 副词；wise（明智的）+ly（副词后缀），明智地",
+        "english": "wisely",
+        "phonetic": "/ˈwaɪzli/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "智慧",
+        "desc": "n. 名词；wise（明智的）+dom（名词后缀），智慧",
+        "english": "wisdom",
+        "phonetic": "/ˈwɪzdəm/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "比赛",
+        "desc": "v. 动词；com-（一起）+pete（追求），一起追求→比赛",
+        "english": "compete",
+        "phonetic": "/kəmˈpiːt/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "竞赛",
+        "desc": "n. 名词；compete（比赛）+ition（名词后缀），竞赛",
+        "english": "competition",
+        "phonetic": "/ˌkɑːmpəˈtɪʃn/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "竞争者",
+        "desc": "n. 名词；compete（比赛）+itor（表人后缀），竞争者",
+        "english": "competitor",
+        "phonetic": "/kəmˈpetɪtər/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "建筑工地",
+        "desc": "n. 名词；记忆技巧：site发音“赛特”，工地需要特别设置→场地，建筑工地",
+        "english": "site",
+        "phonetic": "/saɪt/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "建筑工地",
+        "desc": "词组；building（建筑）+site（场地），建筑工地",
+        "english": "building site",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "狭窄的",
+        "desc": "adj. 形容词；记忆技巧：narrow音似“纳罗”，容纳范围小→狭窄的",
+        "english": "narrow",
+        "phonetic": "/ˈnæroʊ/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "宽的",
+        "desc": "adj. 形容词；记忆技巧：wide音似“外的”，向外的→宽的",
+        "english": "wide",
+        "phonetic": "/waɪd/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "广泛地",
+        "desc": "adv. 副词；wide（宽的）+ly（副词后缀），广泛地",
+        "english": "widely",
+        "phonetic": "/ˈwaɪdli/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "被广泛使用",
+        "desc": "",
+        "english": "be widely used",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "担心",
+        "desc": "",
+        "english": "be worried about",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
         "chinese": "葡萄酒",
         "desc": "记忆技巧：“w+ine”，ine结尾常与液体相关；词性：名词",
         "english": "wine",
@@ -34641,6 +34802,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit1-n2';
             option.textContent = 'junior/grade7b/unit1-n2';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit1-n3';
+            option.textContent = 'junior/grade7b/unit1-n3';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit2-a';
             option.textContent = 'junior/grade7b/unit2-a';
