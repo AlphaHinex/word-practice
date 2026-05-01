@@ -13195,6 +13195,132 @@ var words = [
         "tag": "junior/grade7b/unit2-n3"
     },
     {
+        "chinese": "形成,养成",
+        "desc": "动词/名词；词根“form”表示形状，如“information”（信息）由“in-”+“form”构成，意为形成信息。",
+        "english": "form",
+        "phonetic": "/fɔːrm/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "形成",
+        "desc": "名词；由动词“form”（形成）加名词后缀“-ation”构成，指形成的过程或结果。",
+        "english": "formation",
+        "phonetic": "/fɔːrˈmeɪʃn/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "使惊讶",
+        "desc": "动词；前缀“a-”加强语气，“maze”（迷宫），使人像进入迷宫一样困惑，引申为“使惊讶”。",
+        "english": "amaze",
+        "phonetic": "/əˈmeɪz/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "令人惊讶的",
+        "desc": "形容词；由动词“amaze”（使惊讶）加现在分词后缀“-ing”构成，用于描述事物具有令人惊讶的特质。",
+        "english": "amazing",
+        "phonetic": "/əˈmeɪzɪŋ/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "惊讶",
+        "desc": "名词；由动词“amaze”（使惊讶）加名词后缀“-ment”构成，指惊讶的情绪或状态。",
+        "english": "amazement",
+        "phonetic": "/əˈmeɪzmənt/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "被…惊讶",
+        "desc": "固定搭配；被动语态结构，表示“被…所惊讶”，by后接惊讶的来源。",
+        "english": "be amazed by",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "塑造；形状",
+        "desc": "动词/名词；作名词时指“形状”，作动词时意为“塑造”，如“shape one's future”（塑造某人的未来）。",
+        "english": "shape",
+        "phonetic": "/ʃeɪp/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "强迫；力量",
+        "desc": "动词/名词；作名词时指“力量”，作动词时意为“强迫”，如“force sb. to do sth.”（强迫某人做某事）。",
+        "english": "force",
+        "phonetic": "/fɔːrs/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "携带",
+        "desc": "动词；可联想“car”（汽车）的功能是“carry”（运载），表示“携带、搬运”。",
+        "english": "carry",
+        "phonetic": "/ˈkæri/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "挤压",
+        "desc": "动词/名词；作动词时指“挤压、按压”，作名词时可指“新闻界”，如“press the button”（按按钮）。",
+        "english": "press",
+        "phonetic": "/pres/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "压力",
+        "desc": "名词；由动词“press”（挤压）加名词后缀“-ure”构成，指挤压产生的“压力”。",
+        "english": "pressure",
+        "phonetic": "/ˈpreʃər/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "上升",
+        "desc": "动词；不规则动词，过去式“rose”，过去分词“risen”，表示“上升、升起”，如“the sun rises”（太阳升起）。",
+        "english": "rise",
+        "phonetic": "/raɪz/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "越来越",
+        "desc": "固定搭配；用于形容词或副词前，表示程度逐渐增加，如“more and more beautiful”（越来越漂亮）。",
+        "english": "more and more",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "奇怪的",
+        "desc": "形容词；可联想“stranger”（陌生人），陌生人常给人“strange”（奇怪的）感觉。",
+        "english": "strange",
+        "phonetic": "/streɪndʒ/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "出现",
+        "desc": "动词；前缀“ap-”（=ad-，加强语气）+“pear”（谐音“飘”），东西“飘”出来即“出现”。",
+        "english": "appear",
+        "phonetic": "/əˈpɪr/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "消失",
+        "desc": "动词；前缀“dis-”（否定）+“appear”（出现），表示“不出现、消失”。",
+        "english": "disappear",
+        "phonetic": "/ˌdɪsəˈpɪr/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "出现；外貌",
+        "desc": "名词；由动词“appear”（出现）加名词后缀“-ance”构成，可表示“出现”或“外貌”。",
+        "english": "appearance",
+        "phonetic": "/əˈpɪrəns/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
+        "chinese": "穿着",
+        "desc": "动词；不规则动词，过去式“wore”，过去分词“worn”，表示“穿着、佩戴”，如“wear clothes”（穿衣服）。",
+        "english": "wear",
+        "phonetic": "/wer/",
+        "tag": "junior/grade7b/unit2-n4"
+    },
+    {
         "chinese": "不说话的；沉默的",
         "desc": "形容词，记忆技巧：sil（联想silk丝绸，光滑无声）+ent（形容词后缀）",
         "english": "silent",
@@ -35226,6 +35352,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit2-n3';
             option.textContent = 'junior/grade7b/unit2-n3';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit2-n4';
+            option.textContent = 'junior/grade7b/unit2-n4';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit3-a';
             option.textContent = 'junior/grade7b/unit3-a';
