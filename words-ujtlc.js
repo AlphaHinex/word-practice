@@ -13769,6 +13769,125 @@ var words = [
         "tag": "junior/grade7b/unit3-b"
     },
     {
+        "chinese": "分枝;树枝",
+        "desc": "词性：n. 树枝；分枝。记忆：联想“branch out”表示扩展，树枝向外扩展。",
+        "english": "branch",
+        "phonetic": "/bræntʃ/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "沉默的",
+        "desc": "词性：adj. 沉默的。记忆：sil（看作still静止）+ent形容词后缀，静止的即沉默的。",
+        "english": "silent",
+        "phonetic": "/ˈsaɪlənt/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "沉默",
+        "desc": "词性：n. 沉默。记忆：silent的名词形式，去t加ce。",
+        "english": "silence",
+        "phonetic": "/ˈsaɪləns/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "人体",
+        "desc": "",
+        "english": "human body",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "人脑",
+        "desc": "",
+        "english": "human brain",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "有创造力的",
+        "desc": "词性：adj. 有创造力的。记忆：create（创造）+ive形容词后缀，表示有创造力的。",
+        "english": "creative",
+        "phonetic": "/kriˈeɪtɪv/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "创造力",
+        "desc": "词性：n. 创造力。记忆：creative的名词形式，去e加ivity。",
+        "english": "creativity",
+        "phonetic": "/ˌkriːeɪˈtɪvəti/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "创造物;创作",
+        "desc": "词性：n. 创造物；创作。记忆：create（创造）+ion名词后缀，表创造物。",
+        "english": "creation",
+        "phonetic": "/kriˈeɪʃn/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "创造者",
+        "desc": "词性：n. 创造者。记忆：create（创造）+or表人，创造者。",
+        "english": "creator",
+        "phonetic": "/kriˈeɪtər/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "环境",
+        "desc": "词性：n. 环境。记忆：en（使）+viron（周围）+ment名词后缀，周围的环境。",
+        "english": "environment",
+        "phonetic": "/ɪnˈvaɪrənmənt/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "便利的",
+        "desc": "词性：adj. 便利的。记忆：con（共同）+veni（来）+ent，共同来的，方便的。",
+        "english": "convenient",
+        "phonetic": "/kənˈviːniənt/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "便利",
+        "desc": "词性：n. 便利。记忆：convenient的名词形式，去t加ce。",
+        "english": "convenience",
+        "phonetic": "/kənˈviːniəns/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "做某事对某人来说是便利的",
+        "desc": "",
+        "english": "convenient for sb to do sth",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "家具",
+        "desc": "词性：n. 家具（不可数）。记忆：furnish（布置）+ure名词后缀，家具是布置房间的物品。",
+        "english": "furniture",
+        "phonetic": "/ˈfɜːrnɪtʃər/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "木;木材",
+        "desc": "词性：n. 木；木材。记忆：联想“木头”的发音。",
+        "english": "wood",
+        "phonetic": "/wʊd/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "木制的",
+        "desc": "词性：adj. 木制的。记忆：wood（木头）+en形容词后缀，木制的。",
+        "english": "wooden",
+        "phonetic": "/ˈwʊdn/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "树林;森林",
+        "desc": "词性：n. 树林；森林（复数）。记忆：wood的复数形式，表示树林。",
+        "english": "woods",
+        "phonetic": "/wʊdz/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
         "chinese": "海豚",
         "desc": "名词。记忆技巧：发音类似“海豚”的音译，联想海洋生物",
         "english": "dolphin",
@@ -35557,6 +35676,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit3-b';
             option.textContent = 'junior/grade7b/unit3-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit3-n1';
+            option.textContent = 'junior/grade7b/unit3-n1';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit4-a';
             option.textContent = 'junior/grade7b/unit4-a';
