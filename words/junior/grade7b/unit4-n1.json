@@ -1,1 +1,140 @@
-[{"chinese": "盲人", "desc": "词性：形容词/动词/名词；记忆技巧：联想“失明的，看不见的”", "english": "blind", "phonetic": "/blaɪnd/"}, {"chinese": "失明", "desc": "词性：名词；记忆技巧：blind（盲的）+ness（名词后缀，表状态）", "english": "blindness", "phonetic": "/ˈblaɪndnəs/"}, {"chinese": "盲目地", "desc": "词性：副词；记忆技巧：blind（盲的）+ly（副词后缀）", "english": "blindly", "phonetic": "/ˈblaɪndli/"}, {"chinese": "羊毛", "desc": "词性：名词；记忆技巧：联想“羊毛制品”", "english": "wool", "phonetic": "/wʊl/"}, {"chinese": "羊毛的", "desc": "词性：形容词；记忆技巧：wool（羊毛）+en（形容词后缀）", "english": "woolen", "phonetic": "/ˈwʊlən/"}, {"chinese": "收到，接待", "desc": "词性：动词；记忆技巧：re（再）+ceive（拿取）→ 再次拿取→收到", "english": "receive", "phonetic": "/rɪˈsiːv/"}, {"chinese": "接待处", "desc": "词性：名词；记忆技巧：receive（收到）+tion（名词后缀）", "english": "reception", "phonetic": "/rɪˈsepʃn/"}, {"chinese": "接待员", "desc": "词性：名词；记忆技巧：reception（接待处）+ist（表人）→ 接待员", "english": "receptionist", "phonetic": "/rɪˈsepʃənɪst/"}, {"chinese": "允许", "desc": "词性：动词；记忆技巧：联想“允许某人做某事”", "english": "allow", "phonetic": "/əˈlaʊ/"}, {"chinese": "允许做", "desc": "词组；记忆技巧：allow的被动结构，后接不定式", "english": "allowed to do", "phonetic": ""}, {"chinese": "允许做", "desc": "词组；记忆技巧：allow后接动名词作宾语", "english": "allow doing", "phonetic": ""}, {"chinese": "睡着", "desc": "词性：形容词；记忆技巧：a（加强）+sleep（睡觉）→ 睡着的", "english": "asleep", "phonetic": "/əˈsliːp/"}, {"chinese": "醒着", "desc": "词性：形容词/动词；记忆技巧：a（加强）+wake（醒）→ 醒着的", "english": "awake", "phonetic": "/əˈweɪk/"}, {"chinese": "吸烟，烟", "desc": "词性：动词/名词；记忆技巧：联想“吸烟产生烟”", "english": "smoke", "phonetic": "/smoʊk/"}]
+[
+    {
+        "chinese": "瞎的",
+        "desc": "词性：形容词/动词/名词；记忆技巧：联想“失明的，看不见的”",
+        "english": "blind",
+        "phonetic": "/blaɪnd/"
+    },
+    {
+        "chinese": "盲人",
+        "desc": "其中 blind 是形容词",
+        "english": "the blind",
+        "phonetic": ""
+    },
+    {
+        "chinese": "失明",
+        "desc": "词性：名词；记忆技巧：blind（盲的）+ness（名词后缀，表状态）",
+        "english": "blindness",
+        "phonetic": "/ˈblaɪndnəs/"
+    },
+    {
+        "chinese": "失明",
+        "desc": "",
+        "english": "go blind",
+        "phonetic": ""
+    },
+    {
+        "chinese": "盲目地",
+        "desc": "词性：副词；记忆技巧：blind（盲的）+ly（副词后缀）",
+        "english": "blindly",
+        "phonetic": "/ˈblaɪndli/"
+    },
+    {
+        "chinese": "羊毛 u.n.",
+        "desc": "词性：名词；记忆技巧：联想“羊毛制品”",
+        "english": "wool",
+        "phonetic": "/wʊl/"
+    },
+    {
+        "chinese": "羊毛的",
+        "desc": "词性：形容词；记忆技巧：wool（羊毛）+en（形容词后缀）",
+        "english": "woolen",
+        "phonetic": "/ˈwʊlən/"
+    },
+    {
+        "chinese": "收到，接待",
+        "desc": "词性：动词；记忆技巧：re（再）+ceive（拿取）→ 再次拿取→收到",
+        "english": "receive",
+        "phonetic": "/rɪˈsiːv/"
+    },
+    {
+        "chinese": "接待处",
+        "desc": "词性：名词；记忆技巧：receive（收到）+tion（名词后缀）",
+        "english": "reception",
+        "phonetic": "/rɪˈsepʃn/"
+    },
+    {
+        "chinese": "接待员",
+        "desc": "词性：名词；记忆技巧：reception（接待处）+ist（表人）→ 接待员",
+        "english": "receptionist",
+        "phonetic": "/rɪˈsepʃənɪst/"
+    },
+    {
+        "chinese": "允许",
+        "desc": "词性：动词；记忆技巧：联想“允许某人做某事”",
+        "english": "allow",
+        "phonetic": "/əˈlaʊ/"
+    },
+    {
+        "chinese": "允许某人做",
+        "desc": "词组；记忆技巧：allow的被动结构，后接不定式",
+        "english": "allow sb. to do",
+        "phonetic": ""
+    },
+    {
+        "chinese": "某人被允许做",
+        "desc": "",
+        "english": "sb. be allowed to do",
+        "phonetic": ""
+    },
+    {
+        "chinese": "允许做",
+        "desc": "词组；记忆技巧：allow后接动名词作宾语",
+        "english": "allow doing",
+        "phonetic": ""
+    },
+    {
+        "chinese": "v. 道歉",
+        "desc": "",
+        "english": "apologize",
+        "phonetic": ""
+    },
+    {
+        "chinese": "因某事向某人道歉",
+        "desc": "",
+        "english": "apologize to sb. for sth.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "因做某事而向某人道歉",
+        "desc": "介词 + doing",
+        "english": "apologize to sb. for doing sth.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "c.n. 道歉",
+        "desc": "",
+        "english": "apology",
+        "phonetic": ""
+    },
+    {
+        "chinese": "因为某事向某人致歉",
+        "desc": "",
+        "english": "make an apology to sb. for sth.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "睡着；睡觉<表语>",
+        "desc": "词性：形容词；记忆技巧：a（加强）+sleep（睡觉）→ 睡着的；= go to sleep；≠ go to bed",
+        "english": "asleep",
+        "phonetic": "/əˈsliːp/"
+    },
+    {
+        "chinese": "睡着",
+        "desc": "",
+        "english": "fall asleep",
+        "phonetic": ""
+    },
+    {
+        "chinese": "醒着 adj.",
+        "desc": "词性：形容词/动词；记忆技巧：a（加强）+wake（醒）→ 醒着的",
+        "english": "awake",
+        "phonetic": "/əˈweɪk/"
+    },
+    {
+        "chinese": "v. 吸烟；u.n. 烟",
+        "desc": "词性：动词/名词；记忆技巧：联想“吸烟产生烟”",
+        "english": "smoke",
+        "phonetic": "/smoʊk/"
+    }
+]

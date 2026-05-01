@@ -1,1 +1,134 @@
-[{"chinese": "生产", "desc": "动词；记忆技巧：pro-向前，duce-引导，向前引导出产品即生产", "english": "produce", "phonetic": "/prəˈduːs/"}, {"chinese": "生产过程", "desc": "名词；记忆技巧：produce（生产）的名词形式，去e加tion", "english": "production", "phonetic": "/prəˈdʌkʃn/"}, {"chinese": "面", "desc": "名词；记忆技巧：联想“旁边的一面”", "english": "side", "phonetic": "/saɪd/"}, {"chinese": "两面", "desc": "", "english": "on both sides", "phonetic": ""}, {"chinese": "肩并肩", "desc": "", "english": "side by side", "phonetic": ""}, {"chinese": "粘贴", "desc": "动词；记忆技巧：像小棍一样粘住", "english": "stick", "phonetic": "/stɪk/"}, {"chinese": "条", "desc": "名词；记忆技巧：表示“棍，条”，注意与动词“粘贴”同形", "english": "stick", "phonetic": "/stɪk/"}, {"chinese": "贴纸", "desc": "名词；记忆技巧：stick（粘贴）+er（表物），能粘贴的东西即贴纸", "english": "sticker", "phonetic": "/ˈstɪkər/"}, {"chinese": "坚持", "desc": "动词；记忆技巧：stick to sth. 坚持某事，像粘住一样不放手", "english": "stick", "phonetic": "/stɪk/"}, {"chinese": "意外、事故", "desc": "名词；记忆技巧：ac（加强）+cid（落下）+ent（名词后缀），突然落下的事即意外", "english": "accident", "phonetic": "/ˈæksɪdənt/"}, {"chinese": "交通事故", "desc": "", "english": "traffic accident", "phonetic": ""}, {"chinese": "偶然", "desc": "", "english": "by accident", "phonetic": ""}, {"chinese": "知识", "desc": "名词；记忆技巧：know（知道）+ledge（名词后缀），知道的东西即知识", "english": "knowledge", "phonetic": "/ˈnɑːlɪdʒ/"}]
+[
+    {
+        "chinese": "生产",
+        "desc": "动词；记忆技巧：pro-向前，duce-引导，向前引导出产品即生产",
+        "english": "produce",
+        "phonetic": "/prəˈduːs/"
+    },
+    {
+        "chinese": "产品 c.n.",
+        "desc": "",
+        "english": "product",
+        "phonetic": ""
+    },
+    {
+        "chinese": "生产过程",
+        "desc": "名词；记忆技巧：produce（生产）的名词形式，去e加tion",
+        "english": "production",
+        "phonetic": "/prəˈdʌkʃn/"
+    },
+    {
+        "chinese": "面 c.n.",
+        "desc": "名词；记忆技巧：联想“旁边的一面”",
+        "english": "side",
+        "phonetic": "/saɪd/"
+    },
+    {
+        "chinese": "两面",
+        "desc": "",
+        "english": "on both sides",
+        "phonetic": ""
+    },
+    {
+        "chinese": "肩并肩",
+        "desc": "",
+        "english": "side by side",
+        "phonetic": ""
+    },
+    {
+        "chinese": "v. 借",
+        "desc": "过去式：borrowed；进行时：borrowing",
+        "english": "borrow",
+        "phonetic": ""
+    },
+    {
+        "chinese": "从 …… 借",
+        "desc": "",
+        "english": "borrow sth. from",
+        "phonetic": ""
+    },
+    {
+        "chinese": "v. 借出",
+        "desc": "过去式：lent；过去分词：lent",
+        "english": "lend",
+        "phonetic": ""
+    },
+    {
+        "chinese": "把……借给……",
+        "desc": "",
+        "english": "lend sth. to sb.",
+        "phonetic": ""
+    },
+    {
+        "chinese": "v. 挖",
+        "desc": "过去式：dug；过去分词：dug；进行时：digging",
+        "english": "dig",
+        "phonetic": ""
+    },
+    {
+        "chinese": "挖洞",
+        "desc": "",
+        "english": "dia a hole",
+        "phonetic": ""
+    },
+    {
+        "chinese": "v. 粘贴；n. 棍条",
+        "desc": "动词；记忆技巧：像小棍一样粘住；过去式：stuck；过去分词：stuck",
+        "english": "stick",
+        "phonetic": "/stɪk/"
+    },
+    {
+        "chinese": "贴纸",
+        "desc": "名词；记忆技巧：stick（粘贴）+er（表物），能粘贴的东西即贴纸",
+        "english": "sticker",
+        "phonetic": "/ˈstɪkər/"
+    },
+    {
+        "chinese": "坚持去做",
+        "desc": "",
+        "english": "stick to doing",
+        "phonetic": ""
+    },
+    {
+        "chinese": "意外、事故 c.n.",
+        "desc": "名词；记忆技巧：ac（加强）+cid（落下）+ent（名词后缀），突然落下的事即意外；前面加 an",
+        "english": "accident",
+        "phonetic": "/ˈæksɪdənt/"
+    },
+    {
+        "chinese": "交通事故",
+        "desc": "",
+        "english": "traffic accident",
+        "phonetic": ""
+    },
+    {
+        "chinese": "偶然",
+        "desc": "",
+        "english": "by accident/chance",
+        "phonetic": ""
+    },
+    {
+        "chinese": "知识 u.n.",
+        "desc": "名词；记忆技巧：know（知道）+ledge（名词后缀），知道的东西即知识",
+        "english": "knowledge",
+        "phonetic": "/ˈnɑːlɪdʒ/"
+    },
+    {
+        "chinese": "很多知识",
+        "desc": "",
+        "english": "a lot of / lots of / much knowledge",
+        "phonetic": ""
+    },
+    {
+        "chinese": "adj. 有学问的，学识渊博的",
+        "desc": "",
+        "english": "knowledgeable",
+        "phonetic": ""
+    },
+    {
+        "chinese": "c.n. 文字，角色，人物，性格",
+        "desc": "",
+        "english": "character",
+        "phonetic": ""
+    }
+]

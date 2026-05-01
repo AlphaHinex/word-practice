@@ -1,1 +1,62 @@
-[{"chinese": "垫子", "desc": "词性：n. 记忆技巧：发音类似“拍的”，拍打的东西可能是垫子", "english": "pad", "phonetic": "/pæd/"}, {"chinese": "号召", "desc": "记忆技巧：call意为“叫”，on表“针对”，合起来即“针对某人叫”引申为号召", "english": "call on", "phonetic": ""}]
+[
+    {
+        "chinese": "c.n. 性格特点",
+        "desc": "",
+        "english": "characteristic",
+        "phonetic": ""
+    },
+    {
+        "chinese": "v. 传播",
+        "desc": "过去式：spread；过去分词：spread",
+        "english": "spread",
+        "phonetic": ""
+    },
+    {
+        "chinese": "在全国传播",
+        "desc": "",
+        "english": "spread across the country",
+        "phonetic": ""
+    },
+    {
+        "chinese": "张开翅膀",
+        "desc": "",
+        "english": "spread wings",
+        "phonetic": ""
+    },
+    {
+        "chinese": "防止火蔓延",
+        "desc": "",
+        "english": "stop fires from spreading",
+        "phonetic": ""
+    },
+    {
+        "chinese": "v. 翻译",
+        "desc": "",
+        "english": "translate",
+        "phonetic": ""
+    },
+    {
+        "chinese": "n. 译文",
+        "desc": "",
+        "english": "translation",
+        "phonetic": ""
+    },
+    {
+        "chinese": "n. 翻译家",
+        "desc": "",
+        "english": "translator",
+        "phonetic": ""
+    },
+    {
+        "chinese": "号召某人做",
+        "desc": "",
+        "english": "call on sb. to do",
+        "phonetic": ""
+    },
+    {
+        "chinese": "号召",
+        "desc": "记忆技巧：call意为“叫”，on表“针对”，合起来即“针对某人叫”引申为号召",
+        "english": "call on",
+        "phonetic": ""
+    }
+]
