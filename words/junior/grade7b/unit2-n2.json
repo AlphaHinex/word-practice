@@ -1,1 +1,92 @@
-[{"chinese": "阶外,步骤,脚", "desc": "词性：n. 步骤；脚步；台阶；v. 走；迈步。记忆技巧：可联想“台阶(step)需要一步一步踩”来记忆。", "english": "step", "phonetic": "/stɛp/"}, {"chinese": "一步一步地,逐步地", "desc": "记忆技巧：由step（步骤）+ by（通过）+ step（步骤）构成，强调按顺序逐步进行。", "english": "step by step", "phonetic": ""}, {"chinese": "楼上", "desc": "词性：adv. 在楼上；n. 楼上。记忆技巧：up（向上）+ stairs（楼梯）→ 向上走楼梯到达楼上。", "english": "upstairs", "phonetic": "/ˌʌpˈsterz/"}, {"chinese": "楼下", "desc": "词性：adv. 在楼下；n. 楼下。记忆技巧：down（向下）+ stairs（楼梯）→ 向下走楼梯到达楼下。", "english": "downstairs", "phonetic": "/ˌdaʊnˈsterz/"}]
+[
+    {
+        "chinese": "台阶,步骤,脚步 c.n.",
+        "desc": "词性：n. 步骤；脚步；台阶；v. 走；迈步。记忆技巧：可联想“台阶(step)需要一步一步踩”来记忆。",
+        "english": "step",
+        "phonetic": "/stɛp/"
+    },
+    {
+        "chinese": "一步一步地,逐步地",
+        "desc": "记忆技巧：由step（步骤）+ by（通过）+ step（步骤）构成，强调按顺序逐步进行。",
+        "english": "step by step",
+        "phonetic": ""
+    },
+    {
+        "chinese": "v. 踩，踏",
+        "desc": "",
+        "english": "stepped",
+        "phonetic": ""
+    },
+    {
+        "chinese": "c.n. 楼梯",
+        "desc": "",
+        "english": "stair",
+        "phonetic": ""
+    },
+    {
+        "chinese": "上楼",
+        "desc": "",
+        "english": "go up the stairs",
+        "phonetic": ""
+    },
+    {
+        "chinese": "下楼",
+        "desc": "",
+        "english": "go down the stairs",
+        "phonetic": ""
+    },
+    {
+        "chinese": "楼上（一个词）",
+        "desc": "词性：adv. 在楼上；n. 楼上。记忆技巧：up（向上）+ stairs（楼梯）→ 向上走楼梯到达楼上。",
+        "english": "upstairs",
+        "phonetic": "/ˌʌpˈsterz/"
+    },
+    {
+        "chinese": "楼下（一个词）",
+        "desc": "词性：adv. 在楼下；n. 楼下。记忆技巧：down（向下）+ stairs（楼梯）→ 向下走楼梯到达楼下。",
+        "english": "downstairs",
+        "phonetic": "/ˌdaʊnˈsterz/"
+    },
+    {
+        "chinese": "百货商店",
+        "desc": "",
+        "english": "department store",
+        "phonetic": ""
+    },
+    {
+        "chinese": "n. 系；教研室；部门；部；局",
+        "desc": "",
+        "english": "department",
+        "phonetic": ""
+    },
+    {
+        "chinese": "更喜欢做某事",
+        "desc": "",
+        "english": "prefer to do sth",
+        "phonetic": ""
+    },
+    {
+        "chinese": "喜欢（过去式）",
+        "desc": "",
+        "english": "preferred",
+        "phonetic": ""
+    },
+    {
+        "chinese": "与B相比更喜欢A",
+        "desc": "",
+        "english": "prefer A to B",
+        "phonetic": ""
+    },
+    {
+        "chinese": "与做B相比，更喜欢A",
+        "desc": "",
+        "english": "perfer doing A to doing B / prefer to do A rather than do B / would rather do A than do B",
+        "phonetic": ""
+    },
+    {
+        "chinese": "用手工",
+        "desc": "",
+        "english": "by hand",
+        "phonetic": ""
+    }
+]
