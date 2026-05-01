@@ -14819,6 +14819,20 @@ var words = [
         "tag": "junior/grade7b/unit5-b"
     },
     {
+        "chinese": "填表",
+        "desc": "",
+        "english": "fill in a form",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
+        "chinese": "最终；最后",
+        "desc": "副词。记忆技巧：event（事件）+ ual（形容词后缀）+ ly（副词后缀），可联想“事件最终发生”，表示“最终；最后”。",
+        "english": "eventually",
+        "phonetic": "/ɪˈventʃuəli/",
+        "tag": "junior/grade7b/unit5-n1"
+    },
+    {
         "chinese": "速度;速率",
         "desc": "n. 速度；速率；v. 加速；记忆技巧：“s+peed”快速发音联想速度感",
         "english": "speed",
@@ -36146,6 +36160,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit5-b';
             option.textContent = 'junior/grade7b/unit5-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit5-n1';
+            option.textContent = 'junior/grade7b/unit5-n1';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit6-a';
             option.textContent = 'junior/grade7b/unit6-a';
