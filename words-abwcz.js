@@ -14833,6 +14833,97 @@ var words = [
         "tag": "junior/grade7b/unit5-n1"
     },
     {
+        "chinese": "洗",
+        "desc": "n. 联想“洗澡需要bath”",
+        "english": "bath",
+        "phonetic": "/bæθ/",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "洗澡",
+        "desc": "固定搭配，“take a bath”或“have a bath”均表示“洗澡”",
+        "english": "take/ have a bath",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "咸的",
+        "desc": "adj. 由salt（盐）加y构成，表“咸的”",
+        "english": "salty",
+        "phonetic": "/ˈsɔːlti/",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "盐",
+        "desc": "n. 联想“salt是盐，salty是咸的”",
+        "english": "salt",
+        "phonetic": "/sɔːlt/",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "盐水",
+        "desc": "salt（盐）+ water（水）构成，表“盐水”",
+        "english": "salt water",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "淡水",
+        "desc": "fresh（新鲜的）+ water（水）构成，表“淡水”",
+        "english": "fresh water",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "有点",
+        "desc": "固定搭配，修饰形容词，如“a bit cold”（有点冷）",
+        "english": "a bit",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "有点",
+        "desc": "比“a bit”语气稍强，同样修饰形容词",
+        "english": "a little bit",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "有点",
+        "desc": "固定搭配，修饰名词，如“a bit of time”（一点时间）",
+        "english": "a bit of",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "立刻",
+        "desc": "固定短语，表示立即，如“do it at once”（立刻做）",
+        "english": "at once",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "立刻",
+        "desc": "与“at once”同义，表立即行动",
+        "english": "right away",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "立刻",
+        "desc": "强调“现在马上”，如“I need it right now”（我现在就需要）",
+        "english": "right now",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "可饮用的",
+        "desc": "adj. 由drink（喝）加able构成，表“可饮用的”",
+        "english": "drinkable",
+        "phonetic": "/ˈdrɪŋkəbl/",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
         "chinese": "速度;速率",
         "desc": "n. 速度；速率；v. 加速；记忆技巧：“s+peed”快速发音联想速度感",
         "english": "speed",
@@ -36163,6 +36254,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit5-n1';
             option.textContent = 'junior/grade7b/unit5-n1';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit5-n2';
+            option.textContent = 'junior/grade7b/unit5-n2';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit6-a';
             option.textContent = 'junior/grade7b/unit6-a';
