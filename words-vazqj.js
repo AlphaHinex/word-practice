@@ -13769,8 +13769,8 @@ var words = [
         "tag": "junior/grade7b/unit3-b"
     },
     {
-        "chinese": "分枝;树枝",
-        "desc": "词性：n. 树枝；分枝。记忆：联想“branch out”表示扩展，树枝向外扩展。",
+        "chinese": "分枝;树枝 c.n.",
+        "desc": "词性：n. 树枝；分枝。记忆：联想“branch out”表示扩展，树枝向外扩展。复数 branches",
         "english": "branch",
         "phonetic": "/bræntʃ/",
         "tag": "junior/grade7b/unit3-n1"
@@ -13783,10 +13783,31 @@ var words = [
         "tag": "junior/grade7b/unit3-n1"
     },
     {
+        "chinese": "保持沉默",
+        "desc": "",
+        "english": "keep/stay/remain silent",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
         "chinese": "沉默",
         "desc": "词性：n. 沉默。记忆：silent的名词形式，去t加ce。",
         "english": "silence",
         "phonetic": "/ˈsaɪləns/",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "c.n. 人；adj. 人的",
+        "desc": "",
+        "english": "human",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "人",
+        "desc": "",
+        "english": "human being(s)",
+        "phonetic": "",
         "tag": "junior/grade7b/unit3-n1"
     },
     {
@@ -13800,6 +13821,13 @@ var words = [
         "chinese": "人脑",
         "desc": "",
         "english": "human brain",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "v. 创造",
+        "desc": "",
+        "english": "create",
         "phonetic": "",
         "tag": "junior/grade7b/unit3-n1"
     },
@@ -13818,7 +13846,7 @@ var words = [
         "tag": "junior/grade7b/unit3-n1"
     },
     {
-        "chinese": "创造物;创作",
+        "chinese": "创造物（c.n.）;创作（u.n.）",
         "desc": "词性：n. 创造物；创作。记忆：create（创造）+ion名词后缀，表创造物。",
         "english": "creation",
         "phonetic": "/kriˈeɪʃn/",
@@ -13839,6 +13867,13 @@ var words = [
         "tag": "junior/grade7b/unit3-n1"
     },
     {
+        "chinese": "环境问题",
+        "desc": "",
+        "english": "environment problems",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
         "chinese": "便利的",
         "desc": "词性：adj. 便利的。记忆：con（共同）+veni（来）+ent，共同来的，方便的。",
         "english": "convenient",
@@ -13855,19 +13890,26 @@ var words = [
     {
         "chinese": "做某事对某人来说是便利的",
         "desc": "",
-        "english": "convenient for sb to do sth",
+        "english": "It's convenient for sb to do sth",
         "phonetic": "",
         "tag": "junior/grade7b/unit3-n1"
     },
     {
-        "chinese": "家具",
+        "chinese": "家具 u.n.",
         "desc": "词性：n. 家具（不可数）。记忆：furnish（布置）+ure名词后缀，家具是布置房间的物品。",
         "english": "furniture",
         "phonetic": "/ˈfɜːrnɪtʃər/",
         "tag": "junior/grade7b/unit3-n1"
     },
     {
-        "chinese": "木;木材",
+        "chinese": "一件家具",
+        "desc": "",
+        "english": "a piece of furniture",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n1"
+    },
+    {
+        "chinese": "木;木材 u.n.",
         "desc": "词性：n. 木；木材。记忆：联想“木头”的发音。",
         "english": "wood",
         "phonetic": "/wʊd/",
@@ -13882,16 +13924,23 @@ var words = [
     },
     {
         "chinese": "树林;森林",
-        "desc": "词性：n. 树林；森林（复数）。记忆：wood的复数形式，表示树林。",
+        "desc": "词性：n. 树林；森林（只用复数）。记忆：wood的复数形式，表示树林。",
         "english": "woods",
         "phonetic": "/wʊdz/",
         "tag": "junior/grade7b/unit3-n1"
     },
     {
-        "chinese": "态度, 款待, 对待",
+        "chinese": "v. 1. 以……态度对待；2. 治疗；3. 款待",
         "desc": "动词：对待；名词：款待、态度。记忆技巧：联想“treat someone to sth”（用某物款待某人）",
         "english": "treat",
         "phonetic": "/trit/",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "把……当作……对待",
+        "desc": "",
+        "english": "treat ... as ...",
+        "phonetic": "",
         "tag": "junior/grade7b/unit3-n2"
     },
     {
@@ -13916,6 +13965,13 @@ var words = [
         "tag": "junior/grade7b/unit3-n2"
     },
     {
+        "chinese": "与 …… 交流",
+        "desc": "",
+        "english": "communicate with",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
         "chinese": "交流",
         "desc": "名词，由“communicate”去“e”加“-ion”构成，意为“交流”",
         "english": "communication",
@@ -13933,6 +13989,69 @@ var words = [
         "chinese": "拿出, 取出",
         "desc": "词组，意为“拿出、取出”，如“take out a pen”（拿出一支笔）",
         "english": "take out",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "由 …… 制成",
+        "desc": "",
+        "english": "be made of/from",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "产自，产于",
+        "desc": "+ 地点，年份",
+        "english": "be made in",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "由 …… 制作",
+        "desc": "",
+        "english": "be made by sb.",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "被制作成为",
+        "desc": "+ 成品",
+        "english": "be made into",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "由 …… 组成",
+        "desc": "",
+        "english": "be made up of",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "帮助做某事",
+        "desc": "This means that they help create a clean environment for everyone on this planet.",
+        "english": "help (to) do sth.",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "帮助某人做某事",
+        "desc": "",
+        "english": "help sb. (to) do sth.",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "但是",
+        "desc": "连词，放句中，连两句",
+        "english": "but",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "然而",
+        "desc": "副词，放句首或插中间，语气更正式",
+        "english": "however",
         "phonetic": "",
         "tag": "junior/grade7b/unit3-n2"
     },
