@@ -12026,21 +12026,21 @@ var words = [
         "tag": "junior/grade7b/unit1-b"
     },
     {
-        "chinese": "建议",
+        "chinese": "建议 u.n.",
         "desc": "名词；联想'ad-加强 + vice(看)'，加强看法即建议；注意与动词advise区分",
         "english": "advice",
         "phonetic": "/ədˈvaɪs/",
         "tag": "junior/grade7b/unit1-n1"
     },
     {
-        "chinese": "条建议",
+        "chinese": "一条建议",
         "desc": "不可数名词advice的量化表达，意为'一条建议'",
         "english": "a piece of advice",
         "phonetic": "",
         "tag": "junior/grade7b/unit1-n1"
     },
     {
-        "chinese": "建议",
+        "chinese": "建议 v.",
         "desc": "动词；注意与名词advice区分，结尾se发/z/音；常用搭配advise sb to do sth",
         "english": "advise",
         "phonetic": "/ədˈvaɪz/",
@@ -12049,15 +12049,29 @@ var words = [
     {
         "chinese": "建议某人做…",
         "desc": "动词短语，结构为'建议某人做某事'",
-        "english": "advise sb to do",
+        "english": "advise sb to do sth",
         "phonetic": "",
         "tag": "junior/grade7b/unit1-n1"
     },
     {
-        "chinese": "建议",
+        "chinese": "建议 v.",
+        "desc": "动词，+ doing",
+        "english": "suggest",
+        "phonetic": "/səˈdʒest/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "建议 c.n.",
         "desc": "名词；由动词suggest加-ion后缀构成",
         "english": "suggestion",
         "phonetic": "/səˈdʒestʃən/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "n. 勇气；v. 鼓励",
+        "desc": "",
+        "english": "encourage",
+        "phonetic": "",
         "tag": "junior/grade7b/unit1-n1"
     },
     {
@@ -12082,7 +12096,7 @@ var words = [
         "tag": "junior/grade7b/unit1-n1"
     },
     {
-        "chinese": "退休",
+        "chinese": "退休 v.",
         "desc": "动词；re-(再次)+tire(疲倦)，再次感到疲倦即退休",
         "english": "retire",
         "phonetic": "/rɪˈtaɪər/",
@@ -12096,10 +12110,17 @@ var words = [
         "tag": "junior/grade7b/unit1-n1"
     },
     {
-        "chinese": "退休",
+        "chinese": "退休 n.",
         "desc": "名词；由动词retire加-ment后缀构成",
         "english": "retirement",
         "phonetic": "/rɪˈtaɪərmənt/",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "v. 为……欢呼；n. 欢呼",
+        "desc": "",
+        "english": "cheer",
+        "phonetic": "",
         "tag": "junior/grade7b/unit1-n1"
     },
     {
@@ -12131,6 +12152,13 @@ var words = [
         "tag": "junior/grade7b/unit1-n1"
     },
     {
+        "chinese": "医学问题",
+        "desc": "",
+        "english": "medical problems",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
         "chinese": "药",
         "desc": "名词；联想'med-(治疗)+icine'，意为'药物，医学'",
         "english": "medicine",
@@ -12152,9 +12180,23 @@ var words = [
         "tag": "junior/grade7b/unit1-n1"
     },
     {
+        "chinese": "蛋炒饭",
+        "desc": "",
+        "english": "egg fried rice",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n1"
+    },
+    {
+        "chinese": "conj. 各处，无论在哪",
+        "desc": "",
+        "english": "wherever",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
         "chinese": "无论我去哪里",
         "desc": "",
-        "english": "Wherever I go",
+        "english": "Wherever I go / no matter where I go",
         "phonetic": "",
         "tag": "junior/grade7b/unit1-n2"
     },
@@ -12187,10 +12229,24 @@ var words = [
         "tag": "junior/grade7b/unit1-n2"
     },
     {
-        "chinese": "可能的",
-        "desc": "词性：adj. 记忆技巧：poss（能力，来自possess）+ible（形容词后缀，表示‘可…的’），‘可做到的’即‘可能的’",
-        "english": "possible",
-        "phonetic": "/ˈpɑːsəbl/",
+        "chinese": "一 …… 就 ……",
+        "desc": "",
+        "english": "as soon as",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "尽快",
+        "desc": "",
+        "english": "as soon as possible",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "聪明的",
+        "desc": "",
+        "english": "wise",
+        "phonetic": "",
         "tag": "junior/grade7b/unit1-n2"
     },
     {
@@ -12229,7 +12285,7 @@ var words = [
         "tag": "junior/grade7b/unit1-n2"
     },
     {
-        "chinese": "注意(+动)",
+        "chinese": "注意(+ doing)",
         "desc": "",
         "english": "pay attention to",
         "phonetic": "",
@@ -12250,9 +12306,16 @@ var words = [
         "tag": "junior/grade7b/unit1-n2"
     },
     {
-        "chinese": "他很少迟到 (用于be动词后)",
-        "desc": "",
+        "chinese": "他很少迟到",
+        "desc": "seldom 可用于be动词后",
         "english": "He is seldom late",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "他很少早起",
+        "desc": "seldom 可用于实义动词前",
+        "english": "He seldom gets up early",
         "phonetic": "",
         "tag": "junior/grade7b/unit1-n2"
     },
@@ -12271,6 +12334,13 @@ var words = [
         "tag": "junior/grade7b/unit1-n2"
     },
     {
+        "chinese": "厌烦的 (人)",
+        "desc": "",
+        "english": "bored",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
         "chinese": "无聊的 (物)",
         "desc": "词性：adj. 记忆技巧：bore（使厌烦）的现在分词作形容词，修饰物，表示‘无聊的’",
         "english": "boring",
@@ -12285,7 +12355,7 @@ var words = [
         "tag": "junior/grade7b/unit1-n2"
     },
     {
-        "chinese": "厌烦",
+        "chinese": "厌烦 n.",
         "desc": "词性：n. 记忆技巧：bored（厌烦的）+om（名词后缀），表示‘厌烦’的状态",
         "english": "boredom",
         "phonetic": "/ˈbɔːrdəm/",
@@ -12302,6 +12372,13 @@ var words = [
         "chinese": "对某人严格",
         "desc": "动词短语。结构：be+形容词+with+sb，表示对某人严格要求。",
         "english": "be strict with sb",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "对某事严格",
+        "desc": "",
+        "english": "be strict about sth",
         "phonetic": "",
         "tag": "junior/grade7b/unit1-n2"
     },
@@ -12327,14 +12404,21 @@ var words = [
         "tag": "junior/grade7b/unit1-n2"
     },
     {
-        "chinese": "制服",
+        "chinese": "习惯于",
+        "desc": "",
+        "english": "be/get used to doing",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "制服 c.n. ，前加 a，不加 an",
         "desc": "n. 名词；记忆技巧：uni-表示“一”，form“形式”，统一的形式即制服",
         "english": "uniform",
         "phonetic": "/ˈjuːnɪfɔːrm/",
         "tag": "junior/grade7b/unit1-n3"
     },
     {
-        "chinese": "人",
+        "chinese": "人 c.n.",
         "desc": "n. 名词；记忆技巧：per-每，son儿子，每个人都是儿子→人",
         "english": "person",
         "phonetic": "/ˈpɜːrsn/",
@@ -12348,28 +12432,28 @@ var words = [
         "tag": "junior/grade7b/unit1-n3"
     },
     {
-        "chinese": "性格",
+        "chinese": "性格 c.n.",
         "desc": "n. 名词；person（人）+ality（名词后缀），人的特性→性格",
         "english": "personality",
         "phonetic": "/ˌpɜːrsəˈnæləti/",
         "tag": "junior/grade7b/unit1-n3"
     },
     {
-        "chinese": "人物，文字，特点",
+        "chinese": "人物，角色，文字，特点 c.n.",
         "desc": "n. 名词；记忆技巧：char-车，act-行动，er-人，车行动的人→人物；也指文字特点",
         "english": "character",
         "phonetic": "/ˈkærəktər/",
         "tag": "junior/grade7b/unit1-n3"
     },
     {
-        "chinese": "特点，品格",
+        "chinese": "特点，品格 c.n.",
         "desc": "adj./n. 形容词/名词；character（特点）+istic（后缀），特点的，特性",
         "english": "characteristic",
         "phonetic": "/ˌkærəktəˈrɪstɪk/",
         "tag": "junior/grade7b/unit1-n3"
     },
     {
-        "chinese": "积极的",
+        "chinese": "积极的，活跃的",
         "desc": "adj. 形容词；act（行动）+ive（形容词后缀），积极行动的→积极的",
         "english": "active",
         "phonetic": "/ˈæktɪv/",
@@ -12418,10 +12502,17 @@ var words = [
         "tag": "junior/grade7b/unit1-n3"
     },
     {
-        "chinese": "比赛",
+        "chinese": "比赛，竞赛（不是竟）",
         "desc": "v. 动词；com-（一起）+pete（追求），一起追求→比赛",
         "english": "compete",
         "phonetic": "/kəmˈpiːt/",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "有竞争力的 adj.",
+        "desc": "",
+        "english": "competitive",
+        "phonetic": "/kəmˈpɛdədɪv/",
         "tag": "junior/grade7b/unit1-n3"
     },
     {
@@ -12432,6 +12523,13 @@ var words = [
         "tag": "junior/grade7b/unit1-n3"
     },
     {
+        "chinese": "演讲比赛",
+        "desc": "",
+        "english": "speaking competition",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
         "chinese": "竞争者",
         "desc": "n. 名词；compete（比赛）+itor（表人后缀），竞争者",
         "english": "competitor",
@@ -12439,14 +12537,21 @@ var words = [
         "tag": "junior/grade7b/unit1-n3"
     },
     {
-        "chinese": "建筑工地",
+        "chinese": "洗淋浴",
+        "desc": "",
+        "english": "take/have a shower",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "建筑工地 c.n.",
         "desc": "n. 名词；记忆技巧：site发音“赛特”，工地需要特别设置→场地，建筑工地",
         "english": "site",
         "phonetic": "/saɪt/",
         "tag": "junior/grade7b/unit1-n3"
     },
     {
-        "chinese": "建筑工地",
+        "chinese": "建筑工地（词组）",
         "desc": "词组；building（建筑）+site（场地），建筑工地",
         "english": "building site",
         "phonetic": "",
@@ -12482,8 +12587,22 @@ var words = [
     },
     {
         "chinese": "担心",
-        "desc": "",
+        "desc": "+ doing",
         "english": "be worried about",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "担心 v.",
+        "desc": "",
+        "english": "worry",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n3"
+    },
+    {
+        "chinese": "担心",
+        "desc": "",
+        "english": "worry about",
         "phonetic": "",
         "tag": "junior/grade7b/unit1-n3"
     },
