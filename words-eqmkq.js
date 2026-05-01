@@ -12152,6 +12152,181 @@ var words = [
         "tag": "junior/grade7b/unit1-n1"
     },
     {
+        "chinese": "无论我去哪里",
+        "desc": "",
+        "english": "Wherever I go",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "无论什么；任何事物",
+        "desc": "词性：pron./adj./adv. 记忆技巧：what（什么）+ever（无论）构成，表示‘无论什么’",
+        "english": "whatever",
+        "phonetic": "/ˌwɑːtˈevər/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "无论什么",
+        "desc": "",
+        "english": "no matter what",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "无论谁；任何人",
+        "desc": "词性：pron. 记忆技巧：who（谁）+ever（无论）构成，表示‘无论谁’",
+        "english": "whoever",
+        "phonetic": "/huːˈevər/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "无论谁",
+        "desc": "",
+        "english": "no matter who",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "可能的",
+        "desc": "词性：adj. 记忆技巧：poss（能力，来自possess）+ible（形容词后缀，表示‘可…的’），‘可做到的’即‘可能的’",
+        "english": "possible",
+        "phonetic": "/ˈpɑːsəbl/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "聪明的",
+        "desc": "词性：adj. 记忆技巧：联想‘smart phone（智能手机）’，手机聪明即‘智能的’，引申为‘聪明的’",
+        "english": "smart",
+        "phonetic": "/smɑːrt/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "聪明的",
+        "desc": "词性：adj. 记忆技巧：发音类似‘可来我这儿’，聪明的人能‘可来我这儿’解决问题",
+        "english": "clever",
+        "phonetic": "/ˈklevər/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "明亮的；聪明的",
+        "desc": "词性：adj. 记忆技巧：‘明亮的’光线（bright light）让人看得清楚，引申为‘聪明的’头脑清晰",
+        "english": "bright",
+        "phonetic": "/braɪt/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "聪明的",
+        "desc": "词性：adj. 记忆技巧：intel（智力，如Intel公司）+lig（选择，如eligible）+ent（形容词后缀），有‘选择智力’的能力即‘聪明的’",
+        "english": "intelligent",
+        "phonetic": "/ɪnˈtelɪdʒənt/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "注意力",
+        "desc": "词性：n. 记忆技巧：at（在）+tent（帐篷）+ion（名词后缀），‘在帐篷里’需要集中‘注意力’",
+        "english": "attention",
+        "phonetic": "/əˈtenʃn/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "注意(+动)",
+        "desc": "",
+        "english": "pay attention to",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "保持某人的注意力",
+        "desc": "",
+        "english": "keep one's attention",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "很少",
+        "desc": "词性：adv. 记忆技巧：sel（自己）+dom（领域），‘自己的领域’不常去，即‘很少’",
+        "english": "seldom",
+        "phonetic": "/ˈseldəm/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "他很少迟到 (用于be动词后)",
+        "desc": "",
+        "english": "He is seldom late",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "几乎不",
+        "desc": "词性：adv. 记忆技巧：hard（努力地）+ly（副词后缀），‘努力做也几乎不’成功，即‘几乎不’",
+        "english": "hardly",
+        "phonetic": "/ˈhɑːrdli/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "感到厌烦的 (人)",
+        "desc": "词性：adj. 记忆技巧：bore（使厌烦）的过去分词作形容词，修饰人，表示‘感到厌烦的’",
+        "english": "bored",
+        "phonetic": "/bɔːrd/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "无聊的 (物)",
+        "desc": "词性：adj. 记忆技巧：bore（使厌烦）的现在分词作形容词，修饰物，表示‘无聊的’",
+        "english": "boring",
+        "phonetic": "/ˈbɔːrɪŋ/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "使厌烦",
+        "desc": "词性：v. 记忆技巧：发音类似‘饱了’，吃太饱会‘使厌烦’",
+        "english": "bore",
+        "phonetic": "/bɔːr/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "厌烦",
+        "desc": "词性：n. 记忆技巧：bored（厌烦的）+om（名词后缀），表示‘厌烦’的状态",
+        "english": "boredom",
+        "phonetic": "/ˈbɔːrdəm/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "严格的",
+        "desc": "形容词。记忆技巧：联想“str”像“string（绳子）”，严格的绳子束缚人；词根意为“拉紧”，引申为严格。",
+        "english": "strict",
+        "phonetic": "/strɪkt/",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "对某人严格",
+        "desc": "动词短语。结构：be+形容词+with+sb，表示对某人严格要求。",
+        "english": "be strict with sb",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "放弃做",
+        "desc": "动词短语。give up后接动名词doing，意为放弃做某事，up为副词。",
+        "english": "give up doing",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "过去常常做",
+        "desc": "固定搭配。used to+动词原形，表示过去习惯性的动作，现在已不再发生。",
+        "english": "used to do",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
+        "chinese": "被用来做",
+        "desc": "被动语态结构。表示某物被用来做某事，注意与“used to do（过去常常）”和“be used to doing（习惯于）”区分。",
+        "english": "be used to do",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit1-n2"
+    },
+    {
         "chinese": "葡萄酒",
         "desc": "记忆技巧：“w+ine”，ine结尾常与液体相关；词性：名词",
         "english": "wine",
@@ -34463,6 +34638,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit1-n1';
             option.textContent = 'junior/grade7b/unit1-n1';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit1-n2';
+            option.textContent = 'junior/grade7b/unit1-n2';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit2-a';
             option.textContent = 'junior/grade7b/unit2-a';
