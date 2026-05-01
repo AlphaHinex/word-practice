@@ -1,1 +1,164 @@
-[{"chinese": "光", "desc": "词性：名词；记忆技巧：联想“视力所及的景象”", "english": "sight", "phonetic": "/saɪt/"}, {"chinese": "想象", "desc": "词性：动词；记忆技巧：im-（进入）+agine（类似image图像），进入图像即想象", "english": "imagine", "phonetic": "/ɪˈmædʒɪn/"}, {"chinese": "有想象力的", "desc": "词性：形容词；记忆技巧：imagine（想象）+tive（形容词后缀），表有想象力的", "english": "imaginative", "phonetic": "/ɪˈmædʒɪnətɪv/"}, {"chinese": "想象力", "desc": "词性：名词；记忆技巧：imagine（想象）+ation（名词后缀），表想象力", "english": "imagination", "phonetic": "/ɪˌmædʒɪˈneɪʃn/"}, {"chinese": "目的地", "desc": "词性：名词；记忆技巧：destin（命运）+ation，命运的终点即目的地", "english": "destination", "phonetic": "/ˌdestɪˈneɪʃn/"}, {"chinese": "独特的", "desc": "词性：形容词；记忆技巧：发音“由你克”，联想“唯一的特性”", "english": "unique", "phonetic": "/juˈniːk/"}, {"chinese": "濒危的", "desc": "词性：形容词；记忆技巧：en-（使）+danger（危险）+ed，使处于危险中即濒危的", "english": "endangered", "phonetic": "/ɪnˈdeɪndʒərd/"}, {"chinese": "延伸", "desc": "词性：动词/名词；记忆技巧：联想“伸展身体的动作”", "english": "stretch", "phonetic": "/stretʃ/"}, {"chinese": "从...延伸到...", "desc": "动词短语，由stretch加介词from...to...构成，表延伸范围", "english": "stretch from...to...", "phonetic": ""}, {"chinese": "横跨", "desc": "动词短语，stretch+across表横向延伸，即横跨", "english": "stretch across", "phonetic": ""}, {"chinese": "野生的", "desc": "词性：形容词；记忆技巧：联想“野外的动植物”", "english": "wild", "phonetic": "/waɪld/"}, {"chinese": "自然、环境", "desc": "词性：名词；记忆技巧：名词指自然环境，与形容词“野生的”相关", "english": "wild", "phonetic": "/waɪld/"}, {"chinese": "在野外", "desc": "介词短语，表示在自然环境中", "english": "in the wild", "phonetic": ""}, {"chinese": "发现揭示", "desc": "词性：名词；记忆技巧：discover（发现）+y（名词后缀），表发现的结果", "english": "discovery", "phonetic": "/dɪˈskʌvəri/"}, {"chinese": "山脉", "desc": "名词短语，mountain（山）+range（范围），指连绵的山脉", "english": "mountain range", "phonetic": ""}, {"chinese": "可移动的", "desc": "词性：形容词；记忆技巧：联想“手机（mobile phone）是可移动的”", "english": "mobile", "phonetic": "/ˈmoʊbl/"}]
+[
+    {
+        "chinese": "n. 观光",
+        "desc": "",
+        "english": "sightsee",
+        "phonetic": ""
+    },
+    {
+        "chinese": "去观光",
+        "desc": "",
+        "english": "go sightseeing",
+        "phonetic": ""
+    },
+    {
+        "chinese": "v. 想象",
+        "desc": "词性：动词；记忆技巧：im-（进入）+agine（类似image图像），进入图像即想象",
+        "english": "imagine",
+        "phonetic": "/ɪˈmædʒɪn/"
+    },
+    {
+        "chinese": "想象做",
+        "desc": "",
+        "english": "imagine doing",
+        "phonetic": ""
+    },
+    {
+        "chinese": "有想象力的",
+        "desc": "词性：形容词；记忆技巧：imagine（想象）+tive（形容词后缀），表有想象力的",
+        "english": "imaginative",
+        "phonetic": "/ɪˈmædʒɪnətɪv/"
+    },
+    {
+        "chinese": "想象力",
+        "desc": "词性：名词；记忆技巧：imagine（想象）+ation（名词后缀），表想象力",
+        "english": "imagination",
+        "phonetic": "/ɪˌmædʒɪˈneɪʃn/"
+    },
+    {
+        "chinese": "虚构的 adj.",
+        "desc": "",
+        "english": "imaginary",
+        "phonetic": ""
+    },
+    {
+        "chinese": "目的地",
+        "desc": "词性：名词；记忆技巧：destin（命运）+ation，命运的终点即目的地",
+        "english": "destination",
+        "phonetic": "/ˌdestɪˈneɪʃn/"
+    },
+    {
+        "chinese": "独特的",
+        "desc": "词性：形容词；记忆技巧：发音“由你克”，联想“唯一的特性”",
+        "english": "unique",
+        "phonetic": "/juˈniːk/"
+    },
+    {
+        "chinese": "一个独特的人",
+        "desc": "",
+        "english": "a unique person",
+        "phonetic": ""
+    },
+    {
+        "chinese": "n. 危害",
+        "desc": "",
+        "english": "endanger",
+        "phonetic": ""
+    },
+    {
+        "chinese": "濒危的",
+        "desc": "词性：形容词；记忆技巧：en-（使）+danger（危险）+ed，使处于危险中即濒危的",
+        "english": "endangered",
+        "phonetic": "/ɪnˈdeɪndʒərd/"
+    },
+    {
+        "chinese": "v. 延伸",
+        "desc": "词性：动词/名词；记忆技巧：联想“伸展身体的动作”",
+        "english": "stretch",
+        "phonetic": "/stretʃ/"
+    },
+    {
+        "chinese": "从...延伸到...",
+        "desc": "动词短语，由stretch加介词from...to...构成，表延伸范围",
+        "english": "stretch from...to...",
+        "phonetic": ""
+    },
+    {
+        "chinese": "横跨",
+        "desc": "动词短语，stretch+across表横向延伸，即横跨",
+        "english": "stretch across",
+        "phonetic": ""
+    },
+    {
+        "chinese": "野生的 adj.",
+        "desc": "词性：形容词；记忆技巧：联想“野外的动植物”",
+        "english": "wild",
+        "phonetic": "/waɪld/"
+    },
+    {
+        "chinese": "自然、环境 n.",
+        "desc": "词性：名词；记忆技巧：名词指自然环境，与形容词“野生的”相关",
+        "english": "wild",
+        "phonetic": "/waɪld/"
+    },
+    {
+        "chinese": "在野外",
+        "desc": "介词短语，表示在自然环境中",
+        "english": "in the wild",
+        "phonetic": ""
+    },
+    {
+        "chinese": "v. 发现，揭示",
+        "desc": "",
+        "english": "discover",
+        "phonetic": ""
+    },
+    {
+        "chinese": "发现 c.n.",
+        "desc": "词性：名词；记忆技巧：discover（发现）+y（名词后缀），表发现的结果",
+        "english": "discovery",
+        "phonetic": "/dɪˈskʌvəri/"
+    },
+    {
+        "chinese": "n. 山脉",
+        "desc": "",
+        "english": "range",
+        "phonetic": ""
+    },
+    {
+        "chinese": "山脉",
+        "desc": "名词短语，mountain（山）+range（范围），指连绵的山脉",
+        "english": "mountain range",
+        "phonetic": ""
+    },
+    {
+        "chinese": "可移动的",
+        "desc": "词性：形容词；记忆技巧：联想“手机（mobile phone）是可移动的”",
+        "english": "mobile",
+        "phonetic": "/ˈmoʊbl/"
+    },
+    {
+        "chinese": "狼（复数）",
+        "desc": "",
+        "english": "wolves",
+        "phonetic": ""
+    },
+    {
+        "chinese": "建立",
+        "desc": "set 过去式：set；过去分词：set",
+        "english": "set up",
+        "phonetic": ""
+    },
+    {
+        "chinese": "大熊猫",
+        "desc": "",
+        "english": "giant panda",
+        "phonetic": ""
+    },
+    {
+        "chinese": "全年",
+        "desc": "",
+        "english": "all year round",
+        "phonetic": ""
+    }
+]
