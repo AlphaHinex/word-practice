@@ -13888,6 +13888,55 @@ var words = [
         "tag": "junior/grade7b/unit3-n1"
     },
     {
+        "chinese": "态度, 款待, 对待",
+        "desc": "动词：对待；名词：款待、态度。记忆技巧：联想“treat someone to sth”（用某物款待某人）",
+        "english": "treat",
+        "phonetic": "/trit/",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "以...方式对待",
+        "desc": "词组，意为“以...方式对待”，如“treat with respect”（尊重地对待）",
+        "english": "treat with...",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "对待, 治疗",
+        "desc": "名词，由“treat”加后缀“-ment”构成，表行为或结果，意为“对待、治疗”",
+        "english": "treatment",
+        "phonetic": "/ˈtriːtmənt/",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "交流",
+        "desc": "动词，词根“com-”（共同）+“muni”（公共）+“-cate”（做），意为“交流”",
+        "english": "communicate",
+        "phonetic": "/kəˈmjuːnɪkeɪt/",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "交流",
+        "desc": "名词，由“communicate”去“e”加“-ion”构成，意为“交流”",
+        "english": "communication",
+        "phonetic": "/ˌkəˌmjuːnɪˈkeɪʃn/",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "吸收, 收留",
+        "desc": "词组，意为“吸收、收留”，如“take in fresh air”（吸收新鲜空气）",
+        "english": "take in",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
+        "chinese": "拿出, 取出",
+        "desc": "词组，意为“拿出、取出”，如“take out a pen”（拿出一支笔）",
+        "english": "take out",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit3-n2"
+    },
+    {
         "chinese": "海豚",
         "desc": "名词。记忆技巧：发音类似“海豚”的音译，联想海洋生物",
         "english": "dolphin",
@@ -35679,6 +35728,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit3-n1';
             option.textContent = 'junior/grade7b/unit3-n1';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit3-n2';
+            option.textContent = 'junior/grade7b/unit3-n2';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit4-a';
             option.textContent = 'junior/grade7b/unit4-a';
