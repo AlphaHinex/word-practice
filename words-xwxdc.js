@@ -13083,6 +13083,118 @@ var words = [
         "tag": "junior/grade7b/unit2-n2"
     },
     {
+        "chinese": "光",
+        "desc": "词性：名词；记忆技巧：联想“视力所及的景象”",
+        "english": "sight",
+        "phonetic": "/saɪt/",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "想象",
+        "desc": "词性：动词；记忆技巧：im-（进入）+agine（类似image图像），进入图像即想象",
+        "english": "imagine",
+        "phonetic": "/ɪˈmædʒɪn/",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "有想象力的",
+        "desc": "词性：形容词；记忆技巧：imagine（想象）+tive（形容词后缀），表有想象力的",
+        "english": "imaginative",
+        "phonetic": "/ɪˈmædʒɪnətɪv/",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "想象力",
+        "desc": "词性：名词；记忆技巧：imagine（想象）+ation（名词后缀），表想象力",
+        "english": "imagination",
+        "phonetic": "/ɪˌmædʒɪˈneɪʃn/",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "目的地",
+        "desc": "词性：名词；记忆技巧：destin（命运）+ation，命运的终点即目的地",
+        "english": "destination",
+        "phonetic": "/ˌdestɪˈneɪʃn/",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "独特的",
+        "desc": "词性：形容词；记忆技巧：发音“由你克”，联想“唯一的特性”",
+        "english": "unique",
+        "phonetic": "/juˈniːk/",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "濒危的",
+        "desc": "词性：形容词；记忆技巧：en-（使）+danger（危险）+ed，使处于危险中即濒危的",
+        "english": "endangered",
+        "phonetic": "/ɪnˈdeɪndʒərd/",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "延伸",
+        "desc": "词性：动词/名词；记忆技巧：联想“伸展身体的动作”",
+        "english": "stretch",
+        "phonetic": "/stretʃ/",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "从...延伸到...",
+        "desc": "动词短语，由stretch加介词from...to...构成，表延伸范围",
+        "english": "stretch from...to...",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "横跨",
+        "desc": "动词短语，stretch+across表横向延伸，即横跨",
+        "english": "stretch across",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "野生的",
+        "desc": "词性：形容词；记忆技巧：联想“野外的动植物”",
+        "english": "wild",
+        "phonetic": "/waɪld/",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "自然、环境",
+        "desc": "词性：名词；记忆技巧：名词指自然环境，与形容词“野生的”相关",
+        "english": "wild",
+        "phonetic": "/waɪld/",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "在野外",
+        "desc": "介词短语，表示在自然环境中",
+        "english": "in the wild",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "发现揭示",
+        "desc": "词性：名词；记忆技巧：discover（发现）+y（名词后缀），表发现的结果",
+        "english": "discovery",
+        "phonetic": "/dɪˈskʌvəri/",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "山脉",
+        "desc": "名词短语，mountain（山）+range（范围），指连绵的山脉",
+        "english": "mountain range",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
+        "chinese": "可移动的",
+        "desc": "词性：形容词；记忆技巧：联想“手机（mobile phone）是可移动的”",
+        "english": "mobile",
+        "phonetic": "/ˈmoʊbl/",
+        "tag": "junior/grade7b/unit2-n3"
+    },
+    {
         "chinese": "不说话的；沉默的",
         "desc": "形容词，记忆技巧：sil（联想silk丝绸，光滑无声）+ent（形容词后缀）",
         "english": "silent",
@@ -35111,6 +35223,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit2-n2';
             option.textContent = 'junior/grade7b/unit2-n2';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit2-n3';
+            option.textContent = 'junior/grade7b/unit2-n3';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit3-a';
             option.textContent = 'junior/grade7b/unit3-a';
