@@ -1,1 +1,176 @@
-[{"chinese": "目标", "desc": "词性：n./v. 记忆技巧：发音联想，与“爱目标”谐音，便于记忆", "english": "aim", "phonetic": "/eɪm/"}, {"chinese": "加热", "desc": "词性：v./n. 记忆技巧：发音类似“hit”，但表示加热，注意区别", "english": "heat", "phonetic": "/hiːt/"}, {"chinese": "许多（接可数名词）", "desc": "词组，后接可数名词复数", "english": "a large number of", "phonetic": ""}, {"chinese": "感觉", "desc": "固定搭配，表“...的感觉”", "english": "sense of", "phonetic": ""}, {"chinese": "满意（名词）", "desc": "词性：n. 记忆技巧：由satisfy（v.满意）加名词后缀-tion构成", "english": "satisfaction", "phonetic": "/ˌsætɪsˈfækʃn/"}, {"chinese": "我昨天读书", "desc": "", "english": "I read books yesterday", "phonetic": ""}, {"chinese": "她在教室里唱歌", "desc": "", "english": "She sings in the classroom", "phonetic": ""}, {"chinese": "因为公交车坏了，所以迟到了", "desc": "", "english": "It is late because the bus broke down", "phonetic": ""}, {"chinese": "随着", "desc": "词性：prep./conj. 记忆技巧：常见词，可联想“作为（as）随着变化”", "english": "as", "phonetic": "/æz/"}, {"chinese": "当...时（从句动词必须是延续性的对比关系）", "desc": "词性：conj. 记忆技巧：表示时间，可联想“问（when）时间”", "english": "when", "phonetic": "/wen/"}, {"chinese": "工作（延续动词）", "desc": "词性：v.（延续动词） 记忆技巧：常见词，联想“我工作（work）”", "english": "work", "phonetic": "/wɜːrk/"}, {"chinese": "等待（延续动词）", "desc": "词性：v.（延续动词） 记忆技巧：发音类似“喂（wait），等待一下”", "english": "wait", "phonetic": "/weɪt/"}, {"chinese": "读（延续动词）", "desc": "词性：v.（延续动词） 记忆技巧：常见词，“读（read）书”", "english": "read", "phonetic": "/riːd/"}, {"chinese": "睡（延续动词）", "desc": "词性：v.（延续动词） 记忆技巧：发音联想“睡（sleep）眠”", "english": "sleep", "phonetic": "/sliːp/"}, {"chinese": "打开（非延续动词）", "desc": "词性：v.（非延续动词） 记忆技巧：“开（open）门”，动作瞬间完成", "english": "open", "phonetic": "/ˈoʊpən/"}, {"chinese": "关闭（非延续动词）", "desc": "词性：v.（非延续动词） 记忆技巧：“关（close）窗”，动作瞬间完成", "english": "close", "phonetic": "/kloʊz/"}, {"chinese": "买（非延续动词）", "desc": "词性：v.（非延续动词） 记忆技巧：“买（buy）东西”，瞬间动作", "english": "buy", "phonetic": "/baɪ/"}, {"chinese": "开始（非延续动词）", "desc": "词性：v.（非延续动词） 记忆技巧：“开始（begin）做某事”，瞬间动作", "english": "begin", "phonetic": "/bɪˈɡɪn/"}, {"chinese": "完成（非延续动词）", "desc": "词性：v.（非延续动词） 记忆技巧：“完成（finish）任务”，瞬间动作", "english": "finish", "phonetic": "/ˈfɪnɪʃ/"}, {"chinese": "到达（非延续动词）", "desc": "词性：v.（非延续动词） 记忆技巧：“到达（arrive）某地”，瞬间动作", "english": "arrive", "phonetic": "/əˈraɪv/"}, {"chinese": "到...时候（表示主句动作延续到从句发生才停止，动词必须是可延续的）", "desc": "连词/介词，用于引导时间状语从句，强调动作的延续性", "english": "till/until", "phonetic": ""}, {"chinese": "毕业（动词）", "desc": "动词，记忆技巧：词根grad-表示“步骤”，-uate为动词后缀，逐步完成学业即“毕业”", "english": "graduate", "phonetic": "/ˈɡrædʒuət/"}]
+[
+    {
+        "chinese": "目标在于……",
+        "desc": "词性：n./v. 记忆技巧：发音联想，与“爱目标”谐音，便于记忆",
+        "english": "aim to",
+        "phonetic": "/eɪm/"
+    },
+    {
+        "chinese": "v. 加热",
+        "desc": "词性：v./n. 记忆技巧：发音类似“hit”，但表示加热，注意区别",
+        "english": "heat",
+        "phonetic": "/hiːt/"
+    },
+    {
+        "chinese": "带来巨大改变",
+        "desc": "",
+        "english": "make a big difference",
+        "phonetic": ""
+    },
+    {
+        "chinese": "大量的（后接可数名词）",
+        "desc": "",
+        "english": "a large number of",
+        "phonetic": ""
+    },
+    {
+        "chinese": "大量的（后接不可数名词）",
+        "desc": "词组",
+        "english": "a large amount of",
+        "phonetic": ""
+    },
+    {
+        "chinese": "...的感受",
+        "desc": "固定搭配，表“...的感觉”",
+        "english": "a sense of",
+        "phonetic": ""
+    },
+    {
+        "chinese": "满意（名词）",
+        "desc": "词性：n. 记忆技巧：由satisfy（v.满意）加名词后缀-tion构成",
+        "english": "satisfaction",
+        "phonetic": "/ˌsætɪsˈfækʃn/"
+    },
+    {
+        "chinese": "v. 满意",
+        "desc": "",
+        "english": "satisfy",
+        "phonetic": ""
+    },
+    {
+        "chinese": "adj. 让人满意的",
+        "desc": "",
+        "english": "satisfying",
+        "phonetic": ""
+    },
+    {
+        "chinese": "我昨天读书",
+        "desc": "yesterday 时间状语",
+        "english": "I read books yesterday",
+        "phonetic": ""
+    },
+    {
+        "chinese": "她在教室里唱歌",
+        "desc": "classroom 地点状语",
+        "english": "She sings in the classroom",
+        "phonetic": ""
+    },
+    {
+        "chinese": "因为公交车坏了，所以他迟到了",
+        "desc": "原因状语。表示现在的动作时，主句从句都用现在时态；表示过去的动作时，主句和从句都用过去时态；表示将来动作时，主句用一般将来时，从句用一般现在时。When 表示 当……时，as 意为 随着，都表示主句动作和从句动作同时发生。while 意为“当……时”，从句谓语动词必须是延续性的对比关系。延续性动词：work,learn,lie,wait,watch,read,sleep,live；瞬间动词：open,cloase,buy,begin,finish,die。till/until 意思是“直到……时候”表示主句动作延续到从句发生才停止，主句的谓语动词必须是可延续的",
+        "english": "He was late because the bus broke down",
+        "phonetic": ""
+    },
+    {
+        "chinese": "志向",
+        "desc": "",
+        "english": "ambition",
+        "phonetic": ""
+    },
+    {
+        "chinese": "毕业（动词）",
+        "desc": "动词，记忆技巧：词根grad-表示“步骤”，-uate为动词后缀，逐步完成学业即“毕业”",
+        "english": "graduate",
+        "phonetic": "/ˈɡrædʒuət/"
+    },
+    {
+        "chinese": "工作职责",
+        "desc": "",
+        "english": "be to do",
+        "phonetic": ""
+    },
+    {
+        "chinese": "修理",
+        "desc": "v. 修理；记忆技巧：联想日常用语“fix it”表示修理某物",
+        "english": "fix",
+        "phonetic": "/fɪks/"
+    },
+    {
+        "chinese": "过去常常做某事",
+        "desc": "",
+        "english": "used to do sth",
+        "phonetic": ""
+    },
+    {
+        "chinese": "过去不常做某事",
+        "desc": "",
+        "english": "didn't use to do sth",
+        "phonetic": ""
+    },
+    {
+        "chinese": "你过去常做某事吗",
+        "desc": "",
+        "english": "Did you use to do sth?",
+        "phonetic": ""
+    },
+    {
+        "chinese": "被用来做",
+        "desc": "",
+        "english": "be used to do sth",
+        "phonetic": ""
+    },
+    {
+        "chinese": "习惯于",
+        "desc": "",
+        "english": "be/get used to doing sth",
+        "phonetic": ""
+    },
+    {
+        "chinese": "复习；回顾；评论",
+        "desc": "v. 复习；n. 评论；记忆技巧：re-（再次）+ view（看）→ 再次查看→复习",
+        "english": "review",
+        "phonetic": "/rɪˈvjuː/"
+    },
+    {
+        "chinese": "表演",
+        "desc": "v. 表演；记忆技巧：per-（完全）+ form（形式）→ 完全呈现形式→表演",
+        "english": "perform",
+        "phonetic": "/pərˈfɔːrm/"
+    },
+    {
+        "chinese": "表演者",
+        "desc": "n. 表演者；记忆技巧：perform（表演）+ er（表人）→ 表演者",
+        "english": "performer",
+        "phonetic": "/pərˈfɔːrmər/"
+    },
+    {
+        "chinese": "演出",
+        "desc": "n. 演出；记忆技巧：perform（表演）+ ance（名词后缀）→ 表演的行为→演出",
+        "english": "performance",
+        "phonetic": "/pərˈfɔːrməns/"
+    },
+    {
+        "chinese": "对……感到厌倦",
+        "desc": "",
+        "english": "feel bored with",
+        "phonetic": ""
+    },
+    {
+        "chinese": "表达自己",
+        "desc": "",
+        "english": "express oneself",
+        "phonetic": ""
+    },
+    {
+        "chinese": "肢体语言",
+        "desc": "",
+        "english": "body language",
+        "phonetic": ""
+    },
+    {
+        "chinese": "舞蹈风格",
+        "desc": "",
+        "english": "dancing style",
+        "phonetic": ""
+    }
+]
