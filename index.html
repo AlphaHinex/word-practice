@@ -1,411 +1,642 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Word Practice</title>
     <link rel="stylesheet" href="css/font-awesome/5.15.4/css/all.min.css">
     <style>
-        /* Add your CSS here */
+        :root {
+            --primary: #6366f1;
+            --primary-dark: #4f46e5;
+            --primary-light: #e0e7ff;
+            --danger: #ef4444;
+            --danger-light: #fef2f2;
+            --bg: #f1f5f9;
+            --card: #ffffff;
+            --text: #1e293b;
+            --muted: #64748b;
+            --border: #e2e8f0;
+            --shadow: 0 2px 16px rgba(0,0,0,0.07);
+            --shadow-lg: 0 8px 32px rgba(0,0,0,0.14);
+            --radius: 16px;
+            --radius-sm: 10px;
+        }
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            font-size: 30px;
-            background-color: #f0f0f0;
-            color: #333;
-            display: flex;
-            justify-content: center;
-            align-items: center;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: var(--bg);
+            color: var(--text);
             min-height: 100vh;
-            flex-direction: column;
-            padding: 0 20px;
-            box-sizing: border-box;
+            overflow-x: hidden;
+            -webkit-font-smoothing: antialiased;
         }
-        .button-container {
-            position: fixed;
-            bottom: 50px;
-            left: 50%;
-            transform: translateX(-50%);
-            display: flex;
-            gap: 10px;
+
+        /* START PAGE */
+        #startPage { max-width: 520px; margin: 0 auto; padding: 0 16px 120px; }
+        .app-header { text-align: center; padding: 36px 0 24px; }
+        .app-header h1 {
+            font-size: 1.75rem; font-weight: 800;
+            background: linear-gradient(135deg, var(--primary), #8b5cf6);
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+            background-clip: text; letter-spacing: -0.5px;
         }
-        button {
-            font-size: 30px;
-            margin: 10px;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 5px;
-            background-color: #007BFF;
-            color: white;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
+        .app-header p { color: var(--muted); font-size: 0.875rem; margin-top: 6px; letter-spacing: 2px; }
+
+        .card { background: var(--card); border-radius: var(--radius); padding: 18px 20px; margin-bottom: 14px; box-shadow: var(--shadow); }
+        .card-title { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); margin-bottom: 12px; }
+        .row-between { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+        .row-between .card-title { margin-bottom: 0; }
+
+        .search-wrap { position: relative; }
+        .search-wrap .search-icon { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: 0.8rem; pointer-events: none; }
+        input[type="text"] {
+            width: 100%; padding: 11px 12px 11px 36px;
+            border: 1.5px solid var(--border); border-radius: var(--radius-sm);
+            font-size: 1rem; background: var(--bg); color: var(--text);
+            outline: none; transition: border-color 0.2s, background 0.2s; -webkit-appearance: none;
         }
-        button:hover {
-            background-color: #0056b3;
+        input[type="text"]:focus { border-color: var(--primary); background: #fff; }
+        input[type="text"]::placeholder { color: #a0aec0; }
+
+        #tags {
+            width: 100%; height: 156px;
+            border: 1.5px solid var(--border); border-radius: var(--radius-sm);
+            background: var(--bg); color: var(--text); font-size: 0.95rem;
+            padding: 4px; outline: none; cursor: pointer; margin-top: 10px; -webkit-appearance: none;
         }
-        button:disabled {
-            background-color: #cccccc;
-            color: #666666;
-            border: 1px solid #999999;
+        #tags option { padding: 6px 8px; border-radius: 6px; margin: 1px 0; cursor: pointer; }
+        #tags option:checked { background: var(--primary) !important; color: white; }
+
+        .pill-group { display: flex; background: var(--bg); border-radius: var(--radius-sm); padding: 3px; gap: 2px; }
+        .pill-group input[type="radio"] { display: none; }
+        .pill-group label {
+            flex: 1; text-align: center; padding: 9px 6px; border-radius: 8px;
+            font-size: 0.875rem; font-weight: 500; cursor: pointer; transition: all 0.2s;
+            color: var(--muted); user-select: none; -webkit-tap-highlight-color: transparent;
         }
-        .large {
-            font-size: 3em;
+        .pill-group input[type="radio"]:checked + label {
+            background: var(--card); color: var(--primary);
+            box-shadow: 0 1px 6px rgba(0,0,0,0.1); font-weight: 600;
         }
-        .small {
-            font-size: 0.8em;
+
+        .btn-text { font-size: 0.78rem; color: var(--muted); background: none; border: none; cursor: pointer; display: flex; align-items: center; gap: 4px; padding: 4px 0; transition: color 0.2s; }
+        .btn-text:hover { color: var(--danger); }
+
+        .action-row { display: flex; gap: 12px; margin-bottom: 14px; }
+        .btn { flex: 1; padding: 15px 12px; border: none; border-radius: var(--radius-sm); font-size: 1rem; font-weight: 600; cursor: pointer; transition: all 0.18s; display: flex; align-items: center; justify-content: center; gap: 8px; -webkit-tap-highlight-color: transparent; }
+        .btn-primary { background: var(--primary); color: white; box-shadow: 0 4px 12px rgba(99,102,241,0.3); }
+        .btn-primary:hover { background: var(--primary-dark); transform: translateY(-1px); }
+        .btn-primary:active { transform: scale(0.97); }
+        .btn-secondary { background: var(--card); color: var(--text); border: 1.5px solid var(--border); }
+        .btn-secondary:hover { border-color: var(--primary); color: var(--primary); }
+        .btn-secondary:active { transform: scale(0.97); }
+
+        .word-row { display: flex; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--border); gap: 12px; }
+        .word-row:last-child { border-bottom: none; }
+        .word-info { flex: 1; min-width: 0; }
+        .word-en { font-weight: 600; font-size: 1rem; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .word-cn { font-size: 0.875rem; color: var(--muted); margin-top: 2px; }
+        .word-tag-badge { display: inline-block; font-size: 0.72rem; color: var(--primary); background: var(--primary-light); padding: 2px 7px; border-radius: 20px; margin-top: 4px; }
+        .bm-btn { width: 38px; height: 38px; border: none; border-radius: 50%; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 0.9rem; transition: all 0.2s; background: var(--bg); color: var(--muted); flex-shrink: 0; -webkit-tap-highlight-color: transparent; }
+        .bm-btn.is-bookmarked { color: var(--danger); background: var(--danger-light); }
+
+        #searchResult:not(:empty), #listArea:not(:empty) {
+            background: var(--card); border-radius: var(--radius); padding: 4px 20px; box-shadow: var(--shadow); margin-top: 14px;
         }
-        form {
-            margin-bottom: 20px;
+        .github-link { display: flex; justify-content: center; padding: 16px; color: var(--muted); text-decoration: none; font-size: 1.2rem; }
+        .github-link:hover { color: var(--text); }
+
+        /* WORKSPACE */
+        #workspace { display: none; flex-direction: column; height: 100vh; height: 100dvh; overflow: hidden; background: var(--bg); }
+        #progressBar { height: 3px; background: var(--border); flex-shrink: 0; }
+        #progressFill { height: 100%; background: linear-gradient(90deg, var(--primary), #8b5cf6); transition: width 0.35s cubic-bezier(0.4,0,0.2,1); border-radius: 0 2px 2px 0; }
+
+        #practiceArea {
+            flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;
+            padding: 32px 28px 20px; text-align: center; position: relative; overflow: hidden;
+            cursor: pointer; -webkit-tap-highlight-color: transparent; user-select: none; touch-action: pan-y;
         }
-        label {
-            display: block;
-            margin-bottom: 10px;
+        .word-card { display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 600px; }
+        .anim-in    { animation: animIn    0.28s ease both; }
+        .anim-left  { animation: animLeft  0.28s ease both; }
+        .anim-right { animation: animRight 0.28s ease both; }
+        @keyframes animIn    { from { opacity:0; transform: translateY(20px) scale(0.97); } to { opacity:1; transform: none; } }
+        @keyframes animLeft  { from { opacity:0; transform: translateX(50px);  } to { opacity:1; transform: none; } }
+        @keyframes animRight { from { opacity:0; transform: translateX(-50px); } to { opacity:1; transform: none; } }
+
+        .word-main { font-size: clamp(2rem, 9vw, 4.5rem); font-weight: 800; color: var(--text); line-height: 1.15; letter-spacing: -0.5px; word-break: break-word; hyphens: auto; }
+        .word-phonetic { font-size: clamp(1rem, 4vw, 1.75rem); color: var(--primary); font-weight: 400; margin-top: 10px; font-style: italic; letter-spacing: 0.5px; }
+        .word-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; justify-content: center; margin-top: 18px; }
+        .meta-count { font-size: 0.8rem; color: var(--muted); font-weight: 500; }
+        .meta-tag { font-size: 0.75rem; color: var(--primary); background: var(--primary-light); padding: 3px 10px; border-radius: 20px; font-weight: 500; }
+        #smallSpan { margin-top: 14px; font-size: 0.875rem; color: var(--muted); line-height: 1.7; max-width: 480px; text-align: center; }
+
+        .gesture-hint {
+            position: absolute; bottom: 12px; left: 50%; transform: translateX(-50%);
+            display: flex; gap: 24px; opacity: 0; font-size: 0.72rem; color: var(--muted);
+            white-space: nowrap; pointer-events: none; animation: fadeHint 5s ease 1s forwards;
         }
-        select {
-            padding: 10px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            background-color: white;
-            width: 100%;
+        .gesture-hint span { display: flex; align-items: center; gap: 4px; }
+        @keyframes fadeHint { 0%{opacity:0} 15%{opacity:0.6} 75%{opacity:0.6} 100%{opacity:0} }
+
+        #floatingBox {
+            position: fixed; top: 50%; left: 50%; transform: translate(-50%,-50%);
+            padding: 28px 36px; background: rgba(15,23,42,0.93);
+            backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+            color: white; border-radius: var(--radius); font-size: 1.6rem; font-weight: 600;
+            display: none; z-index: 200; text-align: center; cursor: pointer;
+            max-width: 88vw; box-shadow: var(--shadow-lg); line-height: 1.5;
         }
-        .floating-box {
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            padding: 20px;
-            background-color: rgba(0, 0, 0, 0.8);
-            color: white;
-            border-radius: 10px;
-            font-size: 2em;
-            display: none;
-            z-index: 1000;
+        #floatingBox.show { display: block; animation: popIn 0.2s cubic-bezier(0.34,1.56,0.64,1); }
+        @keyframes popIn { from{opacity:0;transform:translate(-50%,-50%) scale(0.88)} to{opacity:1;transform:translate(-50%,-50%) scale(1)} }
+
+        .toolbar-wrap { display: flex; justify-content: center; border-top: 1px solid var(--border); background: var(--card); flex-shrink: 0; box-shadow: 0 -2px 12px rgba(0,0,0,0.05); }
+        .toolbar { display: flex; align-items: center; justify-content: space-around; padding: 6px 4px; padding-bottom: max(6px, env(safe-area-inset-bottom)); width: 100%; max-width: 640px; }
+        .tool-btn {
+            display: flex; flex-direction: column; align-items: center; justify-content: center;
+            gap: 3px; border: none; background: none; cursor: pointer; color: var(--muted);
+            padding: 8px 10px; border-radius: var(--radius-sm); transition: color 0.18s, background 0.18s, transform 0.1s;
+            font-size: 0.65rem; min-width: 44px; min-height: 52px; font-family: inherit; -webkit-tap-highlight-color: transparent;
+        }
+        .tool-btn i { font-size: 1.25rem; }
+        .tool-btn:hover:not(:disabled) { color: var(--primary); background: var(--primary-light); }
+        .tool-btn:active:not(:disabled) { transform: scale(0.9); }
+        .tool-btn:disabled { opacity: 0.28; cursor: not-allowed; }
+        .tool-btn.danger:hover:not(:disabled) { color: var(--danger); background: var(--danger-light); }
+        .tool-btn.check-btn { color: var(--primary); }
+        .tool-btn.check-btn:hover:not(:disabled) { background: var(--primary); color: white; }
+        #bookmarkBtn.is-bookmarked i { color: var(--danger); }
+
+        @media (min-width: 640px) {
+            #startPage { padding: 0 24px 120px; }
+            .app-header { padding: 48px 0 28px; }
+            .app-header h1 { font-size: 2.1rem; }
+            #practiceArea { padding: 48px 48px 24px; }
+            .word-main { font-size: clamp(3rem, 6vw, 5rem); }
+            .tool-btn { padding: 10px 16px; font-size: 0.7rem; }
+            .tool-btn i { font-size: 1.35rem; }
+        }
+        @media (min-width: 1024px) {
+            #practiceArea { padding: 64px 64px 24px; }
         }
     </style>
 </head>
 <body>
-    <form id="startPage">
-        <label for="tagSearch">
-            Search Tags:<br>
-            <input type="text" id="tagSearch" onkeyup="filterTags()" placeholder="Search for tags..." style="width: 220px;">
-        </label>
-        <label>
-            Tags:<a href="https://www.coze.cn/store/agent/7462629917713268775?bid=6f44r173g4018" title="Add tag through coze agent ..." target="_blank" style="text-decoration: none;"><i class="fas fa-plus"></i></a><br>
-            <select id="tags" multiple style="height: 150px; width: 220px;">
-                <!-- Options will be added here by JavaScript -->
-            </select>
-        </label>
-        <label>
-            Practice Mode:<br>
-            <select id="mode" style="width: 220px;">
-                <option value="cn2en">Chinese to English</option>
-                <option value="en2cn">English to Chinese</option>
-            </select>
-        </label>
-        <label>
-            Practice Content:<br>
-            <select id="content" style="width: 220px;">
-                <option value="all">All</option>
-                <option value="bookmarked">Bookmarks</option>
-            </select>
-            <a href="#" id="clearBookmarks" title="Clear all bookmarks" style="text-decoration: none; color: inherit;" onclick="clearBookmarks()">
-                <i class="fas fa-minus"></i>
-            </a>
-        </label>
-        <button type="button" id="start" title="Start Practice"><i class="fas fa-play"></i></button>
-        <button type="button" id="list" title="Show in List"><i class="fas fa-list"></i></button>
-        <label for="wordSearch">
-            Search Word:<br>
-            <input type="text" id="wordSearch" onkeypress="if(event.key === 'Enter') searchWord()" placeholder="Search for word..." style="width: 220px;">
-        </label>
-        <div id="searchResult" style="font-size: 18px;"></div>
-        <div id="listArea" style="font-size: 18px;"></div>
-        <a href="https://github.com/AlphaHinex/word-practice" target="_blank" title="github" style="display: flex; justify-content: center; align-items: center; text-decoration: none;">
-            <i class="fas fa-code-branch"></i>
-        </a>
-    </form>
-    <div id="workspace" style="display: none;">
-        <div id="practiceArea"></div>
-        <div id="floatingBox" class="floating-box" onclick="this.style.display='none'"></div>
 
-        <div class="button-container">
-            <!-- https://fontawesome.com/v5/search?ic=free -->
-            <button type="button" id="first" disabled title="First"><i class="fas fa-angle-double-left"></i></button>
-            <button type="button" id="read" disabled title="Read Aloud"><i class="fas fa-volume-up"></i></button>
-            <button type="button" id="prev" disabled title="Previous"><i class="fas fa-angle-left"></i></button>
-            <button type="button" id="next" disabled title="Next"><i class="fas fa-angle-right"></i></button>
-            <button type="button" id="check" onclick="check()" title="Check"><i class="fas fa-spell-check"></i></button>
-            <button type="button" onclick="bookmark()" title="Bookmark"><i id="bookmark" style="color: white;" class="fas fa-bookmark"></i></button>
-            <button type="button" id="last" disabled title="Last"><i class="fas fa-angle-double-right"></i></button>
-            <button type="button" id="reset" onclick="reset()" title="Reset"><i class="fas fa-redo"></i></button>
-        </div>
+<!-- START PAGE -->
+<form id="startPage">
+    <div class="app-header">
+        <h1><i class="fas fa-graduation-cap"></i> Word Practice</h1>
+        <p>选词 · 背诵 · 考核</p>
     </div>
 
-    <script src="words-noaoe.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const bookmarks = JSON.parse(localStorage.getItem('bookmarks')) || [];
-            words.forEach(word => {
-                word.bookmarked = bookmarks.includes(word.english);
-            });
-        });
+    <div class="card">
+        <div class="card-title">选择标签</div>
+        <div class="search-wrap">
+            <i class="fas fa-search search-icon"></i>
+            <input type="text" id="tagSearch" onkeyup="filterTags()" placeholder="搜索标签...">
+        </div>
+        <select id="tags" multiple>
+            <!-- Populated by words-noaoe.js -->
+        </select>
+    </div>
 
-        // Get the select element
-        const tagsSelect = document.getElementById('tags');
+    <div class="card">
+        <div class="card-title">练习模式</div>
+        <div class="pill-group">
+            <input type="radio" name="mode-ui" id="ui-cn2en" value="cn2en" checked>
+            <label for="ui-cn2en">🇨🇳 中文 → 英文</label>
+            <input type="radio" name="mode-ui" id="ui-en2cn" value="en2cn">
+            <label for="ui-en2cn">🇬🇧 英文 → 中文</label>
+        </div>
+        <select id="mode" style="display:none;">
+            <option value="cn2en">Chinese to English</option>
+            <option value="en2cn">English to Chinese</option>
+        </select>
+    </div>
 
-        // Add options to the select element
-        newOptions.forEach(option => {
-            tagsSelect.appendChild(option);
-        });
+    <div class="card">
+        <div class="row-between">
+            <div class="card-title">练习内容</div>
+            <button type="button" class="btn-text" id="clearBookmarks" onclick="clearBookmarks()">
+                <i class="fas fa-trash-alt"></i> 清除书签
+            </button>
+        </div>
+        <div class="pill-group">
+            <input type="radio" name="content-ui" id="ui-all" value="all" checked>
+            <label for="ui-all">全部单词</label>
+            <input type="radio" name="content-ui" id="ui-bookmarked" value="bookmarked">
+            <label for="ui-bookmarked"><i class="fas fa-bookmark" style="color:var(--danger)"></i> 书签</label>
+        </div>
+        <select id="content" style="display:none;">
+            <option value="all">All</option>
+            <option value="bookmarked">Bookmarks</option>
+        </select>
+    </div>
 
-        function filterTags() {
-            const input = document.getElementById('tagSearch').value.toLowerCase();
-            const filterdOptions = [];
-            newOptions.forEach(option => {
-                if (option.textContent.toLowerCase().includes(input)) {
-                    filterdOptions.push(option);
-                }
-            });
-            // 清理掉 tagSelect 中的所有 option
-            tagsSelect.innerHTML = '';
-            // 将过滤后的 option 添加到 tagSelect 中
-            filterdOptions.forEach(option => {
-                tagsSelect.appendChild(option);
-            });
-        }
+    <div class="action-row">
+        <button type="button" id="start" class="btn btn-primary">
+            <i class="fas fa-play"></i> 开始练习
+        </button>
+        <button type="button" id="list" class="btn btn-secondary">
+            <i class="fas fa-list"></i> 列表查看
+        </button>
+    </div>
 
-        var practiceWords = [];
-        var currentIndex = -1;
+    <div class="card">
+        <div class="card-title">搜索单词</div>
+        <div class="search-wrap">
+            <i class="fas fa-search search-icon"></i>
+            <input type="text" id="wordSearch"
+                   onkeypress="if(event.key==='Enter') searchWord()"
+                   placeholder="输入中文或英文搜索...">
+        </div>
+        <div id="searchResult"></div>
+    </div>
 
-        function generatePracticeWords() {
-            var mode = document.getElementById('mode').value;
-            var content = document.getElementById('content').value;
-            var selectedTags = Array.from(document.getElementById('tags').selectedOptions).map(option => option.value);
+    <div id="listArea"></div>
 
-            practiceWords = words.filter(function(word) {
-                if (content === 'bookmarked' && (selectedTags.length === 0 || selectedTags.includes(word.tag))) {
-                    return word.bookmarked;
-                }
-                if (selectedTags.length > 0 && !selectedTags.includes(word.tag)) {
-                    return false;
-                }
-                return true;
-            });
+    <a href="https://github.com/AlphaHinex/word-practice" target="_blank" class="github-link" title="GitHub">
+        <i class="fas fa-code-branch"></i>
+    </a>
+</form>
 
-            practiceWords = practiceWords.reduce((acc, word) => {
-                let found = acc.find(w => w.english === word.english);
-                if (found) {
-                    found.mergedChinese = [...new Set([found.chinese, word.chinese, ...(found.mergedChinese || [])])];
-                    found.mergedTag = [...new Set([found.tag, word.tag, ...(found.mergedTag || [])])];
-                    found.mergedDesc =  [...new Set([found.desc, word.desc, ...(found.mergedDesc || [])])];
-                } else {
-                    acc.push(word);
-                }
-                return acc;
-            }, []);
-        }
+<!-- WORKSPACE -->
+<div id="workspace">
+    <div id="progressBar"><div id="progressFill" style="width:0%"></div></div>
 
-        function clearBookmarks() {
-            if (confirm('Are you sure you want to clear all bookmarks?')) {
-                localStorage.removeItem('bookmarks');
-                words.forEach(word => word.bookmarked = false);
-                alert('All bookmarks have been cleared.');
-                // Clear previous results
-                document.getElementById('listArea').innerHTML = '';
-                document.getElementById('searchResult').innerHTML = '';
+    <div id="practiceArea"></div>
+
+    <div id="floatingBox" onclick="this.classList.remove('show'); this.style.display='none'"></div>
+
+    <div class="toolbar-wrap">
+        <div class="toolbar">
+            <button type="button" id="first" class="tool-btn" disabled title="第一个 (Home)">
+                <i class="fas fa-angle-double-left"></i><span>首个</span>
+            </button>
+            <button type="button" id="read" class="tool-btn" disabled title="朗读 (R)">
+                <i class="fas fa-volume-up"></i><span>朗读</span>
+            </button>
+            <button type="button" id="prev" class="tool-btn" disabled title="上一个 (←)">
+                <i class="fas fa-angle-left"></i><span>上一个</span>
+            </button>
+            <button type="button" id="check" onclick="check()" class="tool-btn check-btn" title="查看答案 (空格)">
+                <i class="fas fa-spell-check"></i><span>答案</span>
+            </button>
+            <button type="button" onclick="bookmark()" class="tool-btn" id="bookmarkBtn" title="书签 (B)">
+                <i id="bookmark" class="fas fa-bookmark"></i><span>书签</span>
+            </button>
+            <button type="button" id="next" class="tool-btn" title="下一个 (→)">
+                <i class="fas fa-angle-right"></i><span>下一个</span>
+            </button>
+            <button type="button" id="last" class="tool-btn" disabled title="最后一个 (End)">
+                <i class="fas fa-angle-double-right"></i><span>末个</span>
+            </button>
+            <button type="button" id="reset" onclick="reset()" class="tool-btn danger" title="重置 (Esc)">
+                <i class="fas fa-redo"></i><span>重置</span>
+            </button>
+        </div>
+    </div>
+</div>
+
+<script src="words-noaoe.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var bookmarks = JSON.parse(localStorage.getItem('bookmarks')) || [];
+        words.forEach(function(w) { w.bookmarked = bookmarks.includes(w.english); });
+    });
+
+    var tagsSelect = document.getElementById('tags');
+    newOptions.forEach(function(opt) { tagsSelect.appendChild(opt); });
+
+    // Sync pill radios → hidden selects
+    document.querySelectorAll('input[name="mode-ui"]').forEach(function(r) {
+        r.addEventListener('change', function() { document.getElementById('mode').value = r.value; });
+    });
+    document.querySelectorAll('input[name="content-ui"]').forEach(function(r) {
+        r.addEventListener('change', function() { document.getElementById('content').value = r.value; });
+    });
+
+    function filterTags() {
+        var q = document.getElementById('tagSearch').value.toLowerCase();
+        var filtered = newOptions.filter(function(o) { return o.textContent.toLowerCase().includes(q); });
+        tagsSelect.innerHTML = '';
+        filtered.forEach(function(o) { tagsSelect.appendChild(o); });
+    }
+
+    var practiceWords = [];
+    var currentIndex = -1;
+
+    function generatePracticeWords() {
+        var mode    = document.getElementById('mode').value;
+        var content = document.getElementById('content').value;
+        var selectedTags = Array.from(tagsSelect.selectedOptions).map(function(o) { return o.value; });
+
+        practiceWords = words.filter(function(word) {
+            if (content === 'bookmarked' && (selectedTags.length === 0 || selectedTags.includes(word.tag))) {
+                return word.bookmarked;
             }
-        }
-
-        document.getElementById('start').addEventListener('click', function() {
-            generatePracticeWords();
-
-            practiceWords.sort(function() {
-                return 0.5 - Math.random();
-            });
-
-            document.getElementById('startPage').style.display = 'none';
-            document.getElementById('workspace').style.display = 'block';
-
-            currentIndex = -1;
-            nextWord();
+            if (selectedTags.length > 0 && !selectedTags.includes(word.tag)) return false;
+            return true;
         });
 
-        document.getElementById('list').addEventListener('click', function() {
-            if (tagsSelect.selectedOptions.length < 1 || tagsSelect.selectedOptions.length > 10) {
-                alert('Please select 1 to 10 tag(s)');
-                return;
+        practiceWords = practiceWords.reduce(function(acc, word) {
+            var found = acc.find(function(w) { return w.english === word.english; });
+            if (found) {
+                found.mergedChinese = Array.from(new Set([found.chinese, word.chinese].concat(found.mergedChinese || [])));
+                found.mergedTag     = Array.from(new Set([found.tag,     word.tag    ].concat(found.mergedTag     || [])));
+                found.mergedDesc    = Array.from(new Set([found.desc,    word.desc   ].concat(found.mergedDesc    || [])));
+            } else {
+                acc.push(word);
             }
+            return acc;
+        }, []);
+    }
 
-            generatePracticeWords();
-            // Clear previous results
+    function clearBookmarks() {
+        if (confirm('确定要清除所有书签吗？')) {
+            localStorage.removeItem('bookmarks');
+            words.forEach(function(w) { w.bookmarked = false; });
+            alert('所有书签已清除。');
             document.getElementById('listArea').innerHTML = '';
             document.getElementById('searchResult').innerHTML = '';
+        }
+    }
 
-            practiceWords.map(function(word) {
-                showWordByLine('listArea', word);
-            });
-        });
+    document.getElementById('start').addEventListener('click', function() {
+        generatePracticeWords();
+        practiceWords.sort(function() { return 0.5 - Math.random(); });
+        document.getElementById('startPage').style.display = 'none';
+        document.getElementById('workspace').style.display = 'flex';
+        currentIndex = -1;
+        nextWord('in');
+    });
 
-        document.getElementById('first').addEventListener('click', function() {
-            currentIndex = 0;
-            showWord(practiceWords[currentIndex]);
-        });
+    document.getElementById('list').addEventListener('click', function() {
+        if (tagsSelect.selectedOptions.length < 1 || tagsSelect.selectedOptions.length > 10) {
+            alert('请选择 1 到 10 个标签');
+            return;
+        }
+        generatePracticeWords();
+        document.getElementById('listArea').innerHTML = '';
+        document.getElementById('searchResult').innerHTML = '';
+        practiceWords.forEach(function(word) { showWordByLine('listArea', word); });
+        document.getElementById('listArea').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
 
-        document.getElementById('prev').addEventListener('click', function() {
-            if (currentIndex > 0) {
-                currentIndex--;
-                showWord(practiceWords[currentIndex]);
-            }
-        });
+    document.getElementById('first').addEventListener('click', function() {
+        currentIndex = 0;
+        showWord(practiceWords[currentIndex], 'right');
+    });
+    document.getElementById('prev').addEventListener('click', function() {
+        if (currentIndex > 0) { currentIndex--; showWord(practiceWords[currentIndex], 'right'); }
+    });
+    document.getElementById('next').addEventListener('click', function() { nextWord('left'); });
+    document.getElementById('last').addEventListener('click', function() {
+        currentIndex = practiceWords.length - 1;
+        showWord(practiceWords[currentIndex], 'left');
+    });
+    document.getElementById('read').addEventListener('click', function() {
+        var utt = new SpeechSynthesisUtterance(practiceWords[currentIndex].english);
+        window.speechSynthesis.speak(utt);
+    });
 
-        document.getElementById('next').addEventListener('click', nextWord);
+    function nextWord(dir) {
+        if (currentIndex < practiceWords.length - 1) {
+            currentIndex++;
+            showWord(practiceWords[currentIndex], dir || 'left');
+        }
+    }
 
-        document.getElementById('last').addEventListener('click', function() {
-            currentIndex = practiceWords.length - 1;
-            showWord(practiceWords[currentIndex]);
-        });
+    function bookmark() {
+        var word = practiceWords[currentIndex];
+        word.bookmarked = !word.bookmarked;
+        updateBookmarkUI(word.bookmarked);
+        saveBookmarks();
+    }
 
-        document.getElementById('read').addEventListener('click', function() {
-            var word = practiceWords[currentIndex];
-            var utterance = new SpeechSynthesisUtterance(word.english);
-            window.speechSynthesis.speak(utterance);
-        });
+    function updateBookmarkUI(isBookmarked) {
+        var icon = document.getElementById('bookmark');
+        var btn  = document.getElementById('bookmarkBtn');
+        icon.style.color = isBookmarked ? '#ef4444' : '';
+        if (isBookmarked) { btn.classList.add('is-bookmarked'); }
+        else { btn.classList.remove('is-bookmarked'); }
+    }
 
-        function bookmark() {
-            var bookmark = document.getElementById('bookmark');
-            var word = practiceWords[currentIndex];
-            if (word.bookmarked) {
-                word.bookmarked = false;
-                bookmark.style.color = 'white';
-            } else {
-                word.bookmarked = true;
-                bookmark.style.color = 'red';
-            }
+    function saveBookmarks() {
+        var bm = words.filter(function(w) { return w.bookmarked; }).map(function(w) { return w.english; });
+        localStorage.setItem('bookmarks', JSON.stringify(bm));
+    }
+
+    function check() {
+        var word = practiceWords[currentIndex];
+        var mode = document.getElementById('mode').value;
+        var smallSpan = document.getElementById('smallSpan');
+        if (mode === 'en2cn') {
+            showFloatingBox(word.chinese);
+        } else {
+            showFloatingBox(word.english + (word.phonetic ? '<br><span style="font-size:0.65em;font-weight:400;opacity:0.8">' + word.phonetic + '</span>' : ''));
+        }
+        if (smallSpan) {
+            var desc = word.mergedDesc ? word.mergedDesc.join(' | ') : (word.desc || '');
+            smallSpan.textContent = desc;
+        }
+    }
+
+    function showFloatingBox(content) {
+        var fb = document.getElementById('floatingBox');
+        fb.innerHTML = content;
+        fb.classList.remove('show');
+        fb.style.display = 'none';
+        void fb.offsetWidth;
+        fb.style.display = 'block';
+        fb.classList.add('show');
+    }
+
+    function showWord(word, direction) {
+        var fb = document.getElementById('floatingBox');
+        fb.style.display = 'none';
+        fb.classList.remove('show');
+
+        var mode = document.getElementById('mode').value;
+        var area = document.getElementById('practiceArea');
+        var animClass = direction === 'left' ? 'anim-left' : direction === 'right' ? 'anim-right' : 'anim-in';
+
+        var mainHTML, phonHTML = '';
+        if (mode === 'en2cn') {
+            mainHTML = word.english;
+            if (word.phonetic) phonHTML = '<div class="word-phonetic">' + word.phonetic + '</div>';
+        } else {
+            mainHTML = word.mergedChinese ? word.mergedChinese.join(' / ') : word.chinese;
+        }
+
+        var tags = word.mergedTag ? word.mergedTag.join(', ') : word.tag;
+        document.getElementById('progressFill').style.width = ((currentIndex + 1) / practiceWords.length * 100) + '%';
+
+        area.innerHTML =
+            '<div class="word-card ' + animClass + '">' +
+                '<div class="word-main">' + mainHTML + '</div>' +
+                phonHTML +
+                '<div class="word-meta">' +
+                    '<span class="meta-count">' + (currentIndex + 1) + ' / ' + practiceWords.length + '</span>' +
+                    '<span class="meta-tag">' + tags + '</span>' +
+                '</div>' +
+                '<div id="smallSpan"></div>' +
+            '</div>' +
+            '<div class="gesture-hint">' +
+                '<span><i class="fas fa-arrow-left"></i> 上一个</span>' +
+                '<span><i class="fas fa-hand-point-up"></i> 查看答案</span>' +
+                '<span>下一个 <i class="fas fa-arrow-right"></i></span>' +
+            '</div>';
+
+        document.getElementById('first').disabled = currentIndex === 0;
+        document.getElementById('prev').disabled  = currentIndex === 0;
+        document.getElementById('next').disabled  = currentIndex === practiceWords.length - 1;
+        document.getElementById('last').disabled  = currentIndex === practiceWords.length - 1;
+        document.getElementById('read').disabled  = false;
+        updateBookmarkUI(word.bookmarked);
+    }
+
+    function reset() {
+        if (!confirm('确定要重置吗？当前练习顺序将清除。')) return;
+        document.getElementById('startPage').style.display = 'block';
+        document.getElementById('workspace').style.display = 'none';
+        document.getElementById('wordSearch').value = '';
+        document.getElementById('searchResult').innerHTML = '';
+        document.getElementById('listArea').innerHTML = '';
+        document.getElementById('practiceArea').innerHTML = '';
+        document.getElementById('progressFill').style.width = '0%';
+        document.getElementById('floatingBox').style.display = 'none';
+    }
+
+    function showWordByLine(areaId, word) {
+        var area = document.getElementById(areaId);
+        var row  = document.createElement('div');
+        row.className = 'word-row';
+
+        var info = document.createElement('div');
+        info.className = 'word-info';
+        var cnText = Array.isArray(word.chinese) ? word.chinese.join(' / ') : word.chinese;
+        info.innerHTML =
+            '<div class="word-en">' + word.english + '</div>' +
+            '<div class="word-cn">' + cnText + '</div>' +
+            '<span class="word-tag-badge">' + word.tag + '</span>';
+
+        var bmBtn = document.createElement('button');
+        bmBtn.type = 'button';
+        bmBtn.className = 'bm-btn' + (word.bookmarked ? ' is-bookmarked' : '');
+        bmBtn.innerHTML = '<i class="fas fa-bookmark"></i>';
+        bmBtn.title = '书签';
+        bmBtn.onclick = function() {
+            word.bookmarked = !word.bookmarked;
+            bmBtn.className = 'bm-btn' + (word.bookmarked ? ' is-bookmarked' : '');
             saveBookmarks();
-        }
-
-        function saveBookmarks() {
-            const bookmarks = words.filter(word => word.bookmarked).map(word => word.english);
-            localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
-        }
-
-        function check() {
-            var word = practiceWords[currentIndex];
-            var mode = document.getElementById('mode').value;
-            var smallSpan = document.getElementById('smallSpan');
-            if (mode === 'en2cn') {
-                showFloatingBox(`<span">${word.chinese}</span>`);
-            } else {
-                showFloatingBox(`<span>${word.english}</span> <br> <span >${word.phonetic}</span>`);
-            }
-            smallSpan.innerText = `  ${word.mergedDesc ? word.mergedDesc : (word.desc ? word.desc : '')}`;
         };
-        function showFloatingBox(content) {
-            const floatingBox = document.getElementById('floatingBox');
-            floatingBox.innerHTML = content;
-            floatingBox.style.display = 'block';
-        }
 
-        function nextWord() {
-            if (currentIndex < practiceWords.length - 1) {
-                currentIndex++;
-                showWord(practiceWords[currentIndex]);
+        row.appendChild(info);
+        row.appendChild(bmBtn);
+        area.appendChild(row);
+    }
+
+    function searchWord() {
+        document.getElementById('listArea').innerHTML = '';
+        var q = document.getElementById('wordSearch').value.toLowerCase();
+        var matches = words.filter(function(w) {
+            var cn = Array.isArray(w.chinese) ? w.chinese.join(' ') : w.chinese;
+            return w.english.toLowerCase().includes(q) || cn.toLowerCase().includes(q);
+        });
+        var area = document.getElementById('searchResult');
+        area.innerHTML = '';
+        if (matches.length > 0) {
+            matches.forEach(function(w) { showWordByLine('searchResult', w); });
+        } else {
+            area.innerHTML = '<p style="padding:12px 0;color:var(--muted);font-size:0.9rem">未找到相关单词</p>';
+        }
+    }
+
+    // Touch gestures
+    (function() {
+        var area = document.getElementById('practiceArea');
+        var startX, startY, startT, didSwipe = false;
+        var THRESHOLD = 55, MAX_TIME = 450;
+
+        area.addEventListener('touchstart', function(e) {
+            startX = e.touches[0].clientX;
+            startY = e.touches[0].clientY;
+            startT = Date.now();
+            didSwipe = false;
+        }, { passive: true });
+
+        area.addEventListener('touchend', function(e) {
+            if (startX === undefined) return;
+            var dx = e.changedTouches[0].clientX - startX;
+            var dy = e.changedTouches[0].clientY - startY;
+            if (Date.now() - startT > MAX_TIME) return;
+            var absX = Math.abs(dx), absY = Math.abs(dy);
+
+            if (absX > absY && absX > THRESHOLD) {
+                didSwipe = true;
+                var fb = document.getElementById('floatingBox');
+                fb.style.display = 'none'; fb.classList.remove('show');
+                if (dx > 0) {
+                    if (currentIndex > 0) { currentIndex--; showWord(practiceWords[currentIndex], 'right'); }
+                } else {
+                    if (currentIndex < practiceWords.length - 1) { nextWord('left'); }
+                }
+            } else if (absY > absX && absY > THRESHOLD) {
+                didSwipe = true;
+                if (dy < 0) { check(); }
+                else { bookmark(); }
             }
+            startX = undefined;
+        }, { passive: true });
+
+        area.addEventListener('click', function(e) {
+            if (didSwipe) { didSwipe = false; return; }
+            if (e.target.closest && e.target.closest('.gesture-hint')) return;
+            var fb = document.getElementById('floatingBox');
+            if (fb.style.display === 'none' || !fb.style.display) { check(); }
+            else { fb.style.display = 'none'; fb.classList.remove('show'); }
+        });
+    })();
+
+    // Keyboard shortcuts
+    document.addEventListener('keydown', function(e) {
+        var ws = document.getElementById('workspace');
+        if (ws.style.display === 'none' || !ws.style.display) return;
+        var fb = document.getElementById('floatingBox');
+        switch (e.key) {
+            case 'ArrowLeft': case 'a':
+                if (!document.getElementById('prev').disabled) {
+                    currentIndex--; showWord(practiceWords[currentIndex], 'right');
+                    fb.style.display = 'none';
+                } break;
+            case 'ArrowRight': case 'd':
+                if (!document.getElementById('next').disabled) {
+                    nextWord('left'); fb.style.display = 'none';
+                } break;
+            case ' ':
+                e.preventDefault();
+                if (fb.style.display === 'none' || !fb.style.display) { check(); }
+                else { fb.style.display = 'none'; fb.classList.remove('show'); }
+                break;
+            case 'b': case 'B': bookmark(); break;
+            case 'r': case 'R':
+                if (!document.getElementById('read').disabled) {
+                    window.speechSynthesis.speak(new SpeechSynthesisUtterance(practiceWords[currentIndex].english));
+                } break;
+            case 'Home':
+                currentIndex = 0; showWord(practiceWords[currentIndex], 'right');
+                fb.style.display = 'none'; break;
+            case 'End':
+                currentIndex = practiceWords.length - 1; showWord(practiceWords[currentIndex], 'left');
+                fb.style.display = 'none'; break;
+            case 'Escape':
+                if (fb.style.display !== 'none') { fb.style.display = 'none'; fb.classList.remove('show'); }
+                break;
         }
-
-        function showWord(word) {
-            document.getElementById('floatingBox').style.display = 'none';
-
-            var mode = document.getElementById('mode').value;
-            var content = document.getElementById('content').value;
-            var practiceArea = document.getElementById('practiceArea');
-
-            if (mode === 'en2cn') {
-                practiceArea.innerHTML = `<span class="large">${word.english}</span> <br> 
-                                          <span class="large">${word.phonetic}</span> <br>`; 
-            } else {
-                practiceArea.innerHTML = `<span class="large">${word.mergedChinese ? word.mergedChinese : word.chinese}</span> <br>`;
-            }
-
-            practiceArea.innerHTML += `<span class="small">(${currentIndex + 1}/${practiceWords.length}) ${word.mergedTag ? word.mergedTag : word.tag}<span id="smallSpan"></span></span>`;
-
-            document.getElementById('first').disabled = currentIndex === 0;
-            document.getElementById('prev').disabled = currentIndex === 0;
-            document.getElementById('next').disabled = currentIndex === practiceWords.length - 1;
-            document.getElementById('last').disabled = currentIndex === practiceWords.length - 1;
-            document.getElementById('read').disabled = false;
-            document.getElementById('bookmark').style.color = word.bookmarked ? 'red' : 'white';
-        }
-
-        function reset() {
-            if (!confirm('Are you sure you want to reset? Resetting will clear current order.')) {
-                return;
-            }
-            document.getElementById('startPage').style.display = 'block';
-            document.getElementById('wordSearch').value = '';
-            document.getElementById('searchResult').innerHTML = '';
-            document.getElementById('listArea').innerHTML = '';
-            document.getElementById('practiceArea').innerHTML = '';
-            document.getElementById('bookmark').style.color = 'white';
-            document.getElementById('workspace').style.display = 'none';
-        }
-
-        function showWordByLine(areaId, word) {
-            const showArea = document.getElementById(areaId);
-
-            const resultRow = document.createElement('div');
-            resultRow.style.display = 'flex';
-            resultRow.style.alignItems = 'center';
-            resultRow.style.marginBottom = '10px';
-
-            const wordText = document.createElement('span');
-            wordText.innerHTML = `
-                <span>${word.english}</span><br>
-                <span>${word.chinese}</span><br>
-                <span class="small">${word.tag}</span>
-            `;
-            wordText.style.flexGrow = '1';
-
-            const bookmarkButton = document.createElement('button');
-            bookmarkButton.innerHTML = '<i class="fas fa-bookmark"></i>';
-            bookmarkButton.title = 'Bookmark';
-            bookmarkButton.type = 'button'; // Prevent form submission
-            bookmarkButton.style.color = word.bookmarked ? 'red' : 'white';
-            bookmarkButton.onclick = () => {
-                word.bookmarked = !word.bookmarked;
-                bookmarkButton.style.color = word.bookmarked ? 'red' : 'white';
-                saveBookmarks();
-            };
-
-            resultRow.appendChild(wordText);
-            resultRow.appendChild(bookmarkButton);
-            showArea.appendChild(resultRow);
-
-            // Add a horizontal rule for spacing
-            const hr = document.createElement('hr');
-            hr.style.width = '100%';
-            hr.style.border = '0';
-            hr.style.borderTop = '1px solid #ccc';
-            hr.style.margin = '10px 0';
-            showArea.appendChild(hr);
-        }
-
-        function searchWord() {
-            document.getElementById('listArea').innerHTML = '';
-            const input = document.getElementById('wordSearch').value.toLowerCase();
-            const matchingWords = words.filter(word => {
-                const chineseText = Array.isArray(word.chinese) ? word.chinese.join(' ') : word.chinese;
-                return word.english.toLowerCase().includes(input) || chineseText.toLowerCase().includes(input);
-            });
-            const searchResult = document.getElementById('searchResult');
-            searchResult.innerHTML = ''; // Clear previous results
-
-            if (matchingWords.length > 0) {
-                matchingWords.forEach(word => {
-                    showWordByLine('searchResult', word);
-                });
-            } else {
-                searchResult.textContent = 'Word not found';
-            }
-        }
-    </script>
+    });
+</script>
 </body>
 </html>
