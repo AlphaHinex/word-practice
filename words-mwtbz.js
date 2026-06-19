@@ -15645,6 +15645,48 @@ var words = [
         "tag": "junior/grade7b/unit5-n3"
     },
     {
+        "chinese": "的速度",
+        "desc": "",
+        "english": "at the speed of",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "以高/低速",
+        "desc": "",
+        "english": "at a high/low speed",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "相速",
+        "desc": "词性：n. 速度；v. 加速。记忆技巧：联想“速度”发音/spiːd/，结合短语“speed up”（加速）强化记忆。",
+        "english": "speed",
+        "phonetic": "/spiːd/",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "减速",
+        "desc": "",
+        "english": "speed down",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "代表",
+        "desc": "",
+        "english": "stood for",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "方法",
+        "desc": "词性：n. 方法。记忆技巧：词根记忆，meth-（方法）+-od（名词后缀），联想“methodology”（方法论）巩固含义。",
+        "english": "method",
+        "phonetic": "/ˈmeθəd/",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
         "chinese": "速度;速率",
         "desc": "n. 速度；速率；v. 加速；记忆技巧：“s+peed”快速发音联想速度感",
         "english": "speed",
@@ -36981,6 +37023,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit5-n3';
             option.textContent = 'junior/grade7b/unit5-n3';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit5-n4';
+            option.textContent = 'junior/grade7b/unit5-n4';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit6-a';
             option.textContent = 'junior/grade7b/unit6-a';
