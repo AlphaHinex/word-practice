@@ -11788,67 +11788,74 @@ var words = [
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
-        "chinese": "微不足道的兴趣",
+        "chinese": "毕生的志趣，终身的兴趣",
         "desc": "",
-        "english": "trivial interest",
+        "english": "(a) lifetime interest",
         "phonetic": "",
-        "tag": "junior/grade7b/20260612-2"
+        "tag": "junior/grade7b/20260612-exam"
     },
     {
         "chinese": "出去",
         "desc": "",
         "english": "go outside",
         "phonetic": "",
-        "tag": "junior/grade7b/20260612-2"
+        "tag": "junior/grade7b/20260612-exam"
     },
     {
         "chinese": "疾驰而过",
         "desc": "",
         "english": "shoot across",
         "phonetic": "",
-        "tag": "junior/grade7b/20260612-2"
+        "tag": "junior/grade7b/20260612-exam"
     },
     {
         "chinese": "对...好奇",
         "desc": "",
         "english": "be curious about",
         "phonetic": "",
-        "tag": "junior/grade7b/20260612-2"
+        "tag": "junior/grade7b/20260612-exam"
     },
     {
         "chinese": "鼓励",
         "desc": "n. 鼓励；记忆技巧：en-（使）+ courage（勇气）+ -ment（名词后缀）→ 使人有勇气→鼓励",
         "english": "encouragement",
         "phonetic": "/ɪnˈkɜːrɪdʒmənt/",
-        "tag": "junior/grade7b/20260612-2"
+        "tag": "junior/grade7b/20260612-exam"
     },
     {
         "chinese": "对...满意",
         "desc": "",
         "english": "be happy with",
         "phonetic": "",
-        "tag": "junior/grade7b/20260612-2"
+        "tag": "junior/grade7b/20260612-exam"
     },
     {
         "chinese": "对...感到惊讶",
         "desc": "",
         "english": "be amazed at",
         "phonetic": "",
-        "tag": "junior/grade7b/20260612-2"
+        "tag": "junior/grade7b/20260612-exam"
+    },
+    {
+        "chinese": "能力",
+        "desc": "",
+        "english": "ability",
+        "phonetic": "",
+        "tag": "junior/grade7b/20260612-exam"
     },
     {
         "chinese": "可能性",
         "desc": "n. 可能性；记忆技巧：possible（可能的）+ -ity（名词后缀）→可能性",
         "english": "possibility",
         "phonetic": "/ˌpɑːsəˈbɪləti/",
-        "tag": "junior/grade7b/20260612-2"
+        "tag": "junior/grade7b/20260612-exam"
     },
     {
         "chinese": "减少",
         "desc": "",
-        "english": "to decrease",
+        "english": "decrease",
         "phonetic": "",
-        "tag": "junior/grade7b/20260612-2"
+        "tag": "junior/grade7b/20260612-exam"
     },
     {
         "chinese": "目标在于……",
@@ -37311,8 +37318,8 @@ var words = [
             option.value = 'junior/grade7a/irregular-verbs/51-73';
             option.textContent = 'junior/grade7a/irregular-verbs/51-73';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade7b/20260612-2';
-            option.textContent = 'junior/grade7b/20260612-2';
+            option.value = 'junior/grade7b/20260612-exam';
+            option.textContent = 'junior/grade7b/20260612-exam';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/20260612';
             option.textContent = 'junior/grade7b/20260612';
