@@ -15477,23 +15477,72 @@ var words = [
         "tag": "junior/grade7b/unit5-n2"
     },
     {
-        "chinese": "路线",
-        "desc": "词性：n. 记忆技巧：可联想“路线”（route）需要“root”（根）指引方向，或拆分字母 r-o-u-t-e 结合中文含义记忆。",
-        "english": "route",
-        "phonetic": "/ruːt/",
-        "tag": "junior/grade7b/unit5-n3-2"
+        "chinese": "v. 改变",
+        "desc": "",
+        "english": "change",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
     },
     {
-        "chinese": "条件,状况",
-        "desc": "词性：n. 记忆技巧：拆分 con-dition，con- 表示“共同”，结合“条件、状况”是共同的情况，辅助记忆。",
-        "english": "condition",
-        "phonetic": "/kənˈdɪʃn/",
-        "tag": "junior/grade7b/unit5-n3-2"
+        "chinese": "adj. 可改变的",
+        "desc": "",
+        "english": "changable",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "品牌",
+        "desc": "",
+        "english": "brand",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "崭新的",
+        "desc": "",
+        "english": "brand-new",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "打五折",
+        "desc": "词组，固定搭配，表示享受半价优惠，percent off为常用折扣表达",
+        "english": "get fifty percent off",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "谚语",
+        "desc": "名词，指谚语、格言，记忆技巧：发音中双写i发/ɪ/音",
+        "english": "saying",
+        "phonetic": "/ˈseɪɪŋ/",
+        "tag": "junior/grade7b/unit5-n2"
+    },
+    {
+        "chinese": "独特的",
+        "desc": "形容词，意为独特的，记忆技巧：词尾-que发音为/k/，重音在第二个音节",
+        "english": "unique",
+        "phonetic": "/juˈniːk/",
+        "tag": "junior/grade7b/unit5-n2"
     },
     {
         "chinese": "下降",
         "desc": "",
         "english": "go down",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "长大",
+        "desc": "",
+        "english": "grow up",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "构成，组成",
+        "desc": "",
+        "english": "make up",
         "phonetic": "",
         "tag": "junior/grade7b/unit5-n3"
     },
@@ -15505,24 +15554,94 @@ var words = [
         "tag": "junior/grade7b/unit5-n3"
     },
     {
-        "chinese": "代替",
+        "chinese": "v. 代替",
         "desc": "",
+        "english": "replace",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "每一天",
+        "desc": "",
+        "english": "each day = per day",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "冷却",
+        "desc": "",
+        "english": "cool down",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "取代，代替",
+        "desc": "词组，第一个单词是介词",
         "english": "instead of",
         "phonetic": "",
         "tag": "junior/grade7b/unit5-n3"
     },
     {
-        "chinese": "出汗",
+        "chinese": "v. 出汗；u.n. 汗",
         "desc": "词性：动词/名词；记忆技巧：运动后容易出汗（sweat）",
         "english": "sweat",
         "phonetic": "/swet/",
         "tag": "junior/grade7b/unit5-n3"
     },
     {
-        "chinese": "时间",
+        "chinese": "v. 比较",
+        "desc": "",
+        "english": "compare",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "n. 对比",
+        "desc": "",
+        "english": "comparison",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "u.n. 时间；c.n. 次数（+s）",
         "desc": "词性：名词；记忆技巧：日常常用词，表示时间（time）",
         "english": "time",
         "phonetic": "/taɪm/",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "总长",
+        "desc": "",
+        "english": "a total length of",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "交织在一起，联合在一起",
+        "desc": "",
+        "english": "join together",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "路线",
+        "desc": "词性：n. 记忆技巧：可联想“路线”（route）需要“root”（根）指引方向，或拆分字母 r-o-u-t-e 结合中文含义记忆。",
+        "english": "route",
+        "phonetic": "/ruːt/",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "条件,状况",
+        "desc": "词性：n. 记忆技巧：拆分 con-dition，con- 表示“共同”，结合“条件、状况”是共同的情况，辅助记忆。",
+        "english": "condition",
+        "phonetic": "/kənˈdɪʃn/",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "adj. 增长快的",
+        "desc": "",
+        "english": "growing",
+        "phonetic": "",
         "tag": "junior/grade7b/unit5-n3"
     },
     {
@@ -36859,9 +36978,6 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit5-n2';
             option.textContent = 'junior/grade7b/unit5-n2';
-            newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade7b/unit5-n3-2';
-            option.textContent = 'junior/grade7b/unit5-n3-2';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit5-n3';
             option.textContent = 'junior/grade7b/unit5-n3';
