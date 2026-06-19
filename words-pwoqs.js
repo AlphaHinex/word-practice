@@ -11788,6 +11788,160 @@ var words = [
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
+        "chinese": "目标",
+        "desc": "词性：n./v. 记忆技巧：发音联想，与“爱目标”谐音，便于记忆",
+        "english": "aim",
+        "phonetic": "/eɪm/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "加热",
+        "desc": "词性：v./n. 记忆技巧：发音类似“hit”，但表示加热，注意区别",
+        "english": "heat",
+        "phonetic": "/hiːt/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "许多（接可数名词）",
+        "desc": "词组，后接可数名词复数",
+        "english": "a large number of",
+        "phonetic": "",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "感觉",
+        "desc": "固定搭配，表“...的感觉”",
+        "english": "sense of",
+        "phonetic": "",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "满意（名词）",
+        "desc": "词性：n. 记忆技巧：由satisfy（v.满意）加名词后缀-tion构成",
+        "english": "satisfaction",
+        "phonetic": "/ˌsætɪsˈfækʃn/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "我昨天读书",
+        "desc": "",
+        "english": "I read books yesterday",
+        "phonetic": "",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "她在教室里唱歌",
+        "desc": "",
+        "english": "She sings in the classroom",
+        "phonetic": "",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "因为公交车坏了，所以迟到了",
+        "desc": "",
+        "english": "It is late because the bus broke down",
+        "phonetic": "",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "随着",
+        "desc": "词性：prep./conj. 记忆技巧：常见词，可联想“作为（as）随着变化”",
+        "english": "as",
+        "phonetic": "/æz/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "当...时（从句动词必须是延续性的对比关系）",
+        "desc": "词性：conj. 记忆技巧：表示时间，可联想“问（when）时间”",
+        "english": "when",
+        "phonetic": "/wen/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "工作（延续动词）",
+        "desc": "词性：v.（延续动词） 记忆技巧：常见词，联想“我工作（work）”",
+        "english": "work",
+        "phonetic": "/wɜːrk/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "等待（延续动词）",
+        "desc": "词性：v.（延续动词） 记忆技巧：发音类似“喂（wait），等待一下”",
+        "english": "wait",
+        "phonetic": "/weɪt/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "读（延续动词）",
+        "desc": "词性：v.（延续动词） 记忆技巧：常见词，“读（read）书”",
+        "english": "read",
+        "phonetic": "/riːd/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "睡（延续动词）",
+        "desc": "词性：v.（延续动词） 记忆技巧：发音联想“睡（sleep）眠”",
+        "english": "sleep",
+        "phonetic": "/sliːp/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "打开（非延续动词）",
+        "desc": "词性：v.（非延续动词） 记忆技巧：“开（open）门”，动作瞬间完成",
+        "english": "open",
+        "phonetic": "/ˈoʊpən/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "关闭（非延续动词）",
+        "desc": "词性：v.（非延续动词） 记忆技巧：“关（close）窗”，动作瞬间完成",
+        "english": "close",
+        "phonetic": "/kloʊz/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "买（非延续动词）",
+        "desc": "词性：v.（非延续动词） 记忆技巧：“买（buy）东西”，瞬间动作",
+        "english": "buy",
+        "phonetic": "/baɪ/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "开始（非延续动词）",
+        "desc": "词性：v.（非延续动词） 记忆技巧：“开始（begin）做某事”，瞬间动作",
+        "english": "begin",
+        "phonetic": "/bɪˈɡɪn/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "完成（非延续动词）",
+        "desc": "词性：v.（非延续动词） 记忆技巧：“完成（finish）任务”，瞬间动作",
+        "english": "finish",
+        "phonetic": "/ˈfɪnɪʃ/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "到达（非延续动词）",
+        "desc": "词性：v.（非延续动词） 记忆技巧：“到达（arrive）某地”，瞬间动作",
+        "english": "arrive",
+        "phonetic": "/əˈraɪv/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "到...时候（表示主句动作延续到从句发生才停止，动词必须是可延续的）",
+        "desc": "连词/介词，用于引导时间状语从句，强调动作的延续性",
+        "english": "till/until",
+        "phonetic": "",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
+        "chinese": "毕业（动词）",
+        "desc": "动词，记忆技巧：词根grad-表示“步骤”，-uate为动词后缀，逐步完成学业即“毕业”",
+        "english": "graduate",
+        "phonetic": "/ˈɡrædʒuət/",
+        "tag": "junior/grade7b/20260612"
+    },
+    {
         "chinese": "建议",
         "desc": "名词。记忆技巧：ad-加强语气 + vice（代替），表示“给出替代方案”即建议",
         "english": "advice",
@@ -37044,6 +37198,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7a/irregular-verbs/51-73';
             option.textContent = 'junior/grade7a/irregular-verbs/51-73';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/20260612';
+            option.textContent = 'junior/grade7b/20260612';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit1-a';
             option.textContent = 'junior/grade7b/unit1-a';
