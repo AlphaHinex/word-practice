@@ -15477,6 +15477,27 @@ var words = [
         "tag": "junior/grade7b/unit5-n2"
     },
     {
+        "chinese": "打五折",
+        "desc": "词组，固定搭配，表示享受半价优惠，percent off为常用折扣表达",
+        "english": "get fifty percent off",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "谚语",
+        "desc": "名词，指谚语、格言，记忆技巧：发音中双写i发/ɪ/音",
+        "english": "saying",
+        "phonetic": "/ˈseɪɪŋ/",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "独特的",
+        "desc": "形容词，意为独特的，记忆技巧：词尾-que发音为/k/，重音在第二个音节",
+        "english": "unique",
+        "phonetic": "/juˈniːk/",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
         "chinese": "速度;速率",
         "desc": "n. 速度；速率；v. 加速；记忆技巧：“s+peed”快速发音联想速度感",
         "english": "speed",
@@ -36810,6 +36831,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit5-n2';
             option.textContent = 'junior/grade7b/unit5-n2';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit5-n3';
+            option.textContent = 'junior/grade7b/unit5-n3';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit6-a';
             option.textContent = 'junior/grade7b/unit6-a';
