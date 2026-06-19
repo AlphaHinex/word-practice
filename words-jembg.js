@@ -15477,6 +15477,41 @@ var words = [
         "tag": "junior/grade7b/unit5-n2"
     },
     {
+        "chinese": "下降",
+        "desc": "",
+        "english": "go down",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "脂肪",
+        "desc": "词性：名词；记忆技巧：联想“肥胖（fat）的人有很多脂肪”",
+        "english": "fat",
+        "phonetic": "/fæt/",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "代替",
+        "desc": "",
+        "english": "instead of",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "出汗",
+        "desc": "词性：动词/名词；记忆技巧：运动后容易出汗（sweat）",
+        "english": "sweat",
+        "phonetic": "/swet/",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
+        "chinese": "时间",
+        "desc": "词性：名词；记忆技巧：日常常用词，表示时间（time）",
+        "english": "time",
+        "phonetic": "/taɪm/",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
         "chinese": "速度;速率",
         "desc": "n. 速度；速率；v. 加速；记忆技巧：“s+peed”快速发音联想速度感",
         "english": "speed",
@@ -36810,6 +36845,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit5-n2';
             option.textContent = 'junior/grade7b/unit5-n2';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit5-n3';
+            option.textContent = 'junior/grade7b/unit5-n3';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit6-a';
             option.textContent = 'junior/grade7b/unit6-a';
