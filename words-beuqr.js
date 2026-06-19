@@ -15526,6 +15526,13 @@ var words = [
         "tag": "junior/grade7b/unit5-n2"
     },
     {
+        "chinese": "百分数做主语，谓语动词用什么",
+        "desc": "",
+        "english": "与名词保持一致",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n3"
+    },
+    {
         "chinese": "下降",
         "desc": "",
         "english": "go down",
@@ -15645,42 +15652,140 @@ var words = [
         "tag": "junior/grade7b/unit5-n3"
     },
     {
-        "chinese": "的速度",
+        "chinese": "n. 发明者",
         "desc": "",
-        "english": "at the speed of",
+        "english": "inventor",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "v. 发明",
+        "desc": "",
+        "english": "invent",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "n. 发明",
+        "desc": "",
+        "english": "invention",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "n. 发现",
+        "desc": "",
+        "english": "discovery",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "v. 发现",
+        "desc": "",
+        "english": "discover",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "prep. 紧靠，碰",
+        "desc": "",
+        "english": "against",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "对……（比赛、战斗）",
+        "desc": "",
+        "english": "fight against",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "违反法律/规则",
+        "desc": "",
+        "english": "(be against)/break the law/rule",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "……的速度",
+        "desc": "",
+        "english": "the speed of ...",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "以……样的速度",
+        "desc": "",
+        "english": "at the speed of ...",
         "phonetic": "",
         "tag": "junior/grade7b/unit5-n4"
     },
     {
         "chinese": "以高/低速",
         "desc": "",
-        "english": "at a high/low speed",
+        "english": "at a high/low speed of",
         "phonetic": "",
         "tag": "junior/grade7b/unit5-n4"
     },
     {
-        "chinese": "相速",
-        "desc": "词性：n. 速度；v. 加速。记忆技巧：联想“速度”发音/spiːd/，结合短语“speed up”（加速）强化记忆。",
+        "chinese": "n. 速度；v. 加速。过去式 sped，过去分词 sped",
+        "desc": "记忆技巧：联想“速度”发音/spiːd/，结合短语“speed up”（加速）强化记忆。",
         "english": "speed",
         "phonetic": "/spiːd/",
         "tag": "junior/grade7b/unit5-n4"
     },
     {
-        "chinese": "减速",
+        "chinese": "加/减速",
         "desc": "",
-        "english": "speed down",
+        "english": "speed up/down",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "充分利用",
+        "desc": "",
+        "english": "make good use of",
         "phonetic": "",
         "tag": "junior/grade7b/unit5-n4"
     },
     {
         "chinese": "代表",
         "desc": "",
-        "english": "stood for",
+        "english": "stand for",
         "phonetic": "",
         "tag": "junior/grade7b/unit5-n4"
     },
     {
-        "chinese": "方法",
+        "chinese": "自来水",
+        "desc": "",
+        "english": "tap water",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "强调动态，进入",
+        "desc": "与 in 的区别",
+        "english": "into",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "铁",
+        "desc": "",
+        "english": "iron",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "v. 释放",
+        "desc": "",
+        "english": "free",
+        "phonetic": "",
+        "tag": "junior/grade7b/unit5-n4"
+    },
+    {
+        "chinese": "n. 方法，方式 = way",
         "desc": "词性：n. 方法。记忆技巧：词根记忆，meth-（方法）+-od（名词后缀），联想“methodology”（方法论）巩固含义。",
         "english": "method",
         "phonetic": "/ˈmeθəd/",
