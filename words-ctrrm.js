@@ -15477,6 +15477,20 @@ var words = [
         "tag": "junior/grade7b/unit5-n2"
     },
     {
+        "chinese": "路线",
+        "desc": "词性：n. 记忆技巧：可联想“路线”（route）需要“root”（根）指引方向，或拆分字母 r-o-u-t-e 结合中文含义记忆。",
+        "english": "route",
+        "phonetic": "/ruːt/",
+        "tag": "junior/grade7b/unit5-n3-2"
+    },
+    {
+        "chinese": "条件,状况",
+        "desc": "词性：n. 记忆技巧：拆分 con-dition，con- 表示“共同”，结合“条件、状况”是共同的情况，辅助记忆。",
+        "english": "condition",
+        "phonetic": "/kənˈdɪʃn/",
+        "tag": "junior/grade7b/unit5-n3-2"
+    },
+    {
         "chinese": "下降",
         "desc": "",
         "english": "go down",
@@ -36845,6 +36859,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit5-n2';
             option.textContent = 'junior/grade7b/unit5-n2';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/unit5-n3-2';
+            option.textContent = 'junior/grade7b/unit5-n3-2';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit5-n3';
             option.textContent = 'junior/grade7b/unit5-n3';
