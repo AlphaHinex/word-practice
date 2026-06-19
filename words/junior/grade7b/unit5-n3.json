@@ -1,1 +1,104 @@
-[{"chinese": "下降", "desc": "", "english": "go down", "phonetic": ""}, {"chinese": "脂肪", "desc": "词性：名词；记忆技巧：联想“肥胖（fat）的人有很多脂肪”", "english": "fat", "phonetic": "/fæt/"}, {"chinese": "代替", "desc": "", "english": "instead of", "phonetic": ""}, {"chinese": "出汗", "desc": "词性：动词/名词；记忆技巧：运动后容易出汗（sweat）", "english": "sweat", "phonetic": "/swet/"}, {"chinese": "时间", "desc": "词性：名词；记忆技巧：日常常用词，表示时间（time）", "english": "time", "phonetic": "/taɪm/"}]
+[
+    {
+        "chinese": "下降",
+        "desc": "",
+        "english": "go down",
+        "phonetic": ""
+    },
+    {
+        "chinese": "长大",
+        "desc": "",
+        "english": "grow up",
+        "phonetic": ""
+    },
+    {
+        "chinese": "构成，组成",
+        "desc": "",
+        "english": "make up",
+        "phonetic": ""
+    },
+    {
+        "chinese": "脂肪",
+        "desc": "词性：名词；记忆技巧：联想“肥胖（fat）的人有很多脂肪”",
+        "english": "fat",
+        "phonetic": "/fæt/"
+    },
+    {
+        "chinese": "v. 代替",
+        "desc": "",
+        "english": "replace",
+        "phonetic": ""
+    },
+    {
+        "chinese": "每一天",
+        "desc": "",
+        "english": "each day = per day",
+        "phonetic": ""
+    },
+    {
+        "chinese": "冷却",
+        "desc": "",
+        "english": "cool down",
+        "phonetic": ""
+    },
+    {
+        "chinese": "取代，代替",
+        "desc": "词组，第一个单词是介词",
+        "english": "instead of",
+        "phonetic": ""
+    },
+    {
+        "chinese": "v. 出汗；u.n. 汗",
+        "desc": "词性：动词/名词；记忆技巧：运动后容易出汗（sweat）",
+        "english": "sweat",
+        "phonetic": "/swet/"
+    },
+    {
+        "chinese": "v. 比较",
+        "desc": "",
+        "english": "compare",
+        "phonetic": ""
+    },
+    {
+        "chinese": "n. 对比",
+        "desc": "",
+        "english": "comparison",
+        "phonetic": ""
+    },
+    {
+        "chinese": "u.n. 时间；c.n. 次数（+s）",
+        "desc": "词性：名词；记忆技巧：日常常用词，表示时间（time）",
+        "english": "time",
+        "phonetic": "/taɪm/"
+    },
+    {
+        "chinese": "总长",
+        "desc": "",
+        "english": "a total length of",
+        "phonetic": ""
+    },
+    {
+        "chinese": "交织在一起，联合在一起",
+        "desc": "",
+        "english": "join together",
+        "phonetic": ""
+    },
+    {
+        "chinese": "路线",
+        "desc": "词性：n. 记忆技巧：可联想“路线”（route）需要“root”（根）指引方向，或拆分字母 r-o-u-t-e 结合中文含义记忆。",
+        "english": "route",
+        "phonetic": "/ruːt/"
+    },
+    {
+        "chinese": "条件,状况",
+        "desc": "词性：n. 记忆技巧：拆分 con-dition，con- 表示“共同”，结合“条件、状况”是共同的情况，辅助记忆。",
+        "english": "condition",
+        "phonetic": "/kənˈdɪʃn/"
+    },
+    {
+        "chinese": "adj. 增长快的",
+        "desc": "",
+        "english": "growing",
+        "phonetic": ""
+    }
+]
