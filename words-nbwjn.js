@@ -11788,6 +11788,90 @@ var words = [
         "tag": "junior/grade7a/irregular-verbs/51-73"
     },
     {
+        "chinese": "修理",
+        "desc": "v. 修理；记忆技巧：联想日常用语“fix it”表示修理某物",
+        "english": "fix",
+        "phonetic": "/fɪks/",
+        "tag": "junior/grade7b/20260612-2"
+    },
+    {
+        "chinese": "过去常常做某事",
+        "desc": "",
+        "english": "used to do sth",
+        "phonetic": "",
+        "tag": "junior/grade7b/20260612-2"
+    },
+    {
+        "chinese": "过去不常做某事",
+        "desc": "",
+        "english": "didn't use to do sth",
+        "phonetic": "",
+        "tag": "junior/grade7b/20260612-2"
+    },
+    {
+        "chinese": "被用来做",
+        "desc": "",
+        "english": "be used to do sth",
+        "phonetic": "",
+        "tag": "junior/grade7b/20260612-2"
+    },
+    {
+        "chinese": "复习；回顾；评论",
+        "desc": "v. 复习；n. 评论；记忆技巧：re-（再次）+ view（看）→ 再次查看→复习",
+        "english": "review",
+        "phonetic": "/rɪˈvjuː/",
+        "tag": "junior/grade7b/20260612-2"
+    },
+    {
+        "chinese": "表演",
+        "desc": "v. 表演；记忆技巧：per-（完全）+ form（形式）→ 完全呈现形式→表演",
+        "english": "perform",
+        "phonetic": "/pərˈfɔːrm/",
+        "tag": "junior/grade7b/20260612-2"
+    },
+    {
+        "chinese": "表演者",
+        "desc": "n. 表演者；记忆技巧：perform（表演）+ er（表人）→ 表演者",
+        "english": "performer",
+        "phonetic": "/pərˈfɔːrmər/",
+        "tag": "junior/grade7b/20260612-2"
+    },
+    {
+        "chinese": "演出",
+        "desc": "n. 演出；记忆技巧：perform（表演）+ ance（名词后缀）→ 表演的行为→演出",
+        "english": "performance",
+        "phonetic": "/pərˈfɔːrməns/",
+        "tag": "junior/grade7b/20260612-2"
+    },
+    {
+        "chinese": "对……感到厌倦",
+        "desc": "",
+        "english": "feel bored with",
+        "phonetic": "",
+        "tag": "junior/grade7b/20260612-2"
+    },
+    {
+        "chinese": "表达自己",
+        "desc": "",
+        "english": "express oneself",
+        "phonetic": "",
+        "tag": "junior/grade7b/20260612-2"
+    },
+    {
+        "chinese": "肢体语言",
+        "desc": "",
+        "english": "body language",
+        "phonetic": "",
+        "tag": "junior/grade7b/20260612-2"
+    },
+    {
+        "chinese": "舞蹈风格",
+        "desc": "",
+        "english": "dancing style",
+        "phonetic": "",
+        "tag": "junior/grade7b/20260612-2"
+    },
+    {
         "chinese": "目标",
         "desc": "词性：n./v. 记忆技巧：发音联想，与“爱目标”谐音，便于记忆",
         "english": "aim",
@@ -37198,6 +37282,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7a/irregular-verbs/51-73';
             option.textContent = 'junior/grade7a/irregular-verbs/51-73';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade7b/20260612-2';
+            option.textContent = 'junior/grade7b/20260612-2';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/20260612';
             option.textContent = 'junior/grade7b/20260612';
