@@ -16870,6 +16870,349 @@ var words = [
         "tag": "junior/grade7b/unit8-b"
     },
     {
+        "chinese": "通识教育",
+        "desc": "",
+        "english": "general education",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "恐龙",
+        "desc": "名词(n.)；记忆技巧：dino（恐龙缩写）+ saur（希腊语“蜥蜴”），组合为恐龙。",
+        "english": "dinosaur",
+        "phonetic": "/ˈdaɪnəsɔːr/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "历史悠久",
+        "desc": "",
+        "english": "go back a long way",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "有才智的;聪明的",
+        "desc": "形容词(adj.)；记忆技巧：intel（智力）+ ligent（类似diligent勤奋），聪明的人智力高且勤奋。",
+        "english": "intelligent",
+        "phonetic": "/ɪnˈtelɪdʒənt/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "与……相似",
+        "desc": "",
+        "english": "be similar to",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "字母顺序",
+        "desc": "",
+        "english": "alphabetical order",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "有才能的;天才的",
+        "desc": "形容词(adj.)；记忆技巧：talent（才能，名词）+ ed（形容词后缀），有才能的。",
+        "english": "talented",
+        "phonetic": "/ˈtæləntɪd/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "起到重要作用",
+        "desc": "",
+        "english": "play an important role",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "有艺术天赋的;(尤指)有美术才能的",
+        "desc": "形容词(adj.)；记忆技巧：art（艺术）+ istic（形容词后缀“关于…的”），关于艺术的即有艺术天赋的。",
+        "english": "artistic",
+        "phonetic": "/ɑːrˈtɪstɪk/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "(尤指乘飞机的)航程",
+        "desc": "名词(n.)；记忆技巧：fly（飞，动词）+ ht（名词后缀），飞行的过程即航程。",
+        "english": "flight",
+        "phonetic": "/flaɪt/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "可能;大概;也许",
+        "desc": "副词(adv.)；记忆技巧：per（每）+ haps（可能来自happen发生），每件事都可能发生即也许。",
+        "english": "perhaps",
+        "phonetic": "/pərˈhæps/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "日程安排",
+        "desc": "名词(n.)/动词(v.)；记忆技巧：sched（计划）+ ule（名词后缀），计划的安排即日程。",
+        "english": "schedule",
+        "phonetic": "/ˈskedʒuːl/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "到处;各个地方",
+        "desc": "副词(adv.)；记忆技巧：every（每个）+ where（哪里），每个地方即到处。",
+        "english": "everywhere",
+        "phonetic": "/ˈevriweər/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "笔记本",
+        "desc": "名词(n.)；记忆技巧：note（笔记）+ book（书），记笔记的书即笔记本。",
+        "english": "notebook",
+        "phonetic": "/ˈnoʊtbʊk/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "交通工具;车辆",
+        "desc": "名词(n.)；记忆技巧：veh（运输）+ icle（小的东西），运输的工具即交通工具。",
+        "english": "vehicle",
+        "phonetic": "/ˈviːəkl/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "向(某人)挑战",
+        "desc": "动词(v.)/名词(n.)；记忆技巧：chall（喊叫）+ enge（后缀），喊叫着挑战对方。",
+        "english": "challenge",
+        "phonetic": "/ˈtʃælɪndʒ/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "史前的",
+        "desc": "形容词(adj.)；记忆技巧：pre（之前）+ historic（历史的），历史之前的即史前的。",
+        "english": "prehistoric",
+        "phonetic": "/ˌpriːhɪˈstɔːrɪk/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "奖赏;奖励",
+        "desc": "名词(n.)/动词(v.)；记忆技巧：音似“price价格”，有价值的东西作为奖赏。",
+        "english": "prize",
+        "phonetic": "/praɪz/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "完全地;彻底地",
+        "desc": "副词(adv.)；记忆技巧：complete（完全的，形容词）+ ly（副词后缀），完全地。",
+        "english": "completely",
+        "phonetic": "/kəmˈpliːtli/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "承诺;保证",
+        "desc": "动词(v.)/名词(n.)；记忆技巧：pro（向前）+ mise（送），向前送出的话即承诺。",
+        "english": "promise",
+        "phonetic": "/ˈprɑːmɪs/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "国际象棋棋盘",
+        "desc": "n. 记忆技巧：chess（国际象棋）+ board（板）→ 国际象棋棋盘",
+        "english": "chessboard",
+        "phonetic": "/ˈtʃesbɔːrd/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "原来的;起初的",
+        "desc": "adj. 记忆技巧：origin（起源）+ al（形容词后缀）→ 原来的",
+        "english": "original",
+        "phonetic": "/əˈrɪdʒənl/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "银",
+        "desc": "n. 记忆技巧：联想“丝银”，丝滑的银",
+        "english": "silver",
+        "phonetic": "/ˈsɪlvər/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "出生",
+        "desc": "n. 记忆技巧：b+irth，联想“诞生”的发音",
+        "english": "birth",
+        "phonetic": "/bɜːrθ/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "回复;答复",
+        "desc": "v./n. 记忆技巧：re（再）+ ply（折叠）→ 再次折叠信件→回复",
+        "english": "reply",
+        "phonetic": "/rɪˈplaɪ/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "苦难;疼痛",
+        "desc": "n. 记忆技巧：suffer（遭受）+ ing（名词后缀）→ 苦难",
+        "english": "suffering",
+        "phonetic": "/ˈsʌfərɪŋ/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "犹豫",
+        "desc": "n. 记忆技巧：hesitate（犹豫，v.）+ tion（名词后缀）→ 犹豫",
+        "english": "hesitation",
+        "phonetic": "/ˌhezɪˈteɪʃn/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "艺术家;(尤指)画家",
+        "desc": "n. 记忆技巧：art（艺术）+ ist（人）→ 艺术家",
+        "english": "artist",
+        "phonetic": "/ˈɑːrtɪst/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "想知道;琢磨",
+        "desc": "v./n. 记忆技巧：won（赢）+ der→ 赢了之后想知道原因→琢磨",
+        "english": "wonder",
+        "phonetic": "/ˈwʌndər/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "同意;赞成",
+        "desc": "v. 记忆技巧：a+gree，联想“我同意”（I agree）的发音",
+        "english": "agree",
+        "phonetic": "/əˈɡriː/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "死;死亡",
+        "desc": "n. 记忆技巧：d+eath，联想“死亡”的发音",
+        "english": "death",
+        "phonetic": "/deθ/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "百分之……",
+        "desc": "",
+        "english": "per cent",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "全部的;所有的",
+        "desc": "adj. 记忆技巧：wh+ole，联想“整个”（whole）的发音",
+        "english": "whole",
+        "phonetic": "/hoʊl/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "目前;当前",
+        "desc": "adv. 记忆技巧：current（当前的，adj.）+ ly（副词后缀）→ 目前",
+        "english": "currently",
+        "phonetic": "/ˈkɜːrəntli/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "一首,一篇(作品)",
+        "desc": "n. 记忆技巧：联想“一片”（piece）作品",
+        "english": "piece",
+        "phonetic": "/piːs/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "检查;核查",
+        "desc": "v./n. 记忆技巧：联想“检查”（check）的常用含义",
+        "english": "check",
+        "phonetic": "/tʃek/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "(书籍的)编辑",
+        "desc": "n. 记忆技巧：edit（编辑，v.）+ or（人）→ 编辑",
+        "english": "editor",
+        "phonetic": "/ˈedɪtər/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "预算",
+        "desc": "n./v. 记忆技巧：联想“把钱（bud）get起来”→预算",
+        "english": "budget",
+        "phonetic": "/ˈbʌdʒɪt/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "安排;组织",
+        "desc": "v. 记忆技巧：organ（器官；组织）+ ize（动词后缀）→ 组织",
+        "english": "organize",
+        "phonetic": "/ˈɔːrɡənaɪz/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "省份",
+        "desc": "n. 记忆技巧：pro（向前）+ vince（征服）→ 向前征服的地区→省份",
+        "english": "province",
+        "phonetic": "/ˈprɑːvɪns/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "顺序",
+        "desc": "n. 记忆技巧：联想“按顺序(order)排列”",
+        "english": "order",
+        "phonetic": "/ˈɔːrdər/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "急剧地;突然大幅度地",
+        "desc": "adv. 记忆技巧：sharp（锋利的）+ ly（副词后缀）→ 急剧地",
+        "english": "sharply",
+        "phonetic": "/ˈʃɑːrpli/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "记录",
+        "desc": "v./n. 记忆技巧：re（再）+ cord（心）→ 再记到心里→记录",
+        "english": "record",
+        "phonetic": "/ˈrekərd/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "计算(或清点)总数",
+        "desc": "v./n. 记忆技巧：发音类似“看它”→ 看它有多少→计算总数",
+        "english": "count",
+        "phonetic": "/kaʊnt/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "灭绝",
+        "desc": "词组，记忆技巧：die（死）+ out（出去）→ 都死出去了→灭绝",
+        "english": "die out",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "系统",
+        "desc": "n. 记忆技巧：sy（一起）+ stem（茎，主干）→ 一起的主干→系统",
+        "english": "system",
+        "phonetic": "/ˈsɪstəm/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "一种",
+        "desc": "词组，记忆技巧：type（类型）→ 一种类型",
+        "english": "a type of",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "符号;记号",
+        "desc": "n. 记忆技巧：sym（共同）+ bol（投掷）→ 共同投掷的标记→符号",
+        "english": "symbol",
+        "phonetic": "/ˈsɪmbl/",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
+        "chinese": "与……属于同一种类",
+        "desc": "词组，记忆技巧：related（相关的）→ 与…相关→属于同一种类",
+        "english": "be related to",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit1"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -37428,6 +37771,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit8-b';
             option.textContent = 'junior/grade7b/unit8-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit1';
+            option.textContent = 'junior/grade8a/unit1';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
