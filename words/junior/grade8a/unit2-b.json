@@ -1,0 +1,62 @@
+[
+    {
+        "chinese": "同意;赞成",
+        "desc": "v. 记忆技巧：a+gree，联想“我同意”（I agree）的发音",
+        "english": "agree",
+        "phonetic": "/əˈɡriː/"
+    },
+    {
+        "chinese": "百分之……",
+        "desc": "",
+        "english": "percent",
+        "phonetic": ""
+    },
+    {
+        "chinese": "目前;当前",
+        "desc": "adv. 记忆技巧：current（当前的，adj.）+ ly（副词后缀）→ 目前",
+        "english": "currently",
+        "phonetic": "/ˈkɜːrəntli/"
+    },
+    {
+        "chinese": "检查;核查",
+        "desc": "v./n. 记忆技巧：联想“检查”（check）的常用含义",
+        "english": "check",
+        "phonetic": "/tʃek/"
+    },
+    {
+        "chinese": "预算",
+        "desc": "n./v. 记忆技巧：联想“把钱（bud）get起来”→预算",
+        "english": "budget",
+        "phonetic": "/ˈbʌdʒɪt/"
+    },
+    {
+        "chinese": "省份",
+        "desc": "n. 记忆技巧：pro（向前）+ vince（征服）→ 向前征服的地区→省份",
+        "english": "province",
+        "phonetic": "/ˈprɑːvɪns/"
+    },
+    {
+        "chinese": "急剧地;突然大幅度地",
+        "desc": "adv. 记忆技巧：sharp（锋利的）+ ly（副词后缀）→ 急剧地",
+        "english": "sharply",
+        "phonetic": "/ˈʃɑːrpli/"
+    },
+    {
+        "chinese": "计算(或清点)总数",
+        "desc": "v./n. 记忆技巧：发音类似“看它”→ 看它有多少→计算总数",
+        "english": "count",
+        "phonetic": "/kaʊnt/"
+    },
+    {
+        "chinese": "系统",
+        "desc": "n. 记忆技巧：sy（一起）+ stem（茎，主干）→ 一起的主干→系统",
+        "english": "system",
+        "phonetic": "/ˈsɪstəm/"
+    },
+    {
+        "chinese": "符号;记号",
+        "desc": "n. 记忆技巧：sym（共同）+ bol（投掷）→ 共同投掷的标记→符号",
+        "english": "symbol",
+        "phonetic": "/ˈsɪmbl/"
+    }
+]
