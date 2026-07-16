@@ -16870,6 +16870,76 @@ var words = [
         "tag": "junior/grade7b/unit8-b"
     },
     {
+        "chinese": "恐龙",
+        "desc": "名词(n.)；记忆技巧：dino（恐龙缩写）+ saur（希腊语“蜥蜴”），组合为恐龙。",
+        "english": "dinosaur",
+        "phonetic": "/ˈdaɪnəsɔːr/",
+        "tag": "junior/grade8a/unit1-a"
+    },
+    {
+        "chinese": "有才智的;聪明的",
+        "desc": "形容词(adj.)；记忆技巧：intel（智力）+ ligent（类似diligent勤奋），聪明的人智力高且勤奋。",
+        "english": "intelligent",
+        "phonetic": "/ɪnˈtelɪdʒənt/",
+        "tag": "junior/grade8a/unit1-a"
+    },
+    {
+        "chinese": "有才能的;天才的",
+        "desc": "形容词(adj.)；记忆技巧：talent（才能，名词）+ ed（形容词后缀），有才能的。",
+        "english": "talented",
+        "phonetic": "/ˈtæləntɪd/",
+        "tag": "junior/grade8a/unit1-a"
+    },
+    {
+        "chinese": "有艺术天赋的;(尤指)有美术才能的",
+        "desc": "形容词(adj.)；记忆技巧：art（艺术）+ istic（形容词后缀“关于…的”），关于艺术的即有艺术天赋的。",
+        "english": "artistic",
+        "phonetic": "/ɑːrˈtɪstɪk/",
+        "tag": "junior/grade8a/unit1-a"
+    },
+    {
+        "chinese": "可能;大概;也许",
+        "desc": "副词(adv.)；记忆技巧：per（每）+ haps（可能来自happen发生），每件事都可能发生即也许。",
+        "english": "perhaps",
+        "phonetic": "/pərˈhæps/",
+        "tag": "junior/grade8a/unit1-a"
+    },
+    {
+        "chinese": "笔记本",
+        "desc": "名词(n.)；记忆技巧：note（笔记）+ book（书），记笔记的书即笔记本。",
+        "english": "notebook",
+        "phonetic": "/ˈnoʊtbʊk/",
+        "tag": "junior/grade8a/unit1-a"
+    },
+    {
+        "chinese": "交通工具;车辆",
+        "desc": "名词(n.)；记忆技巧：veh（运输）+ icle（小的东西），运输的工具即交通工具。",
+        "english": "vehicle",
+        "phonetic": "/ˈviːəkl/",
+        "tag": "junior/grade8a/unit1-a"
+    },
+    {
+        "chinese": "史前的",
+        "desc": "形容词(adj.)；记忆技巧：pre（之前）+ historic（历史的），历史之前的即史前的。",
+        "english": "prehistoric",
+        "phonetic": "/ˌpriːhɪˈstɔːrɪk/",
+        "tag": "junior/grade8a/unit1-a"
+    },
+    {
+        "chinese": "完全地;彻底地",
+        "desc": "副词(adv.)；记忆技巧：complete（完全的，形容词）+ ly（副词后缀），完全地。",
+        "english": "completely",
+        "phonetic": "/kəmˈpliːtli/",
+        "tag": "junior/grade8a/unit1-a"
+    },
+    {
+        "chinese": "原来的;起初的",
+        "desc": "adj. 记忆技巧：origin（起源）+ al（形容词后缀）→ 原来的",
+        "english": "original",
+        "phonetic": "/əˈrɪdʒənl/",
+        "tag": "junior/grade8a/unit1-a"
+    },
+    {
         "chinese": "通识教育",
         "desc": "",
         "english": "general education",
@@ -16877,24 +16947,10 @@ var words = [
         "tag": "junior/grade8a/unit1"
     },
     {
-        "chinese": "恐龙",
-        "desc": "名词(n.)；记忆技巧：dino（恐龙缩写）+ saur（希腊语“蜥蜴”），组合为恐龙。",
-        "english": "dinosaur",
-        "phonetic": "/ˈdaɪnəsɔːr/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
         "chinese": "历史悠久",
         "desc": "",
         "english": "go back a long way",
         "phonetic": "",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
-        "chinese": "有才智的;聪明的",
-        "desc": "形容词(adj.)；记忆技巧：intel（智力）+ ligent（类似diligent勤奋），聪明的人智力高且勤奋。",
-        "english": "intelligent",
-        "phonetic": "/ɪnˈtelɪdʒənt/",
         "tag": "junior/grade8a/unit1"
     },
     {
@@ -16912,13 +16968,6 @@ var words = [
         "tag": "junior/grade8a/unit1"
     },
     {
-        "chinese": "有才能的;天才的",
-        "desc": "形容词(adj.)；记忆技巧：talent（才能，名词）+ ed（形容词后缀），有才能的。",
-        "english": "talented",
-        "phonetic": "/ˈtæləntɪd/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
         "chinese": "起到重要作用",
         "desc": "",
         "english": "play an important role",
@@ -16926,24 +16975,10 @@ var words = [
         "tag": "junior/grade8a/unit1"
     },
     {
-        "chinese": "有艺术天赋的;(尤指)有美术才能的",
-        "desc": "形容词(adj.)；记忆技巧：art（艺术）+ istic（形容词后缀“关于…的”），关于艺术的即有艺术天赋的。",
-        "english": "artistic",
-        "phonetic": "/ɑːrˈtɪstɪk/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
         "chinese": "(尤指乘飞机的)航程",
         "desc": "名词(n.)；记忆技巧：fly（飞，动词）+ ht（名词后缀），飞行的过程即航程。",
         "english": "flight",
         "phonetic": "/flaɪt/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
-        "chinese": "可能;大概;也许",
-        "desc": "副词(adv.)；记忆技巧：per（每）+ haps（可能来自happen发生），每件事都可能发生即也许。",
-        "english": "perhaps",
-        "phonetic": "/pərˈhæps/",
         "tag": "junior/grade8a/unit1"
     },
     {
@@ -16961,20 +16996,6 @@ var words = [
         "tag": "junior/grade8a/unit1"
     },
     {
-        "chinese": "笔记本",
-        "desc": "名词(n.)；记忆技巧：note（笔记）+ book（书），记笔记的书即笔记本。",
-        "english": "notebook",
-        "phonetic": "/ˈnoʊtbʊk/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
-        "chinese": "交通工具;车辆",
-        "desc": "名词(n.)；记忆技巧：veh（运输）+ icle（小的东西），运输的工具即交通工具。",
-        "english": "vehicle",
-        "phonetic": "/ˈviːəkl/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
         "chinese": "向(某人)挑战",
         "desc": "动词(v.)/名词(n.)；记忆技巧：chall（喊叫）+ enge（后缀），喊叫着挑战对方。",
         "english": "challenge",
@@ -16982,24 +17003,10 @@ var words = [
         "tag": "junior/grade8a/unit1"
     },
     {
-        "chinese": "史前的",
-        "desc": "形容词(adj.)；记忆技巧：pre（之前）+ historic（历史的），历史之前的即史前的。",
-        "english": "prehistoric",
-        "phonetic": "/ˌpriːhɪˈstɔːrɪk/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
         "chinese": "奖赏;奖励",
         "desc": "名词(n.)/动词(v.)；记忆技巧：音似“price价格”，有价值的东西作为奖赏。",
         "english": "prize",
         "phonetic": "/praɪz/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
-        "chinese": "完全地;彻底地",
-        "desc": "副词(adv.)；记忆技巧：complete（完全的，形容词）+ ly（副词后缀），完全地。",
-        "english": "completely",
-        "phonetic": "/kəmˈpliːtli/",
         "tag": "junior/grade8a/unit1"
     },
     {
@@ -17014,13 +17021,6 @@ var words = [
         "desc": "n. 记忆技巧：chess（国际象棋）+ board（板）→ 国际象棋棋盘",
         "english": "chessboard",
         "phonetic": "/ˈtʃesbɔːrd/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
-        "chinese": "原来的;起初的",
-        "desc": "adj. 记忆技巧：origin（起源）+ al（形容词后缀）→ 原来的",
-        "english": "original",
-        "phonetic": "/əˈrɪdʒənl/",
         "tag": "junior/grade8a/unit1"
     },
     {
@@ -37771,6 +37771,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade7b/unit8-b';
             option.textContent = 'junior/grade7b/unit8-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit1-a';
+            option.textContent = 'junior/grade8a/unit1-a';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade8a/unit1';
             option.textContent = 'junior/grade8a/unit1';
