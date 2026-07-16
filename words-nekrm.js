@@ -16940,6 +16940,69 @@ var words = [
         "tag": "junior/grade8a/unit1-a"
     },
     {
+        "chinese": "出生",
+        "desc": "n. 记忆技巧：b+irth，联想“诞生”的发音",
+        "english": "birth",
+        "phonetic": "/bɜːrθ/",
+        "tag": "junior/grade8a/unit1-b"
+    },
+    {
+        "chinese": "苦难;疼痛",
+        "desc": "n. 记忆技巧：suffer（遭受）+ ing（名词后缀）→ 苦难",
+        "english": "suffering",
+        "phonetic": "/ˈsʌfərɪŋ/",
+        "tag": "junior/grade8a/unit1-b"
+    },
+    {
+        "chinese": "艺术家;(尤指)画家",
+        "desc": "n. 记忆技巧：art（艺术）+ ist（人）→ 艺术家",
+        "english": "artist",
+        "phonetic": "/ˈɑːrtɪst/",
+        "tag": "junior/grade8a/unit1-b"
+    },
+    {
+        "chinese": "死;死亡",
+        "desc": "n. 记忆技巧：d+eath，联想“死亡”的发音",
+        "english": "death",
+        "phonetic": "/deθ/",
+        "tag": "junior/grade8a/unit1-b"
+    },
+    {
+        "chinese": "全部的;所有的",
+        "desc": "adj. 记忆技巧：wh+ole，联想“整个”（whole）的发音",
+        "english": "whole",
+        "phonetic": "/hoʊl/",
+        "tag": "junior/grade8a/unit1-b"
+    },
+    {
+        "chinese": "一首,一篇(作品)",
+        "desc": "n. 记忆技巧：联想“一片”（piece）作品",
+        "english": "piece",
+        "phonetic": "/piːs/",
+        "tag": "junior/grade8a/unit1-b"
+    },
+    {
+        "chinese": "(书籍的)编辑",
+        "desc": "n. 记忆技巧：edit（编辑，v.）+ or（人）→ 编辑",
+        "english": "editor",
+        "phonetic": "/ˈedɪtər/",
+        "tag": "junior/grade8a/unit1-b"
+    },
+    {
+        "chinese": "安排;组织",
+        "desc": "v. 记忆技巧：organ（器官；组织）+ ize（动词后缀）→ 组织",
+        "english": "organize",
+        "phonetic": "/ˈɔːrɡənaɪz/",
+        "tag": "junior/grade8a/unit1-b"
+    },
+    {
+        "chinese": "顺序",
+        "desc": "n. 记忆技巧：联想“按顺序(order)排列”",
+        "english": "order",
+        "phonetic": "/ˈɔːrdər/",
+        "tag": "junior/grade8a/unit1-b"
+    },
+    {
         "chinese": "通识教育",
         "desc": "",
         "english": "general education",
@@ -17031,13 +17094,6 @@ var words = [
         "tag": "junior/grade8a/unit1"
     },
     {
-        "chinese": "出生",
-        "desc": "n. 记忆技巧：b+irth，联想“诞生”的发音",
-        "english": "birth",
-        "phonetic": "/bɜːrθ/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
         "chinese": "回复;答复",
         "desc": "v./n. 记忆技巧：re（再）+ ply（折叠）→ 再次折叠信件→回复",
         "english": "reply",
@@ -17045,24 +17101,10 @@ var words = [
         "tag": "junior/grade8a/unit1"
     },
     {
-        "chinese": "苦难;疼痛",
-        "desc": "n. 记忆技巧：suffer（遭受）+ ing（名词后缀）→ 苦难",
-        "english": "suffering",
-        "phonetic": "/ˈsʌfərɪŋ/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
         "chinese": "犹豫",
         "desc": "n. 记忆技巧：hesitate（犹豫，v.）+ tion（名词后缀）→ 犹豫",
         "english": "hesitation",
         "phonetic": "/ˌhezɪˈteɪʃn/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
-        "chinese": "艺术家;(尤指)画家",
-        "desc": "n. 记忆技巧：art（艺术）+ ist（人）→ 艺术家",
-        "english": "artist",
-        "phonetic": "/ˈɑːrtɪst/",
         "tag": "junior/grade8a/unit1"
     },
     {
@@ -17080,24 +17122,10 @@ var words = [
         "tag": "junior/grade8a/unit1"
     },
     {
-        "chinese": "死;死亡",
-        "desc": "n. 记忆技巧：d+eath，联想“死亡”的发音",
-        "english": "death",
-        "phonetic": "/deθ/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
         "chinese": "百分之……",
         "desc": "",
         "english": "per cent",
         "phonetic": "",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
-        "chinese": "全部的;所有的",
-        "desc": "adj. 记忆技巧：wh+ole，联想“整个”（whole）的发音",
-        "english": "whole",
-        "phonetic": "/hoʊl/",
         "tag": "junior/grade8a/unit1"
     },
     {
@@ -17108,24 +17136,10 @@ var words = [
         "tag": "junior/grade8a/unit1"
     },
     {
-        "chinese": "一首,一篇(作品)",
-        "desc": "n. 记忆技巧：联想“一片”（piece）作品",
-        "english": "piece",
-        "phonetic": "/piːs/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
         "chinese": "检查;核查",
         "desc": "v./n. 记忆技巧：联想“检查”（check）的常用含义",
         "english": "check",
         "phonetic": "/tʃek/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
-        "chinese": "(书籍的)编辑",
-        "desc": "n. 记忆技巧：edit（编辑，v.）+ or（人）→ 编辑",
-        "english": "editor",
-        "phonetic": "/ˈedɪtər/",
         "tag": "junior/grade8a/unit1"
     },
     {
@@ -17136,24 +17150,10 @@ var words = [
         "tag": "junior/grade8a/unit1"
     },
     {
-        "chinese": "安排;组织",
-        "desc": "v. 记忆技巧：organ（器官；组织）+ ize（动词后缀）→ 组织",
-        "english": "organize",
-        "phonetic": "/ˈɔːrɡənaɪz/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
         "chinese": "省份",
         "desc": "n. 记忆技巧：pro（向前）+ vince（征服）→ 向前征服的地区→省份",
         "english": "province",
         "phonetic": "/ˈprɑːvɪns/",
-        "tag": "junior/grade8a/unit1"
-    },
-    {
-        "chinese": "顺序",
-        "desc": "n. 记忆技巧：联想“按顺序(order)排列”",
-        "english": "order",
-        "phonetic": "/ˈɔːrdər/",
         "tag": "junior/grade8a/unit1"
     },
     {
@@ -37774,6 +37774,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade8a/unit1-a';
             option.textContent = 'junior/grade8a/unit1-a';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit1-b';
+            option.textContent = 'junior/grade8a/unit1-b';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade8a/unit1';
             option.textContent = 'junior/grade8a/unit1';
