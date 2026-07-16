@@ -1,0 +1,56 @@
+[
+    {
+        "chinese": "出生",
+        "desc": "n. 记忆技巧：b+irth，联想“诞生”的发音",
+        "english": "birth",
+        "phonetic": "/bɜːrθ/"
+    },
+    {
+        "chinese": "苦难;疼痛",
+        "desc": "n. 记忆技巧：suffer（遭受）+ ing（名词后缀）→ 苦难",
+        "english": "suffering",
+        "phonetic": "/ˈsʌfərɪŋ/"
+    },
+    {
+        "chinese": "艺术家;(尤指)画家",
+        "desc": "n. 记忆技巧：art（艺术）+ ist（人）→ 艺术家",
+        "english": "artist",
+        "phonetic": "/ˈɑːrtɪst/"
+    },
+    {
+        "chinese": "死;死亡",
+        "desc": "n. 记忆技巧：d+eath，联想“死亡”的发音",
+        "english": "death",
+        "phonetic": "/deθ/"
+    },
+    {
+        "chinese": "全部的;所有的",
+        "desc": "adj. 记忆技巧：wh+ole，联想“整个”（whole）的发音",
+        "english": "whole",
+        "phonetic": "/hoʊl/"
+    },
+    {
+        "chinese": "一首,一篇(作品)",
+        "desc": "n. 记忆技巧：联想“一片”（piece）作品",
+        "english": "piece",
+        "phonetic": "/piːs/"
+    },
+    {
+        "chinese": "(书籍的)编辑",
+        "desc": "n. 记忆技巧：edit（编辑，v.）+ or（人）→ 编辑",
+        "english": "editor",
+        "phonetic": "/ˈedɪtər/"
+    },
+    {
+        "chinese": "安排;组织",
+        "desc": "v. 记忆技巧：organ（器官；组织）+ ize（动词后缀）→ 组织",
+        "english": "organize",
+        "phonetic": "/ˈɔːrɡənaɪz/"
+    },
+    {
+        "chinese": "顺序",
+        "desc": "n. 记忆技巧：联想“按顺序(order)排列”",
+        "english": "order",
+        "phonetic": "/ˈɔːrdər/"
+    }
+]
