@@ -1,0 +1,62 @@
+[
+    {
+        "chinese": "正面的；积极的",
+        "desc": "形容词；记忆技巧：pos-(放置)+itive(形容词后缀)，放置正确的即积极的",
+        "english": "positive",
+        "phonetic": "/ˈpɑːzətɪv/"
+    },
+    {
+        "chinese": "消极的",
+        "desc": "形容词；记忆技巧：neg-(否定)+ative(形容词后缀)，表否定的、消极的",
+        "english": "negative",
+        "phonetic": "/ˈneɡətɪv/"
+    },
+    {
+        "chinese": "影响",
+        "desc": "名词；记忆技巧：e-(出)+fect(做)，做出的结果即影响",
+        "english": "effect",
+        "phonetic": "/ɪˈfekt/"
+    },
+    {
+        "chinese": "意见；看法",
+        "desc": "名词；记忆技巧：op-(反对)+in+ion(名词后缀)，表反对的观点即意见",
+        "english": "opinion",
+        "phonetic": "/əˈpɪnjən/"
+    },
+    {
+        "chinese": "(长篇)小说",
+        "desc": "名词；记忆技巧：nov-(新的)+el(小)，新的故事即小说",
+        "english": "novel",
+        "phonetic": "/ˈnɑːvl/"
+    },
+    {
+        "chinese": "评论",
+        "desc": "名词/动词；记忆技巧：com-(共同)+ment(思考)，共同思考后发表的即评论",
+        "english": "comment",
+        "phonetic": "/ˈkɑːment/"
+    },
+    {
+        "chinese": "基础",
+        "desc": "名词；记忆技巧：base(基础)+is，表基础的抽象形式",
+        "english": "basis",
+        "phonetic": "/ˈbeɪsɪs/"
+    },
+    {
+        "chinese": "微处理器",
+        "desc": "名词；记忆技巧：micro-(微小的)+processor(处理器)，表微小的处理器",
+        "english": "microprocessor",
+        "phonetic": "/ˌmaɪkroʊˈprɑːsesər/"
+    },
+    {
+        "chinese": "微芯片；芯片",
+        "desc": "名词；记忆技巧：micro-(微小的)+chip(芯片)，表微小的芯片",
+        "english": "microchip",
+        "phonetic": "/ˈmaɪkroʊtʃɪp/"
+    },
+    {
+        "chinese": "主要的；重要的",
+        "desc": "adj. ",
+        "english": "major",
+        "phonetic": ""
+    }
+]
