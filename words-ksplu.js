@@ -17217,378 +17217,385 @@ var words = [
         "desc": "动词；记忆技巧：re-(再次)+present(呈现)，再次呈现即代表",
         "english": "represent",
         "phonetic": "/ˌreprɪˈzent/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "采访",
-        "desc": "动词/名词；记忆技巧：inter-(相互)+view(看)，相互看即采访",
-        "english": "interview",
-        "phonetic": "/ˈɪntərvjuː/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit2-c"
     },
     {
         "chinese": "准确地；确切地",
         "desc": "副词；记忆技巧：exact(精确的)+ly(副词后缀)，表精确地",
         "english": "exactly",
         "phonetic": "/ɪɡˈzæktli/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "正面的；积极的",
-        "desc": "形容词；记忆技巧：pos-(放置)+itive(形容词后缀)，放置正确的即积极的",
-        "english": "positive",
-        "phonetic": "/ˈpɑːzətɪv/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "消极的",
-        "desc": "形容词；记忆技巧：neg-(否定)+ative(形容词后缀)，表否定的、消极的",
-        "english": "negative",
-        "phonetic": "/ˈneɡətɪv/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit2-c"
     },
     {
         "chinese": "航班时刻表",
         "desc": "",
         "english": "flight schedule",
         "phonetic": "",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "影响",
-        "desc": "名词；记忆技巧：e-(出)+fect(做)，做出的结果即影响",
-        "english": "effect",
-        "phonetic": "/ɪˈfekt/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit2-c"
     },
     {
         "chinese": "价格标签",
         "desc": "",
         "english": "price tag",
         "phonetic": "",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "意见；看法",
-        "desc": "名词；记忆技巧：op-(反对)+in+ion(名词后缀)，表反对的观点即意见",
-        "english": "opinion",
-        "phonetic": "/əˈpɪnjən/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit2-c"
     },
     {
         "chinese": "片刻；一会儿",
         "desc": "",
         "english": "for a moment",
         "phonetic": "",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "(长篇)小说",
-        "desc": "名词；记忆技巧：nov-(新的)+el(小)，新的故事即小说",
-        "english": "novel",
-        "phonetic": "/ˈnɑːvl/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit2-c"
     },
     {
         "chinese": "毫不犹豫",
         "desc": "",
         "english": "without hesitation",
         "phonetic": "",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "评论",
-        "desc": "名词/动词；记忆技巧：com-(共同)+ment(思考)，共同思考后发表的即评论",
-        "english": "comment",
-        "phonetic": "/ˈkɑːment/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit2-c"
     },
     {
         "chinese": "上升",
         "desc": "",
         "english": "go up",
         "phonetic": "",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "基础",
-        "desc": "名词；记忆技巧：base(基础)+is，表基础的抽象形式",
-        "english": "basis",
-        "phonetic": "/ˈbeɪsɪs/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit2-c"
     },
     {
         "chinese": "下降",
         "desc": "",
         "english": "go down",
         "phonetic": "",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "微处理器",
-        "desc": "名词；记忆技巧：micro-(微小的)+processor(处理器)，表微小的处理器",
-        "english": "microprocessor",
-        "phonetic": "/ˌmaɪkroʊˈprɑːsesər/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit2-c"
     },
     {
         "chinese": "写下；记下",
         "desc": "",
         "english": "write down",
         "phonetic": "",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "微芯片；芯片",
-        "desc": "名词；记忆技巧：micro-(微小的)+chip(芯片)，表微小的芯片",
-        "english": "microchip",
-        "phonetic": "/ˈmaɪkroʊtʃɪp/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit2-c"
     },
     {
         "chinese": "代替；作为……的替换",
         "desc": "",
         "english": "instead of",
         "phonetic": "",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit2-c"
     },
     {
         "chinese": "网络",
         "desc": "n. 记忆技巧：net（网）+ work（工作）→ 网络",
         "english": "network",
         "phonetic": "/ˈnetwɜːrk/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-a"
     },
     {
         "chinese": "洪水；水灾",
         "desc": "n. 记忆技巧：发音类似“泛滥”",
         "english": "flood",
         "phonetic": "/flʌd/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "突破；重大进展",
-        "desc": "n. 记忆技巧：break（打破）+ through（穿过）→ 突破",
-        "english": "breakthrough",
-        "phonetic": "/ˈbreɪkθruː/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-a"
     },
     {
         "chinese": "多媒体",
         "desc": "n. 记忆技巧：multi（多）+ media（媒体）→ 多媒体",
         "english": "multimedia",
         "phonetic": "/ˌmʌltiˈmiːdiə/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-a"
     },
     {
         "chinese": "专家",
         "desc": "n. 记忆技巧：ex（出）+ pert（熟练的）→ 专家",
         "english": "expert",
         "phonetic": "/ˈekspɜːrt/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "电子的",
-        "desc": "adj. 记忆技巧：electron（电子）+ ic（形容词后缀）→ 电子的",
-        "english": "electronic",
-        "phonetic": "/ɪˌlekˈtrɑːnɪk/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "软件",
-        "desc": "n. 记忆技巧：soft（软的）+ ware（物品）→ 软件",
-        "english": "software",
-        "phonetic": "/ˈsɔːftwer/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "付款；支付",
-        "desc": "n. 记忆技巧：pay（支付）+ ment（名词后缀）→ 付款",
-        "english": "payment",
-        "phonetic": "/ˈpeɪmənt/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-a"
     },
     {
         "chinese": "可移动的",
         "desc": "adj. 记忆技巧：谐音“摸比欧”，联想可移动的设备",
         "english": "mobile",
         "phonetic": "/ˈmoʊbl/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-a"
+    },
+    {
+        "chinese": "付款；支付",
+        "desc": "n. 记忆技巧：pay（支付）+ ment（名词后缀）→ 付款",
+        "english": "payment",
+        "phonetic": "/ˈpeɪmənt/",
+        "tag": "junior/grade8a/unit3-a"
     },
     {
         "chinese": "提醒注意；警告",
         "desc": "v. 记忆技巧：发音类似“我嗯”，提醒“我嗯，知道了”",
         "english": "warn",
         "phonetic": "/wɔːrn/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "(application的缩写)应用程序；应用软件",
-        "desc": "n. 记忆技巧：application的缩写，简单易记",
-        "english": "app",
-        "phonetic": "/æp/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-a"
     },
     {
         "chinese": "治疗；疗法",
         "desc": "n. 记忆技巧：treat（治疗）+ ment（名词后缀）→ 治疗",
         "english": "treatment",
         "phonetic": "/ˈtriːtmənt/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "时代；纪元",
-        "desc": "n. 记忆技巧：发音简单，直接记忆",
-        "english": "era",
-        "phonetic": "/ˈɪrə/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-a"
     },
     {
         "chinese": "数据",
         "desc": "n. 记忆技巧：谐音“得他”，得到数据",
         "english": "data",
         "phonetic": "/ˈdeɪtə/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "下载",
-        "desc": "v./n. 记忆技巧：down（向下）+ load（加载）→ 下载",
-        "english": "download",
-        "phonetic": "/ˌdaʊnˈloʊd/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-a"
     },
     {
         "chinese": "公司",
         "desc": "n. 记忆技巧：com（一起）+ pany（伙伴）→ 伙伴一起 → 公司",
         "english": "company",
         "phonetic": "/ˈkʌmpəni/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "微小的",
-        "desc": "adj. 记忆技巧：谐音“太腻”，微小的东西太腻",
-        "english": "tiny",
-        "phonetic": "/ˈtaɪni/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-a"
     },
     {
         "chinese": "路上行驶的车辆；交通",
         "desc": "n. 记忆技巧：谐音“揣飞克”，交通拥堵时想揣飞它",
         "english": "traffic",
         "phonetic": "/ˈtræfɪk/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "连接",
-        "desc": "",
-        "english": "connect to",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-b"
     },
     {
         "chinese": "(人或事物)涌流；流动",
         "desc": "v./n. 记忆技巧：发音类似“flow（流）”，联想水流",
         "english": "flow",
         "phonetic": "/floʊ/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "给……带来重大变化",
-        "desc": "",
-        "english": "bring big changes to",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-b"
     },
     {
         "chinese": "平稳地；连续而流畅地",
         "desc": "副词。smooth（光滑的）+ly（副词后缀）→ 平稳地；连续而流畅地",
         "english": "smoothly",
         "phonetic": "/ˈsmuːðli/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "移动支付",
-        "desc": "",
-        "english": "mobile payment",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-b"
     },
     {
         "chinese": "笔记本电脑",
         "desc": "名词。lap（膝盖）+top（顶部）→ 放在膝盖上的电脑→笔记本电脑",
         "english": "laptop",
         "phonetic": "/ˈlæptɑːp/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "垃圾箱",
-        "desc": "",
-        "english": "rubbish bin",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-b"
     },
     {
         "chinese": "屏幕",
         "desc": "名词/动词。联想：s+creen（屏幕）→ 屏幕",
         "english": "screen",
         "phonetic": "/skriːn/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "社交媒体",
-        "desc": "",
-        "english": "social media",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-b"
     },
     {
         "chinese": "重量",
         "desc": "名词。联想：weigh（称重）+t→ 重量",
         "english": "weight",
         "phonetic": "/weɪt/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "亲自；亲身",
-        "desc": "",
-        "english": "in person",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-b"
     },
     {
         "chinese": "数码的",
         "desc": "形容词。digit（数字）+al（形容词后缀）→ 数字的→数码的",
         "english": "digital",
         "phonetic": "/ˈdɪdʒɪtl/",
-        "tag": "junior/grade8a/unit3"
-    },
-    {
-        "chinese": "公众；大众",
-        "desc": "",
-        "english": "the general public",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-b"
     },
     {
         "chinese": "社交的",
         "desc": "形容词。soc（社会，词根）+ial（形容词后缀）→ 社会的→社交的",
         "english": "social",
         "phonetic": "/ˈsoʊʃl/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-b"
     },
     {
         "chinese": "(书面或口头的)信息",
         "desc": "名词。联想：mess（消息）+age→ 信息",
         "english": "message",
         "phonetic": "/ˈmesɪdʒ/",
-        "tag": "junior/grade8a/unit3"
+        "tag": "junior/grade8a/unit3-b"
     },
     {
-        "chinese": "气球",
-        "desc": "名词。联想：ball（球）+oon→ 气球",
-        "english": "balloon",
-        "phonetic": "/bəˈluːn/",
-        "tag": "junior/grade8a/unit3"
+        "chinese": "采访",
+        "desc": "动词/名词；记忆技巧：inter-(相互)+view(看)，相互看即采访",
+        "english": "interview",
+        "phonetic": "/ˈɪntərvjuː/",
+        "tag": "junior/grade8a/unit3-b"
+    },
+    {
+        "chinese": "正面的；积极的",
+        "desc": "形容词；记忆技巧：pos-(放置)+itive(形容词后缀)，放置正确的即积极的",
+        "english": "positive",
+        "phonetic": "/ˈpɑːzətɪv/",
+        "tag": "junior/grade8a/unit3-c"
+    },
+    {
+        "chinese": "消极的",
+        "desc": "形容词；记忆技巧：neg-(否定)+ative(形容词后缀)，表否定的、消极的",
+        "english": "negative",
+        "phonetic": "/ˈneɡətɪv/",
+        "tag": "junior/grade8a/unit3-c"
+    },
+    {
+        "chinese": "影响",
+        "desc": "名词；记忆技巧：e-(出)+fect(做)，做出的结果即影响",
+        "english": "effect",
+        "phonetic": "/ɪˈfekt/",
+        "tag": "junior/grade8a/unit3-c"
+    },
+    {
+        "chinese": "意见；看法",
+        "desc": "名词；记忆技巧：op-(反对)+in+ion(名词后缀)，表反对的观点即意见",
+        "english": "opinion",
+        "phonetic": "/əˈpɪnjən/",
+        "tag": "junior/grade8a/unit3-c"
+    },
+    {
+        "chinese": "(长篇)小说",
+        "desc": "名词；记忆技巧：nov-(新的)+el(小)，新的故事即小说",
+        "english": "novel",
+        "phonetic": "/ˈnɑːvl/",
+        "tag": "junior/grade8a/unit3-c"
+    },
+    {
+        "chinese": "评论",
+        "desc": "名词/动词；记忆技巧：com-(共同)+ment(思考)，共同思考后发表的即评论",
+        "english": "comment",
+        "phonetic": "/ˈkɑːment/",
+        "tag": "junior/grade8a/unit3-c"
+    },
+    {
+        "chinese": "基础",
+        "desc": "名词；记忆技巧：base(基础)+is，表基础的抽象形式",
+        "english": "basis",
+        "phonetic": "/ˈbeɪsɪs/",
+        "tag": "junior/grade8a/unit3-c"
+    },
+    {
+        "chinese": "微处理器",
+        "desc": "名词；记忆技巧：micro-(微小的)+processor(处理器)，表微小的处理器",
+        "english": "microprocessor",
+        "phonetic": "/ˌmaɪkroʊˈprɑːsesər/",
+        "tag": "junior/grade8a/unit3-c"
+    },
+    {
+        "chinese": "微芯片；芯片",
+        "desc": "名词；记忆技巧：micro-(微小的)+chip(芯片)，表微小的芯片",
+        "english": "microchip",
+        "phonetic": "/ˈmaɪkroʊtʃɪp/",
+        "tag": "junior/grade8a/unit3-c"
+    },
+    {
+        "chinese": "主要的；重要的",
+        "desc": "adj. ",
+        "english": "major",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit3-c"
+    },
+    {
+        "chinese": "突破；重大进展",
+        "desc": "n. 记忆技巧：break（打破）+ through（穿过）→ 突破",
+        "english": "breakthrough",
+        "phonetic": "/ˈbreɪkθruː/",
+        "tag": "junior/grade8a/unit3-d"
+    },
+    {
+        "chinese": "电子的",
+        "desc": "adj. 记忆技巧：electron（电子）+ ic（形容词后缀）→ 电子的",
+        "english": "electronic",
+        "phonetic": "/ɪˌlekˈtrɑːnɪk/",
+        "tag": "junior/grade8a/unit3-d"
+    },
+    {
+        "chinese": "软件",
+        "desc": "n. 记忆技巧：soft（软的）+ ware（物品）→ 软件",
+        "english": "software",
+        "phonetic": "/ˈsɔːftwer/",
+        "tag": "junior/grade8a/unit3-d"
+    },
+    {
+        "chinese": "(application的缩写)应用程序；应用软件",
+        "desc": "n. 记忆技巧：application的缩写，简单易记",
+        "english": "app",
+        "phonetic": "/æp/",
+        "tag": "junior/grade8a/unit3-d"
+    },
+    {
+        "chinese": "时代；纪元",
+        "desc": "n. 记忆技巧：发音简单，直接记忆",
+        "english": "era",
+        "phonetic": "/ˈɪrə/",
+        "tag": "junior/grade8a/unit3-d"
+    },
+    {
+        "chinese": "下载",
+        "desc": "v./n. 记忆技巧：down（向下）+ load（加载）→ 下载",
+        "english": "download",
+        "phonetic": "/ˌdaʊnˈloʊd/",
+        "tag": "junior/grade8a/unit3-d"
+    },
+    {
+        "chinese": "微小的",
+        "desc": "adj. 记忆技巧：谐音“太腻”，微小的东西太腻",
+        "english": "tiny",
+        "phonetic": "/ˈtaɪni/",
+        "tag": "junior/grade8a/unit3-d"
+    },
+    {
+        "chinese": "连接",
+        "desc": "",
+        "english": "connect to",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit3-d"
+    },
+    {
+        "chinese": "给……带来重大变化",
+        "desc": "",
+        "english": "bring big changes to",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit3-d"
+    },
+    {
+        "chinese": "移动支付",
+        "desc": "",
+        "english": "mobile payment",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit3-d"
+    },
+    {
+        "chinese": "以……为例",
+        "desc": "",
+        "english": "take ... for example",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit3-e"
+    },
+    {
+        "chinese": "垃圾箱",
+        "desc": "",
+        "english": "rubbish bin",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit3-e"
+    },
+    {
+        "chinese": "社交媒体",
+        "desc": "",
+        "english": "social media",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit3-e"
+    },
+    {
+        "chinese": "亲自；亲身",
+        "desc": "",
+        "english": "in person",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit3-e"
+    },
+    {
+        "chinese": "公众；大众",
+        "desc": "",
+        "english": "the general public",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit3-e"
     },
     {
         "english": "blame",
@@ -38165,8 +38172,23 @@ var words = [
             option.value = 'junior/grade8a/unit2-b';
             option.textContent = 'junior/grade8a/unit2-b';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade8a/unit3';
-            option.textContent = 'junior/grade8a/unit3';
+            option.value = 'junior/grade8a/unit2-c';
+            option.textContent = 'junior/grade8a/unit2-c';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit3-a';
+            option.textContent = 'junior/grade8a/unit3-a';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit3-b';
+            option.textContent = 'junior/grade8a/unit3-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit3-c';
+            option.textContent = 'junior/grade8a/unit3-c';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit3-d';
+            option.textContent = 'junior/grade8a/unit3-d';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit3-e';
+            option.textContent = 'junior/grade8a/unit3-e';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
