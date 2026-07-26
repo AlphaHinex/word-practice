@@ -300,7 +300,7 @@
     </div>
 </div>
 
-<script src="words-ryuby.js"></script>
+<script src="words-pavej.js"></script>
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         var bookmarks = JSON.parse(localStorage.getItem('bookmarks')) || [];
@@ -326,6 +326,52 @@
     }
 
     var practiceWords = [];
+    var audioCache = {};
+    var currentAudioInstance = null;
+
+    function speakWord(word) {
+        if (currentAudioInstance) {
+            currentAudioInstance.pause();
+            currentAudioInstance = null;
+        }
+        window.speechSynthesis.cancel();
+
+        if (word.audio && word.time && Array.isArray(word.time) && word.time.length === 2) {
+            var url = word.audio;
+            if (!audioCache[url]) {
+                audioCache[url] = new Audio(url);
+            }
+            var audio = audioCache[url];
+            currentAudioInstance = audio;
+            
+            var startPlayback = function() {
+                audio.currentTime = word.time[0];
+                if (audio._timeUpdateHandler) {
+                    audio.removeEventListener('timeupdate', audio._timeUpdateHandler);
+                }
+                var handler = function() {
+                    if (audio.currentTime >= word.time[1]) {
+                        audio.pause();
+                        audio.removeEventListener('timeupdate', handler);
+                        if (currentAudioInstance === audio) currentAudioInstance = null;
+                    }
+                };
+                audio._timeUpdateHandler = handler;
+                audio.addEventListener('timeupdate', handler);
+                audio.play().catch(console.error);
+            };
+
+            if (audio.readyState >= 1) { // HAVE_METADATA
+                startPlayback();
+            } else {
+                audio.addEventListener('loadedmetadata', startPlayback, { once: true });
+            }
+        } else {
+            var utt = new SpeechSynthesisUtterance(word.english);
+            window.speechSynthesis.speak(utt);
+        }
+    }
+
     var currentIndex = -1;
 
     function generatePracticeWords() {
@@ -398,8 +444,7 @@
         showWord(practiceWords[currentIndex], 'left');
     });
     document.getElementById('read').addEventListener('click', function() {
-        var utt = new SpeechSynthesisUtterance(practiceWords[currentIndex].english);
-        window.speechSynthesis.speak(utt);
+        speakWord(practiceWords[currentIndex]);
     });
 
     function nextWord(dir) {
@@ -624,7 +669,7 @@
             case 'b': case 'B': bookmark(); break;
             case 'r': case 'R':
                 if (!document.getElementById('read').disabled) {
-                    window.speechSynthesis.speak(new SpeechSynthesisUtterance(practiceWords[currentIndex].english));
+                    speakWord(practiceWords[currentIndex]);
                 } break;
             case 'Home':
                 currentIndex = 0; showWord(practiceWords[currentIndex], 'right');
