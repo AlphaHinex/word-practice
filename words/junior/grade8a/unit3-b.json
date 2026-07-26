@@ -3,60 +3,80 @@
         "chinese": "路上行驶的车辆；交通",
         "desc": "n. 记忆技巧：谐音“揣飞克”，交通拥堵时想揣飞它",
         "english": "traffic",
-        "phonetic": "/ˈtræfɪk/"
+        "phonetic": "/ˈtræfɪk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [27.8,30.2]
     },
     {
         "chinese": "(人或事物)涌流；流动",
         "desc": "v./n. 记忆技巧：发音类似“flow（流）”，联想水流",
         "english": "flow",
-        "phonetic": "/floʊ/"
+        "phonetic": "/floʊ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [30.2,33]
     },
     {
         "chinese": "平稳地；连续而流畅地",
         "desc": "副词。smooth（光滑的）+ly（副词后缀）→ 平稳地；连续而流畅地",
         "english": "smoothly",
-        "phonetic": "/ˈsmuːðli/"
+        "phonetic": "/ˈsmuːðli/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [33,35.8]
     },
     {
         "chinese": "笔记本电脑",
         "desc": "名词。lap（膝盖）+top（顶部）→ 放在膝盖上的电脑→笔记本电脑",
         "english": "laptop",
-        "phonetic": "/ˈlæptɑːp/"
+        "phonetic": "/ˈlæptɑːp/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [35.8,38]
     },
     {
         "chinese": "屏幕",
         "desc": "名词/动词。联想：s+creen（屏幕）→ 屏幕",
         "english": "screen",
-        "phonetic": "/skriːn/"
+        "phonetic": "/skriːn/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [38,41]
     },
     {
         "chinese": "重量",
         "desc": "名词。联想：weigh（称重）+t→ 重量",
         "english": "weight",
-        "phonetic": "/weɪt/"
+        "phonetic": "/weɪt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [41,43]
     },
     {
         "chinese": "数码的",
         "desc": "形容词。digit（数字）+al（形容词后缀）→ 数字的→数码的",
         "english": "digital",
-        "phonetic": "/ˈdɪdʒɪtl/"
+        "phonetic": "/ˈdɪdʒɪtl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [43,45.3]
     },
     {
         "chinese": "社交的",
         "desc": "形容词。soc（社会，词根）+ial（形容词后缀）→ 社会的→社交的",
         "english": "social",
-        "phonetic": "/ˈsoʊʃl/"
+        "phonetic": "/ˈsoʊʃl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [45.3,47.5]
     },
     {
         "chinese": "(书面或口头的)信息",
         "desc": "名词。联想：mess（消息）+age→ 信息",
         "english": "message",
-        "phonetic": "/ˈmesɪdʒ/"
+        "phonetic": "/ˈmesɪdʒ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [47.5,50]
     },
     {
         "chinese": "采访",
         "desc": "动词/名词；记忆技巧：inter-(相互)+view(看)，相互看即采访",
         "english": "interview",
-        "phonetic": "/ˈɪntərvjuː/"
+        "phonetic": "/ˈɪntərvjuː/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [50,52.5]
     }
 ]

@@ -3,60 +3,80 @@
         "chinese": "正面的；积极的",
         "desc": "形容词；记忆技巧：pos-(放置)+itive(形容词后缀)，放置正确的即积极的",
         "english": "positive",
-        "phonetic": "/ˈpɑːzətɪv/"
+        "phonetic": "/ˈpɑːzətɪv/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [52.5,55]
     },
     {
         "chinese": "消极的",
         "desc": "形容词；记忆技巧：neg-(否定)+ative(形容词后缀)，表否定的、消极的",
         "english": "negative",
-        "phonetic": "/ˈneɡətɪv/"
+        "phonetic": "/ˈneɡətɪv/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [55,57.2]
     },
     {
         "chinese": "影响",
         "desc": "名词；记忆技巧：e-(出)+fect(做)，做出的结果即影响",
         "english": "effect",
-        "phonetic": "/ɪˈfekt/"
+        "phonetic": "/ɪˈfekt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [57.2,60]
     },
     {
         "chinese": "意见；看法",
         "desc": "名词；记忆技巧：op-(反对)+in+ion(名词后缀)，表反对的观点即意见",
         "english": "opinion",
-        "phonetic": "/əˈpɪnjən/"
+        "phonetic": "/əˈpɪnjən/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [60,63]
     },
     {
         "chinese": "(长篇)小说",
         "desc": "名词；记忆技巧：nov-(新的)+el(小)，新的故事即小说",
         "english": "novel",
-        "phonetic": "/ˈnɑːvl/"
+        "phonetic": "/ˈnɑːvl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [63,65]
     },
     {
         "chinese": "评论",
         "desc": "名词/动词；记忆技巧：com-(共同)+ment(思考)，共同思考后发表的即评论",
         "english": "comment",
-        "phonetic": "/ˈkɑːment/"
+        "phonetic": "/ˈkɑːment/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [65,67.5]
     },
     {
         "chinese": "基础",
         "desc": "名词；记忆技巧：base(基础)+is，表基础的抽象形式",
         "english": "basis",
-        "phonetic": "/ˈbeɪsɪs/"
+        "phonetic": "/ˈbeɪsɪs/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [67.5,70]
     },
     {
         "chinese": "微处理器",
         "desc": "名词；记忆技巧：micro-(微小的)+processor(处理器)，表微小的处理器",
         "english": "microprocessor",
-        "phonetic": "/ˌmaɪkroʊˈprɑːsesər/"
+        "phonetic": "/ˌmaɪkroʊˈprɑːsesər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [70,74]
     },
     {
         "chinese": "微芯片；芯片",
         "desc": "名词；记忆技巧：micro-(微小的)+chip(芯片)，表微小的芯片",
         "english": "microchip",
-        "phonetic": "/ˈmaɪkroʊtʃɪp/"
+        "phonetic": "/ˈmaɪkroʊtʃɪp/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [74,77]
     },
     {
         "chinese": "主要的；重要的",
         "desc": "adj. ",
         "english": "major",
-        "phonetic": ""
+        "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/45%20Appendices_Words%20and%20phrases%20Unit%203.mp3",
+        "time": [77,79.5]
     }
 ]
