@@ -17070,6 +17070,11 @@ var words = [
         "desc": "名词(n.)；记忆技巧：fly（飞，动词）+ ht（名词后缀），飞行的过程即航程。",
         "english": "flight",
         "phonetic": "/flaɪt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            2,
+            5
+        ],
         "tag": "junior/grade8a/unit2-a"
     },
     {
@@ -17077,6 +17082,11 @@ var words = [
         "desc": "名词(n.)/动词(v.)；记忆技巧：sched（计划）+ ule（名词后缀），计划的安排即日程。",
         "english": "schedule",
         "phonetic": "/ˈskedʒuːl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            5,
+            8
+        ],
         "tag": "junior/grade8a/unit2-a"
     },
     {
@@ -17084,6 +17094,11 @@ var words = [
         "desc": "副词(adv.)；记忆技巧：every（每个）+ where（哪里），每个地方即到处。",
         "english": "everywhere",
         "phonetic": "/ˈevriweər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            8,
+            10.5
+        ],
         "tag": "junior/grade8a/unit2-a"
     },
     {
@@ -17091,6 +17106,11 @@ var words = [
         "desc": "动词(v.)/名词(n.)；记忆技巧：chall（喊叫）+ enge（后缀），喊叫着挑战对方。",
         "english": "challenge",
         "phonetic": "/ˈtʃælɪndʒ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            10.5,
+            13.5
+        ],
         "tag": "junior/grade8a/unit2-a"
     },
     {
@@ -17098,6 +17118,11 @@ var words = [
         "desc": "名词(n.)/动词(v.)；记忆技巧：音似“price价格”，有价值的东西作为奖赏。",
         "english": "prize",
         "phonetic": "/praɪz/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            13.5,
+            16
+        ],
         "tag": "junior/grade8a/unit2-a"
     },
     {
@@ -17105,6 +17130,11 @@ var words = [
         "desc": "动词(v.)/名词(n.)；记忆技巧：pro（向前）+ mise（送），向前送出的话即承诺。",
         "english": "promise",
         "phonetic": "/ˈprɑːmɪs/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            16,
+            18
+        ],
         "tag": "junior/grade8a/unit2-a"
     },
     {
@@ -17112,6 +17142,11 @@ var words = [
         "desc": "n. 记忆技巧：chess（国际象棋）+ board（板）→ 国际象棋棋盘",
         "english": "chessboard",
         "phonetic": "/ˈtʃesbɔːrd/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            18,
+            21
+        ],
         "tag": "junior/grade8a/unit2-a"
     },
     {
@@ -17119,6 +17154,11 @@ var words = [
         "desc": "n. 记忆技巧：联想“丝银”，丝滑的银",
         "english": "silver",
         "phonetic": "/ˈsɪlvər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            21,
+            23.5
+        ],
         "tag": "junior/grade8a/unit2-a"
     },
     {
@@ -17126,6 +17166,11 @@ var words = [
         "desc": "v./n. 记忆技巧：re（再）+ ply（折叠）→ 再次折叠信件→回复",
         "english": "reply",
         "phonetic": "/rɪˈplaɪ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            23.5,
+            25.8
+        ],
         "tag": "junior/grade8a/unit2-a"
     },
     {
@@ -17133,6 +17178,11 @@ var words = [
         "desc": "n. 记忆技巧：hesitate（犹豫，v.）+ tion（名词后缀）→ 犹豫",
         "english": "hesitation",
         "phonetic": "/ˌhezɪˈteɪʃn/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            25.8,
+            28.5
+        ],
         "tag": "junior/grade8a/unit2-a"
     },
     {
@@ -17140,6 +17190,11 @@ var words = [
         "desc": "v./n. 记忆技巧：won（赢）+ der→ 赢了之后想知道原因→琢磨",
         "english": "wonder",
         "phonetic": "/ˈwʌndər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            28.5,
+            30.8
+        ],
         "tag": "junior/grade8a/unit2-a"
     },
     {
@@ -17147,6 +17202,11 @@ var words = [
         "desc": "v. 记忆技巧：a+gree，联想“我同意”（I agree）的发音",
         "english": "agree",
         "phonetic": "/əˈɡriː/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            30.8,
+            33
+        ],
         "tag": "junior/grade8a/unit2-b"
     },
     {
@@ -17887,6 +17947,11 @@ var words = [
         "desc": "词性：v. 拉；拽；n. 拉力；记忆技巧：发音联想“铺”，拉东西铺展开。",
         "english": "pull",
         "phonetic": "/pʊl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            13.8,
+            15.5
+        ],
         "tag": "junior/grade8a/unit4-b"
     },
     {
@@ -17894,6 +17959,11 @@ var words = [
         "desc": "词性：adj. 国际的；记忆技巧：inter（在……之间）+national（国家的）→国家间的。",
         "english": "international",
         "phonetic": "/ˌɪntərˈnæʃnəl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            15.5,
+            18
+        ],
         "tag": "junior/grade8a/unit4-b"
     },
     {
@@ -17901,6 +17971,11 @@ var words = [
         "desc": "词性：n. 小路；小径；记忆技巧：联想“pathway”（路径），同源词记忆。",
         "english": "path",
         "phonetic": "/pæθ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            18,
+            20.5
+        ],
         "tag": "junior/grade8a/unit4-b"
     },
     {
@@ -17908,6 +17983,11 @@ var words = [
         "desc": "词性：n. 技巧；技艺；记忆技巧：tech（技术）+nique（方法）→技术方法即技巧。",
         "english": "technique",
         "phonetic": "/tekˈniːk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            20.5,
+            23.3
+        ],
         "tag": "junior/grade8a/unit4-b"
     },
     {
@@ -17915,6 +17995,11 @@ var words = [
         "desc": "词性：v. 需要；依靠；记忆技巧：de（向下）+pend（悬挂）→向下悬挂依赖某物。",
         "english": "depend",
         "phonetic": "/dɪˈpend/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            23.3,
+            25.5
+        ],
         "tag": "junior/grade8a/unit4-b"
     },
     {
@@ -17922,6 +18007,11 @@ var words = [
         "desc": "词性：n./v. 记忆技巧：联想“dou（都）+bt（不吐）”，都不吐出来表示心中的疑惑。",
         "english": "doubt",
         "phonetic": "/daʊt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            25.5,
+            28
+        ],
         "tag": "junior/grade8a/unit4-b"
     },
     {
@@ -17929,6 +18019,11 @@ var words = [
         "desc": "词性：adv. 记忆技巧：personal（个人的）+ly（副词后缀），表示就个人而言。",
         "english": "personally",
         "phonetic": "/ˈpɜːrsənəli/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            28,
+            31
+        ],
         "tag": "junior/grade8a/unit4-b"
     },
     {
@@ -17936,6 +18031,11 @@ var words = [
         "desc": "词性：n. 记忆技巧：pre（提前）+dict（说）+ion（名词后缀），提前说出→预言。",
         "english": "prediction",
         "phonetic": "/prɪˈdɪkʃn/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            31,
+            34
+        ],
         "tag": "junior/grade8a/unit4-b"
     },
     {
@@ -17943,6 +18043,11 @@ var words = [
         "desc": "词性：n. 记忆技巧：state（陈述）+ment（名词后缀），陈述的内容→说明。",
         "english": "statement",
         "phonetic": "/ˈsteɪtmənt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            34,
+            37
+        ],
         "tag": "junior/grade8a/unit4-b"
     },
     {
@@ -17950,6 +18055,11 @@ var words = [
         "desc": "词性：n./v. 记忆技巧：bene（好）+fit（做），做好事带来的好处→益处。",
         "english": "benefit",
         "phonetic": "/ˈbenɪfɪt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            37,
+            39
+        ],
         "tag": "junior/grade8a/unit4-b"
     },
     {
