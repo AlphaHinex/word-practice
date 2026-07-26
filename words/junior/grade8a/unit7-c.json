@@ -1,0 +1,62 @@
+[
+    {
+        "chinese": "往往会;常常就",
+        "desc": "v. 记忆技巧：联想“疼的”，生病时往往会疼",
+        "english": "tend",
+        "phonetic": "/tend/"
+    },
+    {
+        "chinese": "正常的",
+        "desc": "adj. 记忆技巧：nor（不）+mal（坏），不坏即正常",
+        "english": "normal",
+        "phonetic": "/ˈnɔːrml/"
+    },
+    {
+        "chinese": "丧失;损失",
+        "desc": "n. 记忆技巧：lose（丢失）的名词形式，去e加ss",
+        "english": "loss",
+        "phonetic": "/lɔːs/"
+    },
+    {
+        "chinese": "餐叉",
+        "desc": "n. 记忆技巧：发音联想“福克”，结合餐叉形状",
+        "english": "fork",
+        "phonetic": "/fɔːrk/"
+    },
+    {
+        "chinese": "洋葱",
+        "desc": "n. 记忆技巧：发音联想“洋葱”，结合切洋葱流泪场景",
+        "english": "onion",
+        "phonetic": "/ˈʌnjən/"
+    },
+    {
+        "chinese": "蚂蚁",
+        "desc": "n. 记忆技巧：发音联想“蚂蚁”，结合小昆虫形象",
+        "english": "ant",
+        "phonetic": "/ænt/"
+    },
+    {
+        "chinese": "上下文;语境",
+        "desc": "n. 记忆技巧：con（共同）+text（文本），共同文本即语境",
+        "english": "context",
+        "phonetic": "/ˈkɑːntekst/"
+    },
+    {
+        "chinese": "图像",
+        "desc": "n. 图像；影像。记忆技巧：im-（进入）+ age（时代）→ 进入时代的图像；发音近似“意象”。",
+        "english": "image",
+        "phonetic": "/ˈɪmɪdʒ/"
+    },
+    {
+        "chinese": "总结;概括",
+        "desc": "n. 记忆技巧：sum（总和）+ mary（名词后缀）→ 总和的内容→总结",
+        "english": "summary",
+        "phonetic": "/ˈsʌməri/"
+    },
+    {
+        "chinese": "感觉官能(即视、听、嗅、味、触五觉)",
+        "desc": "n. 感觉官能。记忆技巧：谐音“绅士”→ 绅士有敏锐的感觉；联想五感（sight,hearing,smell,taste,touch）。",
+        "english": "sense",
+        "phonetic": "/sens/"
+    }
+]

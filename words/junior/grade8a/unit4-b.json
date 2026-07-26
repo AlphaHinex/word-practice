@@ -1,0 +1,62 @@
+[
+    {
+        "chinese": "拉;拽;扯;拖",
+        "desc": "词性：v. 拉；拽；n. 拉力；记忆技巧：发音联想“铺”，拉东西铺展开。",
+        "english": "pull",
+        "phonetic": "/pʊl/"
+    },
+    {
+        "chinese": "国际的",
+        "desc": "词性：adj. 国际的；记忆技巧：inter（在……之间）+national（国家的）→国家间的。",
+        "english": "international",
+        "phonetic": "/ˌɪntərˈnæʃnəl/"
+    },
+    {
+        "chinese": "小路;小径",
+        "desc": "词性：n. 小路；小径；记忆技巧：联想“pathway”（路径），同源词记忆。",
+        "english": "path",
+        "phonetic": "/pæθ/"
+    },
+    {
+        "chinese": "技巧;技艺",
+        "desc": "词性：n. 技巧；技艺；记忆技巧：tech（技术）+nique（方法）→技术方法即技巧。",
+        "english": "technique",
+        "phonetic": "/tekˈniːk/"
+    },
+    {
+        "chinese": "需要;依靠",
+        "desc": "词性：v. 需要；依靠；记忆技巧：de（向下）+pend（悬挂）→向下悬挂依赖某物。",
+        "english": "depend",
+        "phonetic": "/dɪˈpend/"
+    },
+    {
+        "chinese": "疑惑;疑问",
+        "desc": "词性：n./v. 记忆技巧：联想“dou（都）+bt（不吐）”，都不吐出来表示心中的疑惑。",
+        "english": "doubt",
+        "phonetic": "/daʊt/"
+    },
+    {
+        "chinese": "就个人意见",
+        "desc": "词性：adv. 记忆技巧：personal（个人的）+ly（副词后缀），表示就个人而言。",
+        "english": "personally",
+        "phonetic": "/ˈpɜːrsənəli/"
+    },
+    {
+        "chinese": "预言;预测",
+        "desc": "词性：n. 记忆技巧：pre（提前）+dict（说）+ion（名词后缀），提前说出→预言。",
+        "english": "prediction",
+        "phonetic": "/prɪˈdɪkʃn/"
+    },
+    {
+        "chinese": "说明",
+        "desc": "词性：n. 记忆技巧：state（陈述）+ment（名词后缀），陈述的内容→说明。",
+        "english": "statement",
+        "phonetic": "/ˈsteɪtmənt/"
+    },
+    {
+        "chinese": "益处;优势",
+        "desc": "词性：n./v. 记忆技巧：bene（好）+fit（做），做好事带来的好处→益处。",
+        "english": "benefit",
+        "phonetic": "/ˈbenɪfɪt/"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "chinese": "交流",
+        "desc": "词性：v. 交流；交换；n. 交换；记忆技巧：ex（出）+change（改变）→交换出去再改变。",
+        "english": "exchange",
+        "phonetic": "/ɪksˈtʃeɪndʒ/"
+    },
+    {
+        "chinese": "焦虑的;担忧的",
+        "desc": "词性：adj. 记忆技巧：nerve（神经）+ous（形容词后缀），神经紧张的→焦虑的。",
+        "english": "nervous",
+        "phonetic": "/ˈnɜːrvəs/"
+    },
+    {
+        "chinese": "感激的",
+        "desc": "词性：adj. 记忆技巧：grate（感谢）+ful（形容词后缀），充满感谢的→感激的。",
+        "english": "grateful",
+        "phonetic": "/ˈɡreɪtfl/"
+    },
+    {
+        "chinese": "筷子",
+        "desc": "词性：n. 记忆技巧：chop（砍）+stick（棍），砍成的小棍→筷子（通常用复数chopsticks）。",
+        "english": "chopstick",
+        "phonetic": "/ˈtʃɑːpstɪk/"
+    },
+    {
+        "chinese": "旅行;旅游",
+        "desc": "词性：n./v. 记忆技巧：发音类似“途”，旅途→旅行。",
+        "english": "tour",
+        "phonetic": "/tʊr/"
+    }
+]

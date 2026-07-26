@@ -1,0 +1,62 @@
+[
+    {
+        "chinese": "蜜月",
+        "desc": "名词，记忆技巧：honey（蜂蜜）+moon（月亮），甜蜜如蜜的月亮时期",
+        "english": "honeymoon",
+        "phonetic": "/ˈhʌnimuːn/"
+    },
+    {
+        "chinese": "陌生的;不熟悉的",
+        "desc": "形容词，记忆技巧：un（否定）+familiar（熟悉的），不熟悉即陌生",
+        "english": "unfamiliar",
+        "phonetic": "/ˌʌnfəˈmɪliər/"
+    },
+    {
+        "chinese": "想家的",
+        "desc": "形容词，记忆技巧：home（家）+sick（生病的），因想家而不适",
+        "english": "homesick",
+        "phonetic": "/ˈhoʊmsɪk/"
+    },
+    {
+        "chinese": "孤独的",
+        "desc": "形容词，记忆技巧：lone（独自的）+ly，独自状态下的孤独感",
+        "english": "lonely",
+        "phonetic": "/ˈloʊnli/"
+    },
+    {
+        "chinese": "对付;应付",
+        "desc": "动词，记忆技巧：联想短语“deal with”（对付、处理）",
+        "english": "deal",
+        "phonetic": "/diːl/"
+    },
+    {
+        "chinese": "期待;盼望",
+        "desc": "动词。记忆技巧：ex-（向外）+ pect（看）→向外看→期待",
+        "english": "expect",
+        "phonetic": "/ɪkˈspekt/"
+    },
+    {
+        "chinese": "情况",
+        "desc": "名词。记忆技巧：situate（使位于）+ -ion名词后缀→所处的位置→情况",
+        "english": "situation",
+        "phonetic": "/ˌsɪtʃuˈeɪʃn/"
+    },
+    {
+        "chinese": "接受",
+        "desc": "动词。记忆技巧：ac-（加强）+ cept（拿）→拿过来→接受",
+        "english": "accept",
+        "phonetic": "/əkˈsept/"
+    },
+    {
+        "chinese": "适应",
+        "desc": "名词。记忆技巧：adapt（适应，动词）+ -ation名词后缀→适应的过程或结果",
+        "english": "adaptation",
+        "phonetic": "/ˌædæpˈteɪʃn/"
+    },
+    {
+        "chinese": "京剧",
+        "desc": "专有名词短语，指中国传统戏剧形式",
+        "english": "Beijing opera",
+        "phonetic": ""
+    }
+]

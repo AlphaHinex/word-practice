@@ -1,0 +1,62 @@
+[
+    {
+        "chinese": "抱着;拿着",
+        "desc": "动词；记忆技巧：hold（握住）→ 联想“握住东西”",
+        "english": "hold",
+        "phonetic": "/hoʊld/"
+    },
+    {
+        "chinese": "可信任的;可信赖的",
+        "desc": "形容词；记忆技巧：response（回应）+ ible（可…的）→ 可回应的→负责的",
+        "english": "responsible",
+        "phonetic": "/rɪˈspɑːnsəbl/"
+    },
+    {
+        "chinese": "醒着",
+        "desc": "形容词/动词；记忆技巧：a（前缀，加强）+ wake（醒）→ 醒着的",
+        "english": "awake",
+        "phonetic": "/əˈweɪk/"
+    },
+    {
+        "chinese": "公寓",
+        "desc": "名词；记忆技巧：flat（平坦的）→ 公寓通常是平坦的一层",
+        "english": "flat",
+        "phonetic": "/flæt/"
+    },
+    {
+        "chinese": "选择",
+        "desc": "名词；记忆技巧：choose（选择，动词）→ choice（名词形式）",
+        "english": "choice",
+        "phonetic": "/tʃɔɪs/"
+    },
+    {
+        "chinese": "劝告;建议",
+        "desc": "动词；记忆技巧：ad（加强）+ vise（看）→ 仔细看→劝告",
+        "english": "advise",
+        "phonetic": "/ədˈvaɪz/"
+    },
+    {
+        "chinese": "抱怨;投诉",
+        "desc": "v. 记忆技巧：com-（加强）+ plain（清楚的）→ 清楚表达不满→抱怨",
+        "english": "complain",
+        "phonetic": "/kəmˈpleɪn/"
+    },
+    {
+        "chinese": "垃圾",
+        "desc": "n./v. 记忆技巧：联想little（小的）→ 小垃圾碎片→垃圾",
+        "english": "litter",
+        "phonetic": "/ˈlɪtər/"
+    },
+    {
+        "chinese": "不大可能发生的",
+        "desc": "adj. 记忆技巧：un-（否定）+ likely（可能的）→ 不大可能的",
+        "english": "unlikely",
+        "phonetic": "/ʌnˈlaɪkli/"
+    },
+    {
+        "chinese": "引起;造成;导致",
+        "desc": "动词/名词；记忆技巧：cause（原因）→ 导致结果",
+        "english": "cause",
+        "phonetic": "/kɔːz/"
+    }
+]

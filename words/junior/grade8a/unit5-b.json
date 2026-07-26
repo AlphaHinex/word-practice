@@ -1,0 +1,62 @@
+[
+    {
+        "chinese": "太极(拳)",
+        "desc": "专有名词，指中国传统武术，结合呼吸和动作的健身方式。",
+        "english": "tai chi",
+        "phonetic": ""
+    },
+    {
+        "chinese": "尚(未);还;仍",
+        "desc": "词性：adv./conj. 记忆技巧：用于否定句和疑问句，表示“还未”，与“already”对应。",
+        "english": "yet",
+        "phonetic": "/jet/"
+    },
+    {
+        "chinese": "自主的",
+        "desc": "词性：adj. 记忆技巧：in（不）+dependent（依赖的），不依赖他人的→自主的。",
+        "english": "independent",
+        "phonetic": "/ˌɪndɪˈpendənt/"
+    },
+    {
+        "chinese": "内容",
+        "desc": "词性：n. 记忆技巧：con（一起）+tent（帐篷），帐篷里的东西→内容（注意作形容词“满足的”时音标为/kənˈtent/）。",
+        "english": "content",
+        "phonetic": "/ˈkɑːntent/"
+    },
+    {
+        "chinese": "感觉;感情",
+        "desc": "词性：n. 记忆技巧：feel（感觉，v.）+ing（名词后缀），表示感觉的名词形式。",
+        "english": "feeling",
+        "phonetic": "/ˈfiːlɪŋ/"
+    },
+    {
+        "chinese": "震惊;令人震惊的事",
+        "desc": "词性：n./v. 记忆技巧：发音类似“休克”，震惊可能导致休克，帮助记忆含义。",
+        "english": "shock",
+        "phonetic": "/ʃɑːk/"
+    },
+    {
+        "chinese": "外国的",
+        "desc": "形容词，记忆技巧：fore（前）+ign，联想“在前面的国家”即外国的",
+        "english": "foreign",
+        "phonetic": "/ˈfɔːrən/"
+    },
+    {
+        "chinese": "糊涂的;迷惑的",
+        "desc": "形容词，记忆技巧：con（一起）+fuse（融合）+d，事物融合一起让人迷惑",
+        "english": "confused",
+        "phonetic": "/kənˈfjuːzd/"
+    },
+    {
+        "chinese": "焦虑的;忧虑的",
+        "desc": "形容词，记忆技巧：anx（焦虑）+ious（形容词后缀），表焦虑的状态",
+        "english": "anxious",
+        "phonetic": "/ˈæŋkʃəs/"
+    },
+    {
+        "chinese": "阶段;时期",
+        "desc": "名词，记忆技巧：发音类似“费兹”，联想“阶段（phase）的发展”",
+        "english": "phase",
+        "phonetic": "/feɪz/"
+    }
+]
