@@ -17598,1124 +17598,1509 @@ var words = [
         "tag": "junior/grade8a/unit3-e"
     },
     {
+        "chinese": "气球",
+        "desc": "名词。联想：ball（球）+oon→ 气球",
+        "english": "balloon",
+        "phonetic": "/bəˈluːn/",
+        "tag": "junior/grade8a/unit4-a"
+    },
+    {
         "chinese": "轮;车轮",
         "desc": "词性：n. 轮；车轮；v. 转动；记忆技巧：发音类似“威尔”，联想威尔转动车轮。",
         "english": "wheel",
         "phonetic": "/wil/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "发生;进行",
-        "desc": "",
-        "english": "take place",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-a"
     },
     {
         "chinese": "在中心的",
         "desc": "词性：adj. 在中心的；记忆技巧：词根centr（中心）+al（形容词后缀）构成。",
         "english": "central",
         "phonetic": "/ˈsentrəl/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "例如;比如",
-        "desc": "",
-        "english": "for instance",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-a"
     },
     {
         "chinese": "虽然;尽管",
         "desc": "词性：conj. 虽然；尽管；记忆技巧：al（加强）+though（虽然）构成。",
         "english": "although",
         "phonetic": "/ɔːlˈðoʊ/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "大量",
-        "desc": "",
-        "english": "large amounts of",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "国际贸易",
-        "desc": "",
-        "english": "international trade",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "依靠;依赖",
-        "desc": "",
-        "english": "depend on",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-a"
     },
     {
         "chinese": "把……固定;把……附(在……上)",
         "desc": "词性：v. 把……固定；附在……上；记忆技巧：at（加强）+tach（接触）→使接触而附上。",
         "english": "attach",
         "phonetic": "/əˈtætʃ/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "3D打印机",
-        "desc": "",
-        "english": "3Dprinter",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-a"
     },
     {
         "chinese": "拉;拽;扯;拖",
         "desc": "词性：v. 拉；拽；n. 拉力；记忆技巧：发音联想“铺”，拉东西铺展开。",
         "english": "pull",
         "phonetic": "/pʊl/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "毫无疑问",
-        "desc": "",
-        "english": "without doubt",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-b"
     },
     {
         "chinese": "国际的",
         "desc": "词性：adj. 国际的；记忆技巧：inter（在……之间）+national（国家的）→国家间的。",
         "english": "international",
         "phonetic": "/ˌɪntərˈnæʃnəl/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "自古以来;有史以来",
-        "desc": "",
-        "english": "of all time",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "取笑;拿……开玩笑",
-        "desc": "",
-        "english": "make fun of",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-b"
     },
     {
         "chinese": "小路;小径",
         "desc": "词性：n. 小路；小径；记忆技巧：联想“pathway”（路径），同源词记忆。",
         "english": "path",
         "phonetic": "/pæθ/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "堵车;交通阻塞",
-        "desc": "",
-        "english": "traffic jam",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-b"
     },
     {
         "chinese": "技巧;技艺",
         "desc": "词性：n. 技巧；技艺；记忆技巧：tech（技术）+nique（方法）→技术方法即技巧。",
         "english": "technique",
         "phonetic": "/tekˈniːk/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-b"
     },
     {
         "chinese": "需要;依靠",
         "desc": "词性：v. 需要；依靠；记忆技巧：de（向下）+pend（悬挂）→向下悬挂依赖某物。",
         "english": "depend",
         "phonetic": "/dɪˈpend/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "交流",
-        "desc": "词性：v. 交流；交换；n. 交换；记忆技巧：ex（出）+change（改变）→交换出去再改变。",
-        "english": "exchange",
-        "phonetic": "/ɪksˈtʃeɪndʒ/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-b"
     },
     {
         "chinese": "疑惑;疑问",
         "desc": "词性：n./v. 记忆技巧：联想“dou（都）+bt（不吐）”，都不吐出来表示心中的疑惑。",
         "english": "doubt",
         "phonetic": "/daʊt/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "焦虑的;担忧的",
-        "desc": "词性：adj. 记忆技巧：nerve（神经）+ous（形容词后缀），神经紧张的→焦虑的。",
-        "english": "nervous",
-        "phonetic": "/ˈnɜːrvəs/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-b"
     },
     {
         "chinese": "就个人意见",
         "desc": "词性：adv. 记忆技巧：personal（个人的）+ly（副词后缀），表示就个人而言。",
         "english": "personally",
         "phonetic": "/ˈpɜːrsənəli/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "感激的",
-        "desc": "词性：adj. 记忆技巧：grate（感谢）+ful（形容词后缀），充满感谢的→感激的。",
-        "english": "grateful",
-        "phonetic": "/ˈɡreɪtfl/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-b"
     },
     {
         "chinese": "预言;预测",
         "desc": "词性：n. 记忆技巧：pre（提前）+dict（说）+ion（名词后缀），提前说出→预言。",
         "english": "prediction",
         "phonetic": "/prɪˈdɪkʃn/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "筷子",
-        "desc": "词性：n. 记忆技巧：chop（砍）+stick（棍），砍成的小棍→筷子（通常用复数chopsticks）。",
-        "english": "chopstick",
-        "phonetic": "/ˈtʃɑːpstɪk/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-b"
     },
     {
         "chinese": "说明",
         "desc": "词性：n. 记忆技巧：state（陈述）+ment（名词后缀），陈述的内容→说明。",
         "english": "statement",
         "phonetic": "/ˈsteɪtmənt/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "旅行;旅游",
-        "desc": "词性：n./v. 记忆技巧：发音类似“途”，旅途→旅行。",
-        "english": "tour",
-        "phonetic": "/tʊr/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-b"
     },
     {
         "chinese": "益处;优势",
         "desc": "词性：n./v. 记忆技巧：bene（好）+fit（做），做好事带来的好处→益处。",
         "english": "benefit",
         "phonetic": "/ˈbenɪfɪt/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "太极(拳)",
-        "desc": "专有名词，指中国传统武术，结合呼吸和动作的健身方式。",
-        "english": "tai chi",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-b"
     },
     {
         "chinese": "(飞行器的)翅膀;机翼",
         "desc": "词性：n. 记忆技巧：联想“wing”帮助飞行，如鸟的翅膀或飞机的机翼。",
         "english": "wing",
         "phonetic": "/wɪŋ/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "尚(未);还;仍",
-        "desc": "词性：adv./conj. 记忆技巧：用于否定句和疑问句，表示“还未”，与“already”对应。",
-        "english": "yet",
-        "phonetic": "/jet/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "自主的",
-        "desc": "词性：adj. 记忆技巧：in（不）+dependent（依赖的），不依赖他人的→自主的。",
-        "english": "independent",
-        "phonetic": "/ˌɪndɪˈpendənt/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-c"
     },
     {
         "chinese": "距离",
         "desc": "词性：n. 记忆技巧：distant（遥远的）的名词形式，-ce后缀表名词。",
         "english": "distance",
         "phonetic": "/ˈdɪstəns/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-c"
     },
     {
         "chinese": "汽油",
         "desc": "词性：n. 记忆技巧：英式英语中表示汽油，美式常用gasoline，注意拼写差异。",
         "english": "petrol",
         "phonetic": "/ˈpetrəl/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "内容",
-        "desc": "词性：n. 记忆技巧：con（一起）+tent（帐篷），帐篷里的东西→内容（注意作形容词“满足的”时音标为/kənˈtent/）。",
-        "english": "content",
-        "phonetic": "/ˈkɑːntent/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-c"
     },
     {
         "chinese": "避免;防止",
         "desc": "词性：v. 记忆技巧：a（否定）+void（空），使变空→避免某事发生。",
         "english": "avoid",
         "phonetic": "/əˈvɔɪd/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "感觉;感情",
-        "desc": "词性：n. 记忆技巧：feel（感觉，v.）+ing（名词后缀），表示感觉的名词形式。",
-        "english": "feeling",
-        "phonetic": "/ˈfiːlɪŋ/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-c"
     },
     {
         "chinese": "在(或去)任何地方",
         "desc": "词性：adv. 记忆技巧：any（任何）+where（哪里），组合表示任何地方。",
         "english": "anywhere",
         "phonetic": "/ˈeniwer/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "震惊;令人震惊的事",
-        "desc": "词性：n./v. 记忆技巧：发音类似“休克”，震惊可能导致休克，帮助记忆含义。",
-        "english": "shock",
-        "phonetic": "/ʃɑːk/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "外国的",
-        "desc": "形容词，记忆技巧：fore（前）+ign，联想“在前面的国家”即外国的",
-        "english": "foreign",
-        "phonetic": "/ˈfɔːrən/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-c"
     },
     {
         "chinese": "看(或听)到;注意到",
         "desc": "动词/名词，记忆技巧：no+ti+ce，发音类似“诺提斯”，注意到某事",
         "english": "notice",
         "phonetic": "/ˈnoʊtɪs/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "糊涂的;迷惑的",
-        "desc": "形容词，记忆技巧：con（一起）+fuse（融合）+d，事物融合一起让人迷惑",
-        "english": "confused",
-        "phonetic": "/kənˈfjuːzd/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-c"
     },
     {
         "chinese": "(印刷用的)活字",
         "desc": "名词，记忆技巧：简单词，联想“类型（type）的活字”",
         "english": "type",
         "phonetic": "/taɪp/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "焦虑的;忧虑的",
-        "desc": "形容词，记忆技巧：anx（焦虑）+ious（形容词后缀），表焦虑的状态",
-        "english": "anxious",
-        "phonetic": "/ˈæŋkʃəs/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-c"
     },
     {
         "chinese": "混合物",
         "desc": "名词，记忆技巧：mix（混合）+ture（名词后缀），混合后的物质",
         "english": "mixture",
         "phonetic": "/ˈmɪkstʃər/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "阶段;时期",
-        "desc": "名词，记忆技巧：发音类似“费兹”，联想“阶段（phase）的发展”",
-        "english": "phase",
-        "phonetic": "/feɪz/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-c"
     },
     {
         "chinese": "加热;变热",
         "desc": "动词/名词，记忆技巧：简单词，联想“热（heat）水加热”",
         "english": "heat",
         "phonetic": "/hiːt/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "蜜月",
-        "desc": "名词，记忆技巧：honey（蜂蜜）+moon（月亮），甜蜜如蜜的月亮时期",
-        "english": "honeymoon",
-        "phonetic": "/ˈhʌnimuːn/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-c"
     },
     {
         "chinese": "(被)压",
         "desc": "动词，记忆技巧：pre（前）+ss，向前施加压力",
         "english": "press",
         "phonetic": "/pres/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-c"
     },
     {
         "chinese": "金属",
         "desc": "名词，记忆技巧：met（遇见过去式）+al，遇见金属物质",
         "english": "metal",
         "phonetic": "/ˈmetl/",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "陌生的;不熟悉的",
-        "desc": "形容词，记忆技巧：un（否定）+familiar（熟悉的），不熟悉即陌生",
-        "english": "unfamiliar",
-        "phonetic": "/ˌʌnfəˈmɪliər/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-d"
     },
     {
         "chinese": "蒸汽机车",
         "desc": "词组，记忆技巧：steam（蒸汽）+locomotive（机车），组合表示蒸汽驱动的机车",
         "english": "steam locomotive",
         "phonetic": "",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "想家的",
-        "desc": "形容词，记忆技巧：home（家）+sick（生病的），因想家而不适",
-        "english": "homesick",
-        "phonetic": "/ˈhoʊmsɪk/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-d"
     },
     {
         "chinese": "载人航天器",
         "desc": "词组，记忆技巧：crewed（载人的）+spacecraft（航天器），载有人员的航天器",
         "english": "crewed spacecraft",
         "phonetic": "",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "孤独的",
-        "desc": "形容词，记忆技巧：lone（独自的）+ly，独自状态下的孤独感",
-        "english": "lonely",
-        "phonetic": "/ˈloʊnli/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-d"
     },
     {
         "chinese": "步行",
         "desc": "固定词组，记忆技巧：on（在...上）+foot（脚），用脚行走即步行",
         "english": "on foot",
         "phonetic": "",
-        "tag": "junior/grade8a/unit4"
-    },
-    {
-        "chinese": "对付;应付",
-        "desc": "动词，记忆技巧：联想短语“deal with”（对付、处理）",
-        "english": "deal",
-        "phonetic": "/diːl/",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-d"
     },
     {
         "chinese": "几个;若干",
         "desc": "固定词组，记忆技巧：a（一个）+number（数量）+of，表若干数量",
         "english": "a number of",
         "phonetic": "",
-        "tag": "junior/grade8a/unit4"
+        "tag": "junior/grade8a/unit4-d"
+    },
+    {
+        "chinese": "发生;进行",
+        "desc": "",
+        "english": "take place",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4-d"
+    },
+    {
+        "chinese": "例如;比如",
+        "desc": "",
+        "english": "for instance",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4-d"
+    },
+    {
+        "chinese": "大量",
+        "desc": "",
+        "english": "large amounts of",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4-d"
+    },
+    {
+        "chinese": "国际贸易",
+        "desc": "",
+        "english": "international trade",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4-d"
+    },
+    {
+        "chinese": "依靠;依赖",
+        "desc": "",
+        "english": "depend on",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4-d"
+    },
+    {
+        "chinese": "3D打印机",
+        "desc": "",
+        "english": "3D printer",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4-e"
+    },
+    {
+        "chinese": "毫无疑问",
+        "desc": "",
+        "english": "without doubt",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4-e"
+    },
+    {
+        "chinese": "自古以来;有史以来",
+        "desc": "",
+        "english": "of all time",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4-e"
+    },
+    {
+        "chinese": "取笑;拿……开玩笑",
+        "desc": "",
+        "english": "make fun of",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4-e"
+    },
+    {
+        "chinese": "堵车;交通阻塞",
+        "desc": "",
+        "english": "traffic jam",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4-e"
+    },
+    {
+        "chinese": "交流",
+        "desc": "词性：v. 交流；交换；n. 交换；记忆技巧：ex（出）+change（改变）→交换出去再改变。",
+        "english": "exchange",
+        "phonetic": "/ɪksˈtʃeɪndʒ/",
+        "tag": "junior/grade8a/unit5-a"
+    },
+    {
+        "chinese": "焦虑的;担忧的",
+        "desc": "词性：adj. 记忆技巧：nerve（神经）+ous（形容词后缀），神经紧张的→焦虑的。",
+        "english": "nervous",
+        "phonetic": "/ˈnɜːrvəs/",
+        "tag": "junior/grade8a/unit5-a"
+    },
+    {
+        "chinese": "感激的",
+        "desc": "词性：adj. 记忆技巧：grate（感谢）+ful（形容词后缀），充满感谢的→感激的。",
+        "english": "grateful",
+        "phonetic": "/ˈɡreɪtfl/",
+        "tag": "junior/grade8a/unit5-a"
+    },
+    {
+        "chinese": "筷子",
+        "desc": "词性：n. 记忆技巧：chop（砍）+stick（棍），砍成的小棍→筷子（通常用复数chopsticks）。",
+        "english": "chopstick",
+        "phonetic": "/ˈtʃɑːpstɪk/",
+        "tag": "junior/grade8a/unit5-a"
+    },
+    {
+        "chinese": "旅行;旅游",
+        "desc": "词性：n./v. 记忆技巧：发音类似“途”，旅途→旅行。",
+        "english": "tour",
+        "phonetic": "/tʊr/",
+        "tag": "junior/grade8a/unit5-a"
+    },
+    {
+        "chinese": "太极(拳)",
+        "desc": "专有名词，指中国传统武术，结合呼吸和动作的健身方式。",
+        "english": "tai chi",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit5-b"
+    },
+    {
+        "chinese": "尚(未);还;仍",
+        "desc": "词性：adv./conj. 记忆技巧：用于否定句和疑问句，表示“还未”，与“already”对应。",
+        "english": "yet",
+        "phonetic": "/jet/",
+        "tag": "junior/grade8a/unit5-b"
+    },
+    {
+        "chinese": "自主的",
+        "desc": "词性：adj. 记忆技巧：in（不）+dependent（依赖的），不依赖他人的→自主的。",
+        "english": "independent",
+        "phonetic": "/ˌɪndɪˈpendənt/",
+        "tag": "junior/grade8a/unit5-b"
+    },
+    {
+        "chinese": "内容",
+        "desc": "词性：n. 记忆技巧：con（一起）+tent（帐篷），帐篷里的东西→内容（注意作形容词“满足的”时音标为/kənˈtent/）。",
+        "english": "content",
+        "phonetic": "/ˈkɑːntent/",
+        "tag": "junior/grade8a/unit5-b"
+    },
+    {
+        "chinese": "感觉;感情",
+        "desc": "词性：n. 记忆技巧：feel（感觉，v.）+ing（名词后缀），表示感觉的名词形式。",
+        "english": "feeling",
+        "phonetic": "/ˈfiːlɪŋ/",
+        "tag": "junior/grade8a/unit5-b"
+    },
+    {
+        "chinese": "震惊;令人震惊的事",
+        "desc": "词性：n./v. 记忆技巧：发音类似“休克”，震惊可能导致休克，帮助记忆含义。",
+        "english": "shock",
+        "phonetic": "/ʃɑːk/",
+        "tag": "junior/grade8a/unit5-b"
+    },
+    {
+        "chinese": "外国的",
+        "desc": "形容词，记忆技巧：fore（前）+ign，联想“在前面的国家”即外国的",
+        "english": "foreign",
+        "phonetic": "/ˈfɔːrən/",
+        "tag": "junior/grade8a/unit5-b"
+    },
+    {
+        "chinese": "糊涂的;迷惑的",
+        "desc": "形容词，记忆技巧：con（一起）+fuse（融合）+d，事物融合一起让人迷惑",
+        "english": "confused",
+        "phonetic": "/kənˈfjuːzd/",
+        "tag": "junior/grade8a/unit5-b"
+    },
+    {
+        "chinese": "焦虑的;忧虑的",
+        "desc": "形容词，记忆技巧：anx（焦虑）+ious（形容词后缀），表焦虑的状态",
+        "english": "anxious",
+        "phonetic": "/ˈæŋkʃəs/",
+        "tag": "junior/grade8a/unit5-b"
+    },
+    {
+        "chinese": "阶段;时期",
+        "desc": "名词，记忆技巧：发音类似“费兹”，联想“阶段（phase）的发展”",
+        "english": "phase",
+        "phonetic": "/feɪz/",
+        "tag": "junior/grade8a/unit5-b"
+    },
+    {
+        "chinese": "蜜月",
+        "desc": "名词，记忆技巧：honey（蜂蜜）+moon（月亮），甜蜜如蜜的月亮时期",
+        "english": "honeymoon",
+        "phonetic": "/ˈhʌnimuːn/",
+        "tag": "junior/grade8a/unit5-c"
+    },
+    {
+        "chinese": "陌生的;不熟悉的",
+        "desc": "形容词，记忆技巧：un（否定）+familiar（熟悉的），不熟悉即陌生",
+        "english": "unfamiliar",
+        "phonetic": "/ˌʌnfəˈmɪliər/",
+        "tag": "junior/grade8a/unit5-c"
+    },
+    {
+        "chinese": "想家的",
+        "desc": "形容词，记忆技巧：home（家）+sick（生病的），因想家而不适",
+        "english": "homesick",
+        "phonetic": "/ˈhoʊmsɪk/",
+        "tag": "junior/grade8a/unit5-c"
+    },
+    {
+        "chinese": "孤独的",
+        "desc": "形容词，记忆技巧：lone（独自的）+ly，独自状态下的孤独感",
+        "english": "lonely",
+        "phonetic": "/ˈloʊnli/",
+        "tag": "junior/grade8a/unit5-c"
+    },
+    {
+        "chinese": "对付;应付",
+        "desc": "动词，记忆技巧：联想短语“deal with”（对付、处理）",
+        "english": "deal",
+        "phonetic": "/diːl/",
+        "tag": "junior/grade8a/unit5-c"
     },
     {
         "chinese": "期待;盼望",
         "desc": "动词。记忆技巧：ex-（向外）+ pect（看）→向外看→期待",
         "english": "expect",
         "phonetic": "/ɪkˈspekt/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "(使)充满;(使)装满",
-        "desc": "动词。记忆技巧：与full（满的）同源，fill表示使变满",
-        "english": "fill",
-        "phonetic": "/fɪl/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit5-c"
     },
     {
         "chinese": "情况",
         "desc": "名词。记忆技巧：situate（使位于）+ -ion名词后缀→所处的位置→情况",
         "english": "situation",
         "phonetic": "/ˌsɪtʃuˈeɪʃn/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "向;朝",
-        "desc": "介词。记忆技巧：toward的变体，tow（拖）+ -ard→拖向→朝",
-        "english": "towards",
-        "phonetic": "/tɔːrdz/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit5-c"
     },
     {
         "chinese": "接受",
         "desc": "动词。记忆技巧：ac-（加强）+ cept（拿）→拿过来→接受",
         "english": "accept",
         "phonetic": "/əkˈsept/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "袭击;攻击",
-        "desc": "动词/名词。记忆技巧：at-（向）+ tack（钉）→向…钉去→攻击",
-        "english": "attack",
-        "phonetic": "/əˈtæk/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit5-c"
     },
     {
         "chinese": "适应",
         "desc": "名词。记忆技巧：adapt（适应，动词）+ -ation名词后缀→适应的过程或结果",
         "english": "adaptation",
         "phonetic": "/ˌædæpˈteɪʃn/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "雾",
-        "desc": "名词。记忆技巧：音似“雾”，简单易记",
-        "english": "fog",
-        "phonetic": "/fɔːɡ/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit5-c"
     },
     {
         "chinese": "京剧",
         "desc": "专有名词短语，指中国传统戏剧形式",
         "english": "Beijing opera",
         "phonetic": "",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit5-c"
     },
     {
         "chinese": "寄宿家庭",
         "desc": "名词短语，host（主人）+ family（家庭）→提供住宿的家庭",
         "english": "host family",
         "phonetic": "",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "开……的玩笑",
-        "desc": "动词短语，make（做）+ jokes（玩笑）+ about（关于）→对…开玩笑",
-        "english": "make jokes about",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit5-d"
     },
     {
         "chinese": "蜿蜒",
         "desc": "动词短语，snake（蛇）+ its way（路径）→像蛇一样移动→蜿蜒",
         "english": "snake its way",
         "phonetic": "",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "在……方面成功",
-        "desc": "动词短语，succeed（成功）+ in（在…方面）→在某方面取得成功",
-        "english": "succeed in",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit5-d"
     },
     {
         "chinese": "文化冲击",
         "desc": "名词短语，culture（文化）+ shock（冲击）→接触新文化时的不适应",
         "english": "culture shock",
         "phonetic": "",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "厌烦",
-        "desc": "动词短语，be（是）+ tired（疲倦的）+ of（关于）→对…感到厌烦",
-        "english": "be tired of",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit5-d"
     },
     {
         "chinese": "解决;处理",
         "desc": "动词短语，deal（处理）+ with（与…）→处理问题或情况",
         "english": "deal with",
         "phonetic": "",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "上船",
-        "desc": "动词短语，go（去）+ on board（在船上）→登上船",
-        "english": "go on board",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit5-d"
     },
     {
         "chinese": "感到舒适自在",
         "desc": "动词短语，feel（感觉）+ at home（在家）→感觉像在家一样舒适",
         "english": "feel at home",
         "phonetic": "",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "嫉妒",
-        "desc": "动词短语，be（是）+ jealous（嫉妒的）+ of（关于）→对…感到嫉妒",
-        "english": "be jealous of",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "装满;充满",
-        "desc": "动词短语，be（是）+ full（满的）+ of（…的）→充满某物",
-        "english": "be full of",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit5-d"
     },
     {
         "chinese": "作者;作家",
         "desc": "词性：名词。记忆技巧：auth-联想“权威”，作者是有权威的写作者。",
         "english": "author",
         "phonetic": "/ˈɔːθər/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-a"
     },
     {
         "chinese": "遗迹;遗址",
         "desc": "词性：名词。记忆技巧：remain（保持）的复数形式，保持下来的古代痕迹即遗迹。",
         "english": "remains",
         "phonetic": "/rɪˈmeɪnz/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "有规律地",
-        "desc": "词性：副词。记忆技巧：regular（规则的）+ly（副词后缀），按规则地即有规律地。",
-        "english": "regularly",
-        "phonetic": "/ˈreɡjələrli/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-a"
     },
     {
         "chinese": "把……安置在（或建造于）",
         "desc": "词性：动词。记忆技巧：location（位置）的动词形式，定位并安置。",
         "english": "locate",
         "phonetic": "/ˈloʊkeɪt/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "重复",
-        "desc": "词性：动词。记忆技巧：re-（再）+peat（音似“皮特”），再次做皮特的动作即重复。",
-        "english": "repeat",
-        "phonetic": "/rɪˈpiːt/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "笔记;记录",
-        "desc": "词性：名词/动词。记忆技巧：音似“闹特”，不要吵闹，认真做笔记。",
-        "english": "note",
-        "phonetic": "/noʊt/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-a"
     },
     {
         "chinese": "士兵",
         "desc": "词性：名词。记忆技巧：音似“馊者”，联想士兵在艰苦环境下可能吃馊饭（辅助记忆）。",
         "english": "soldier",
         "phonetic": "/ˈsoʊldʒər/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "视觉的",
-        "desc": "词性：形容词。记忆技巧：vis-词根“看”（如vision），与视觉相关的。",
-        "english": "visual",
-        "phonetic": "/ˈvɪʒuəl/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-a"
     },
     {
         "chinese": "首领;领导者",
         "desc": "词性：名词。记忆技巧：cap（帽子），戴帽子的人常为团队首领。",
         "english": "captain",
         "phonetic": "/ˈkæptɪn/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "精神上",
-        "desc": "词性：副词。记忆技巧：mental（精神的）+ly（副词后缀），表精神方面。",
-        "english": "mentally",
-        "phonetic": "/ˈmentəli/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-a"
     },
     {
         "chinese": "空的",
         "desc": "词性：形容词/动词。记忆技巧：em-（进入）+pty（音似“菩提”），进入菩提“空”的境界。",
         "english": "empty",
         "phonetic": "/ˈempti/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "联系;相联系",
-        "desc": "词性：动词/名词。记忆技巧：音似“灵可”，灵活可建立联系。",
-        "english": "link",
-        "phonetic": "/lɪŋk/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-b"
     },
     {
         "chinese": "胜利;成功",
         "desc": "词性：名词。记忆技巧：vict-词根“战胜”（如victor），ory名词后缀表结果。",
         "english": "victory",
         "phonetic": "/ˈvɪktəri/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "清单",
-        "desc": "词性：名词/动词。记忆技巧：音似“历史”，历史事件可列成清单。",
-        "english": "list",
-        "phonetic": "/lɪst/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-b"
     },
     {
         "chinese": "笑话;玩笑",
         "desc": "词性：名词/动词。记忆技巧：音似“揍客”，开玩笑别真揍客人。",
         "english": "joke",
         "phonetic": "/dʒoʊk/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "尤其",
-        "desc": "词性：副词。记忆技巧：especial（特别的）+ly（副词后缀），表尤其特别。",
-        "english": "especially",
-        "phonetic": "/ɪˈspeʃəli/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "日常饮食",
-        "desc": "词性：名词。记忆技巧：音似“带它”，每天带它（食物）即日常饮食。",
-        "english": "diet",
-        "phonetic": "/ˈdaɪət/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-b"
     },
     {
         "chinese": "午夜",
         "desc": "词性：名词。记忆技巧：mid（中间）+night（夜晚），夜晚中间即午夜。",
         "english": "midnight",
         "phonetic": "/ˈmɪdnaɪt/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-b"
     },
     {
         "chinese": "除……之外",
         "desc": "词性：介词/动词。记忆技巧：ex-（出）+cept（拿），拿出之外即除了。",
         "english": "except",
         "phonetic": "/ɪkˈsept/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "维持;保持",
-        "desc": "词性：动词。记忆技巧：main（主要）+tain（保持），主要保持即维持。",
-        "english": "maintain",
-        "phonetic": "/meɪnˈteɪn/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-b"
     },
     {
         "chinese": "藏;隐蔽",
         "desc": "v. 记忆技巧：h（椅子）+ide（想法），藏在椅子下有想法",
         "english": "hide",
         "phonetic": "/haɪd/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "坚果",
-        "desc": "n. 记忆技巧：发音联想“坚果”，结合形状记忆",
-        "english": "nut",
-        "phonetic": "/nʌt/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-b"
     },
     {
         "chinese": "秘密地",
         "desc": "adv. 记忆技巧：secret（秘密）+ly（副词后缀），秘密地行动",
         "english": "secretly",
         "phonetic": "/ˈsiːkrətli/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "放松;休息",
-        "desc": "v. 记忆技巧：re（再）+lax（松弛），再次松弛即放松",
-        "english": "relax",
-        "phonetic": "/rɪˈlæks/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-b"
     },
     {
         "chinese": "进来;进入",
         "desc": "v. 记忆技巧：en（使）+ter（土地），使进入土地",
         "english": "enter",
         "phonetic": "/ˈentər/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "心力交瘁的;焦虑不安的",
-        "desc": "adj. 记忆技巧：stress（压力）+ed（形容词后缀），有压力的状态",
-        "english": "stressed",
-        "phonetic": "/strest/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-b"
     },
     {
         "chinese": "达到目的;成功",
         "desc": "v. 记忆技巧：suc（向下）+ceed（走），坚持走下去终成功",
         "english": "succeed",
         "phonetic": "/səkˈsiːd/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-b"
     },
     {
         "chinese": "诡计",
         "desc": "n./v. 记忆技巧：发音联想“诡计”，结合恶作剧场景",
         "english": "trick",
         "phonetic": "/trɪk/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "往往会;常常就",
-        "desc": "v. 记忆技巧：联想“疼的”，生病时往往会疼",
-        "english": "tend",
-        "phonetic": "/tend/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-b"
     },
     {
         "chinese": "打仗;战斗",
         "desc": "v./n. 记忆技巧：f（打）+ight，模拟打架动作",
         "english": "fight",
         "phonetic": "/faɪt/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "正常的",
-        "desc": "adj. 记忆技巧：nor（不）+mal（坏），不坏即正常",
-        "english": "normal",
-        "phonetic": "/ˈnɔːrml/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-c"
     },
     {
         "chinese": "打败(某人);敲打",
         "desc": "v./n. 记忆技巧：发音联想“敲打”，结合鼓点节奏",
         "english": "beat",
         "phonetic": "/biːt/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "丧失;损失",
-        "desc": "n. 记忆技巧：lose（丢失）的名词形式，去e加ss",
-        "english": "loss",
-        "phonetic": "/lɔːs/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "餐叉",
-        "desc": "n. 记忆技巧：发音联想“福克”，结合餐叉形状",
-        "english": "fork",
-        "phonetic": "/fɔːrk/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-c"
     },
     {
         "chinese": "假装;佯装",
         "desc": "v. 记忆技巧：pre（提前）+tend（趋向），提前趋向假装",
         "english": "pretend",
         "phonetic": "/prɪˈtend/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "洋葱",
-        "desc": "n. 记忆技巧：发音联想“洋葱”，结合切洋葱流泪场景",
-        "english": "onion",
-        "phonetic": "/ˈʌnjən/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-c"
     },
     {
         "chinese": "敌人",
         "desc": "n. 记忆技巧：en（使）+emy（敌人），使成为对手",
         "english": "enemy",
         "phonetic": "/ˈenəmi/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "蚂蚁",
-        "desc": "n. 记忆技巧：发音联想“蚂蚁”，结合小昆虫形象",
-        "english": "ant",
-        "phonetic": "/ænt/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-c"
     },
     {
         "chinese": "失败;未能(做到)",
         "desc": "v. 记忆技巧：联想“费了”，费力气却未成功",
         "english": "fail",
         "phonetic": "/feɪl/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "上下文;语境",
-        "desc": "n. 记忆技巧：con（共同）+text（文本），共同文本即语境",
-        "english": "context",
-        "phonetic": "/ˈkɑːntekst/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-c"
     },
     {
         "chinese": "因此;所以",
         "desc": "adv. 因此；所以。记忆技巧：there（那里）+ fore（前面）→ 因此在前面；联想逻辑连接词。",
         "english": "therefore",
         "phonetic": "/ˈðerfɔːr/",
-        "tag": "junior/grade8a/unit6"
-    },
-    {
-        "chinese": "图像",
-        "desc": "n. 图像；影像。记忆技巧：im-（进入）+ age（时代）→ 进入时代的图像；发音近似“意象”。",
-        "english": "image",
-        "phonetic": "/ˈɪmɪdʒ/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-c"
     },
     {
         "chinese": "在(某段时间)之内",
         "desc": "prep. 在...之内。记忆技巧：with（和）+ in（里面）→ 和...一起在里面；联想“在范围内”。",
         "english": "within",
         "phonetic": "/wɪˈðɪn/",
-        "tag": "junior/grade8a/unit6"
+        "tag": "junior/grade8a/unit6-c"
     },
     {
-        "chinese": "感觉官能(即视、听、嗅、味、触五觉)",
-        "desc": "n. 感觉官能。记忆技巧：谐音“绅士”→ 绅士有敏锐的感觉；联想五感（sight,hearing,smell,taste,touch）。",
-        "english": "sense",
-        "phonetic": "/sens/",
-        "tag": "junior/grade8a/unit6"
+        "chinese": "(使)充满;(使)装满",
+        "desc": "动词。记忆技巧：与full（满的）同源，fill表示使变满",
+        "english": "fill",
+        "phonetic": "/fɪl/",
+        "tag": "junior/grade8a/unit6-c"
     },
     {
-        "chinese": "抱怨;投诉",
-        "desc": "v. 记忆技巧：com-（加强）+ plain（清楚的）→ 清楚表达不满→抱怨",
-        "english": "complain",
-        "phonetic": "/kəmˈpleɪn/",
-        "tag": "junior/grade8a/unit8"
+        "chinese": "向;朝",
+        "desc": "介词。记忆技巧：toward的变体，tow（拖）+ -ard→拖向→朝",
+        "english": "towards",
+        "phonetic": "/tɔːrdz/",
+        "tag": "junior/grade8a/unit6-c"
+    },
+    {
+        "chinese": "袭击;攻击",
+        "desc": "动词/名词。记忆技巧：at-（向）+ tack（钉）→向…钉去→攻击",
+        "english": "attack",
+        "phonetic": "/əˈtæk/",
+        "tag": "junior/grade8a/unit6-c"
+    },
+    {
+        "chinese": "雾",
+        "desc": "名词。记忆技巧：音似“雾”，简单易记",
+        "english": "fog",
+        "phonetic": "/fɔːɡ/",
+        "tag": "junior/grade8a/unit6-d"
+    },
+    {
+        "chinese": "开……的玩笑",
+        "desc": "动词短语，make（做）+ jokes（玩笑）+ about（关于）→对…开玩笑",
+        "english": "make jokes about",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6-d"
+    },
+    {
+        "chinese": "在……方面成功",
+        "desc": "动词短语，succeed（成功）+ in（在…方面）→在某方面取得成功",
+        "english": "succeed in",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6-d"
+    },
+    {
+        "chinese": "厌烦",
+        "desc": "动词短语，be（是）+ tired（疲倦的）+ of（关于）→对…感到厌烦",
+        "english": "be tired of",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6-d"
+    },
+    {
+        "chinese": "上船",
+        "desc": "动词短语，go（去）+ on board（在船上）→登上船",
+        "english": "go on board",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6-d"
+    },
+    {
+        "chinese": "嫉妒",
+        "desc": "动词短语，be（是）+ jealous（嫉妒的）+ of（关于）→对…感到嫉妒",
+        "english": "be jealous of",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6-d"
+    },
+    {
+        "chinese": "装满;充满",
+        "desc": "动词短语，be（是）+ full（满的）+ of（…的）→充满某物",
+        "english": "be full of",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6-d"
+    },
+    {
+        "chinese": "有规律地",
+        "desc": "词性：副词。记忆技巧：regular（规则的）+ly（副词后缀），按规则地即有规律地。",
+        "english": "regularly",
+        "phonetic": "/ˈreɡjələrli/",
+        "tag": "junior/grade8a/unit7-a"
+    },
+    {
+        "chinese": "重复",
+        "desc": "词性：动词。记忆技巧：re-（再）+peat（音似“皮特”），再次做皮特的动作即重复。",
+        "english": "repeat",
+        "phonetic": "/rɪˈpiːt/",
+        "tag": "junior/grade8a/unit7-a"
+    },
+    {
+        "chinese": "笔记;记录",
+        "desc": "词性：名词/动词。记忆技巧：音似“闹特”，不要吵闹，认真做笔记。",
+        "english": "note",
+        "phonetic": "/noʊt/",
+        "tag": "junior/grade8a/unit7-a"
+    },
+    {
+        "chinese": "视觉的",
+        "desc": "词性：形容词。记忆技巧：vis-词根“看”（如vision），与视觉相关的。",
+        "english": "visual",
+        "phonetic": "/ˈvɪʒuəl/",
+        "tag": "junior/grade8a/unit7-b"
+    },
+    {
+        "chinese": "精神上",
+        "desc": "词性：副词。记忆技巧：mental（精神的）+ly（副词后缀），表精神方面。",
+        "english": "mentally",
+        "phonetic": "/ˈmentəli/",
+        "tag": "junior/grade8a/unit7-b"
+    },
+    {
+        "chinese": "联系;相联系",
+        "desc": "词性：动词/名词。记忆技巧：音似“灵可”，灵活可建立联系。",
+        "english": "link",
+        "phonetic": "/lɪŋk/",
+        "tag": "junior/grade8a/unit7-b"
+    },
+    {
+        "chinese": "清单",
+        "desc": "词性：名词/动词。记忆技巧：音似“历史”，历史事件可列成清单。",
+        "english": "list",
+        "phonetic": "/lɪst/",
+        "tag": "junior/grade8a/unit7-b"
+    },
+    {
+        "chinese": "尤其",
+        "desc": "词性：副词。记忆技巧：especial（特别的）+ly（副词后缀），表尤其特别。",
+        "english": "especially",
+        "phonetic": "/ɪˈspeʃəli/",
+        "tag": "junior/grade8a/unit7-b"
+    },
+    {
+        "chinese": "日常饮食",
+        "desc": "词性：名词。记忆技巧：音似“带它”，每天带它（食物）即日常饮食。",
+        "english": "diet",
+        "phonetic": "/ˈdaɪət/",
+        "tag": "junior/grade8a/unit7-b"
+    },
+    {
+        "chinese": "维持;保持",
+        "desc": "词性：动词。记忆技巧：main（主要）+tain（保持），主要保持即维持。",
+        "english": "maintain",
+        "phonetic": "/meɪnˈteɪn/",
+        "tag": "junior/grade8a/unit7-b"
+    },
+    {
+        "chinese": "坚果",
+        "desc": "n. 记忆技巧：发音联想“坚果”，结合形状记忆",
+        "english": "nut",
+        "phonetic": "/nʌt/",
+        "tag": "junior/grade8a/unit7-b"
+    },
+    {
+        "chinese": "放松;休息",
+        "desc": "v. 记忆技巧：re（再）+lax（松弛），再次松弛即放松",
+        "english": "relax",
+        "phonetic": "/rɪˈlæks/",
+        "tag": "junior/grade8a/unit7-b"
+    },
+    {
+        "chinese": "心力交瘁的;焦虑不安的",
+        "desc": "adj. 记忆技巧：stress（压力）+ed（形容词后缀），有压力的状态",
+        "english": "stressed",
+        "phonetic": "/strest/",
+        "tag": "junior/grade8a/unit7-b"
+    },
+    {
+        "chinese": "往往会;常常就",
+        "desc": "v. 记忆技巧：联想“疼的”，生病时往往会疼",
+        "english": "tend",
+        "phonetic": "/tend/",
+        "tag": "junior/grade8a/unit7-c"
+    },
+    {
+        "chinese": "正常的",
+        "desc": "adj. 记忆技巧：nor（不）+mal（坏），不坏即正常",
+        "english": "normal",
+        "phonetic": "/ˈnɔːrml/",
+        "tag": "junior/grade8a/unit7-c"
+    },
+    {
+        "chinese": "丧失;损失",
+        "desc": "n. 记忆技巧：lose（丢失）的名词形式，去e加ss",
+        "english": "loss",
+        "phonetic": "/lɔːs/",
+        "tag": "junior/grade8a/unit7-c"
+    },
+    {
+        "chinese": "餐叉",
+        "desc": "n. 记忆技巧：发音联想“福克”，结合餐叉形状",
+        "english": "fork",
+        "phonetic": "/fɔːrk/",
+        "tag": "junior/grade8a/unit7-c"
+    },
+    {
+        "chinese": "洋葱",
+        "desc": "n. 记忆技巧：发音联想“洋葱”，结合切洋葱流泪场景",
+        "english": "onion",
+        "phonetic": "/ˈʌnjən/",
+        "tag": "junior/grade8a/unit7-c"
+    },
+    {
+        "chinese": "蚂蚁",
+        "desc": "n. 记忆技巧：发音联想“蚂蚁”，结合小昆虫形象",
+        "english": "ant",
+        "phonetic": "/ænt/",
+        "tag": "junior/grade8a/unit7-c"
+    },
+    {
+        "chinese": "上下文;语境",
+        "desc": "n. 记忆技巧：con（共同）+text（文本），共同文本即语境",
+        "english": "context",
+        "phonetic": "/ˈkɑːntekst/",
+        "tag": "junior/grade8a/unit7-c"
+    },
+    {
+        "chinese": "图像",
+        "desc": "n. 图像；影像。记忆技巧：im-（进入）+ age（时代）→ 进入时代的图像；发音近似“意象”。",
+        "english": "image",
+        "phonetic": "/ˈɪmɪdʒ/",
+        "tag": "junior/grade8a/unit7-c"
     },
     {
         "chinese": "总结;概括",
         "desc": "n. 记忆技巧：sum（总和）+ mary（名词后缀）→ 总和的内容→总结",
         "english": "summary",
         "phonetic": "/ˈsʌməri/",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit7-c"
+    },
+    {
+        "chinese": "感觉官能(即视、听、嗅、味、触五觉)",
+        "desc": "n. 感觉官能。记忆技巧：谐音“绅士”→ 绅士有敏锐的感觉；联想五感（sight,hearing,smell,taste,touch）。",
+        "english": "sense",
+        "phonetic": "/sens/",
+        "tag": "junior/grade8a/unit7-c"
     },
     {
         "chinese": "包含;含有",
         "desc": "v. 记忆技巧：con-（一起）+ tain（拿住）→ 一起拿住→包含",
         "english": "contain",
         "phonetic": "/kənˈteɪn/",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "垃圾",
-        "desc": "n./v. 记忆技巧：联想little（小的）→ 小垃圾碎片→垃圾",
-        "english": "litter",
-        "phonetic": "/ˈlɪtər/",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit7-d"
     },
     {
         "chinese": "专指的;特指的",
         "desc": "adj. 记忆技巧：part（部分）+ icular（形容词后缀）→ 某部分的→特指的",
         "english": "particular",
         "phonetic": "/pərˈtɪkjələr/",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "不大可能发生的",
-        "desc": "adj. 记忆技巧：un-（否定）+ likely（可能的）→ 不大可能的",
-        "english": "unlikely",
-        "phonetic": "/ʌnˈlaɪkli/",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit7-d"
     },
     {
         "chinese": "化学性质;化学",
         "desc": "n. 记忆技巧：chemist（化学家）+ ry（名词后缀）→ 化学",
         "english": "chemistry",
         "phonetic": "/ˈkemɪstri/",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "缓解;减轻",
-        "desc": "v. 记忆技巧：re-（再次）+ lieve（减轻）→ 缓解",
-        "english": "relieve",
-        "phonetic": "/rɪˈliːv/",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "在室内",
-        "desc": "adv. 记忆技巧：in（在…里）+ doors（门）→ 在室内",
-        "english": "indoors",
-        "phonetic": "/ˈɪndɔːrz/",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "有魔力的",
-        "desc": "adj. 记忆技巧：magic（魔法）+ al（形容词后缀）→ 有魔力的",
-        "english": "magical",
-        "phonetic": "/ˈmædʒɪkl/",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit7-d"
     },
     {
         "chinese": "识字卡片",
         "desc": "词组",
         "english": "flash card",
         "phonetic": "",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "钱财;财富",
-        "desc": "n. 记忆技巧：weal（福利）+ th（名词后缀）→ 财富",
-        "english": "wealth",
-        "phonetic": "/welθ/",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit7-d"
     },
     {
         "chinese": "(因重要或必要)保证做",
         "desc": "固定搭配",
         "english": "make a point of doing something",
         "phonetic": "",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "女王;王后",
-        "desc": "n. 记忆技巧：联想king（国王）的对应词→女王",
-        "english": "queen",
-        "phonetic": "/kwiːn/",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit7-d"
     },
     {
         "chinese": "最后但同样重要的",
         "desc": "固定搭配",
         "english": "last but not least",
         "phonetic": "",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit7-d"
     },
     {
         "chinese": "自然灾害",
         "desc": "词组",
         "english": "natural disaster",
         "phonetic": "",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "在……中",
-        "desc": "prep. 记忆技巧：a-（在）+ mong（人群）→ 在……中",
-        "english": "among",
-        "phonetic": "/əˈmʌŋ/",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit7-d"
     },
     {
         "chinese": "弄懂;弄清楚",
         "desc": "动词短语",
         "english": "figure out",
         "phonetic": "",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "关系",
-        "desc": "n. 记忆技巧：relation（关系）+ ship（名词后缀）→ 关系",
-        "english": "relationship",
-        "phonetic": "/rɪˈleɪʃnʃɪp/",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "长大;成熟",
-        "desc": "动词短语",
-        "english": "grow up",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit7-d"
     },
     {
         "chinese": "袭击;攻击",
         "desc": "动词/名词；记忆技巧：at（在）+ tack（钉子）→ 用钉子袭击",
         "english": "attack",
         "phonetic": "/əˈtæk/",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "照顾;照料",
-        "desc": "词组",
-        "english": "care for",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit8-a"
     },
     {
         "chinese": "忠实的;忠诚的",
         "desc": "形容词；记忆技巧：faith（信仰）+ ful（形容词后缀）→ 有信仰的→忠实的",
         "english": "faithful",
         "phonetic": "/ˈfeɪθfl/",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "总之;简言之",
-        "desc": "词组",
-        "english": "in short",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "别无选择;只能……",
-        "desc": "词组",
-        "english": "have no choice but to do",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit8-a"
     },
     {
         "chinese": "抱着;拿着",
         "desc": "动词；记忆技巧：hold（握住）→ 联想“握住东西”",
         "english": "hold",
         "phonetic": "/hoʊld/",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "四处自由走动",
-        "desc": "词组",
-        "english": "run free",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit8-b"
     },
     {
         "chinese": "可信任的;可信赖的",
         "desc": "形容词；记忆技巧：response（回应）+ ible（可…的）→ 可回应的→负责的",
         "english": "responsible",
         "phonetic": "/rɪˈspɑːnsəbl/",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "懒散度日;游手好闲",
-        "desc": "词组",
-        "english": "lie around",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit8-b"
     },
     {
         "chinese": "醒着",
         "desc": "形容词/动词；记忆技巧：a（前缀，加强）+ wake（醒）→ 醒着的",
         "english": "awake",
         "phonetic": "/əˈweɪk/",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "抱怨",
-        "desc": "词组",
-        "english": "complain about",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit8-b"
     },
     {
         "chinese": "公寓",
         "desc": "名词；记忆技巧：flat（平坦的）→ 公寓通常是平坦的一层",
         "english": "flat",
         "phonetic": "/flæt/",
-        "tag": "junior/grade8a/unit8"
-    },
-    {
-        "chinese": "除……以外(还)",
-        "desc": "词组",
-        "english": "in addition",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit8-b"
     },
     {
         "chinese": "选择",
         "desc": "名词；记忆技巧：choose（选择，动词）→ choice（名词形式）",
         "english": "choice",
         "phonetic": "/tʃɔɪs/",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit8-b"
     },
     {
         "chinese": "劝告;建议",
         "desc": "动词；记忆技巧：ad（加强）+ vise（看）→ 仔细看→劝告",
         "english": "advise",
         "phonetic": "/ədˈvaɪz/",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit8-b"
     },
     {
-        "chinese": "引起某人的注意",
-        "desc": "词组",
-        "english": "catch the eye of somebody",
-        "phonetic": "",
-        "tag": "junior/grade8a/unit8"
+        "chinese": "抱怨;投诉",
+        "desc": "v. 记忆技巧：com-（加强）+ plain（清楚的）→ 清楚表达不满→抱怨",
+        "english": "complain",
+        "phonetic": "/kəmˈpleɪn/",
+        "tag": "junior/grade8a/unit8-b"
+    },
+    {
+        "chinese": "垃圾",
+        "desc": "n./v. 记忆技巧：联想little（小的）→ 小垃圾碎片→垃圾",
+        "english": "litter",
+        "phonetic": "/ˈlɪtər/",
+        "tag": "junior/grade8a/unit8-b"
+    },
+    {
+        "chinese": "不大可能发生的",
+        "desc": "adj. 记忆技巧：un-（否定）+ likely（可能的）→ 不大可能的",
+        "english": "unlikely",
+        "phonetic": "/ʌnˈlaɪkli/",
+        "tag": "junior/grade8a/unit8-b"
     },
     {
         "chinese": "引起;造成;导致",
         "desc": "动词/名词；记忆技巧：cause（原因）→ 导致结果",
         "english": "cause",
         "phonetic": "/kɔːz/",
-        "tag": "junior/grade8a/unit8"
+        "tag": "junior/grade8a/unit8-b"
+    },
+    {
+        "chinese": "缓解;减轻",
+        "desc": "v. 记忆技巧：re-（再次）+ lieve（减轻）→ 缓解",
+        "english": "relieve",
+        "phonetic": "/rɪˈliːv/",
+        "tag": "junior/grade8a/unit8-c"
+    },
+    {
+        "chinese": "在室内",
+        "desc": "adv. 记忆技巧：in（在…里）+ doors（门）→ 在室内",
+        "english": "indoors",
+        "phonetic": "/ˈɪndɔːrz/",
+        "tag": "junior/grade8a/unit8-c"
+    },
+    {
+        "chinese": "有魔力的",
+        "desc": "adj. 记忆技巧：magic（魔法）+ al（形容词后缀）→ 有魔力的",
+        "english": "magical",
+        "phonetic": "/ˈmædʒɪkl/",
+        "tag": "junior/grade8a/unit8-c"
+    },
+    {
+        "chinese": "钱财;财富",
+        "desc": "n. 记忆技巧：weal（福利）+ th（名词后缀）→ 财富",
+        "english": "wealth",
+        "phonetic": "/welθ/",
+        "tag": "junior/grade8a/unit8-c"
+    },
+    {
+        "chinese": "女王;王后",
+        "desc": "n. 记忆技巧：联想king（国王）的对应词→女王",
+        "english": "queen",
+        "phonetic": "/kwiːn/",
+        "tag": "junior/grade8a/unit8-c"
+    },
+    {
+        "chinese": "仆人；佣人",
+        "desc": "n.",
+        "english": "servant",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit8-c"
+    },
+    {
+        "chinese": "自豪；骄傲",
+        "desc": "n.",
+        "english": "pride",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit8-c"
+    },
+    {
+        "chinese": "在……中",
+        "desc": "prep. 记忆技巧：a-（在）+ mong（人群）→ 在……中",
+        "english": "among",
+        "phonetic": "/əˈmʌŋ/",
+        "tag": "junior/grade8a/unit8-c"
+    },
+    {
+        "chinese": "关系",
+        "desc": "n. 记忆技巧：relation（关系）+ ship（名词后缀）→ 关系",
+        "english": "relationship",
+        "phonetic": "/rɪˈleɪʃnʃɪp/",
+        "tag": "junior/grade8a/unit8-c"
+    },
+    {
+        "chinese": "长大;成熟",
+        "desc": "动词短语",
+        "english": "grow up",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit8-c"
+    },
+    {
+        "chinese": "照顾;照料",
+        "desc": "词组",
+        "english": "care for",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit8-d"
+    },
+    {
+        "chinese": "总之;简言之",
+        "desc": "词组",
+        "english": "in short",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit8-d"
+    },
+    {
+        "chinese": "别无选择;只能……",
+        "desc": "词组",
+        "english": "have no choice but to do",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit8-d"
+    },
+    {
+        "chinese": "四处自由走动",
+        "desc": "词组",
+        "english": "run free",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit8-d"
+    },
+    {
+        "chinese": "懒散度日;游手好闲",
+        "desc": "词组",
+        "english": "lie around",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit8-d"
+    },
+    {
+        "chinese": "抱怨",
+        "desc": "词组",
+        "english": "complain about",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit8-d"
+    },
+    {
+        "chinese": "除……以外(还)",
+        "desc": "词组",
+        "english": "in addition",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit8-d"
+    },
+    {
+        "chinese": "引起某人的注意",
+        "desc": "词组",
+        "english": "catch the eye of somebody",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit8-d"
+    },
+    {
+        "title": "01 Unit 1 Reading",
+        "file": "/Users/alphahinex/Desktop/test/audio/01 Unit 1 Reading.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/830e43a2-3803-0c8d-60d7-b95fa10538d1.t/zh-CN/1755764496927/transcode/audios/830e43a2-3803-0c8d-60d7-b95fa10538d1.mp3",
+        "bytes": 4423096,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "02 Unit 1 Listening",
+        "file": "/Users/alphahinex/Desktop/test/audio/02 Unit 1 Listening.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/607801ea-2f84-f4aa-c39e-29b66c538d92.t/zh-CN/1755764496965/transcode/audios/607801ea-2f84-f4aa-c39e-29b66c538d92.mp3",
+        "bytes": 4660079,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "03 Unit 1 Speaking",
+        "file": "/Users/alphahinex/Desktop/test/audio/03 Unit 1 Speaking.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/cde4cd0a-8208-ad2c-7f57-7fd830b6c7d9.t/zh-CN/1755764497037/transcode/audios/cde4cd0a-8208-ad2c-7f57-7fd830b6c7d9.mp3",
+        "bytes": 2535383,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "04 Unit 1 Focusing on culture",
+        "file": "/Users/alphahinex/Desktop/test/audio/04 Unit 1 Focusing on culture.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/5f7919ce-38ba-c41a-1e27-9ce11ec6c0be.t/zh-CN/1755764497081/transcode/audios/5f7919ce-38ba-c41a-1e27-9ce11ec6c0be.mp3",
+        "bytes": 4490178,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "05 Unit 1 Cross-curricular connection",
+        "file": "/Users/alphahinex/Desktop/test/audio/05 Unit 1 Cross-curricular connection.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/1918b555-d963-f345-0156-3bd2cf294885.t/zh-CN/1755764497109/transcode/audios/1918b555-d963-f345-0156-3bd2cf294885.mp3",
+        "bytes": 2057656,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "06 Unit 2 Reading",
+        "file": "/Users/alphahinex/Desktop/test/audio/06 Unit 2 Reading.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/fb17910a-9ca4-2dc4-15d5-964629370e3f.t/zh-CN/1755764497168/transcode/audios/fb17910a-9ca4-2dc4-15d5-964629370e3f.mp3",
+        "bytes": 3763145,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "07 Unit 2 Listening",
+        "file": "/Users/alphahinex/Desktop/test/audio/07 Unit 2 Listening.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/fe1a64a7-5fa4-ba13-ce60-ee32283fc808.t/zh-CN/1755764497164/transcode/audios/fe1a64a7-5fa4-ba13-ce60-ee32283fc808.mp3",
+        "bytes": 6381652,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "08 Unit 2 Speaking",
+        "file": "/Users/alphahinex/Desktop/test/audio/08 Unit 2 Speaking.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/f0e79504-49ac-77d9-babb-60bb1d340bb0.t/zh-CN/1755764497193/transcode/audios/f0e79504-49ac-77d9-babb-60bb1d340bb0.mp3",
+        "bytes": 4640643,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "09 Unit 2 Focusing on culture",
+        "file": "/Users/alphahinex/Desktop/test/audio/09 Unit 2 Focusing on culture.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/eb533242-65c7-cb4a-bb87-9d67909b49bc.t/zh-CN/1755764497227/transcode/audios/eb533242-65c7-cb4a-bb87-9d67909b49bc.mp3",
+        "bytes": 4261972,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "10 Unit 2 Cross-curricular connection",
+        "file": "/Users/alphahinex/Desktop/test/audio/10 Unit 2 Cross-curricular connection.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e6785d37-b2b0-d161-31fd-24da676e5f1b.t/zh-CN/1755764497263/transcode/audios/e6785d37-b2b0-d161-31fd-24da676e5f1b.mp3",
+        "bytes": 3027530,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "11 Unit 3 Reading",
+        "file": "/Users/alphahinex/Desktop/test/audio/11 Unit 3 Reading.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/a82e897c-f74c-6571-ec17-5cd0a2bc46db.t/zh-CN/1755764497320/transcode/audios/a82e897c-f74c-6571-ec17-5cd0a2bc46db.mp3",
+        "bytes": 4484536,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "12 Unit 3 Listening",
+        "file": "/Users/alphahinex/Desktop/test/audio/12 Unit 3 Listening.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/a94d474b-5c7f-a1be-e50b-b472877e35ad.t/zh-CN/1755764497309/transcode/audios/a94d474b-5c7f-a1be-e50b-b472877e35ad.mp3",
+        "bytes": 7412340,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "13 Unit 3 Speaking",
+        "file": "/Users/alphahinex/Desktop/test/audio/13 Unit 3 Speaking.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/a2d12ef8-f2f8-f01f-f365-7a9bbecb1afe.t/zh-CN/1755764497344/transcode/audios/a2d12ef8-f2f8-f01f-f365-7a9bbecb1afe.mp3",
+        "bytes": 2327866,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "14 Unit 3 Focusing on culture",
+        "file": "/Users/alphahinex/Desktop/test/audio/14 Unit 3 Focusing on culture.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/85386d15-4346-9f8a-3e1a-c371d6f01892.t/zh-CN/1755764497366/transcode/audios/85386d15-4346-9f8a-3e1a-c371d6f01892.mp3",
+        "bytes": 4898315,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "15 Unit 3 Cross-curricular connection",
+        "file": "/Users/alphahinex/Desktop/test/audio/15 Unit 3 Cross-curricular connection.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/3943ffa7-8823-c539-7238-61c427fc7567.t/zh-CN/1755764497396/transcode/audios/3943ffa7-8823-c539-7238-61c427fc7567.mp3",
+        "bytes": 3638795,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "16 Unit 4 Reading",
+        "file": "/Users/alphahinex/Desktop/test/audio/16 Unit 4 Reading.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/2644efb8-2feb-0d67-0f6c-3461f887f7f2.t/zh-CN/1755764497420/transcode/audios/2644efb8-2feb-0d67-0f6c-3461f887f7f2.mp3",
+        "bytes": 4540549,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "17 Unit 4 Listening",
+        "file": "/Users/alphahinex/Desktop/test/audio/17 Unit 4 Listening.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/12383f90-8936-3a50-a798-ee52719e6a08.t/zh-CN/1755764497481/transcode/audios/12383f90-8936-3a50-a798-ee52719e6a08.mp3",
+        "bytes": 7758625,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "18 Unit 4 Speaking",
+        "file": "/Users/alphahinex/Desktop/test/audio/18 Unit 4 Speaking.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/19eaa672-1e6c-3e2c-b610-f6e8d627c81a.t/zh-CN/1755764497481/transcode/audios/19eaa672-1e6c-3e2c-b610-f6e8d627c81a.mp3",
+        "bytes": 2497140,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "19 Unit 4 Focusing on culture",
+        "file": "/Users/alphahinex/Desktop/test/audio/19 Unit 4 Focusing on culture.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/a7de6327-5cc3-d0ed-3c11-5a4029d16d80.t/zh-CN/1755764497517/transcode/audios/a7de6327-5cc3-d0ed-3c11-5a4029d16d80.mp3",
+        "bytes": 4828098,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "20 Unit 4 Cross-curricular connection",
+        "file": "/Users/alphahinex/Desktop/test/audio/20 Unit 4 Cross-curricular connection.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/719df3d0-e85a-4ca4-5a40-551ece5e9ded.t/zh-CN/1755764497539/transcode/audios/719df3d0-e85a-4ca4-5a40-551ece5e9ded.mp3",
+        "bytes": 3242570,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "21 Unit 5 Reading",
+        "file": "/Users/alphahinex/Desktop/test/audio/21 Unit 5 Reading.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/8a101518-1430-2783-1dd8-334c9313bf0a.t/zh-CN/1755764497575/transcode/audios/8a101518-1430-2783-1dd8-334c9313bf0a.mp3",
+        "bytes": 4385479,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "22 Unit 5 Listening",
+        "file": "/Users/alphahinex/Desktop/test/audio/22 Unit 5 Listening.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/3a6f863c-3c51-02cc-7829-e68e50cd76dd.t/zh-CN/1755764497599/transcode/audios/3a6f863c-3c51-02cc-7829-e68e50cd76dd.mp3",
+        "bytes": 5990443,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "23 Unit 5 Speaking",
+        "file": "/Users/alphahinex/Desktop/test/audio/23 Unit 5 Speaking.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/780b542c-7948-d313-9cf6-5fdb56c2bed5.t/zh-CN/1755764497627/transcode/audios/780b542c-7948-d313-9cf6-5fdb56c2bed5.mp3",
+        "bytes": 2273323,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "24 Unit 5 Focusing on culture",
+        "file": "/Users/alphahinex/Desktop/test/audio/24 Unit 5 Focusing on culture.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/baff0557-2b8a-a26a-db87-e9e7e940598b.t/zh-CN/1755764497658/transcode/audios/baff0557-2b8a-a26a-db87-e9e7e940598b.mp3",
+        "bytes": 4145989,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "25 Unit 5 Cross-curricular connection",
+        "file": "/Users/alphahinex/Desktop/test/audio/25 Unit 5 Cross-curricular connection.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/5f55be0d-48a7-4e2e-e8e1-e85acd9a8dc3.t/zh-CN/1755764497707/transcode/audios/5f55be0d-48a7-4e2e-e8e1-e85acd9a8dc3.mp3",
+        "bytes": 2717195,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "26 Unit 6 Reading",
+        "file": "/Users/alphahinex/Desktop/test/audio/26 Unit 6 Reading.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/cc8e4e2b-5b01-6c32-6f65-d58a1f216123.t/zh-CN/1755764497736/transcode/audios/cc8e4e2b-5b01-6c32-6f65-d58a1f216123.mp3",
+        "bytes": 5555562,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "27 Unit 6 Listening",
+        "file": "/Users/alphahinex/Desktop/test/audio/27 Unit 6 Listening.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/7011e828-e20b-6bb2-9aef-21e2cdffecc3.t/zh-CN/1755764497766/transcode/audios/7011e828-e20b-6bb2-9aef-21e2cdffecc3.mp3",
+        "bytes": 5320245,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "28 Unit 6 Speaking",
+        "file": "/Users/alphahinex/Desktop/test/audio/28 Unit 6 Speaking.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/3a7e2583-63ab-880b-09d6-36fb99b18a84.t/zh-CN/1755764497795/transcode/audios/3a7e2583-63ab-880b-09d6-36fb99b18a84.mp3",
+        "bytes": 4430619,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "29 Unit 6 Focusing on culture",
+        "file": "/Users/alphahinex/Desktop/test/audio/29 Unit 6 Focusing on culture.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/4b4fe443-7481-70f3-e09e-12a061c91c06.t/zh-CN/1755764497826/transcode/audios/4b4fe443-7481-70f3-e09e-12a061c91c06.mp3",
+        "bytes": 3757287,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "30 Unit 6 Cross-curricular connection",
+        "file": "/Users/alphahinex/Desktop/test/audio/30 Unit 6 Cross-curricular connection.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/6baa1a59-2e67-d75a-f2be-1fbe96746200.t/zh-CN/1755764497850/transcode/audios/6baa1a59-2e67-d75a-f2be-1fbe96746200.mp3",
+        "bytes": 3746629,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "31 Unit 7 Reading",
+        "file": "/Users/alphahinex/Desktop/test/audio/31 Unit 7 Reading.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/99bf1adb-7c36-b88e-f3fb-5edbae4b5ae0.t/zh-CN/1755764497880/transcode/audios/99bf1adb-7c36-b88e-f3fb-5edbae4b5ae0.mp3",
+        "bytes": 4220594,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "32 Unit 7 Listening",
+        "file": "/Users/alphahinex/Desktop/test/audio/32 Unit 7 Listening.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/ff96d761-e461-f55d-331e-f2dbad0e8b89.t/zh-CN/1755764497903/transcode/audios/ff96d761-e461-f55d-331e-f2dbad0e8b89.mp3",
+        "bytes": 13857897,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "33 Unit 7 Speaking",
+        "file": "/Users/alphahinex/Desktop/test/audio/33 Unit 7 Speaking.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/f5747699-afed-e8dd-05a9-6d516326177c.t/zh-CN/1755764497939/transcode/audios/f5747699-afed-e8dd-05a9-6d516326177c.mp3",
+        "bytes": 3415605,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "34 Unit 7 Focusing on culture",
+        "file": "/Users/alphahinex/Desktop/test/audio/34 Unit 7 Focusing on culture.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/53e4e88a-33c3-91c7-7ac6-8239692dc933.t/zh-CN/1755764497961/transcode/audios/53e4e88a-33c3-91c7-7ac6-8239692dc933.mp3",
+        "bytes": 4409930,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "35 Unit 7 Cross-curricular connection",
+        "file": "/Users/alphahinex/Desktop/test/audio/35 Unit 7 Cross-curricular connection.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/0e896c04-7060-9ea6-d21a-e5e031e92128.t/zh-CN/1755764497989/transcode/audios/0e896c04-7060-9ea6-d21a-e5e031e92128.mp3",
+        "bytes": 3848820,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "36 Unit 8 Reading",
+        "file": "/Users/alphahinex/Desktop/test/audio/36 Unit 8 Reading.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/a00fff74-d392-c1f5-3138-30380488ce75.t/zh-CN/1755764498025/transcode/audios/a00fff74-d392-c1f5-3138-30380488ce75.mp3",
+        "bytes": 4499582,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "37 Unit 8 Listening",
+        "file": "/Users/alphahinex/Desktop/test/audio/37 Unit 8 Listening.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/2f8c434c-0569-a50e-3dc3-25804e3922e1.t/zh-CN/1755764498046/transcode/audios/2f8c434c-0569-a50e-3dc3-25804e3922e1.mp3",
+        "bytes": 6466289,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "38 Unit 8 Speaking",
+        "file": "/Users/alphahinex/Desktop/test/audio/38 Unit 8 Speaking.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/fabd0986-517d-3f80-d462-9b258668f19b.t/zh-CN/1755764498072/transcode/audios/fabd0986-517d-3f80-d462-9b258668f19b.mp3",
+        "bytes": 3385512,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "39 Unit 8 Focusing on culture",
+        "file": "/Users/alphahinex/Desktop/test/audio/39 Unit 8 Focusing on culture.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/16de056e-0226-ee8c-333b-0a68dd4b7e85.t/zh-CN/1755764498105/transcode/audios/16de056e-0226-ee8c-333b-0a68dd4b7e85.mp3",
+        "bytes": 5188171,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "40 Unit 8 Cross-curricular connection",
+        "file": "/Users/alphahinex/Desktop/test/audio/40 Unit 8 Cross-curricular connection.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/a08d3dbf-55f3-1ee5-185a-43c8d4f6ab03.t/zh-CN/1755764498137/transcode/audios/a08d3dbf-55f3-1ee5-185a-43c8d4f6ab03.mp3",
+        "bytes": 3271409,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "41 Appendices_Irregular verbs",
+        "file": "/Users/alphahinex/Desktop/test/audio/41 Appendices_Irregular verbs.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/0c8bfd44-74ed-2c8f-84db-2d7b42f0b21d.t/zh-CN/1755764498174/transcode/audios/0c8bfd44-74ed-2c8f-84db-2d7b42f0b21d.mp3",
+        "bytes": 9169649,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "42 Appendices_Phonetic symbols",
+        "file": "/Users/alphahinex/Desktop/test/audio/42 Appendices_Phonetic symbols.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/27cd3739-2687-a1eb-785b-fd718766619f.t/zh-CN/1755764498236/transcode/audios/27cd3739-2687-a1eb-785b-fd718766619f.mp3",
+        "bytes": 3337238,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "43 Appendices_Words and phrases Unit 1",
+        "file": "/Users/alphahinex/Desktop/test/audio/43 Appendices_Words and phrases Unit 1.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/cb8f7d30-75eb-af3b-5740-eaa571479846.t/zh-CN/1755764498242/transcode/audios/cb8f7d30-75eb-af3b-5740-eaa571479846.mp3",
+        "bytes": 2299869,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "44 Appendices_Words and phrases Unit 2",
+        "file": "/Users/alphahinex/Desktop/test/audio/44 Appendices_Words and phrases Unit 2.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/234c639b-2d00-926b-bb2d-e38822869385.t/zh-CN/1755764498282/transcode/audios/234c639b-2d00-926b-bb2d-e38822869385.mp3",
+        "bytes": 2145241,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "45 Appendices_Words and phrases Unit 3",
+        "file": "/Users/alphahinex/Desktop/test/audio/45 Appendices_Words and phrases Unit 3.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/46d9f58d-6183-ee8e-4bc2-b8aa5a6ddf6c.t/zh-CN/1755764498291/transcode/audios/46d9f58d-6183-ee8e-4bc2-b8aa5a6ddf6c.mp3",
+        "bytes": 3041950,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "46 Appendices_Words and phrases Unit 4",
+        "file": "/Users/alphahinex/Desktop/test/audio/46 Appendices_Words and phrases Unit 4.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/6196d61f-9a09-6ffb-65d9-9650e9a1f8da.t/zh-CN/1755764498319/transcode/audios/6196d61f-9a09-6ffb-65d9-9650e9a1f8da.mp3",
+        "bytes": 2691491,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "47 Appendices_Words and phrases Unit 5",
+        "file": "/Users/alphahinex/Desktop/test/audio/47 Appendices_Words and phrases Unit 5.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/e5213afa-554b-4224-b0ea-b24e9f1abeb2.t/zh-CN/1755764498354/transcode/audios/e5213afa-554b-4224-b0ea-b24e9f1abeb2.mp3",
+        "bytes": 2019412,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "48 Appendices_Words and phrases Unit 6",
+        "file": "/Users/alphahinex/Desktop/test/audio/48 Appendices_Words and phrases Unit 6.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/dbb98c07-8638-8d44-0fad-9f14509057d3.t/zh-CN/1755764498375/transcode/audios/dbb98c07-8638-8d44-0fad-9f14509057d3.mp3",
+        "bytes": 2264545,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "49 Appendices_Words and phrases Unit 7",
+        "file": "/Users/alphahinex/Desktop/test/audio/49 Appendices_Words and phrases Unit 7.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/fe150fc7-9411-8631-4aad-30f78af9701a.t/zh-CN/1755764498421/transcode/audios/fe150fc7-9411-8631-4aad-30f78af9701a.mp3",
+        "bytes": 2314074,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "50 Appendices_Words and phrases Unit 8",
+        "file": "/Users/alphahinex/Desktop/test/audio/50 Appendices_Words and phrases Unit 8.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/c4ed28cd-9de2-fb54-3dd9-d4000cb0522d.t/zh-CN/1755764498452/transcode/audios/c4ed28cd-9de2-fb54-3dd9-d4000cb0522d.mp3",
+        "bytes": 2235079,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "51 Appendices_Proper nouns",
+        "file": "/Users/alphahinex/Desktop/test/audio/51 Appendices_Proper nouns.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/2faf1e56-7f61-adb3-3693-ea6e082edb9b.t/zh-CN/1755764498485/transcode/audios/2faf1e56-7f61-adb3-3693-ea6e082edb9b.mp3",
+        "bytes": 7326660,
+        "tag": "junior/grade8a/audio/manifest"
+    },
+    {
+        "title": "52 Appendices_Glossary",
+        "file": "/Users/alphahinex/Desktop/test/audio/52 Appendices_Glossary.mp3",
+        "url": "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/listening/a89e22f5-b598-0bc1-d68e-06d2b04c3ccf.t/zh-CN/1755764498507/transcode/audios/a89e22f5-b598-0bc1-d68e-06d2b04c3ccf.mp3",
+        "bytes": 1176395,
+        "tag": "junior/grade8a/audio/manifest"
     },
     {
         "english": "blame",
@@ -39310,14 +39695,71 @@ var words = [
             option.value = 'junior/grade8a/unit3-e';
             option.textContent = 'junior/grade8a/unit3-e';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade8a/unit4';
-            option.textContent = 'junior/grade8a/unit4';
+            option.value = 'junior/grade8a/unit4-a';
+            option.textContent = 'junior/grade8a/unit4-a';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade8a/unit6';
-            option.textContent = 'junior/grade8a/unit6';
+            option.value = 'junior/grade8a/unit4-b';
+            option.textContent = 'junior/grade8a/unit4-b';
             newOptions.push(option);var option = document.createElement('option');
-            option.value = 'junior/grade8a/unit8';
-            option.textContent = 'junior/grade8a/unit8';
+            option.value = 'junior/grade8a/unit4-c';
+            option.textContent = 'junior/grade8a/unit4-c';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit4-d';
+            option.textContent = 'junior/grade8a/unit4-d';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit4-e';
+            option.textContent = 'junior/grade8a/unit4-e';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit5-a';
+            option.textContent = 'junior/grade8a/unit5-a';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit5-b';
+            option.textContent = 'junior/grade8a/unit5-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit5-c';
+            option.textContent = 'junior/grade8a/unit5-c';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit5-d';
+            option.textContent = 'junior/grade8a/unit5-d';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit6-a';
+            option.textContent = 'junior/grade8a/unit6-a';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit6-b';
+            option.textContent = 'junior/grade8a/unit6-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit6-c';
+            option.textContent = 'junior/grade8a/unit6-c';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit6-d';
+            option.textContent = 'junior/grade8a/unit6-d';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit7-a';
+            option.textContent = 'junior/grade8a/unit7-a';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit7-b';
+            option.textContent = 'junior/grade8a/unit7-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit7-c';
+            option.textContent = 'junior/grade8a/unit7-c';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit7-d';
+            option.textContent = 'junior/grade8a/unit7-d';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit8-a';
+            option.textContent = 'junior/grade8a/unit8-a';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit8-b';
+            option.textContent = 'junior/grade8a/unit8-b';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit8-c';
+            option.textContent = 'junior/grade8a/unit8-c';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit8-d';
+            option.textContent = 'junior/grade8a/unit8-d';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/audio/manifest';
+            option.textContent = 'junior/grade8a/audio/manifest';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
