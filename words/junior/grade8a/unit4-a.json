@@ -3,30 +3,40 @@
         "chinese": "气球",
         "desc": "名词。联想：ball（球）+oon→ 气球",
         "english": "balloon",
-        "phonetic": "/bəˈluːn/"
+        "phonetic": "/bəˈluːn/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [1.5,4.8]
     },
     {
         "chinese": "轮;车轮",
         "desc": "词性：n. 轮；车轮；v. 转动；记忆技巧：发音类似“威尔”，联想威尔转动车轮。",
         "english": "wheel",
-        "phonetic": "/wil/"
+        "phonetic": "/wil/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [4.8, 6.5]
     },
     {
         "chinese": "在中心的",
         "desc": "词性：adj. 在中心的；记忆技巧：词根centr（中心）+al（形容词后缀）构成。",
         "english": "central",
-        "phonetic": "/ˈsentrəl/"
+        "phonetic": "/ˈsentrəl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [6.5,8.6]
     },
     {
         "chinese": "虽然;尽管",
         "desc": "词性：conj. 虽然；尽管；记忆技巧：al（加强）+though（虽然）构成。",
         "english": "although",
-        "phonetic": "/ɔːlˈðoʊ/"
+        "phonetic": "/ɔːlˈðoʊ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [8.6, 11]
     },
     {
         "chinese": "把……固定;把……附(在……上)",
         "desc": "词性：v. 把……固定；附在……上；记忆技巧：at（加强）+tach（接触）→使接触而附上。",
         "english": "attach",
-        "phonetic": "/əˈtætʃ/"
+        "phonetic": "/əˈtætʃ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [11, 13.8]
     }
 ]
