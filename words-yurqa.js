@@ -18011,6 +18011,454 @@ var words = [
         "tag": "junior/grade8a/unit4"
     },
     {
+        "chinese": "期待;盼望",
+        "desc": "动词。记忆技巧：ex-（向外）+ pect（看）→向外看→期待",
+        "english": "expect",
+        "phonetic": "/ɪkˈspekt/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "(使)充满;(使)装满",
+        "desc": "动词。记忆技巧：与full（满的）同源，fill表示使变满",
+        "english": "fill",
+        "phonetic": "/fɪl/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "情况",
+        "desc": "名词。记忆技巧：situate（使位于）+ -ion名词后缀→所处的位置→情况",
+        "english": "situation",
+        "phonetic": "/ˌsɪtʃuˈeɪʃn/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "向;朝",
+        "desc": "介词。记忆技巧：toward的变体，tow（拖）+ -ard→拖向→朝",
+        "english": "towards",
+        "phonetic": "/tɔːrdz/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "接受",
+        "desc": "动词。记忆技巧：ac-（加强）+ cept（拿）→拿过来→接受",
+        "english": "accept",
+        "phonetic": "/əkˈsept/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "袭击;攻击",
+        "desc": "动词/名词。记忆技巧：at-（向）+ tack（钉）→向…钉去→攻击",
+        "english": "attack",
+        "phonetic": "/əˈtæk/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "适应",
+        "desc": "名词。记忆技巧：adapt（适应，动词）+ -ation名词后缀→适应的过程或结果",
+        "english": "adaptation",
+        "phonetic": "/ˌædæpˈteɪʃn/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "雾",
+        "desc": "名词。记忆技巧：音似“雾”，简单易记",
+        "english": "fog",
+        "phonetic": "/fɔːɡ/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "京剧",
+        "desc": "专有名词短语，指中国传统戏剧形式",
+        "english": "Beijing opera",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "寄宿家庭",
+        "desc": "名词短语，host（主人）+ family（家庭）→提供住宿的家庭",
+        "english": "host family",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "开……的玩笑",
+        "desc": "动词短语，make（做）+ jokes（玩笑）+ about（关于）→对…开玩笑",
+        "english": "make jokes about",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "蜿蜒",
+        "desc": "动词短语，snake（蛇）+ its way（路径）→像蛇一样移动→蜿蜒",
+        "english": "snake its way",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "在……方面成功",
+        "desc": "动词短语，succeed（成功）+ in（在…方面）→在某方面取得成功",
+        "english": "succeed in",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "文化冲击",
+        "desc": "名词短语，culture（文化）+ shock（冲击）→接触新文化时的不适应",
+        "english": "culture shock",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "厌烦",
+        "desc": "动词短语，be（是）+ tired（疲倦的）+ of（关于）→对…感到厌烦",
+        "english": "be tired of",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "解决;处理",
+        "desc": "动词短语，deal（处理）+ with（与…）→处理问题或情况",
+        "english": "deal with",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "上船",
+        "desc": "动词短语，go（去）+ on board（在船上）→登上船",
+        "english": "go on board",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "感到舒适自在",
+        "desc": "动词短语，feel（感觉）+ at home（在家）→感觉像在家一样舒适",
+        "english": "feel at home",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "嫉妒",
+        "desc": "动词短语，be（是）+ jealous（嫉妒的）+ of（关于）→对…感到嫉妒",
+        "english": "be jealous of",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "装满;充满",
+        "desc": "动词短语，be（是）+ full（满的）+ of（…的）→充满某物",
+        "english": "be full of",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "作者;作家",
+        "desc": "词性：名词。记忆技巧：auth-联想“权威”，作者是有权威的写作者。",
+        "english": "author",
+        "phonetic": "/ˈɔːθər/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "遗迹;遗址",
+        "desc": "词性：名词。记忆技巧：remain（保持）的复数形式，保持下来的古代痕迹即遗迹。",
+        "english": "remains",
+        "phonetic": "/rɪˈmeɪnz/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "有规律地",
+        "desc": "词性：副词。记忆技巧：regular（规则的）+ly（副词后缀），按规则地即有规律地。",
+        "english": "regularly",
+        "phonetic": "/ˈreɡjələrli/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "把……安置在（或建造于）",
+        "desc": "词性：动词。记忆技巧：location（位置）的动词形式，定位并安置。",
+        "english": "locate",
+        "phonetic": "/ˈloʊkeɪt/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "重复",
+        "desc": "词性：动词。记忆技巧：re-（再）+peat（音似“皮特”），再次做皮特的动作即重复。",
+        "english": "repeat",
+        "phonetic": "/rɪˈpiːt/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "笔记;记录",
+        "desc": "词性：名词/动词。记忆技巧：音似“闹特”，不要吵闹，认真做笔记。",
+        "english": "note",
+        "phonetic": "/noʊt/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "士兵",
+        "desc": "词性：名词。记忆技巧：音似“馊者”，联想士兵在艰苦环境下可能吃馊饭（辅助记忆）。",
+        "english": "soldier",
+        "phonetic": "/ˈsoʊldʒər/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "视觉的",
+        "desc": "词性：形容词。记忆技巧：vis-词根“看”（如vision），与视觉相关的。",
+        "english": "visual",
+        "phonetic": "/ˈvɪʒuəl/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "首领;领导者",
+        "desc": "词性：名词。记忆技巧：cap（帽子），戴帽子的人常为团队首领。",
+        "english": "captain",
+        "phonetic": "/ˈkæptɪn/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "精神上",
+        "desc": "词性：副词。记忆技巧：mental（精神的）+ly（副词后缀），表精神方面。",
+        "english": "mentally",
+        "phonetic": "/ˈmentəli/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "空的",
+        "desc": "词性：形容词/动词。记忆技巧：em-（进入）+pty（音似“菩提”），进入菩提“空”的境界。",
+        "english": "empty",
+        "phonetic": "/ˈempti/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "联系;相联系",
+        "desc": "词性：动词/名词。记忆技巧：音似“灵可”，灵活可建立联系。",
+        "english": "link",
+        "phonetic": "/lɪŋk/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "胜利;成功",
+        "desc": "词性：名词。记忆技巧：vict-词根“战胜”（如victor），ory名词后缀表结果。",
+        "english": "victory",
+        "phonetic": "/ˈvɪktəri/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "清单",
+        "desc": "词性：名词/动词。记忆技巧：音似“历史”，历史事件可列成清单。",
+        "english": "list",
+        "phonetic": "/lɪst/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "笑话;玩笑",
+        "desc": "词性：名词/动词。记忆技巧：音似“揍客”，开玩笑别真揍客人。",
+        "english": "joke",
+        "phonetic": "/dʒoʊk/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "尤其",
+        "desc": "词性：副词。记忆技巧：especial（特别的）+ly（副词后缀），表尤其特别。",
+        "english": "especially",
+        "phonetic": "/ɪˈspeʃəli/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "日常饮食",
+        "desc": "词性：名词。记忆技巧：音似“带它”，每天带它（食物）即日常饮食。",
+        "english": "diet",
+        "phonetic": "/ˈdaɪət/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "午夜",
+        "desc": "词性：名词。记忆技巧：mid（中间）+night（夜晚），夜晚中间即午夜。",
+        "english": "midnight",
+        "phonetic": "/ˈmɪdnaɪt/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "除……之外",
+        "desc": "词性：介词/动词。记忆技巧：ex-（出）+cept（拿），拿出之外即除了。",
+        "english": "except",
+        "phonetic": "/ɪkˈsept/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "维持;保持",
+        "desc": "词性：动词。记忆技巧：main（主要）+tain（保持），主要保持即维持。",
+        "english": "maintain",
+        "phonetic": "/meɪnˈteɪn/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "藏;隐蔽",
+        "desc": "v. 记忆技巧：h（椅子）+ide（想法），藏在椅子下有想法",
+        "english": "hide",
+        "phonetic": "/haɪd/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "坚果",
+        "desc": "n. 记忆技巧：发音联想“坚果”，结合形状记忆",
+        "english": "nut",
+        "phonetic": "/nʌt/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "秘密地",
+        "desc": "adv. 记忆技巧：secret（秘密）+ly（副词后缀），秘密地行动",
+        "english": "secretly",
+        "phonetic": "/ˈsiːkrətli/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "放松;休息",
+        "desc": "v. 记忆技巧：re（再）+lax（松弛），再次松弛即放松",
+        "english": "relax",
+        "phonetic": "/rɪˈlæks/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "进来;进入",
+        "desc": "v. 记忆技巧：en（使）+ter（土地），使进入土地",
+        "english": "enter",
+        "phonetic": "/ˈentər/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "心力交瘁的;焦虑不安的",
+        "desc": "adj. 记忆技巧：stress（压力）+ed（形容词后缀），有压力的状态",
+        "english": "stressed",
+        "phonetic": "/strest/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "达到目的;成功",
+        "desc": "v. 记忆技巧：suc（向下）+ceed（走），坚持走下去终成功",
+        "english": "succeed",
+        "phonetic": "/səkˈsiːd/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "诡计",
+        "desc": "n./v. 记忆技巧：发音联想“诡计”，结合恶作剧场景",
+        "english": "trick",
+        "phonetic": "/trɪk/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "往往会;常常就",
+        "desc": "v. 记忆技巧：联想“疼的”，生病时往往会疼",
+        "english": "tend",
+        "phonetic": "/tend/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "打仗;战斗",
+        "desc": "v./n. 记忆技巧：f（打）+ight，模拟打架动作",
+        "english": "fight",
+        "phonetic": "/faɪt/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "正常的",
+        "desc": "adj. 记忆技巧：nor（不）+mal（坏），不坏即正常",
+        "english": "normal",
+        "phonetic": "/ˈnɔːrml/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "打败(某人);敲打",
+        "desc": "v./n. 记忆技巧：发音联想“敲打”，结合鼓点节奏",
+        "english": "beat",
+        "phonetic": "/biːt/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "丧失;损失",
+        "desc": "n. 记忆技巧：lose（丢失）的名词形式，去e加ss",
+        "english": "loss",
+        "phonetic": "/lɔːs/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "餐叉",
+        "desc": "n. 记忆技巧：发音联想“福克”，结合餐叉形状",
+        "english": "fork",
+        "phonetic": "/fɔːrk/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "假装;佯装",
+        "desc": "v. 记忆技巧：pre（提前）+tend（趋向），提前趋向假装",
+        "english": "pretend",
+        "phonetic": "/prɪˈtend/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "洋葱",
+        "desc": "n. 记忆技巧：发音联想“洋葱”，结合切洋葱流泪场景",
+        "english": "onion",
+        "phonetic": "/ˈʌnjən/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "敌人",
+        "desc": "n. 记忆技巧：en（使）+emy（敌人），使成为对手",
+        "english": "enemy",
+        "phonetic": "/ˈenəmi/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "蚂蚁",
+        "desc": "n. 记忆技巧：发音联想“蚂蚁”，结合小昆虫形象",
+        "english": "ant",
+        "phonetic": "/ænt/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "失败;未能(做到)",
+        "desc": "v. 记忆技巧：联想“费了”，费力气却未成功",
+        "english": "fail",
+        "phonetic": "/feɪl/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "上下文;语境",
+        "desc": "n. 记忆技巧：con（共同）+text（文本），共同文本即语境",
+        "english": "context",
+        "phonetic": "/ˈkɑːntekst/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "因此;所以",
+        "desc": "adv. 因此；所以。记忆技巧：there（那里）+ fore（前面）→ 因此在前面；联想逻辑连接词。",
+        "english": "therefore",
+        "phonetic": "/ˈðerfɔːr/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "图像",
+        "desc": "n. 图像；影像。记忆技巧：im-（进入）+ age（时代）→ 进入时代的图像；发音近似“意象”。",
+        "english": "image",
+        "phonetic": "/ˈɪmɪdʒ/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "在(某段时间)之内",
+        "desc": "prep. 在...之内。记忆技巧：with（和）+ in（里面）→ 和...一起在里面；联想“在范围内”。",
+        "english": "within",
+        "phonetic": "/wɪˈðɪn/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
+        "chinese": "感觉官能(即视、听、嗅、味、触五觉)",
+        "desc": "n. 感觉官能。记忆技巧：谐音“绅士”→ 绅士有敏锐的感觉；联想五感（sight,hearing,smell,taste,touch）。",
+        "english": "sense",
+        "phonetic": "/sens/",
+        "tag": "junior/grade8a/unit6"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -38605,6 +39053,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade8a/unit4';
             option.textContent = 'junior/grade8a/unit4';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit6';
+            option.textContent = 'junior/grade8a/unit6';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
