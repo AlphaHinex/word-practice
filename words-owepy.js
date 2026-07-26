@@ -17598,6 +17598,419 @@ var words = [
         "tag": "junior/grade8a/unit3-e"
     },
     {
+        "chinese": "轮;车轮",
+        "desc": "词性：n. 轮；车轮；v. 转动；记忆技巧：发音类似“威尔”，联想威尔转动车轮。",
+        "english": "wheel",
+        "phonetic": "/wil/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "发生;进行",
+        "desc": "",
+        "english": "take place",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "在中心的",
+        "desc": "词性：adj. 在中心的；记忆技巧：词根centr（中心）+al（形容词后缀）构成。",
+        "english": "central",
+        "phonetic": "/ˈsentrəl/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "例如;比如",
+        "desc": "",
+        "english": "for instance",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "虽然;尽管",
+        "desc": "词性：conj. 虽然；尽管；记忆技巧：al（加强）+though（虽然）构成。",
+        "english": "although",
+        "phonetic": "/ɔːlˈðoʊ/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "大量",
+        "desc": "",
+        "english": "large amounts of",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "国际贸易",
+        "desc": "",
+        "english": "international trade",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "依靠;依赖",
+        "desc": "",
+        "english": "depend on",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "把……固定;把……附(在……上)",
+        "desc": "词性：v. 把……固定；附在……上；记忆技巧：at（加强）+tach（接触）→使接触而附上。",
+        "english": "attach",
+        "phonetic": "/əˈtætʃ/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "3D打印机",
+        "desc": "",
+        "english": "3Dprinter",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "拉;拽;扯;拖",
+        "desc": "词性：v. 拉；拽；n. 拉力；记忆技巧：发音联想“铺”，拉东西铺展开。",
+        "english": "pull",
+        "phonetic": "/pʊl/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "毫无疑问",
+        "desc": "",
+        "english": "without doubt",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "国际的",
+        "desc": "词性：adj. 国际的；记忆技巧：inter（在……之间）+national（国家的）→国家间的。",
+        "english": "international",
+        "phonetic": "/ˌɪntərˈnæʃnəl/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "自古以来;有史以来",
+        "desc": "",
+        "english": "of all time",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "取笑;拿……开玩笑",
+        "desc": "",
+        "english": "make fun of",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "小路;小径",
+        "desc": "词性：n. 小路；小径；记忆技巧：联想“pathway”（路径），同源词记忆。",
+        "english": "path",
+        "phonetic": "/pæθ/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "堵车;交通阻塞",
+        "desc": "",
+        "english": "traffic jam",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "技巧;技艺",
+        "desc": "词性：n. 技巧；技艺；记忆技巧：tech（技术）+nique（方法）→技术方法即技巧。",
+        "english": "technique",
+        "phonetic": "/tekˈniːk/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "需要;依靠",
+        "desc": "词性：v. 需要；依靠；记忆技巧：de（向下）+pend（悬挂）→向下悬挂依赖某物。",
+        "english": "depend",
+        "phonetic": "/dɪˈpend/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "交流",
+        "desc": "词性：v. 交流；交换；n. 交换；记忆技巧：ex（出）+change（改变）→交换出去再改变。",
+        "english": "exchange",
+        "phonetic": "/ɪksˈtʃeɪndʒ/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "疑惑;疑问",
+        "desc": "词性：n./v. 记忆技巧：联想“dou（都）+bt（不吐）”，都不吐出来表示心中的疑惑。",
+        "english": "doubt",
+        "phonetic": "/daʊt/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "焦虑的;担忧的",
+        "desc": "词性：adj. 记忆技巧：nerve（神经）+ous（形容词后缀），神经紧张的→焦虑的。",
+        "english": "nervous",
+        "phonetic": "/ˈnɜːrvəs/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "就个人意见",
+        "desc": "词性：adv. 记忆技巧：personal（个人的）+ly（副词后缀），表示就个人而言。",
+        "english": "personally",
+        "phonetic": "/ˈpɜːrsənəli/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "感激的",
+        "desc": "词性：adj. 记忆技巧：grate（感谢）+ful（形容词后缀），充满感谢的→感激的。",
+        "english": "grateful",
+        "phonetic": "/ˈɡreɪtfl/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "预言;预测",
+        "desc": "词性：n. 记忆技巧：pre（提前）+dict（说）+ion（名词后缀），提前说出→预言。",
+        "english": "prediction",
+        "phonetic": "/prɪˈdɪkʃn/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "筷子",
+        "desc": "词性：n. 记忆技巧：chop（砍）+stick（棍），砍成的小棍→筷子（通常用复数chopsticks）。",
+        "english": "chopstick",
+        "phonetic": "/ˈtʃɑːpstɪk/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "说明",
+        "desc": "词性：n. 记忆技巧：state（陈述）+ment（名词后缀），陈述的内容→说明。",
+        "english": "statement",
+        "phonetic": "/ˈsteɪtmənt/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "旅行;旅游",
+        "desc": "词性：n./v. 记忆技巧：发音类似“途”，旅途→旅行。",
+        "english": "tour",
+        "phonetic": "/tʊr/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "益处;优势",
+        "desc": "词性：n./v. 记忆技巧：bene（好）+fit（做），做好事带来的好处→益处。",
+        "english": "benefit",
+        "phonetic": "/ˈbenɪfɪt/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "太极(拳)",
+        "desc": "专有名词，指中国传统武术，结合呼吸和动作的健身方式。",
+        "english": "tai chi",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "(飞行器的)翅膀;机翼",
+        "desc": "词性：n. 记忆技巧：联想“wing”帮助飞行，如鸟的翅膀或飞机的机翼。",
+        "english": "wing",
+        "phonetic": "/wɪŋ/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "尚(未);还;仍",
+        "desc": "词性：adv./conj. 记忆技巧：用于否定句和疑问句，表示“还未”，与“already”对应。",
+        "english": "yet",
+        "phonetic": "/jet/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "自主的",
+        "desc": "词性：adj. 记忆技巧：in（不）+dependent（依赖的），不依赖他人的→自主的。",
+        "english": "independent",
+        "phonetic": "/ˌɪndɪˈpendənt/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "距离",
+        "desc": "词性：n. 记忆技巧：distant（遥远的）的名词形式，-ce后缀表名词。",
+        "english": "distance",
+        "phonetic": "/ˈdɪstəns/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "汽油",
+        "desc": "词性：n. 记忆技巧：英式英语中表示汽油，美式常用gasoline，注意拼写差异。",
+        "english": "petrol",
+        "phonetic": "/ˈpetrəl/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "内容",
+        "desc": "词性：n. 记忆技巧：con（一起）+tent（帐篷），帐篷里的东西→内容（注意作形容词“满足的”时音标为/kənˈtent/）。",
+        "english": "content",
+        "phonetic": "/ˈkɑːntent/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "避免;防止",
+        "desc": "词性：v. 记忆技巧：a（否定）+void（空），使变空→避免某事发生。",
+        "english": "avoid",
+        "phonetic": "/əˈvɔɪd/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "感觉;感情",
+        "desc": "词性：n. 记忆技巧：feel（感觉，v.）+ing（名词后缀），表示感觉的名词形式。",
+        "english": "feeling",
+        "phonetic": "/ˈfiːlɪŋ/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "在(或去)任何地方",
+        "desc": "词性：adv. 记忆技巧：any（任何）+where（哪里），组合表示任何地方。",
+        "english": "anywhere",
+        "phonetic": "/ˈeniwer/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "震惊;令人震惊的事",
+        "desc": "词性：n./v. 记忆技巧：发音类似“休克”，震惊可能导致休克，帮助记忆含义。",
+        "english": "shock",
+        "phonetic": "/ʃɑːk/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "外国的",
+        "desc": "形容词，记忆技巧：fore（前）+ign，联想“在前面的国家”即外国的",
+        "english": "foreign",
+        "phonetic": "/ˈfɔːrən/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "看(或听)到;注意到",
+        "desc": "动词/名词，记忆技巧：no+ti+ce，发音类似“诺提斯”，注意到某事",
+        "english": "notice",
+        "phonetic": "/ˈnoʊtɪs/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "糊涂的;迷惑的",
+        "desc": "形容词，记忆技巧：con（一起）+fuse（融合）+d，事物融合一起让人迷惑",
+        "english": "confused",
+        "phonetic": "/kənˈfjuːzd/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "(印刷用的)活字",
+        "desc": "名词，记忆技巧：简单词，联想“类型（type）的活字”",
+        "english": "type",
+        "phonetic": "/taɪp/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "焦虑的;忧虑的",
+        "desc": "形容词，记忆技巧：anx（焦虑）+ious（形容词后缀），表焦虑的状态",
+        "english": "anxious",
+        "phonetic": "/ˈæŋkʃəs/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "混合物",
+        "desc": "名词，记忆技巧：mix（混合）+ture（名词后缀），混合后的物质",
+        "english": "mixture",
+        "phonetic": "/ˈmɪkstʃər/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "阶段;时期",
+        "desc": "名词，记忆技巧：发音类似“费兹”，联想“阶段（phase）的发展”",
+        "english": "phase",
+        "phonetic": "/feɪz/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "加热;变热",
+        "desc": "动词/名词，记忆技巧：简单词，联想“热（heat）水加热”",
+        "english": "heat",
+        "phonetic": "/hiːt/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "蜜月",
+        "desc": "名词，记忆技巧：honey（蜂蜜）+moon（月亮），甜蜜如蜜的月亮时期",
+        "english": "honeymoon",
+        "phonetic": "/ˈhʌnimuːn/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "(被)压",
+        "desc": "动词，记忆技巧：pre（前）+ss，向前施加压力",
+        "english": "press",
+        "phonetic": "/pres/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "金属",
+        "desc": "名词，记忆技巧：met（遇见过去式）+al，遇见金属物质",
+        "english": "metal",
+        "phonetic": "/ˈmetl/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "陌生的;不熟悉的",
+        "desc": "形容词，记忆技巧：un（否定）+familiar（熟悉的），不熟悉即陌生",
+        "english": "unfamiliar",
+        "phonetic": "/ˌʌnfəˈmɪliər/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "蒸汽机车",
+        "desc": "词组，记忆技巧：steam（蒸汽）+locomotive（机车），组合表示蒸汽驱动的机车",
+        "english": "steam locomotive",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "想家的",
+        "desc": "形容词，记忆技巧：home（家）+sick（生病的），因想家而不适",
+        "english": "homesick",
+        "phonetic": "/ˈhoʊmsɪk/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "载人航天器",
+        "desc": "词组，记忆技巧：crewed（载人的）+spacecraft（航天器），载有人员的航天器",
+        "english": "crewed spacecraft",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "孤独的",
+        "desc": "形容词，记忆技巧：lone（独自的）+ly，独自状态下的孤独感",
+        "english": "lonely",
+        "phonetic": "/ˈloʊnli/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "步行",
+        "desc": "固定词组，记忆技巧：on（在...上）+foot（脚），用脚行走即步行",
+        "english": "on foot",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "对付;应付",
+        "desc": "动词，记忆技巧：联想短语“deal with”（对付、处理）",
+        "english": "deal",
+        "phonetic": "/diːl/",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
+        "chinese": "几个;若干",
+        "desc": "固定词组，记忆技巧：a（一个）+number（数量）+of，表若干数量",
+        "english": "a number of",
+        "phonetic": "",
+        "tag": "junior/grade8a/unit4"
+    },
+    {
         "english": "blame",
         "chinese": "过失责备",
         "desc": "vt.责备把..归咎于",
@@ -38189,6 +38602,9 @@ var words = [
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'junior/grade8a/unit3-e';
             option.textContent = 'junior/grade8a/unit3-e';
+            newOptions.push(option);var option = document.createElement('option');
+            option.value = 'junior/grade8a/unit4';
+            option.textContent = 'junior/grade8a/unit4';
             newOptions.push(option);var option = document.createElement('option');
             option.value = 'lv4/11_of_113';
             option.textContent = 'lv4/11_of_113';
