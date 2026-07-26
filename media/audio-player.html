@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>音频片段播放器</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      display: flex; justify-content: center; align-items: center;
+      min-height: 100vh; font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+    .card {
+      background: #fff; border-radius: 16px; padding: 40px;
+      box-shadow: 0 20px 60px rgba(0,0,0,.3); text-align: center;
+      max-width: 420px; width: 90%;
+    }
+    h1 { font-size: 22px; color: #333; margin-bottom: 8px; }
+    p { font-size: 14px; color: #888; margin-bottom: 28px; }
+    .btn-group { display: flex; flex-direction: column; gap: 12px; }
+    .btn {
+      padding: 14px 24px; border: none; border-radius: 10px;
+      font-size: 16px; cursor: pointer; transition: all .2s;
+      color: #fff; position: relative; overflow: hidden;
+    }
+    .btn:active { transform: scale(.97); }
+    .btn:disabled { opacity: .5; cursor: not-allowed; transform: none; }
+    .btn-1 { background: linear-gradient(135deg, #f093fb, #f5576c); }
+    .btn-2 { background: linear-gradient(135deg, #4facfe, #00f2fe); }
+    .btn:hover:not(:disabled) { filter: brightness(1.08); }
+    .label { font-weight: 600; }
+    .sub { font-size: 13px; opacity: .85; }
+    .status {
+      margin-top: 20px; padding: 10px; border-radius: 8px;
+      font-size: 14px; color: #666; background: #f5f5f5; min-height: 40px;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .status.playing { color: #f5576c; background: #fff0f3; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>🎵 音频片段播放器</h1>
+    <p>点击按钮播放指定时间段的音频</p>
+    <div class="btn-group">
+      <button class="btn btn-1" onclick="playSegment(34,37)">
+        <div class="label">▶ 片段一</div>
+        <div class="sub">10 秒 ~ 12 秒</div>
+      </button>
+      <button class="btn btn-2" onclick="playSegment(37,39)">
+        <div class="label">▶ 片段二</div>
+        <div class="sub">20 秒 ~ 25 秒</div>
+      </button>
+    </div>
+    <div class="status" id="status">准备就绪</div>
+  </div>
+
+  <script>
+    const audio = new Audio();
+    audio.preload = 'auto';
+    // audio.src = 'https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3';
+    audio.src = 'https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3';
+
+    const status = document.getElementById('status');
+    const btns = document.querySelectorAll('.btn');
+    let stopTimer = null;
+
+    function playSegment(start, end) {
+      // 清除之前的停止定时器
+      if (stopTimer) {
+        clearTimeout(stopTimer);
+        stopTimer = null;
+      }
+      // 如果正在播放，先暂停
+      audio.pause();
+
+      // 设置起止时间并播放
+      audio.currentTime = start;
+      audio.play().catch(e => {
+        status.textContent = '⚠️ 播放失败，请检查网络或刷新重试';
+        status.className = 'status';
+      });
+
+      status.textContent = `▶ 播放中 ${start}~${end} 秒 ...`;
+      status.className = 'status playing';
+      btns.forEach(b => b.disabled = true);
+
+      // 到达结束时间时停止
+      stopTimer = setTimeout(() => {
+        audio.pause();
+        status.textContent = `⏹ 播放完成（${start}~${end} 秒）`;
+        status.className = 'status';
+        btns.forEach(b => b.disabled = false);
+        stopTimer = null;
+      }, (end - start) * 1000);
+    }
+
+    // 如果音频加载出错，给出提示
+    audio.addEventListener('error', () => {
+      status.textContent = '⚠️ 音频加载失败，请检查网络连接';
+      status.className = 'status';
+    });
+  </script>
+</body>
+</html>

@@ -3,66 +3,88 @@
         "chinese": "(尤指乘飞机的)航程",
         "desc": "名词(n.)；记忆技巧：fly（飞，动词）+ ht（名词后缀），飞行的过程即航程。",
         "english": "flight",
-        "phonetic": "/flaɪt/"
+        "phonetic": "/flaɪt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [2,5]
     },
     {
         "chinese": "日程安排",
         "desc": "名词(n.)/动词(v.)；记忆技巧：sched（计划）+ ule（名词后缀），计划的安排即日程。",
         "english": "schedule",
-        "phonetic": "/ˈskedʒuːl/"
+        "phonetic": "/ˈskedʒuːl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [5,8]
     },
     {
         "chinese": "到处;各个地方",
         "desc": "副词(adv.)；记忆技巧：every（每个）+ where（哪里），每个地方即到处。",
         "english": "everywhere",
-        "phonetic": "/ˈevriweər/"
+        "phonetic": "/ˈevriweər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [8,10.5]
     },
     {
         "chinese": "向(某人)挑战",
         "desc": "动词(v.)/名词(n.)；记忆技巧：chall（喊叫）+ enge（后缀），喊叫着挑战对方。",
         "english": "challenge",
-        "phonetic": "/ˈtʃælɪndʒ/"
+        "phonetic": "/ˈtʃælɪndʒ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [10.5,13.5]
     },
     {
         "chinese": "奖赏;奖励",
         "desc": "名词(n.)/动词(v.)；记忆技巧：音似“price价格”，有价值的东西作为奖赏。",
         "english": "prize",
-        "phonetic": "/praɪz/"
+        "phonetic": "/praɪz/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [13.5,16]
     },
     {
         "chinese": "承诺;保证",
         "desc": "动词(v.)/名词(n.)；记忆技巧：pro（向前）+ mise（送），向前送出的话即承诺。",
         "english": "promise",
-        "phonetic": "/ˈprɑːmɪs/"
+        "phonetic": "/ˈprɑːmɪs/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [16,18]
     },
     {
         "chinese": "国际象棋棋盘",
         "desc": "n. 记忆技巧：chess（国际象棋）+ board（板）→ 国际象棋棋盘",
         "english": "chessboard",
-        "phonetic": "/ˈtʃesbɔːrd/"
+        "phonetic": "/ˈtʃesbɔːrd/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [18,21]
     },
     {
         "chinese": "银",
         "desc": "n. 记忆技巧：联想“丝银”，丝滑的银",
         "english": "silver",
-        "phonetic": "/ˈsɪlvər/"
+        "phonetic": "/ˈsɪlvər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [21,23.5]
     },
     {
         "chinese": "回复;答复",
         "desc": "v./n. 记忆技巧：re（再）+ ply（折叠）→ 再次折叠信件→回复",
         "english": "reply",
-        "phonetic": "/rɪˈplaɪ/"
+        "phonetic": "/rɪˈplaɪ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [23.5,25.8]
     },
     {
         "chinese": "犹豫",
         "desc": "n. 记忆技巧：hesitate（犹豫，v.）+ tion（名词后缀）→ 犹豫",
         "english": "hesitation",
-        "phonetic": "/ˌhezɪˈteɪʃn/"
+        "phonetic": "/ˌhezɪˈteɪʃn/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [25.8,28.5]
     },
     {
         "chinese": "想知道;琢磨",
         "desc": "v./n. 记忆技巧：won（赢）+ der→ 赢了之后想知道原因→琢磨",
         "english": "wonder",
-        "phonetic": "/ˈwʌndər/"
+        "phonetic": "/ˈwʌndər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [28.5,30.8]
     }
 ]
