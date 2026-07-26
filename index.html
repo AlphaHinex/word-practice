@@ -330,8 +330,13 @@
     var currentAudioInstance = null;
 
     function speakWord(word) {
+        // 停止之前的朗读（TTS 或 Audio）
         if (currentAudioInstance) {
             currentAudioInstance.pause();
+            if (currentAudioInstance._stopTimer) {
+                clearTimeout(currentAudioInstance._stopTimer);
+                currentAudioInstance._stopTimer = null;
+            }
             currentAudioInstance = null;
         }
         window.speechSynthesis.cancel();
@@ -339,26 +344,26 @@
         if (word.audio && word.time && Array.isArray(word.time) && word.time.length === 2) {
             var url = word.audio;
             if (!audioCache[url]) {
-                audioCache[url] = new Audio(url);
+                var a = new Audio(url);
+                a.preload = 'auto';
+                audioCache[url] = a;
             }
             var audio = audioCache[url];
             currentAudioInstance = audio;
             
             var startPlayback = function() {
                 audio.currentTime = word.time[0];
-                if (audio._timeUpdateHandler) {
-                    audio.removeEventListener('timeupdate', audio._timeUpdateHandler);
-                }
-                var handler = function() {
-                    if (audio.currentTime >= word.time[1]) {
+                audio.play().then(function() {
+                    // 根据时间段长度设置停止定时器
+                    var duration = (word.time[1] - word.time[0]) * 1000;
+                    audio._stopTimer = setTimeout(function() {
                         audio.pause();
-                        audio.removeEventListener('timeupdate', handler);
+                        audio._stopTimer = null;
                         if (currentAudioInstance === audio) currentAudioInstance = null;
-                    }
-                };
-                audio._timeUpdateHandler = handler;
-                audio.addEventListener('timeupdate', handler);
-                audio.play().catch(console.error);
+                    }, duration);
+                }).catch(function(err) {
+                    console.error("播放失败:", err);
+                });
             };
 
             if (audio.readyState >= 1) { // HAVE_METADATA
