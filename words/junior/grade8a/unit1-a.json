@@ -3,60 +3,80 @@
         "chinese": "恐龙",
         "desc": "名词(n.)；记忆技巧：dino（恐龙缩写）+ saur（希腊语“蜥蜴”），组合为恐龙。",
         "english": "dinosaur",
-        "phonetic": "/ˈdaɪnəsɔːr/"
+        "phonetic": "/ˈdaɪnəsɔːr/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [11.5,14.5]
     },
     {
         "chinese": "有才智的;聪明的",
         "desc": "形容词(adj.)；记忆技巧：intel（智力）+ ligent（类似diligent勤奋），聪明的人智力高且勤奋。",
         "english": "intelligent",
-        "phonetic": "/ɪnˈtelɪdʒənt/"
+        "phonetic": "/ɪnˈtelɪdʒənt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [14.5,17.5]
     },
     {
         "chinese": "有才能的;天才的",
         "desc": "形容词(adj.)；记忆技巧：talent（才能，名词）+ ed（形容词后缀），有才能的。",
         "english": "talented",
-        "phonetic": "/ˈtæləntɪd/"
+        "phonetic": "/ˈtæləntɪd/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [17.5,20.5]
     },
     {
         "chinese": "有艺术天赋的;(尤指)有美术才能的",
         "desc": "形容词(adj.)；记忆技巧：art（艺术）+ istic（形容词后缀“关于…的”），关于艺术的即有艺术天赋的。",
         "english": "artistic",
-        "phonetic": "/ɑːrˈtɪstɪk/"
+        "phonetic": "/ɑːrˈtɪstɪk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [20.5,23.5]
     },
     {
         "chinese": "可能;大概;也许",
         "desc": "副词(adv.)；记忆技巧：per（每）+ haps（可能来自happen发生），每件事都可能发生即也许。",
         "english": "perhaps",
-        "phonetic": "/pərˈhæps/"
+        "phonetic": "/pərˈhæps/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [23.5,25.7]
     },
     {
         "chinese": "笔记本",
         "desc": "名词(n.)；记忆技巧：note（笔记）+ book（书），记笔记的书即笔记本。",
         "english": "notebook",
-        "phonetic": "/ˈnoʊtbʊk/"
+        "phonetic": "/ˈnoʊtbʊk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [25.7,28.2]
     },
     {
         "chinese": "交通工具;车辆",
         "desc": "名词(n.)；记忆技巧：veh（运输）+ icle（小的东西），运输的工具即交通工具。",
         "english": "vehicle",
-        "phonetic": "/ˈviːəkl/"
+        "phonetic": "/ˈviːəkl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [28.2,30.5]
     },
     {
         "chinese": "史前的",
         "desc": "形容词(adj.)；记忆技巧：pre（之前）+ historic（历史的），历史之前的即史前的。",
         "english": "prehistoric",
-        "phonetic": "/ˌpriːhɪˈstɔːrɪk/"
+        "phonetic": "/ˌpriːhɪˈstɔːrɪk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [30.5,33.5]
     },
     {
         "chinese": "完全地;彻底地",
         "desc": "副词(adv.)；记忆技巧：complete（完全的，形容词）+ ly（副词后缀），完全地。",
         "english": "completely",
-        "phonetic": "/kəmˈpliːtli/"
+        "phonetic": "/kəmˈpliːtli/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [33.5,36.2]
     },
     {
         "chinese": "原来的;起初的",
         "desc": "adj. 记忆技巧：origin（起源）+ al（形容词后缀）→ 原来的",
         "english": "original",
-        "phonetic": "/əˈrɪdʒənl/"
+        "phonetic": "/əˈrɪdʒənl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [36.2,38.5]
     }
 ]

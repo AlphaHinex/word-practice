@@ -3,60 +3,80 @@
         "chinese": "(飞行器的)翅膀;机翼",
         "desc": "词性：n. 记忆技巧：联想“wing”帮助飞行，如鸟的翅膀或飞机的机翼。",
         "english": "wing",
-        "phonetic": "/wɪŋ/"
+        "phonetic": "/wɪŋ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [39,42]
     },
     {
         "chinese": "距离",
         "desc": "词性：n. 记忆技巧：distant（遥远的）的名词形式，-ce后缀表名词。",
         "english": "distance",
-        "phonetic": "/ˈdɪstəns/"
+        "phonetic": "/ˈdɪstəns/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [42,44.5]
     },
     {
         "chinese": "汽油",
         "desc": "词性：n. 记忆技巧：英式英语中表示汽油，美式常用gasoline，注意拼写差异。",
         "english": "petrol",
-        "phonetic": "/ˈpetrəl/"
+        "phonetic": "/ˈpetrəl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [44.5,46.5]
     },
     {
         "chinese": "避免;防止",
         "desc": "词性：v. 记忆技巧：a（否定）+void（空），使变空→避免某事发生。",
         "english": "avoid",
-        "phonetic": "/əˈvɔɪd/"
+        "phonetic": "/əˈvɔɪd/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [46.5,49]
     },
     {
         "chinese": "在(或去)任何地方",
         "desc": "词性：adv. 记忆技巧：any（任何）+where（哪里），组合表示任何地方。",
         "english": "anywhere",
-        "phonetic": "/ˈeniwer/"
+        "phonetic": "/ˈeniwer/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [49,51.5]
     },
     {
         "chinese": "看(或听)到;注意到",
         "desc": "动词/名词，记忆技巧：no+ti+ce，发音类似“诺提斯”，注意到某事",
         "english": "notice",
-        "phonetic": "/ˈnoʊtɪs/"
+        "phonetic": "/ˈnoʊtɪs/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [51.5,54]
     },
     {
         "chinese": "(印刷用的)活字",
         "desc": "名词，记忆技巧：简单词，联想“类型（type）的活字”",
         "english": "type",
-        "phonetic": "/taɪp/"
+        "phonetic": "/taɪp/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [54,56]
     },
     {
         "chinese": "混合物",
         "desc": "名词，记忆技巧：mix（混合）+ture（名词后缀），混合后的物质",
         "english": "mixture",
-        "phonetic": "/ˈmɪkstʃər/"
+        "phonetic": "/ˈmɪkstʃər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [56,58.5]
     },
     {
         "chinese": "加热;变热",
         "desc": "动词/名词，记忆技巧：简单词，联想“热（heat）水加热”",
         "english": "heat",
-        "phonetic": "/hiːt/"
+        "phonetic": "/hiːt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [58.5,60.3]
     },
     {
         "chinese": "(被)压",
         "desc": "动词，记忆技巧：pre（前）+ss，向前施加压力",
         "english": "press",
-        "phonetic": "/pres/"
+        "phonetic": "/pres/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [60.3,62]
     }
 ]

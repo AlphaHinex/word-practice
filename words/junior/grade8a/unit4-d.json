@@ -3,60 +3,80 @@
         "chinese": "金属",
         "desc": "名词，记忆技巧：met（遇见过去式）+al，遇见金属物质",
         "english": "metal",
-        "phonetic": "/ˈmetl/"
+        "phonetic": "/ˈmetl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [62,64]
     },
     {
         "chinese": "蒸汽机车",
         "desc": "词组，记忆技巧：steam（蒸汽）+locomotive（机车），组合表示蒸汽驱动的机车",
         "english": "steam locomotive",
-        "phonetic": ""
+        "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [64,68]
     },
     {
         "chinese": "载人航天器",
         "desc": "词组，记忆技巧：crewed（载人的）+spacecraft（航天器），载有人员的航天器",
         "english": "crewed spacecraft",
-        "phonetic": ""
+        "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [68,72.5]
     },
     {
         "chinese": "步行",
         "desc": "固定词组，记忆技巧：on（在...上）+foot（脚），用脚行走即步行",
         "english": "on foot",
-        "phonetic": ""
+        "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [72.5,75]
     },
     {
         "chinese": "几个;若干",
         "desc": "固定词组，记忆技巧：a（一个）+number（数量）+of，表若干数量",
         "english": "a number of",
-        "phonetic": ""
+        "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [75,78]
     },
     {
         "chinese": "发生;进行",
         "desc": "",
         "english": "take place",
-        "phonetic": ""
+        "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [78,81]
     },
     {
         "chinese": "例如;比如",
         "desc": "",
         "english": "for instance",
-        "phonetic": ""
+        "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [81,84]
     },
     {
         "chinese": "大量",
         "desc": "",
         "english": "large amounts of",
-        "phonetic": ""
+        "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [84,88.5]
     },
     {
         "chinese": "国际贸易",
         "desc": "",
         "english": "international trade",
-        "phonetic": ""
+        "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [88.5,92.5]
     },
     {
         "chinese": "依靠;依赖",
         "desc": "",
         "english": "depend on",
-        "phonetic": ""
+        "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [92.5,95.5]
     }
 ]

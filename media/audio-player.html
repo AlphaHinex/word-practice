@@ -44,11 +44,11 @@
     <h1>🎵 音频片段播放器</h1>
     <p>点击按钮播放指定时间段的音频</p>
     <div class="btn-group">
-      <button class="btn btn-1" onclick="playSegment(8,10)">
+      <button class="btn btn-1" onclick="playSegment(90.5,95.5)">
         <div class="label">▶ 片段一</div>
         <div class="sub">10 秒 ~ 12 秒</div>
       </button>
-      <button class="btn btn-2" onclick="playSegment(77.5,80)">
+      <button class="btn btn-2" onclick="playSegment(86.5,90.5)">
         <div class="label">▶ 片段二</div>
         <div class="sub">20 秒 ~ 25 秒</div>
       </button>
@@ -59,8 +59,7 @@
   <script>
     const audio = new Audio();
     audio.preload = 'auto';
-    audio.src = 'https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3';
-    // audio.src = 'https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3';
+    audio.src = 'https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3';
 
     const status = document.getElementById('status');
     const btns = document.querySelectorAll('.btn');
