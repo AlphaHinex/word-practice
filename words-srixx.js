@@ -18242,6 +18242,11 @@ var words = [
         "desc": "词性：v. 交流；交换；n. 交换；记忆技巧：ex（出）+change（改变）→交换出去再改变。",
         "english": "exchange",
         "phonetic": "/ɪksˈtʃeɪndʒ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            2.5,
+            5.5
+        ],
         "tag": "junior/grade8a/unit5-a"
     },
     {
@@ -18249,6 +18254,11 @@ var words = [
         "desc": "词性：adj. 记忆技巧：nerve（神经）+ous（形容词后缀），神经紧张的→焦虑的。",
         "english": "nervous",
         "phonetic": "/ˈnɜːrvəs/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            5.5,
+            8
+        ],
         "tag": "junior/grade8a/unit5-a"
     },
     {
@@ -18256,6 +18266,11 @@ var words = [
         "desc": "词性：adj. 记忆技巧：grate（感谢）+ful（形容词后缀），充满感谢的→感激的。",
         "english": "grateful",
         "phonetic": "/ˈɡreɪtfl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            8,
+            10
+        ],
         "tag": "junior/grade8a/unit5-a"
     },
     {
@@ -18263,6 +18278,11 @@ var words = [
         "desc": "词性：n. 记忆技巧：chop（砍）+stick（棍），砍成的小棍→筷子（通常用复数chopsticks）。",
         "english": "chopstick",
         "phonetic": "/ˈtʃɑːpstɪk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            10,
+            12.6
+        ],
         "tag": "junior/grade8a/unit5-a"
     },
     {
@@ -18270,6 +18290,11 @@ var words = [
         "desc": "词性：n./v. 记忆技巧：发音类似“途”，旅途→旅行。",
         "english": "tour",
         "phonetic": "/tʊr/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            12.6,
+            14.5
+        ],
         "tag": "junior/grade8a/unit5-a"
     },
     {
