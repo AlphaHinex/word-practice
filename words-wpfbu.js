@@ -16874,6 +16874,11 @@ var words = [
         "desc": "名词(n.)；记忆技巧：dino（恐龙缩写）+ saur（希腊语“蜥蜴”），组合为恐龙。",
         "english": "dinosaur",
         "phonetic": "/ˈdaɪnəsɔːr/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            11.5,
+            14.5
+        ],
         "tag": "junior/grade8a/unit1-a"
     },
     {
@@ -16881,6 +16886,11 @@ var words = [
         "desc": "形容词(adj.)；记忆技巧：intel（智力）+ ligent（类似diligent勤奋），聪明的人智力高且勤奋。",
         "english": "intelligent",
         "phonetic": "/ɪnˈtelɪdʒənt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            14.5,
+            17.5
+        ],
         "tag": "junior/grade8a/unit1-a"
     },
     {
@@ -16888,6 +16898,11 @@ var words = [
         "desc": "形容词(adj.)；记忆技巧：talent（才能，名词）+ ed（形容词后缀），有才能的。",
         "english": "talented",
         "phonetic": "/ˈtæləntɪd/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            17.5,
+            20.5
+        ],
         "tag": "junior/grade8a/unit1-a"
     },
     {
@@ -16895,6 +16910,11 @@ var words = [
         "desc": "形容词(adj.)；记忆技巧：art（艺术）+ istic（形容词后缀“关于…的”），关于艺术的即有艺术天赋的。",
         "english": "artistic",
         "phonetic": "/ɑːrˈtɪstɪk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            20.5,
+            23.5
+        ],
         "tag": "junior/grade8a/unit1-a"
     },
     {
@@ -16902,6 +16922,11 @@ var words = [
         "desc": "副词(adv.)；记忆技巧：per（每）+ haps（可能来自happen发生），每件事都可能发生即也许。",
         "english": "perhaps",
         "phonetic": "/pərˈhæps/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            23.5,
+            25.7
+        ],
         "tag": "junior/grade8a/unit1-a"
     },
     {
@@ -16909,6 +16934,11 @@ var words = [
         "desc": "名词(n.)；记忆技巧：note（笔记）+ book（书），记笔记的书即笔记本。",
         "english": "notebook",
         "phonetic": "/ˈnoʊtbʊk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            25.7,
+            28.2
+        ],
         "tag": "junior/grade8a/unit1-a"
     },
     {
@@ -16916,6 +16946,11 @@ var words = [
         "desc": "名词(n.)；记忆技巧：veh（运输）+ icle（小的东西），运输的工具即交通工具。",
         "english": "vehicle",
         "phonetic": "/ˈviːəkl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            28.2,
+            30.5
+        ],
         "tag": "junior/grade8a/unit1-a"
     },
     {
@@ -16923,6 +16958,11 @@ var words = [
         "desc": "形容词(adj.)；记忆技巧：pre（之前）+ historic（历史的），历史之前的即史前的。",
         "english": "prehistoric",
         "phonetic": "/ˌpriːhɪˈstɔːrɪk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            30.5,
+            33.5
+        ],
         "tag": "junior/grade8a/unit1-a"
     },
     {
@@ -16930,6 +16970,11 @@ var words = [
         "desc": "副词(adv.)；记忆技巧：complete（完全的，形容词）+ ly（副词后缀），完全地。",
         "english": "completely",
         "phonetic": "/kəmˈpliːtli/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            33.5,
+            36.2
+        ],
         "tag": "junior/grade8a/unit1-a"
     },
     {
@@ -16937,6 +16982,11 @@ var words = [
         "desc": "adj. 记忆技巧：origin（起源）+ al（形容词后缀）→ 原来的",
         "english": "original",
         "phonetic": "/əˈrɪdʒənl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            36.2,
+            38.5
+        ],
         "tag": "junior/grade8a/unit1-a"
     },
     {
@@ -16944,6 +16994,11 @@ var words = [
         "desc": "n. 记忆技巧：b+irth，联想“诞生”的发音",
         "english": "birth",
         "phonetic": "/bɜːrθ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            38.5,
+            41
+        ],
         "tag": "junior/grade8a/unit1-b"
     },
     {
@@ -16951,6 +17006,11 @@ var words = [
         "desc": "n. 记忆技巧：suffer（遭受）+ ing（名词后缀）→ 苦难",
         "english": "suffering",
         "phonetic": "/ˈsʌfərɪŋ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            41,
+            44
+        ],
         "tag": "junior/grade8a/unit1-b"
     },
     {
@@ -16958,6 +17018,11 @@ var words = [
         "desc": "n. 记忆技巧：art（艺术）+ ist（人）→ 艺术家",
         "english": "artist",
         "phonetic": "/ˈɑːrtɪst/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            44,
+            47.2
+        ],
         "tag": "junior/grade8a/unit1-b"
     },
     {
@@ -16965,6 +17030,11 @@ var words = [
         "desc": "n. 记忆技巧：d+eath，联想“死亡”的发音",
         "english": "death",
         "phonetic": "/deθ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            47.2,
+            50
+        ],
         "tag": "junior/grade8a/unit1-b"
     },
     {
@@ -16972,6 +17042,11 @@ var words = [
         "desc": "adj. 记忆技巧：wh+ole，联想“整个”（whole）的发音",
         "english": "whole",
         "phonetic": "/hoʊl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            50,
+            52
+        ],
         "tag": "junior/grade8a/unit1-b"
     },
     {
@@ -16979,6 +17054,11 @@ var words = [
         "desc": "n. 记忆技巧：联想“一片”（piece）作品",
         "english": "piece",
         "phonetic": "/piːs/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            52,
+            54
+        ],
         "tag": "junior/grade8a/unit1-b"
     },
     {
@@ -16986,6 +17066,11 @@ var words = [
         "desc": "n. 记忆技巧：edit（编辑，v.）+ or（人）→ 编辑",
         "english": "editor",
         "phonetic": "/ˈedɪtər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            54,
+            57
+        ],
         "tag": "junior/grade8a/unit1-b"
     },
     {
@@ -16993,6 +17078,11 @@ var words = [
         "desc": "v. 记忆技巧：organ（器官；组织）+ ize（动词后缀）→ 组织",
         "english": "organize",
         "phonetic": "/ˈɔːrɡənaɪz/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            57,
+            59.5
+        ],
         "tag": "junior/grade8a/unit1-b"
     },
     {
@@ -17000,6 +17090,11 @@ var words = [
         "desc": "n. 记忆技巧：联想“按顺序(order)排列”",
         "english": "order",
         "phonetic": "/ˈɔːrdər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            59.5,
+            61.5
+        ],
         "tag": "junior/grade8a/unit1-b"
     },
     {
@@ -17007,6 +17102,11 @@ var words = [
         "desc": "",
         "english": "general education",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            74.5,
+            78.5
+        ],
         "tag": "junior/grade8a/unit1-c"
     },
     {
@@ -17014,6 +17114,11 @@ var words = [
         "desc": "",
         "english": "go back a long way",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            78.5,
+            83
+        ],
         "tag": "junior/grade8a/unit1-c"
     },
     {
@@ -17021,6 +17126,11 @@ var words = [
         "desc": "",
         "english": "be similar to",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            83,
+            86.5
+        ],
         "tag": "junior/grade8a/unit1-c"
     },
     {
@@ -17028,6 +17138,11 @@ var words = [
         "desc": "",
         "english": "alphabetical order",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            86.5,
+            90.5
+        ],
         "tag": "junior/grade8a/unit1-c"
     },
     {
@@ -17035,6 +17150,11 @@ var words = [
         "desc": "",
         "english": "play an important role",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            90.5,
+            95.5
+        ],
         "tag": "junior/grade8a/unit1-c"
     },
     {
@@ -17042,6 +17162,11 @@ var words = [
         "desc": "v./n. 记忆技巧：re（再）+ cord（心）→ 再记到心里→记录",
         "english": "record",
         "phonetic": "/ˈrekərd/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            61.5,
+            64.3
+        ],
         "tag": "junior/grade8a/unit1-c"
     },
     {
@@ -17049,6 +17174,11 @@ var words = [
         "desc": "词组，记忆技巧：die（死）+ out（出去）→ 都死出去了→灭绝",
         "english": "die out",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            64.3,
+            67
+        ],
         "tag": "junior/grade8a/unit1-c"
     },
     {
@@ -17056,6 +17186,11 @@ var words = [
         "desc": "词组，记忆技巧：type（类型）→ 一种类型",
         "english": "a type of",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            67,
+            70.5
+        ],
         "tag": "junior/grade8a/unit1-c"
     },
     {
@@ -17063,6 +17198,11 @@ var words = [
         "desc": "词组，记忆技巧：related（相关的）→ 与…相关→属于同一种类",
         "english": "be related to",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/43%20Appendices_Words%20and%20phrases%20Unit%201.mp3",
+        "time": [
+            70.5,
+            74.5
+        ],
         "tag": "junior/grade8a/unit1-c"
     },
     {
@@ -17214,6 +17354,11 @@ var words = [
         "desc": "",
         "english": "percent",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            33,
+            35.2
+        ],
         "tag": "junior/grade8a/unit2-b"
     },
     {
@@ -17221,6 +17366,11 @@ var words = [
         "desc": "adv. 记忆技巧：current（当前的，adj.）+ ly（副词后缀）→ 目前",
         "english": "currently",
         "phonetic": "/ˈkɜːrəntli/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            35.2,
+            37.5
+        ],
         "tag": "junior/grade8a/unit2-b"
     },
     {
@@ -17228,6 +17378,11 @@ var words = [
         "desc": "v./n. 记忆技巧：联想“检查”（check）的常用含义",
         "english": "check",
         "phonetic": "/tʃek/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            37.5,
+            39.5
+        ],
         "tag": "junior/grade8a/unit2-b"
     },
     {
@@ -17235,6 +17390,11 @@ var words = [
         "desc": "n./v. 记忆技巧：联想“把钱（bud）get起来”→预算",
         "english": "budget",
         "phonetic": "/ˈbʌdʒɪt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            39.5,
+            42
+        ],
         "tag": "junior/grade8a/unit2-b"
     },
     {
@@ -17242,6 +17402,11 @@ var words = [
         "desc": "n. 记忆技巧：pro（向前）+ vince（征服）→ 向前征服的地区→省份",
         "english": "province",
         "phonetic": "/ˈprɑːvɪns/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            42,
+            44.5
+        ],
         "tag": "junior/grade8a/unit2-b"
     },
     {
@@ -17249,6 +17414,11 @@ var words = [
         "desc": "adv. 记忆技巧：sharp（锋利的）+ ly（副词后缀）→ 急剧地",
         "english": "sharply",
         "phonetic": "/ˈʃɑːrpli/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            44.5,
+            47.5
+        ],
         "tag": "junior/grade8a/unit2-b"
     },
     {
@@ -17256,6 +17426,11 @@ var words = [
         "desc": "v./n. 记忆技巧：发音类似“看它”→ 看它有多少→计算总数",
         "english": "count",
         "phonetic": "/kaʊnt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            47.5,
+            50
+        ],
         "tag": "junior/grade8a/unit2-b"
     },
     {
@@ -17263,6 +17438,11 @@ var words = [
         "desc": "n. 记忆技巧：sy（一起）+ stem（茎，主干）→ 一起的主干→系统",
         "english": "system",
         "phonetic": "/ˈsɪstəm/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            50,
+            53
+        ],
         "tag": "junior/grade8a/unit2-b"
     },
     {
@@ -17270,6 +17450,11 @@ var words = [
         "desc": "n. 记忆技巧：sym（共同）+ bol（投掷）→ 共同投掷的标记→符号",
         "english": "symbol",
         "phonetic": "/ˈsɪmbl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            53,
+            55
+        ],
         "tag": "junior/grade8a/unit2-b"
     },
     {
@@ -17277,6 +17462,11 @@ var words = [
         "desc": "动词；记忆技巧：re-(再次)+present(呈现)，再次呈现即代表",
         "english": "represent",
         "phonetic": "/ˌreprɪˈzent/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            55,
+            58.5
+        ],
         "tag": "junior/grade8a/unit2-c"
     },
     {
@@ -17284,6 +17474,11 @@ var words = [
         "desc": "副词；记忆技巧：exact(精确的)+ly(副词后缀)，表精确地",
         "english": "exactly",
         "phonetic": "/ɪɡˈzæktli/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            58.5,
+            62
+        ],
         "tag": "junior/grade8a/unit2-c"
     },
     {
@@ -17291,6 +17486,11 @@ var words = [
         "desc": "",
         "english": "flight schedule",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            62,
+            66
+        ],
         "tag": "junior/grade8a/unit2-c"
     },
     {
@@ -17298,6 +17498,11 @@ var words = [
         "desc": "",
         "english": "price tag",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            66,
+            69
+        ],
         "tag": "junior/grade8a/unit2-c"
     },
     {
@@ -17305,6 +17510,11 @@ var words = [
         "desc": "",
         "english": "for a moment",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            69,
+            73
+        ],
         "tag": "junior/grade8a/unit2-c"
     },
     {
@@ -17312,6 +17522,11 @@ var words = [
         "desc": "",
         "english": "without hesitation",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            73,
+            77
+        ],
         "tag": "junior/grade8a/unit2-c"
     },
     {
@@ -17319,6 +17534,11 @@ var words = [
         "desc": "",
         "english": "go up",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            77,
+            80
+        ],
         "tag": "junior/grade8a/unit2-c"
     },
     {
@@ -17326,6 +17546,11 @@ var words = [
         "desc": "",
         "english": "go down",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            80,
+            82.5
+        ],
         "tag": "junior/grade8a/unit2-c"
     },
     {
@@ -17333,6 +17558,11 @@ var words = [
         "desc": "",
         "english": "write down",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            82.5,
+            85.5
+        ],
         "tag": "junior/grade8a/unit2-c"
     },
     {
@@ -17340,6 +17570,11 @@ var words = [
         "desc": "",
         "english": "instead of",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3",
+        "time": [
+            85.5,
+            89
+        ],
         "tag": "junior/grade8a/unit2-c"
     },
     {
@@ -18067,6 +18302,11 @@ var words = [
         "desc": "词性：n. 记忆技巧：联想“wing”帮助飞行，如鸟的翅膀或飞机的机翼。",
         "english": "wing",
         "phonetic": "/wɪŋ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            39,
+            42
+        ],
         "tag": "junior/grade8a/unit4-c"
     },
     {
@@ -18074,6 +18314,11 @@ var words = [
         "desc": "词性：n. 记忆技巧：distant（遥远的）的名词形式，-ce后缀表名词。",
         "english": "distance",
         "phonetic": "/ˈdɪstəns/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            42,
+            44.5
+        ],
         "tag": "junior/grade8a/unit4-c"
     },
     {
@@ -18081,6 +18326,11 @@ var words = [
         "desc": "词性：n. 记忆技巧：英式英语中表示汽油，美式常用gasoline，注意拼写差异。",
         "english": "petrol",
         "phonetic": "/ˈpetrəl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            44.5,
+            46.5
+        ],
         "tag": "junior/grade8a/unit4-c"
     },
     {
@@ -18088,6 +18338,11 @@ var words = [
         "desc": "词性：v. 记忆技巧：a（否定）+void（空），使变空→避免某事发生。",
         "english": "avoid",
         "phonetic": "/əˈvɔɪd/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            46.5,
+            49
+        ],
         "tag": "junior/grade8a/unit4-c"
     },
     {
@@ -18095,6 +18350,11 @@ var words = [
         "desc": "词性：adv. 记忆技巧：any（任何）+where（哪里），组合表示任何地方。",
         "english": "anywhere",
         "phonetic": "/ˈeniwer/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            49,
+            51.5
+        ],
         "tag": "junior/grade8a/unit4-c"
     },
     {
@@ -18102,6 +18362,11 @@ var words = [
         "desc": "动词/名词，记忆技巧：no+ti+ce，发音类似“诺提斯”，注意到某事",
         "english": "notice",
         "phonetic": "/ˈnoʊtɪs/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            51.5,
+            54
+        ],
         "tag": "junior/grade8a/unit4-c"
     },
     {
@@ -18109,6 +18374,11 @@ var words = [
         "desc": "名词，记忆技巧：简单词，联想“类型（type）的活字”",
         "english": "type",
         "phonetic": "/taɪp/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            54,
+            56
+        ],
         "tag": "junior/grade8a/unit4-c"
     },
     {
@@ -18116,6 +18386,11 @@ var words = [
         "desc": "名词，记忆技巧：mix（混合）+ture（名词后缀），混合后的物质",
         "english": "mixture",
         "phonetic": "/ˈmɪkstʃər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            56,
+            58.5
+        ],
         "tag": "junior/grade8a/unit4-c"
     },
     {
@@ -18123,6 +18398,11 @@ var words = [
         "desc": "动词/名词，记忆技巧：简单词，联想“热（heat）水加热”",
         "english": "heat",
         "phonetic": "/hiːt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            58.5,
+            60.3
+        ],
         "tag": "junior/grade8a/unit4-c"
     },
     {
@@ -18130,6 +18410,11 @@ var words = [
         "desc": "动词，记忆技巧：pre（前）+ss，向前施加压力",
         "english": "press",
         "phonetic": "/pres/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            60.3,
+            62
+        ],
         "tag": "junior/grade8a/unit4-c"
     },
     {
@@ -18137,6 +18422,11 @@ var words = [
         "desc": "名词，记忆技巧：met（遇见过去式）+al，遇见金属物质",
         "english": "metal",
         "phonetic": "/ˈmetl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            62,
+            64
+        ],
         "tag": "junior/grade8a/unit4-d"
     },
     {
@@ -18144,6 +18434,11 @@ var words = [
         "desc": "词组，记忆技巧：steam（蒸汽）+locomotive（机车），组合表示蒸汽驱动的机车",
         "english": "steam locomotive",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            64,
+            68
+        ],
         "tag": "junior/grade8a/unit4-d"
     },
     {
@@ -18151,6 +18446,11 @@ var words = [
         "desc": "词组，记忆技巧：crewed（载人的）+spacecraft（航天器），载有人员的航天器",
         "english": "crewed spacecraft",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            68,
+            72.5
+        ],
         "tag": "junior/grade8a/unit4-d"
     },
     {
@@ -18158,6 +18458,11 @@ var words = [
         "desc": "固定词组，记忆技巧：on（在...上）+foot（脚），用脚行走即步行",
         "english": "on foot",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            72.5,
+            75
+        ],
         "tag": "junior/grade8a/unit4-d"
     },
     {
@@ -18165,6 +18470,11 @@ var words = [
         "desc": "固定词组，记忆技巧：a（一个）+number（数量）+of，表若干数量",
         "english": "a number of",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            75,
+            78
+        ],
         "tag": "junior/grade8a/unit4-d"
     },
     {
@@ -18172,6 +18482,11 @@ var words = [
         "desc": "",
         "english": "take place",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            78,
+            81
+        ],
         "tag": "junior/grade8a/unit4-d"
     },
     {
@@ -18179,6 +18494,11 @@ var words = [
         "desc": "",
         "english": "for instance",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            81,
+            84
+        ],
         "tag": "junior/grade8a/unit4-d"
     },
     {
@@ -18186,6 +18506,11 @@ var words = [
         "desc": "",
         "english": "large amounts of",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            84,
+            88.5
+        ],
         "tag": "junior/grade8a/unit4-d"
     },
     {
@@ -18193,6 +18518,11 @@ var words = [
         "desc": "",
         "english": "international trade",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            88.5,
+            92.5
+        ],
         "tag": "junior/grade8a/unit4-d"
     },
     {
@@ -18200,6 +18530,11 @@ var words = [
         "desc": "",
         "english": "depend on",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            92.5,
+            95.5
+        ],
         "tag": "junior/grade8a/unit4-d"
     },
     {
@@ -18207,6 +18542,11 @@ var words = [
         "desc": "",
         "english": "3D printer",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            95.5,
+            99
+        ],
         "tag": "junior/grade8a/unit4-e"
     },
     {
@@ -18214,6 +18554,11 @@ var words = [
         "desc": "",
         "english": "without doubt",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            99,
+            102.5
+        ],
         "tag": "junior/grade8a/unit4-e"
     },
     {
@@ -18221,6 +18566,11 @@ var words = [
         "desc": "",
         "english": "of all time",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            102.5,
+            105.5
+        ],
         "tag": "junior/grade8a/unit4-e"
     },
     {
@@ -18228,6 +18578,11 @@ var words = [
         "desc": "",
         "english": "make fun of",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            105.5,
+            109
+        ],
         "tag": "junior/grade8a/unit4-e"
     },
     {
@@ -18235,6 +18590,11 @@ var words = [
         "desc": "",
         "english": "traffic jam",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3",
+        "time": [
+            109,
+            112
+        ],
         "tag": "junior/grade8a/unit4-e"
     },
     {
