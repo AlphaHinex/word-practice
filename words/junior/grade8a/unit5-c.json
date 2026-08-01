@@ -3,60 +3,80 @@
         "chinese": "蜜月",
         "desc": "名词，记忆技巧：honey（蜂蜜）+moon（月亮），甜蜜如蜜的月亮时期",
         "english": "honeymoon",
-        "phonetic": "/ˈhʌnimuːn/"
+        "phonetic": "/ˈhʌnimuːn/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [39.5,42.5]
     },
     {
         "chinese": "陌生的;不熟悉的",
         "desc": "形容词，记忆技巧：un（否定）+familiar（熟悉的），不熟悉即陌生",
         "english": "unfamiliar",
-        "phonetic": "/ˌʌnfəˈmɪliər/"
+        "phonetic": "/ˌʌnfəˈmɪliər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [42.5,45.5]
     },
     {
         "chinese": "想家的",
         "desc": "形容词，记忆技巧：home（家）+sick（生病的），因想家而不适",
         "english": "homesick",
-        "phonetic": "/ˈhoʊmsɪk/"
+        "phonetic": "/ˈhoʊmsɪk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [45.5,48]
     },
     {
         "chinese": "孤独的",
         "desc": "形容词，记忆技巧：lone（独自的）+ly，独自状态下的孤独感",
         "english": "lonely",
-        "phonetic": "/ˈloʊnli/"
+        "phonetic": "/ˈloʊnli/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [48,50]
     },
     {
         "chinese": "对付;应付",
         "desc": "动词，记忆技巧：联想短语“deal with”（对付、处理）",
         "english": "deal",
-        "phonetic": "/diːl/"
+        "phonetic": "/diːl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [50,52]
     },
     {
         "chinese": "期待;盼望",
         "desc": "动词。记忆技巧：ex-（向外）+ pect（看）→向外看→期待",
         "english": "expect",
-        "phonetic": "/ɪkˈspekt/"
+        "phonetic": "/ɪkˈspekt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [52,55]
     },
     {
         "chinese": "情况",
         "desc": "名词。记忆技巧：situate（使位于）+ -ion名词后缀→所处的位置→情况",
         "english": "situation",
-        "phonetic": "/ˌsɪtʃuˈeɪʃn/"
+        "phonetic": "/ˌsɪtʃuˈeɪʃn/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [55,58.5]
     },
     {
         "chinese": "接受",
         "desc": "动词。记忆技巧：ac-（加强）+ cept（拿）→拿过来→接受",
         "english": "accept",
-        "phonetic": "/əkˈsept/"
+        "phonetic": "/əkˈsept/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [58.5,61.3]
     },
     {
         "chinese": "适应",
         "desc": "名词。记忆技巧：adapt（适应，动词）+ -ation名词后缀→适应的过程或结果",
         "english": "adaptation",
-        "phonetic": "/ˌædæpˈteɪʃn/"
+        "phonetic": "/ˌædæpˈteɪʃn/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [61.3,64]
     },
     {
         "chinese": "京剧",
         "desc": "专有名词短语，指中国传统戏剧形式",
         "english": "Beijing opera",
-        "phonetic": ""
+        "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [64,68]
     }
 ]
