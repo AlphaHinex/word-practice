@@ -18302,6 +18302,11 @@ var words = [
         "desc": "专有名词，指中国传统武术，结合呼吸和动作的健身方式。",
         "english": "tai chi",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            14.5,
+            17.5
+        ],
         "tag": "junior/grade8a/unit5-b"
     },
     {
@@ -18309,6 +18314,11 @@ var words = [
         "desc": "词性：adv./conj. 记忆技巧：用于否定句和疑问句，表示“还未”，与“already”对应。",
         "english": "yet",
         "phonetic": "/jet/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            17.5,
+            19.5
+        ],
         "tag": "junior/grade8a/unit5-b"
     },
     {
@@ -18316,6 +18326,11 @@ var words = [
         "desc": "词性：adj. 记忆技巧：in（不）+dependent（依赖的），不依赖他人的→自主的。",
         "english": "independent",
         "phonetic": "/ˌɪndɪˈpendənt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            19.5,
+            22.5
+        ],
         "tag": "junior/grade8a/unit5-b"
     },
     {
@@ -18323,6 +18338,11 @@ var words = [
         "desc": "词性：n. 记忆技巧：con（一起）+tent（帐篷），帐篷里的东西→内容（注意作形容词“满足的”时音标为/kənˈtent/）。",
         "english": "content",
         "phonetic": "/ˈkɑːntent/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            22.5,
+            25.3
+        ],
         "tag": "junior/grade8a/unit5-b"
     },
     {
@@ -18330,6 +18350,11 @@ var words = [
         "desc": "词性：n. 记忆技巧：feel（感觉，v.）+ing（名词后缀），表示感觉的名词形式。",
         "english": "feeling",
         "phonetic": "/ˈfiːlɪŋ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            25.3,
+            27
+        ],
         "tag": "junior/grade8a/unit5-b"
     },
     {
@@ -18337,6 +18362,11 @@ var words = [
         "desc": "词性：n./v. 记忆技巧：发音类似“休克”，震惊可能导致休克，帮助记忆含义。",
         "english": "shock",
         "phonetic": "/ʃɑːk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            27,
+            29.5
+        ],
         "tag": "junior/grade8a/unit5-b"
     },
     {
@@ -18344,6 +18374,11 @@ var words = [
         "desc": "形容词，记忆技巧：fore（前）+ign，联想“在前面的国家”即外国的",
         "english": "foreign",
         "phonetic": "/ˈfɔːrən/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            29.5,
+            31.5
+        ],
         "tag": "junior/grade8a/unit5-b"
     },
     {
@@ -18351,6 +18386,11 @@ var words = [
         "desc": "形容词，记忆技巧：con（一起）+fuse（融合）+d，事物融合一起让人迷惑",
         "english": "confused",
         "phonetic": "/kənˈfjuːzd/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            31.5,
+            35
+        ],
         "tag": "junior/grade8a/unit5-b"
     },
     {
@@ -18358,6 +18398,11 @@ var words = [
         "desc": "形容词，记忆技巧：anx（焦虑）+ious（形容词后缀），表焦虑的状态",
         "english": "anxious",
         "phonetic": "/ˈæŋkʃəs/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            35,
+            37
+        ],
         "tag": "junior/grade8a/unit5-b"
     },
     {
@@ -18365,6 +18410,11 @@ var words = [
         "desc": "名词，记忆技巧：发音类似“费兹”，联想“阶段（phase）的发展”",
         "english": "phase",
         "phonetic": "/feɪz/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            37,
+            39.5
+        ],
         "tag": "junior/grade8a/unit5-b"
     },
     {
@@ -18372,6 +18422,11 @@ var words = [
         "desc": "名词，记忆技巧：honey（蜂蜜）+moon（月亮），甜蜜如蜜的月亮时期",
         "english": "honeymoon",
         "phonetic": "/ˈhʌnimuːn/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            39.5,
+            42.5
+        ],
         "tag": "junior/grade8a/unit5-c"
     },
     {
@@ -18379,6 +18434,11 @@ var words = [
         "desc": "形容词，记忆技巧：un（否定）+familiar（熟悉的），不熟悉即陌生",
         "english": "unfamiliar",
         "phonetic": "/ˌʌnfəˈmɪliər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            42.5,
+            45.5
+        ],
         "tag": "junior/grade8a/unit5-c"
     },
     {
@@ -18386,6 +18446,11 @@ var words = [
         "desc": "形容词，记忆技巧：home（家）+sick（生病的），因想家而不适",
         "english": "homesick",
         "phonetic": "/ˈhoʊmsɪk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            45.5,
+            48
+        ],
         "tag": "junior/grade8a/unit5-c"
     },
     {
@@ -18393,6 +18458,11 @@ var words = [
         "desc": "形容词，记忆技巧：lone（独自的）+ly，独自状态下的孤独感",
         "english": "lonely",
         "phonetic": "/ˈloʊnli/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            48,
+            50
+        ],
         "tag": "junior/grade8a/unit5-c"
     },
     {
@@ -18400,6 +18470,11 @@ var words = [
         "desc": "动词，记忆技巧：联想短语“deal with”（对付、处理）",
         "english": "deal",
         "phonetic": "/diːl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            50,
+            52
+        ],
         "tag": "junior/grade8a/unit5-c"
     },
     {
@@ -18407,6 +18482,11 @@ var words = [
         "desc": "动词。记忆技巧：ex-（向外）+ pect（看）→向外看→期待",
         "english": "expect",
         "phonetic": "/ɪkˈspekt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            52,
+            55
+        ],
         "tag": "junior/grade8a/unit5-c"
     },
     {
@@ -18414,6 +18494,11 @@ var words = [
         "desc": "名词。记忆技巧：situate（使位于）+ -ion名词后缀→所处的位置→情况",
         "english": "situation",
         "phonetic": "/ˌsɪtʃuˈeɪʃn/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            55,
+            58.5
+        ],
         "tag": "junior/grade8a/unit5-c"
     },
     {
@@ -18421,6 +18506,11 @@ var words = [
         "desc": "动词。记忆技巧：ac-（加强）+ cept（拿）→拿过来→接受",
         "english": "accept",
         "phonetic": "/əkˈsept/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            58.5,
+            61.3
+        ],
         "tag": "junior/grade8a/unit5-c"
     },
     {
@@ -18428,6 +18518,11 @@ var words = [
         "desc": "名词。记忆技巧：adapt（适应，动词）+ -ation名词后缀→适应的过程或结果",
         "english": "adaptation",
         "phonetic": "/ˌædæpˈteɪʃn/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            61.3,
+            64
+        ],
         "tag": "junior/grade8a/unit5-c"
     },
     {
@@ -18435,6 +18530,11 @@ var words = [
         "desc": "专有名词短语，指中国传统戏剧形式",
         "english": "Beijing opera",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            64,
+            68
+        ],
         "tag": "junior/grade8a/unit5-c"
     },
     {
@@ -18442,6 +18542,11 @@ var words = [
         "desc": "名词短语，host（主人）+ family（家庭）→提供住宿的家庭",
         "english": "host family",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            68,
+            71
+        ],
         "tag": "junior/grade8a/unit5-d"
     },
     {
@@ -18449,6 +18554,11 @@ var words = [
         "desc": "动词短语，snake（蛇）+ its way（路径）→像蛇一样移动→蜿蜒",
         "english": "snake its way",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            71,
+            74.5
+        ],
         "tag": "junior/grade8a/unit5-d"
     },
     {
@@ -18456,6 +18566,11 @@ var words = [
         "desc": "名词短语，culture（文化）+ shock（冲击）→接触新文化时的不适应",
         "english": "culture shock",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            74.5,
+            77.5
+        ],
         "tag": "junior/grade8a/unit5-d"
     },
     {
@@ -18463,6 +18578,11 @@ var words = [
         "desc": "动词短语，deal（处理）+ with（与…）→处理问题或情况",
         "english": "deal with",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            77.5,
+            80
+        ],
         "tag": "junior/grade8a/unit5-d"
     },
     {
@@ -18470,6 +18590,11 @@ var words = [
         "desc": "动词短语，feel（感觉）+ at home（在家）→感觉像在家一样舒适",
         "english": "feel at home",
         "phonetic": "",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [
+            80,
+            84
+        ],
         "tag": "junior/grade8a/unit5-d"
     },
     {
