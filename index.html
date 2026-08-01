@@ -50,20 +50,20 @@
 
         .search-wrap { position: relative; }
         .search-wrap .search-icon { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: 0.8rem; pointer-events: none; }
-        input[type="text"] {
+        input[type="text"], input[type="search"] {
             width: 100%; padding: 11px 12px 11px 36px;
             border: 1.5px solid var(--border); border-radius: var(--radius-sm);
             font-size: 1rem; background: var(--bg); color: var(--text);
-            outline: none; transition: border-color 0.2s, background 0.2s; -webkit-appearance: none;
+            outline: none; transition: border-color 0.2s, background 0.2s; appearance: none; -webkit-appearance: none;
         }
-        input[type="text"]:focus { border-color: var(--primary); background: #fff; }
-        input[type="text"]::placeholder { color: #a0aec0; }
+        input[type="text"]:focus, input[type="search"]:focus { border-color: var(--primary); background: #fff; }
+        input[type="text"]::placeholder, input[type="search"]::placeholder { color: #a0aec0; }
 
         #tags {
             width: 100%; height: 156px;
             border: 1.5px solid var(--border); border-radius: var(--radius-sm);
             background: var(--bg); color: var(--text); font-size: 0.95rem;
-            padding: 4px; outline: none; cursor: pointer; margin-top: 10px; -webkit-appearance: none;
+            padding: 4px; outline: none; cursor: pointer; margin-top: 10px; appearance: none; -webkit-appearance: none;
         }
         #tags option { padding: 6px 8px; border-radius: 6px; margin: 1px 0; cursor: pointer; }
         #tags option:checked { background: var(--primary) !important; color: white; }
@@ -88,9 +88,36 @@
         .btn-primary { background: var(--primary); color: white; box-shadow: 0 4px 12px rgba(99,102,241,0.3); }
         .btn-primary:hover { background: var(--primary-dark); transform: translateY(-1px); }
         .btn-primary:active { transform: scale(0.97); }
+        .btn:disabled { opacity: 0.7; cursor: wait; transform: none; }
         .btn-secondary { background: var(--card); color: var(--text); border: 1.5px solid var(--border); }
         .btn-secondary:hover { border-color: var(--primary); color: var(--primary); }
         .btn-secondary:active { transform: scale(0.97); }
+
+        #preloadCard { display: none; }
+        #preloadCard.is-visible { display: block; }
+        .progress-track {
+            width: 100%; height: 10px; overflow: hidden;
+            border-radius: 999px; background: var(--bg); border: 1px solid var(--border);
+        }
+        .progress-track-fill {
+            height: 100%; width: 0%; border-radius: inherit;
+            background: linear-gradient(90deg, var(--primary), #8b5cf6);
+            transition: width 0.2s ease;
+        }
+        .progress-meta {
+            display: flex; align-items: center; justify-content: space-between;
+            margin-top: 10px; gap: 12px; font-size: 0.82rem; color: var(--muted);
+        }
+        .progress-meta strong { color: var(--text); font-weight: 600; }
+        .search-action { display: flex; gap: 10px; align-items: stretch; }
+        .search-action .search-wrap { flex: 1; }
+        .search-action .btn-search {
+            flex: 0 0 auto; min-width: 52px; padding: 0 16px;
+            border: none; border-radius: var(--radius-sm); background: var(--primary);
+            color: #fff; cursor: pointer; font-size: 1rem; box-shadow: 0 4px 12px rgba(99,102,241,0.24);
+            -webkit-tap-highlight-color: transparent;
+        }
+        .search-action .btn-search:active { transform: scale(0.97); }
 
         .word-row { display: flex; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--border); gap: 12px; }
         .word-row:last-child { border-bottom: none; }
@@ -244,13 +271,32 @@
         </button>
     </div>
 
+    <div class="card" id="preloadCard" aria-live="polite">
+        <div class="card-title">音频预加载</div>
+        <div class="progress-track">
+            <div class="progress-track-fill" id="preloadFill"></div>
+        </div>
+        <div class="progress-meta">
+            <span id="preloadStatus">准备中...</span>
+            <strong id="preloadCount">0 / 0</strong>
+        </div>
+    </div>
+
     <div class="card">
         <div class="card-title">搜索单词</div>
-        <div class="search-wrap">
-            <i class="fas fa-search search-icon"></i>
-            <input type="text" id="wordSearch"
-                   onkeypress="if(event.key==='Enter') searchWord()"
-                   placeholder="输入中文或英文搜索...">
+        <div class="search-action">
+            <div class="search-wrap">
+                <i class="fas fa-search search-icon"></i>
+                <input type="search" id="wordSearch"
+                       placeholder="输入中文或英文搜索..."
+                       enterkeyhint="search"
+                       autocomplete="off"
+                       autocapitalize="none"
+                       spellcheck="false">
+            </div>
+            <button type="button" id="searchButton" class="btn-search" aria-label="搜索单词">
+                <i class="fas fa-search"></i>
+            </button>
         </div>
         <div id="searchResult"></div>
     </div>
@@ -328,49 +374,234 @@
     var practiceWords = [];
     var audioCache = {};
     var currentAudioInstance = null;
+    var audioObjectUrls = {};
+    var preloadState = null;
+    var startButton = document.getElementById('start');
+    var preloadCard = document.getElementById('preloadCard');
+    var preloadFill = document.getElementById('preloadFill');
+    var preloadStatus = document.getElementById('preloadStatus');
+    var preloadCount = document.getElementById('preloadCount');
+    var startButtonHTML = startButton.innerHTML;
+    var wordSearchInput = document.getElementById('wordSearch');
+    var searchButton = document.getElementById('searchButton');
+
+    function stopActiveSegmentPlayback() {
+        if (!currentAudioInstance) return;
+
+        currentAudioInstance.pause();
+        if (currentAudioInstance._stopTimer) {
+            clearTimeout(currentAudioInstance._stopTimer);
+            currentAudioInstance._stopTimer = null;
+        }
+        if (currentAudioInstance._pendingStartHandler) {
+            currentAudioInstance.removeEventListener('loadedmetadata', currentAudioInstance._pendingStartHandler);
+            currentAudioInstance._pendingStartHandler = null;
+        }
+        currentAudioInstance = null;
+    }
+
+    function playAudioSegment(audio, start, end) {
+        stopActiveSegmentPlayback();
+        currentAudioInstance = audio;
+        audio.pause();
+
+        var startPlayback = function() {
+            if (currentAudioInstance !== audio) return;
+
+            audio.currentTime = start;
+            audio.play().then(function() {
+                var duration = Math.max(0, end - start) * 1000;
+                audio._stopTimer = setTimeout(function() {
+                    audio.pause();
+                    audio._stopTimer = null;
+                    if (currentAudioInstance === audio) currentAudioInstance = null;
+                }, duration);
+            }).catch(function(err) {
+                console.error('播放失败:', err);
+                if (currentAudioInstance === audio) currentAudioInstance = null;
+            });
+        };
+
+        if (audio.readyState >= 1) {
+            startPlayback();
+            return;
+        }
+
+        audio._pendingStartHandler = function() {
+            audio._pendingStartHandler = null;
+            startPlayback();
+        };
+        audio.addEventListener('loadedmetadata', audio._pendingStartHandler, { once: true });
+        audio.load();
+    }
+
+    function formatPercent(value) {
+        return Math.max(0, Math.min(100, value || 0)).toFixed(0) + '%';
+    }
+
+    function resetPreloadUi() {
+        preloadState = null;
+        preloadCard.classList.remove('is-visible');
+        preloadFill.style.width = '0%';
+        preloadStatus.textContent = '准备中...';
+        preloadCount.textContent = '0 / 0';
+        startButton.disabled = false;
+        startButton.innerHTML = startButtonHTML;
+    }
+
+    function updatePreloadUi() {
+        if (!preloadState) {
+            resetPreloadUi();
+            return;
+        }
+
+        var urls = Object.keys(preloadState.files);
+        var totalFiles = urls.length;
+        var loadedFiles = 0;
+        var failedFiles = 0;
+        var knownLoaded = 0;
+        var knownTotal = 0;
+
+        urls.forEach(function(url) {
+            var fileState = preloadState.files[url];
+            if (fileState.status === 'loaded') loadedFiles++;
+            if (fileState.status === 'error') failedFiles++;
+            if (fileState.total > 0) {
+                knownLoaded += Math.min(fileState.loaded, fileState.total);
+                knownTotal += fileState.total;
+            }
+        });
+
+        var completedFiles = loadedFiles + failedFiles;
+        var percent = knownTotal > 0
+            ? (knownLoaded / knownTotal) * 100
+            : (totalFiles ? (completedFiles / totalFiles) * 100 : 100);
+
+        preloadFill.style.width = formatPercent(percent);
+        preloadCount.textContent = completedFiles + ' / ' + totalFiles;
+
+        if (completedFiles < totalFiles) {
+            preloadStatus.textContent = '正在加载音频 ' + formatPercent(percent);
+            startButton.innerHTML = '<i class="fas fa-spinner fa-spin"></i> 原音加载中 ' + formatPercent(percent);
+            return;
+        }
+
+        if (failedFiles > 0) {
+            preloadStatus.textContent = '已完成，' + failedFiles + ' 个音频加载失败';
+        } else {
+            preloadStatus.textContent = '音频已全部缓冲完成';
+        }
+    }
+
+    function setPreloadFileState(url, patch) {
+        if (!preloadState || !preloadState.files[url]) return;
+        Object.assign(preloadState.files[url], patch);
+        updatePreloadUi();
+    }
+
+    function buildCachedAudio(url, src) {
+        var audio = new Audio();
+        audio.preload = 'auto';
+        audio.src = src;
+        audio.load();
+        audioCache[url] = audio;
+        return audio;
+    }
+
+    function preloadAudioUrl(url) {
+        if (audioCache[url]) {
+            setPreloadFileState(url, { status: 'loaded', loaded: 1, total: 1 });
+            return Promise.resolve();
+        }
+
+        return new Promise(function(resolve) {
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', url, true);
+            xhr.responseType = 'blob';
+
+            xhr.onprogress = function(event) {
+                setPreloadFileState(url, {
+                    status: 'loading',
+                    loaded: event.loaded || 0,
+                    total: event.lengthComputable ? event.total : 0
+                });
+            };
+
+            xhr.onload = function() {
+                if (xhr.status >= 200 && xhr.status < 300) {
+                    var blob = xhr.response;
+                    var objectUrl = URL.createObjectURL(blob);
+                    audioObjectUrls[url] = objectUrl;
+                    buildCachedAudio(url, objectUrl);
+                    setPreloadFileState(url, {
+                        status: 'loaded',
+                        loaded: blob.size || 1,
+                        total: blob.size || 1
+                    });
+                } else {
+                    setPreloadFileState(url, { status: 'error' });
+                }
+                resolve();
+            };
+
+            xhr.onerror = function() {
+                setPreloadFileState(url, { status: 'error' });
+                resolve();
+            };
+
+            xhr.onabort = function() {
+                setPreloadFileState(url, { status: 'error' });
+                resolve();
+            };
+
+            xhr.send();
+        });
+    }
+
+    function collectPracticeAudioUrls(wordList) {
+        var seen = {};
+        return wordList.reduce(function(acc, word) {
+            if (!word.audio || seen[word.audio]) return acc;
+            seen[word.audio] = true;
+            acc.push(word.audio);
+            return acc;
+        }, []);
+    }
+
+    function preloadPracticeAudio(audioUrls) {
+        if (audioUrls.length === 0) {
+            resetPreloadUi();
+            return Promise.resolve();
+        }
+
+        preloadState = {
+            files: audioUrls.reduce(function(acc, url) {
+                acc[url] = { status: 'pending', loaded: 0, total: 0 };
+                return acc;
+            }, {})
+        };
+
+        preloadCard.classList.add('is-visible');
+        startButton.disabled = true;
+        updatePreloadUi();
+
+        return Promise.all(audioUrls.map(preloadAudioUrl)).then(function() {
+            updatePreloadUi();
+        });
+    }
 
     function speakWord(word) {
         // 停止之前的朗读（TTS 或 Audio）
-        if (currentAudioInstance) {
-            currentAudioInstance.pause();
-            if (currentAudioInstance._stopTimer) {
-                clearTimeout(currentAudioInstance._stopTimer);
-                currentAudioInstance._stopTimer = null;
-            }
-            currentAudioInstance = null;
-        }
+        stopActiveSegmentPlayback();
         window.speechSynthesis.cancel();
 
         if (word.audio && word.time && Array.isArray(word.time) && word.time.length === 2) {
             var url = word.audio;
             if (!audioCache[url]) {
-                var a = new Audio(url);
-                a.preload = 'auto';
-                audioCache[url] = a;
+                buildCachedAudio(url, url);
             }
             var audio = audioCache[url];
-            currentAudioInstance = audio;
-            
-            var startPlayback = function() {
-                audio.currentTime = word.time[0];
-                audio.play().then(function() {
-                    // 根据时间段长度设置停止定时器
-                    var duration = (word.time[1] - word.time[0]) * 1000;
-                    audio._stopTimer = setTimeout(function() {
-                        audio.pause();
-                        audio._stopTimer = null;
-                        if (currentAudioInstance === audio) currentAudioInstance = null;
-                    }, duration);
-                }).catch(function(err) {
-                    console.error("播放失败:", err);
-                });
-            };
-
-            if (audio.readyState >= 1) { // HAVE_METADATA
-                startPlayback();
-            } else {
-                audio.addEventListener('loadedmetadata', startPlayback, { once: true });
-            }
+            playAudioSegment(audio, word.time[0], word.time[1]);
         } else {
             var utt = new SpeechSynthesisUtterance(word.english);
             window.speechSynthesis.speak(utt);
@@ -415,13 +646,25 @@
         }
     }
 
-    document.getElementById('start').addEventListener('click', function() {
-        generatePracticeWords();
+    function enterPractice() {
+        resetPreloadUi();
         practiceWords.sort(function() { return 0.5 - Math.random(); });
         document.getElementById('startPage').style.display = 'none';
         document.getElementById('workspace').style.display = 'flex';
         currentIndex = -1;
         nextWord('in');
+    }
+
+    document.getElementById('start').addEventListener('click', function() {
+        generatePracticeWords();
+        if (practiceWords.length === 0) {
+            alert('没有找到可练习的单词，请先选择标签或切换练习内容。');
+            return;
+        }
+
+        preloadPracticeAudio(collectPracticeAudioUrls(practiceWords)).then(function() {
+            enterPractice();
+        });
     });
 
     document.getElementById('list').addEventListener('click', function() {
@@ -505,6 +748,9 @@
     }
 
     function showWord(word, direction) {
+        stopActiveSegmentPlayback();
+        window.speechSynthesis.cancel();
+
         var fb = document.getElementById('floatingBox');
         fb.style.display = 'none';
         fb.classList.remove('show');
@@ -550,6 +796,9 @@
 
     function reset() {
         if (!confirm('确定要重置吗？当前练习顺序将清除。')) return;
+        stopActiveSegmentPlayback();
+        window.speechSynthesis.cancel();
+        resetPreloadUi();
         document.getElementById('startPage').style.display = 'block';
         document.getElementById('workspace').style.display = 'none';
         document.getElementById('wordSearch').value = '';
@@ -591,19 +840,34 @@
 
     function searchWord() {
         document.getElementById('listArea').innerHTML = '';
-        var q = document.getElementById('wordSearch').value.toLowerCase();
+        var q = wordSearchInput.value.trim().toLowerCase();
+        var area = document.getElementById('searchResult');
+        area.innerHTML = '';
+
+        if (!q) {
+            area.innerHTML = '<p style="padding:12px 0;color:var(--muted);font-size:0.9rem">请输入要搜索的中文或英文</p>';
+            return;
+        }
+
         var matches = words.filter(function(w) {
             var cn = Array.isArray(w.chinese) ? w.chinese.join(' ') : w.chinese;
             return w.english.toLowerCase().includes(q) || cn.toLowerCase().includes(q);
         });
-        var area = document.getElementById('searchResult');
-        area.innerHTML = '';
         if (matches.length > 0) {
             matches.forEach(function(w) { showWordByLine('searchResult', w); });
         } else {
             area.innerHTML = '<p style="padding:12px 0;color:var(--muted);font-size:0.9rem">未找到相关单词</p>';
         }
     }
+
+    searchButton.addEventListener('click', searchWord);
+    wordSearchInput.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') {
+            e.preventDefault();
+            searchWord();
+        }
+    });
+    wordSearchInput.addEventListener('search', searchWord);
 
     // Touch gestures
     (function() {

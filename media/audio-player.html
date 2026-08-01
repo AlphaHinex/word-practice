@@ -44,11 +44,11 @@
     <h1>🎵 音频片段播放器</h1>
     <p>点击按钮播放指定时间段的音频</p>
     <div class="btn-group">
-      <button class="btn btn-1" onclick="playSegment(34,37)">
+      <button class="btn btn-1" onclick="playSegment(12.6,14.5)">
         <div class="label">▶ 片段一</div>
         <div class="sub">10 秒 ~ 12 秒</div>
       </button>
-      <button class="btn btn-2" onclick="playSegment(37,39)">
+      <button class="btn btn-2" onclick="playSegment(10,12.6)">
         <div class="label">▶ 片段二</div>
         <div class="sub">20 秒 ~ 25 秒</div>
       </button>
@@ -59,41 +59,63 @@
   <script>
     const audio = new Audio();
     audio.preload = 'auto';
-    // audio.src = 'https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/44%20Appendices_Words%20and%20phrases%20Unit%202.mp3';
-    audio.src = 'https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3';
+    audio.src = 'https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3';
+    // audio.src = 'https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/46%20Appendices_Words%20and%20phrases%20Unit%204.mp3';
 
     const status = document.getElementById('status');
     const btns = document.querySelectorAll('.btn');
-    let stopTimer = null;
+    let currentAudioInstance = null;
 
-    function playSegment(start, end) {
-      // 清除之前的停止定时器
-      if (stopTimer) {
-        clearTimeout(stopTimer);
-        stopTimer = null;
+    function stopActiveSegmentPlayback() {
+      if (!currentAudioInstance) return;
+
+      currentAudioInstance.pause();
+      if (currentAudioInstance._stopTimer) {
+        clearTimeout(currentAudioInstance._stopTimer);
+        currentAudioInstance._stopTimer = null;
       }
-      // 如果正在播放，先暂停
-      audio.pause();
+      currentAudioInstance = null;
+    }
 
-      // 设置起止时间并播放
-      audio.currentTime = start;
-      audio.play().catch(e => {
-        status.textContent = '⚠️ 播放失败，请检查网络或刷新重试';
-        status.className = 'status';
-      });
-
-      status.textContent = `▶ 播放中 ${start}~${end} 秒 ...`;
-      status.className = 'status playing';
-      btns.forEach(b => b.disabled = true);
-
-      // 到达结束时间时停止
-      stopTimer = setTimeout(() => {
-        audio.pause();
+    function setPlaybackUi(isPlaying, start, end) {
+      if (isPlaying) {
+        status.textContent = `▶ 播放中 ${start}~${end} 秒 ...`;
+        status.className = 'status playing';
+      } else {
         status.textContent = `⏹ 播放完成（${start}~${end} 秒）`;
         status.className = 'status';
+      }
+      btns.forEach(b => b.disabled = isPlaying);
+    }
+
+    function playAudioSegment(player, start, end) {
+      stopActiveSegmentPlayback();
+      currentAudioInstance = player;
+      player.pause();
+      player.currentTime = start;
+      setPlaybackUi(true, start, end);
+
+      player.play().then(() => {
+        player._stopTimer = setTimeout(() => {
+          player.pause();
+          player._stopTimer = null;
+          if (currentAudioInstance === player) {
+            currentAudioInstance = null;
+          }
+          setPlaybackUi(false, start, end);
+        }, Math.max(0, end - start) * 1000);
+      }).catch(() => {
+        if (currentAudioInstance === player) {
+          currentAudioInstance = null;
+        }
+        status.textContent = '⚠️ 播放失败，请检查网络或刷新重试';
+        status.className = 'status';
         btns.forEach(b => b.disabled = false);
-        stopTimer = null;
-      }, (end - start) * 1000);
+      });
+    }
+
+    function playSegment(start, end) {
+      playAudioSegment(audio, start, end);
     }
 
     // 如果音频加载出错，给出提示
