@@ -23,6 +23,7 @@
             --radius-sm: 10px;
         }
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        html { height: 100%; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif;
             background: var(--bg);
@@ -33,7 +34,7 @@
         }
 
         /* START PAGE */
-        #startPage { max-width: 520px; margin: 0 auto; padding: 0 16px 120px; }
+        #startPage { max-width: 520px; margin: 0 auto; padding: 0 16px 120px; overflow-y: auto; -webkit-overflow-scrolling: touch; }
         .app-header { text-align: center; padding: 36px 0 24px; }
         .app-header h1 {
             font-size: 1.75rem; font-weight: 800;
@@ -59,14 +60,26 @@
         input[type="text"]:focus, input[type="search"]:focus { border-color: var(--primary); background: #fff; }
         input[type="text"]::placeholder, input[type="search"]::placeholder { color: #a0aec0; }
 
-        #tags {
-            width: 100%; height: 156px;
+        .tag-list {
+            width: 100%; height: 180px; margin-top: 10px; overflow-y: auto;
             border: 1.5px solid var(--border); border-radius: var(--radius-sm);
-            background: var(--bg); color: var(--text); font-size: 0.95rem;
-            padding: 4px; outline: none; cursor: pointer; margin-top: 10px; appearance: none; -webkit-appearance: none;
+            background: var(--bg); padding: 8px; -webkit-overflow-scrolling: touch;
         }
-        #tags option { padding: 6px 8px; border-radius: 6px; margin: 1px 0; cursor: pointer; }
-        #tags option:checked { background: var(--primary) !important; color: white; }
+        .tag-item {
+            display: flex; align-items: center; gap: 8px;
+            padding: 8px 6px; border-radius: 8px; cursor: pointer; user-select: none;
+        }
+        .tag-item:hover { background: rgba(99,102,241,0.08); }
+        .tag-item input { width: 16px; height: 16px; accent-color: var(--primary); }
+        .tag-item span { font-size: 0.92rem; color: var(--text); word-break: break-all; }
+        .tag-empty { color: var(--muted); font-size: 0.9rem; padding: 12px 8px; }
+        .tag-meta { margin-top: 8px; font-size: 0.78rem; color: var(--muted); }
+        .tag-group + .tag-group { margin-top: 10px; }
+        .tag-group-title {
+            font-size: 0.75rem; font-weight: 700; color: var(--primary);
+            background: var(--primary-light); border-radius: 999px;
+            display: inline-block; padding: 2px 8px; margin: 4px 0 6px;
+        }
 
         .pill-group { display: flex; background: var(--bg); border-radius: var(--radius-sm); padding: 3px; gap: 2px; }
         .pill-group input[type="radio"] { display: none; }
@@ -135,7 +148,7 @@
         .github-link:hover { color: var(--text); }
 
         /* WORKSPACE */
-        #workspace { display: none; flex-direction: column; height: 100vh; height: 100dvh; overflow: hidden; background: var(--bg); }
+        #workspace { display: none; flex-direction: column; height: 100vh; min-height: 100vh; overflow: hidden; background: var(--bg); }
         #progressBar { height: 3px; background: var(--border); flex-shrink: 0; }
         #progressFill { height: 100%; background: linear-gradient(90deg, var(--primary), #8b5cf6); transition: width 0.35s cubic-bezier(0.4,0,0.2,1); border-radius: 0 2px 2px 0; }
 
@@ -204,6 +217,16 @@
             .tool-btn { padding: 10px 16px; font-size: 0.7rem; }
             .tool-btn i { font-size: 1.35rem; }
         }
+        @media (max-width: 639px) {
+            #tags { height: 148px; }
+            .action-row {
+                position: sticky;
+                bottom: 0;
+                z-index: 10;
+                background: linear-gradient(180deg, rgba(241,245,249,0.7), rgba(241,245,249,1));
+                padding-top: 8px;
+            }
+        }
         @media (min-width: 1024px) {
             #practiceArea { padding: 64px 64px 24px; }
         }
@@ -224,9 +247,8 @@
             <i class="fas fa-search search-icon"></i>
             <input type="text" id="tagSearch" onkeyup="filterTags()" placeholder="搜索标签...">
         </div>
-        <select id="tags" multiple>
-            <!-- Populated by words-noaoe.js -->
-        </select>
+        <div id="tags" class="tag-list" role="group" aria-label="标签多选"></div>
+        <div id="tagMeta" class="tag-meta">已选 0 个标签</div>
     </div>
 
     <div class="card">
@@ -354,7 +376,84 @@
     });
 
     var tagsSelect = document.getElementById('tags');
-    newOptions.forEach(function(opt) { tagsSelect.appendChild(opt); });
+    var tagMeta = document.getElementById('tagMeta');
+    var allTags = Array.from(new Set(words.map(function(w) { return w.tag; }))).sort();
+    var selectedTagSet = new Set();
+
+    function getTagGroup(tag) {
+        var clean = (tag || '').replace(/^\/+/, '');
+        if (!clean) return '其他';
+        var parts = clean.split('/').filter(Boolean);
+        if (parts.length === 0) return '其他';
+        if (parts.length > 1 && /^(junior|primary|starlight)$/i.test(parts[0])) {
+            return parts[0] + '/' + parts[1];
+        }
+        return parts[0];
+    }
+
+    function updateTagMeta() {
+        tagMeta.textContent = '已选 ' + selectedTagSet.size + ' 个标签';
+    }
+
+    function renderTags(query) {
+        var q = (query || '').toLowerCase();
+        var filtered = allTags.filter(function(tag) { return tag.toLowerCase().includes(q); });
+        var grouped = {};
+
+        tagsSelect.innerHTML = '';
+        if (filtered.length === 0) {
+            var empty = document.createElement('div');
+            empty.className = 'tag-empty';
+            empty.textContent = '没有匹配的标签';
+            tagsSelect.appendChild(empty);
+            updateTagMeta();
+            return;
+        }
+
+        filtered.forEach(function(tag) {
+            var group = getTagGroup(tag);
+            if (!grouped[group]) grouped[group] = [];
+            grouped[group].push(tag);
+        });
+
+        Object.keys(grouped).sort().forEach(function(group) {
+            var groupWrap = document.createElement('div');
+            groupWrap.className = 'tag-group';
+
+            var title = document.createElement('div');
+            title.className = 'tag-group-title';
+            title.textContent = group;
+            groupWrap.appendChild(title);
+
+            grouped[group].forEach(function(tag) {
+                var label = document.createElement('label');
+                label.className = 'tag-item';
+
+                var input = document.createElement('input');
+                input.type = 'checkbox';
+                input.value = tag;
+                input.checked = selectedTagSet.has(tag);
+                input.addEventListener('change', function() {
+                    if (input.checked) selectedTagSet.add(tag);
+                    else selectedTagSet.delete(tag);
+                    updateTagMeta();
+                });
+
+                var text = document.createElement('span');
+                text.textContent = tag;
+
+                label.appendChild(input);
+                label.appendChild(text);
+                groupWrap.appendChild(label);
+            });
+
+            tagsSelect.appendChild(groupWrap);
+        });
+
+        updateTagMeta();
+    }
+
+    renderTags('');
 
     // Sync pill radios → hidden selects
     document.querySelectorAll('input[name="mode-ui"]').forEach(function(r) {
@@ -366,9 +465,7 @@
 
     function filterTags() {
         var q = document.getElementById('tagSearch').value.toLowerCase();
-        var filtered = newOptions.filter(function(o) { return o.textContent.toLowerCase().includes(q); });
-        tagsSelect.innerHTML = '';
-        filtered.forEach(function(o) { tagsSelect.appendChild(o); });
+        renderTags(q);
     }
 
     var practiceWords = [];
@@ -381,9 +478,20 @@
     var preloadFill = document.getElementById('preloadFill');
     var preloadStatus = document.getElementById('preloadStatus');
     var preloadCount = document.getElementById('preloadCount');
-    var startButtonHTML = startButton.innerHTML;
     var wordSearchInput = document.getElementById('wordSearch');
     var searchButton = document.getElementById('searchButton');
+    var audioLoadPromises = {};
+
+    function getSpeechSynthesis() {
+        return (typeof window !== 'undefined' && window.speechSynthesis) ? window.speechSynthesis : null;
+    }
+
+    function cancelSpeechSafe() {
+        var synth = getSpeechSynthesis();
+        if (synth && typeof synth.cancel === 'function') {
+            synth.cancel();
+        }
+    }
 
     function stopActiveSegmentPlayback() {
         if (!currentAudioInstance) return;
@@ -445,8 +553,6 @@
         preloadFill.style.width = '0%';
         preloadStatus.textContent = '准备中...';
         preloadCount.textContent = '0 / 0';
-        startButton.disabled = false;
-        startButton.innerHTML = startButtonHTML;
     }
 
     function updatePreloadUi() {
@@ -481,8 +587,7 @@
         preloadCount.textContent = completedFiles + ' / ' + totalFiles;
 
         if (completedFiles < totalFiles) {
-            preloadStatus.textContent = '正在加载音频 ' + formatPercent(percent);
-            startButton.innerHTML = '<i class="fas fa-spinner fa-spin"></i> 原音加载中 ' + formatPercent(percent);
+            preloadStatus.textContent = '后台加载音频中 ' + formatPercent(percent);
             return;
         }
 
@@ -508,13 +613,15 @@
         return audio;
     }
 
-    function preloadAudioUrl(url) {
+    function loadAudioUrl(url) {
         if (audioCache[url]) {
             setPreloadFileState(url, { status: 'loaded', loaded: 1, total: 1 });
-            return Promise.resolve();
+            return Promise.resolve(audioCache[url]);
         }
 
-        return new Promise(function(resolve) {
+        if (audioLoadPromises[url]) return audioLoadPromises[url];
+
+        audioLoadPromises[url] = new Promise(function(resolve, reject) {
             var xhr = new XMLHttpRequest();
             xhr.open('GET', url, true);
             xhr.responseType = 'blob';
@@ -532,30 +639,35 @@
                     var blob = xhr.response;
                     var objectUrl = URL.createObjectURL(blob);
                     audioObjectUrls[url] = objectUrl;
-                    buildCachedAudio(url, objectUrl);
+                    var audio = buildCachedAudio(url, objectUrl);
                     setPreloadFileState(url, {
                         status: 'loaded',
                         loaded: blob.size || 1,
                         total: blob.size || 1
                     });
+                    resolve(audio);
                 } else {
                     setPreloadFileState(url, { status: 'error' });
+                    reject(new Error('音频加载失败: ' + xhr.status));
                 }
-                resolve();
             };
 
             xhr.onerror = function() {
                 setPreloadFileState(url, { status: 'error' });
-                resolve();
+                reject(new Error('音频网络错误'));
             };
 
             xhr.onabort = function() {
                 setPreloadFileState(url, { status: 'error' });
-                resolve();
+                reject(new Error('音频加载中断'));
             };
 
             xhr.send();
+        }).finally(function() {
+            delete audioLoadPromises[url];
         });
+
+        return audioLoadPromises[url];
     }
 
     function collectPracticeAudioUrls(wordList) {
@@ -568,10 +680,10 @@
         }, []);
     }
 
-    function preloadPracticeAudio(audioUrls) {
+    function startBackgroundPreload(audioUrls) {
         if (audioUrls.length === 0) {
             resetPreloadUi();
-            return Promise.resolve();
+            return;
         }
 
         preloadState = {
@@ -582,10 +694,20 @@
         };
 
         preloadCard.classList.add('is-visible');
-        startButton.disabled = true;
         updatePreloadUi();
 
-        return Promise.all(audioUrls.map(preloadAudioUrl)).then(function() {
+        var index = 0;
+        var workerCount = Math.min(4, audioUrls.length);
+
+        function worker() {
+            if (index >= audioUrls.length) return Promise.resolve();
+            var url = audioUrls[index++];
+            return loadAudioUrl(url).catch(function() {
+                return null;
+            }).then(worker);
+        }
+
+        Promise.all(Array.from({ length: workerCount }, worker)).then(function() {
             updatePreloadUi();
         });
     }
@@ -593,18 +715,21 @@
     function speakWord(word) {
         // 停止之前的朗读（TTS 或 Audio）
         stopActiveSegmentPlayback();
-        window.speechSynthesis.cancel();
+        cancelSpeechSafe();
 
         if (word.audio && word.time && Array.isArray(word.time) && word.time.length === 2) {
             var url = word.audio;
-            if (!audioCache[url]) {
-                buildCachedAudio(url, url);
-            }
-            var audio = audioCache[url];
-            playAudioSegment(audio, word.time[0], word.time[1]);
+            loadAudioUrl(url).then(function(audio) {
+                playAudioSegment(audio, word.time[0], word.time[1]);
+            }).catch(function() {
+                var fallbackAudio = audioCache[url] || buildCachedAudio(url, url);
+                playAudioSegment(fallbackAudio, word.time[0], word.time[1]);
+            });
         } else {
+            var synth = getSpeechSynthesis();
+            if (!synth || typeof SpeechSynthesisUtterance === 'undefined') return;
             var utt = new SpeechSynthesisUtterance(word.english);
-            window.speechSynthesis.speak(utt);
+            synth.speak(utt);
         }
     }
 
@@ -613,7 +738,7 @@
     function generatePracticeWords() {
         var mode    = document.getElementById('mode').value;
         var content = document.getElementById('content').value;
-        var selectedTags = Array.from(tagsSelect.selectedOptions).map(function(o) { return o.value; });
+        var selectedTags = Array.from(selectedTagSet);
 
         practiceWords = words.filter(function(word) {
             if (content === 'bookmarked' && (selectedTags.length === 0 || selectedTags.includes(word.tag))) {
@@ -647,8 +772,6 @@
     }
 
     function enterPractice() {
-        resetPreloadUi();
-        practiceWords.sort(function() { return 0.5 - Math.random(); });
         document.getElementById('startPage').style.display = 'none';
         document.getElementById('workspace').style.display = 'flex';
         currentIndex = -1;
@@ -662,13 +785,14 @@
             return;
         }
 
-        preloadPracticeAudio(collectPracticeAudioUrls(practiceWords)).then(function() {
-            enterPractice();
-        });
+        practiceWords.sort(function() { return 0.5 - Math.random(); });
+        enterPractice();
+        startBackgroundPreload(collectPracticeAudioUrls(practiceWords));
     });
 
     document.getElementById('list').addEventListener('click', function() {
-        if (tagsSelect.selectedOptions.length < 1 || tagsSelect.selectedOptions.length > 10) {
+        var selectedCount = selectedTagSet.size;
+        if (selectedCount < 1 || selectedCount > 10) {
             alert('请选择 1 到 10 个标签');
             return;
         }
@@ -749,7 +873,7 @@
 
     function showWord(word, direction) {
         stopActiveSegmentPlayback();
-        window.speechSynthesis.cancel();
+        cancelSpeechSafe();
 
         var fb = document.getElementById('floatingBox');
         fb.style.display = 'none';
@@ -795,18 +919,25 @@
     }
 
     function reset() {
-        if (!confirm('确定要重置吗？当前练习顺序将清除。')) return;
-        stopActiveSegmentPlayback();
-        window.speechSynthesis.cancel();
-        resetPreloadUi();
-        document.getElementById('startPage').style.display = 'block';
-        document.getElementById('workspace').style.display = 'none';
-        document.getElementById('wordSearch').value = '';
-        document.getElementById('searchResult').innerHTML = '';
-        document.getElementById('listArea').innerHTML = '';
-        document.getElementById('practiceArea').innerHTML = '';
-        document.getElementById('progressFill').style.width = '0%';
-        document.getElementById('floatingBox').style.display = 'none';
+        try {
+            if (!confirm('确定要重置吗？当前练习顺序将清除。')) return;
+            stopActiveSegmentPlayback();
+            cancelSpeechSafe();
+            resetPreloadUi();
+            document.getElementById('startPage').style.display = 'block';
+            document.getElementById('workspace').style.display = 'none';
+            document.getElementById('wordSearch').value = '';
+            document.getElementById('searchResult').innerHTML = '';
+            document.getElementById('listArea').innerHTML = '';
+            document.getElementById('practiceArea').innerHTML = '';
+            document.getElementById('progressFill').style.width = '0%';
+            document.getElementById('floatingBox').style.display = 'none';
+        } catch (e) {
+            console.error('重置失败:', e);
+            // 如果出错，强制返回首页
+            document.getElementById('startPage').style.display = 'block';
+            document.getElementById('workspace').style.display = 'none';
+        }
     }
 
     function showWordByLine(areaId, word) {
