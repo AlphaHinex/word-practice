@@ -3,18 +3,24 @@
         "chinese": "有规律地",
         "desc": "词性：副词。记忆技巧：regular（规则的）+ly（副词后缀），按规则地即有规律地。",
         "english": "regularly",
-        "phonetic": "/ˈreɡjələrli/"
+        "phonetic": "/ˈreɡjələrli/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [2,5.3]
     },
     {
         "chinese": "重复",
         "desc": "词性：动词。记忆技巧：re-（再）+peat（音似“皮特”），再次做皮特的动作即重复。",
         "english": "repeat",
-        "phonetic": "/rɪˈpiːt/"
+        "phonetic": "/rɪˈpiːt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [5.3,7.5]
     },
     {
         "chinese": "笔记;记录",
         "desc": "词性：名词/动词。记忆技巧：音似“闹特”，不要吵闹，认真做笔记。",
         "english": "note",
-        "phonetic": "/noʊt/"
+        "phonetic": "/noʊt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [7.5,10]
     }
 ]

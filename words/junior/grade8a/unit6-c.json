@@ -3,60 +3,80 @@
         "chinese": "打仗;战斗",
         "desc": "v./n. 记忆技巧：f（打）+ight，模拟打架动作",
         "english": "fight",
-        "phonetic": "/faɪt/"
+        "phonetic": "/faɪt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [42.5,45]
     },
     {
         "chinese": "打败(某人);敲打",
         "desc": "v./n. 记忆技巧：发音联想“敲打”，结合鼓点节奏",
         "english": "beat",
-        "phonetic": "/biːt/"
+        "phonetic": "/biːt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [45,47]
     },
     {
         "chinese": "假装;佯装",
         "desc": "v. 记忆技巧：pre（提前）+tend（趋向），提前趋向假装",
         "english": "pretend",
-        "phonetic": "/prɪˈtend/"
+        "phonetic": "/prɪˈtend/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [47,50]
     },
     {
         "chinese": "敌人",
         "desc": "n. 记忆技巧：en（使）+emy（敌人），使成为对手",
         "english": "enemy",
-        "phonetic": "/ˈenəmi/"
+        "phonetic": "/ˈenəmi/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [50,52.2]
     },
     {
         "chinese": "失败;未能(做到)",
         "desc": "v. 记忆技巧：联想“费了”，费力气却未成功",
         "english": "fail",
-        "phonetic": "/feɪl/"
+        "phonetic": "/feɪl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [52.2,54.5]
     },
     {
         "chinese": "因此;所以",
         "desc": "adv. 因此；所以。记忆技巧：there（那里）+ fore（前面）→ 因此在前面；联想逻辑连接词。",
         "english": "therefore",
-        "phonetic": "/ˈðerfɔːr/"
+        "phonetic": "/ˈðerfɔːr/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [54.5,57.5]
     },
     {
         "chinese": "在(某段时间)之内",
         "desc": "prep. 在...之内。记忆技巧：with（和）+ in（里面）→ 和...一起在里面；联想“在范围内”。",
         "english": "within",
-        "phonetic": "/wɪˈðɪn/"
+        "phonetic": "/wɪˈðɪn/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [57.5,60]
     },
     {
         "chinese": "(使)充满;(使)装满",
         "desc": "动词。记忆技巧：与full（满的）同源，fill表示使变满",
         "english": "fill",
-        "phonetic": "/fɪl/"
+        "phonetic": "/fɪl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [60,62.5]
     },
     {
         "chinese": "向;朝",
         "desc": "介词。记忆技巧：toward的变体，tow（拖）+ -ard→拖向→朝",
         "english": "towards",
-        "phonetic": "/tɔːrdz/"
+        "phonetic": "/tɔːrdz/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [62.5,65.5]
     },
     {
         "chinese": "袭击;攻击",
         "desc": "动词/名词。记忆技巧：at-（向）+ tack（钉）→向…钉去→攻击",
         "english": "attack",
-        "phonetic": "/əˈtæk/"
+        "phonetic": "/əˈtæk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [65.5,69.5]
     }
 ]

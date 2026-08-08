@@ -3,60 +3,80 @@
         "chinese": "视觉的",
         "desc": "词性：形容词。记忆技巧：vis-词根“看”（如vision），与视觉相关的。",
         "english": "visual",
-        "phonetic": "/ˈvɪʒuəl/"
+        "phonetic": "/ˈvɪʒuəl/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [10,13.5]
     },
     {
         "chinese": "精神上",
         "desc": "词性：副词。记忆技巧：mental（精神的）+ly（副词后缀），表精神方面。",
         "english": "mentally",
-        "phonetic": "/ˈmentəli/"
+        "phonetic": "/ˈmentəli/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [13.5,16.5]
     },
     {
         "chinese": "联系;相联系",
         "desc": "词性：动词/名词。记忆技巧：音似“灵可”，灵活可建立联系。",
         "english": "link",
-        "phonetic": "/lɪŋk/"
+        "phonetic": "/lɪŋk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [16.5,19]
     },
     {
         "chinese": "清单",
         "desc": "词性：名词/动词。记忆技巧：音似“历史”，历史事件可列成清单。",
         "english": "list",
-        "phonetic": "/lɪst/"
+        "phonetic": "/lɪst/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [19,21]
     },
     {
         "chinese": "尤其",
         "desc": "词性：副词。记忆技巧：especial（特别的）+ly（副词后缀），表尤其特别。",
         "english": "especially",
-        "phonetic": "/ɪˈspeʃəli/"
+        "phonetic": "/ɪˈspeʃəli/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [21,24]
     },
     {
         "chinese": "日常饮食",
         "desc": "词性：名词。记忆技巧：音似“带它”，每天带它（食物）即日常饮食。",
         "english": "diet",
-        "phonetic": "/ˈdaɪət/"
+        "phonetic": "/ˈdaɪət/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [24,26.5]
     },
     {
         "chinese": "维持;保持",
         "desc": "词性：动词。记忆技巧：main（主要）+tain（保持），主要保持即维持。",
         "english": "maintain",
-        "phonetic": "/meɪnˈteɪn/"
+        "phonetic": "/meɪnˈteɪn/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [26.5,29]
     },
     {
         "chinese": "坚果",
         "desc": "n. 记忆技巧：发音联想“坚果”，结合形状记忆",
         "english": "nut",
-        "phonetic": "/nʌt/"
+        "phonetic": "/nʌt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [29,31.5]
     },
     {
         "chinese": "放松;休息",
         "desc": "v. 记忆技巧：re（再）+lax（松弛），再次松弛即放松",
         "english": "relax",
-        "phonetic": "/rɪˈlæks/"
+        "phonetic": "/rɪˈlæks/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [31.5,34.5]
     },
     {
         "chinese": "心力交瘁的;焦虑不安的",
         "desc": "adj. 记忆技巧：stress（压力）+ed（形容词后缀），有压力的状态",
         "english": "stressed",
-        "phonetic": "/strest/"
+        "phonetic": "/strest/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [34.5,37]
     }
 ]

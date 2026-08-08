@@ -3,30 +3,40 @@
         "chinese": "作者;作家",
         "desc": "词性：名词。记忆技巧：auth-联想“权威”，作者是有权威的写作者。",
         "english": "author",
-        "phonetic": "/ˈɔːθər/"
+        "phonetic": "/ˈɔːθər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [2,5]
     },
     {
         "chinese": "遗迹;遗址",
         "desc": "词性：名词。记忆技巧：remain（保持）的复数形式，保持下来的古代痕迹即遗迹。",
         "english": "remains",
-        "phonetic": "/rɪˈmeɪnz/"
+        "phonetic": "/rɪˈmeɪnz/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [5,8]
     },
     {
         "chinese": "把……安置在（或建造于）",
         "desc": "词性：动词。记忆技巧：location（位置）的动词形式，定位并安置。",
         "english": "locate",
-        "phonetic": "/ˈloʊkeɪt/"
+        "phonetic": "/ˈloʊkeɪt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [10.5]
     },
     {
         "chinese": "士兵",
         "desc": "词性：名词。记忆技巧：音似“馊者”，联想士兵在艰苦环境下可能吃馊饭（辅助记忆）。",
         "english": "soldier",
-        "phonetic": "/ˈsoʊldʒər/"
+        "phonetic": "/ˈsoʊldʒər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [10.5,13]
     },
     {
         "chinese": "首领;领导者",
         "desc": "词性：名词。记忆技巧：cap（帽子），戴帽子的人常为团队首领。",
         "english": "captain",
-        "phonetic": "/ˈkæptɪn/"
+        "phonetic": "/ˈkæptɪn/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [13,16.5]
     }
 ]

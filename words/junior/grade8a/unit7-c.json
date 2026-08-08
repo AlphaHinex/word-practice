@@ -3,60 +3,80 @@
         "chinese": "往往会;常常就",
         "desc": "v. 记忆技巧：联想“疼的”，生病时往往会疼",
         "english": "tend",
-        "phonetic": "/tend/"
+        "phonetic": "/tend/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [37,39.5]
     },
     {
         "chinese": "正常的",
         "desc": "adj. 记忆技巧：nor（不）+mal（坏），不坏即正常",
         "english": "normal",
-        "phonetic": "/ˈnɔːrml/"
+        "phonetic": "/ˈnɔːrml/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [39.5,42]
     },
     {
         "chinese": "丧失;损失",
         "desc": "n. 记忆技巧：lose（丢失）的名词形式，去e加ss",
         "english": "loss",
-        "phonetic": "/lɔːs/"
+        "phonetic": "/lɔːs/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [42,45]
     },
     {
         "chinese": "餐叉",
         "desc": "n. 记忆技巧：发音联想“福克”，结合餐叉形状",
         "english": "fork",
-        "phonetic": "/fɔːrk/"
+        "phonetic": "/fɔːrk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [45,48]
     },
     {
         "chinese": "洋葱",
         "desc": "n. 记忆技巧：发音联想“洋葱”，结合切洋葱流泪场景",
         "english": "onion",
-        "phonetic": "/ˈʌnjən/"
+        "phonetic": "/ˈʌnjən/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [48,50.5]
     },
     {
         "chinese": "蚂蚁",
         "desc": "n. 记忆技巧：发音联想“蚂蚁”，结合小昆虫形象",
         "english": "ant",
-        "phonetic": "/ænt/"
+        "phonetic": "/ænt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [50.5,53]
     },
     {
         "chinese": "上下文;语境",
         "desc": "n. 记忆技巧：con（共同）+text（文本），共同文本即语境",
         "english": "context",
-        "phonetic": "/ˈkɑːntekst/"
+        "phonetic": "/ˈkɑːntekst/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [53,56.5]
     },
     {
         "chinese": "图像",
         "desc": "n. 图像；影像。记忆技巧：im-（进入）+ age（时代）→ 进入时代的图像；发音近似“意象”。",
         "english": "image",
-        "phonetic": "/ˈɪmɪdʒ/"
+        "phonetic": "/ˈɪmɪdʒ/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [56.5,59]
     },
     {
         "chinese": "总结;概括",
         "desc": "n. 记忆技巧：sum（总和）+ mary（名词后缀）→ 总和的内容→总结",
         "english": "summary",
-        "phonetic": "/ˈsʌməri/"
+        "phonetic": "/ˈsʌməri/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [61.5,64]
     },
     {
         "chinese": "感觉官能(即视、听、嗅、味、触五觉)",
         "desc": "n. 感觉官能。记忆技巧：谐音“绅士”→ 绅士有敏锐的感觉；联想五感（sight,hearing,smell,taste,touch）。",
         "english": "sense",
-        "phonetic": "/sens/"
+        "phonetic": "/sens/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [59,61.5]
     }
 ]

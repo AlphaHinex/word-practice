@@ -3,60 +3,80 @@
         "chinese": "空的",
         "desc": "词性：形容词/动词。记忆技巧：em-（进入）+pty（音似“菩提”），进入菩提“空”的境界。",
         "english": "empty",
-        "phonetic": "/ˈempti/"
+        "phonetic": "/ˈempti/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [16.5,19]
     },
     {
         "chinese": "胜利;成功",
         "desc": "词性：名词。记忆技巧：vict-词根“战胜”（如victor），ory名词后缀表结果。",
         "english": "victory",
-        "phonetic": "/ˈvɪktəri/"
+        "phonetic": "/ˈvɪktəri/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [19,21.5]
     },
     {
         "chinese": "笑话;玩笑",
         "desc": "词性：名词/动词。记忆技巧：音似“揍客”，开玩笑别真揍客人。",
         "english": "joke",
-        "phonetic": "/dʒoʊk/"
+        "phonetic": "/dʒoʊk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [21.5,24]
     },
     {
         "chinese": "午夜",
         "desc": "词性：名词。记忆技巧：mid（中间）+night（夜晚），夜晚中间即午夜。",
         "english": "midnight",
-        "phonetic": "/ˈmɪdnaɪt/"
+        "phonetic": "/ˈmɪdnaɪt/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [24,27]
     },
     {
         "chinese": "除……之外",
         "desc": "词性：介词/动词。记忆技巧：ex-（出）+cept（拿），拿出之外即除了。",
         "english": "except",
-        "phonetic": "/ɪkˈsept/"
+        "phonetic": "/ɪkˈsept/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [27,29.5]
     },
     {
         "chinese": "藏;隐蔽",
         "desc": "v. 记忆技巧：h（椅子）+ide（想法），藏在椅子下有想法",
         "english": "hide",
-        "phonetic": "/haɪd/"
+        "phonetic": "/haɪd/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [29.5,32]
     },
     {
         "chinese": "秘密地",
         "desc": "adv. 记忆技巧：secret（秘密）+ly（副词后缀），秘密地行动",
         "english": "secretly",
-        "phonetic": "/ˈsiːkrətli/"
+        "phonetic": "/ˈsiːkrətli/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [32,35]
     },
     {
         "chinese": "进来;进入",
         "desc": "v. 记忆技巧：en（使）+ter（土地），使进入土地",
         "english": "enter",
-        "phonetic": "/ˈentər/"
+        "phonetic": "/ˈentər/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [35,37.5]
     },
     {
         "chinese": "达到目的;成功",
         "desc": "v. 记忆技巧：suc（向下）+ceed（走），坚持走下去终成功",
         "english": "succeed",
-        "phonetic": "/səkˈsiːd/"
+        "phonetic": "/səkˈsiːd/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [37.5,40.5]
     },
     {
         "chinese": "诡计",
         "desc": "n./v. 记忆技巧：发音联想“诡计”，结合恶作剧场景",
         "english": "trick",
-        "phonetic": "/trɪk/"
+        "phonetic": "/trɪk/",
+        "audio": "https://alphahinex.github.io/word-practice/words/junior/grade8a/audio/47%20Appendices_Words%20and%20phrases%20Unit%205.mp3",
+        "time": [40.5,42.5]
     }
 ]
