@@ -64,3 +64,29 @@ with open('index.html', 'r', encoding='utf-8') as f:
 
 with open('index.html', 'w', encoding='utf-8') as f:
     f.write(content)
+
+# 生成音频教材索引 audio-books.js
+# 扫描 words/**/audio/*.mp3，教材名称取同目录下 PDF 文件名（去掉 .pdf），无 PDF 则用目录名
+audio_books = []
+audio_dirs = sorted(glob.glob("words/**/audio", recursive=True))
+for audio_dir in audio_dirs:
+    book_dir = os.path.dirname(audio_dir)
+    mp3_files = sorted(glob.glob(os.path.join(audio_dir, "*.mp3")))
+    if not mp3_files:
+        continue
+    # 查找同目录下的 PDF 文件作为教材名称
+    pdf_files = glob.glob(os.path.join(book_dir, "*.pdf"))
+    if pdf_files:
+        book_name = os.path.splitext(os.path.basename(pdf_files[0]))[0]
+    else:
+        book_name = os.path.basename(book_dir)
+    rel_dir = book_dir[6:].replace('\\', '/')  # 去掉 words/ 前缀
+    audio_books.append({
+        "name": book_name,
+        "dir": rel_dir,
+        "files": [{"name": os.path.basename(f)} for f in mp3_files]
+    })
+
+audio_books_json = json.dumps(audio_books, indent=4, ensure_ascii=False)
+with open('audio-books.js', 'w', encoding='utf-8') as f:
+    f.write('var audioBooks = ' + audio_books_json + ';')

@@ -146,6 +146,17 @@
         }
         .github-link { display: flex; justify-content: center; padding: 16px; color: var(--muted); text-decoration: none; font-size: 1.2rem; }
         .github-link:hover { color: var(--text); }
+        .audio-entry {
+            display: flex; align-items: center; justify-content: center; gap: 8px;
+            margin: 4px 0 0; padding: 14px 12px;
+            background: var(--card); color: var(--primary);
+            border: 1.5px solid var(--border); border-radius: var(--radius);
+            text-decoration: none; font-size: 1rem; font-weight: 600;
+            box-shadow: var(--shadow); transition: all 0.18s;
+            -webkit-tap-highlight-color: transparent;
+        }
+        .audio-entry:hover { border-color: var(--primary); background: var(--primary-light); }
+        .audio-entry:active { transform: scale(0.98); }
 
         /* WORKSPACE */
         #workspace { display: none; flex-direction: column; height: 100vh; min-height: 100vh; overflow: hidden; background: var(--bg); }
@@ -325,6 +336,10 @@
 
     <div id="listArea"></div>
 
+    <a href="audio.html" class="audio-entry" title="教材音频">
+        <i class="fas fa-headphones"></i> 教材音频
+    </a>
+
     <a href="https://github.com/AlphaHinex/word-practice" target="_blank" class="github-link" title="GitHub">
         <i class="fas fa-code-branch"></i>
     </a>
@@ -368,7 +383,7 @@
     </div>
 </div>
 
-<script src="words-wvhha.js"></script>
+<script src="words-iovoi.js"></script>
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         var bookmarks = JSON.parse(localStorage.getItem('bookmarks')) || [];
